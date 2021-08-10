@@ -2,7 +2,7 @@
   "Ads":
   [
     {
-      "status":"1",
+      "status":"0",
       "link":"http://",
       "pengaturan_iklan":"1",
       "admob_open_ads":"ca-app-pub-3940256099942544/3419835294",
@@ -13,7 +13,7 @@
       "fan_inter":"",
       "fan_banner":"",
       "fan_native":"",
-      "startappid":"",
+      "startappid":"123456",
       "mopub_banner":"",
       "mopub_inter":"",
       "unityID":"",
