@@ -26,8 +26,8 @@
     {
       "id":1,
       "judul":"more app",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/developer?id=Mezido+Software"
+      "image":"",
+      "link":""
     }
   ],
    "Skin":
@@ -40,9 +40,9 @@
     },
     {
       "id":2,
-      "nama_skin":"Captain Marvel",
-      "skin_url":"https://lh3.googleusercontent.com/OfCeIDybTytw5cqRZlaVfiiAMMS-i3WiiRveFS6dxdQoprJvqJEcYWf-mfbL9B2gCg6USEnrj2ANuhd79h3EeQ",
-      "view_skin":"https://lh3.googleusercontent.com/3iQQ-SEjTFADYrVQHTttXDGNvGALTSfJcwa6uGMJb75SXsqbE7kUmUpXl3iWtEdhYu3NYLjBH9tq_c8FahdLIw"
+      "nama_skin":"boboy boy 2",
+      "skin_url":"https://lh3.googleusercontent.com/JkgkVr3gEslh4q4tDHzyo1IP702xic0ZZmuRDzJMLtAdUccrJe60Wsy1qU0pkZ04MSWXebROL8_Wk1QHCDJGMw",
+      "view_skin":"https://lh3.googleusercontent.com/AxdY4ZgM8emhVHtgJOa_auCVx2PfJI1MCLJhrjTIUDvD5BX-1yQszOB-G3q2_A0dxPaEW0HZnogKERQrGSOTtA"
     },
     {
       "id":3,
