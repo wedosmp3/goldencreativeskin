@@ -2,18 +2,18 @@
   "Ads":
   [
     {
-      "status":"0",
+      "status":"1",
       "link":"http://",
-      "pengaturan_iklan":"1",
+      "pengaturan_iklan":"",
       "admob_open_ads":"",
       "admob_banner":"",
       "admob_inter":"",
       "admob_native":"",
-      "interval":1,
+      "interval":3,
       "fan_inter":"",
       "fan_banner":"",
       "fan_native":"",
-      "startappid":1234567,
+      "startappid":,
       "mopub_banner":"",
       "mopub_inter":"",
       "unityID":"",
@@ -34,15 +34,15 @@
   [
     {
       "id":1,
-      "nama_skin":"Boboy boy",
-      "skin_url":"https://lh3.googleusercontent.com/jn4ZP2qllg9evsRMKjG4VvKlY6z5Q2wsfEWjYtZxEeyrifl5MbbAETSeBIYK02Y_2slwS-r8qI35dHG8K2L2NAQ",
-      "view_skin":"https://lh3.googleusercontent.com/-TgnbaO6SPFCG0-LwGVNxReF4uRlQcJkeRdE-T42qWGy0mHn7Fy2zgZU1CL-xZvt1OWJa_gseiVe7cbvBRccOQ"
+      "nama_skin":"Batman",
+      "skin_url":"https://lh3.googleusercontent.com/UyZKDkEo0Zsne-CjOWT8lfNcmqvlkYDPGCsEzPynY_F3jp_1MiKMYT4XhsvYjLn4_9OCK1Egl9c-852CzqA5zA",
+      "view_skin":"https://lh3.googleusercontent.com/4o0GJ9ES4NAvTCSpY7aua6soyK1_pbFXybTg_WjCVMMRzANpp66ocNSF4R_Hu4NPOh3kbH6nZTp95QGn8P_eV1g"
     },
     {
       "id":2,
-      "nama_skin":"boboy boy 2",
-      "skin_url":"https://lh3.googleusercontent.com/JkgkVr3gEslh4q4tDHzyo1IP702xic0ZZmuRDzJMLtAdUccrJe60Wsy1qU0pkZ04MSWXebROL8_Wk1QHCDJGMw",
-      "view_skin":"https://lh3.googleusercontent.com/AxdY4ZgM8emhVHtgJOa_auCVx2PfJI1MCLJhrjTIUDvD5BX-1yQszOB-G3q2_A0dxPaEW0HZnogKERQrGSOTtA"
+      "nama_skin":"Captain Marvel",
+      "skin_url":"https://lh3.googleusercontent.com/OfCeIDybTytw5cqRZlaVfiiAMMS-i3WiiRveFS6dxdQoprJvqJEcYWf-mfbL9B2gCg6USEnrj2ANuhd79h3EeQ",
+      "view_skin":"https://lh3.googleusercontent.com/3iQQ-SEjTFADYrVQHTttXDGNvGALTSfJcwa6uGMJb75SXsqbE7kUmUpXl3iWtEdhYu3NYLjBH9tq_c8FahdLIw"
     },
     {
       "id":3,
