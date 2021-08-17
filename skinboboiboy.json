@@ -2,9 +2,9 @@
   "Ads":
   [
     {
-      "status":"1",
+      "status":"0",
       "link":"http://",
-      "pengaturan_iklan":"",
+      "pengaturan_iklan":"0",
       "admob_open_ads":"",
       "admob_banner":"",
       "admob_inter":"",
@@ -34,80 +34,156 @@
   [
     {
       "id":1,
-      "nama_skin":"Batman",
-      "skin_url":"https://lh3.googleusercontent.com/UyZKDkEo0Zsne-CjOWT8lfNcmqvlkYDPGCsEzPynY_F3jp_1MiKMYT4XhsvYjLn4_9OCK1Egl9c-852CzqA5zA",
-      "view_skin":"https://lh3.googleusercontent.com/4o0GJ9ES4NAvTCSpY7aua6soyK1_pbFXybTg_WjCVMMRzANpp66ocNSF4R_Hu4NPOh3kbH6nZTp95QGn8P_eV1g"
+      "nama_skin":"Boboiboy",
+      "skin_url":"https://lh3.googleusercontent.com/2uYPWAPim-Cr9C7JaD4LJ5nirOTYcZerQfj8Ik-9Ak0QOljMdw3Eo3DoP7d4F14O2norqb-rtcH4qdqycvpuCg",
+      "view_skin":"https://lh3.googleusercontent.com/f7NTyZFeW-uQlxCGmvd0CnktuVJusrRR7HXDXAzcd3szjz9uytLFuBJq7fKVWfFqEhQ5gvs3nzXkZNjgIzOf"
     },
-    {
+	{
       "id":2,
-      "nama_skin":"Captain Marvel",
-      "skin_url":"https://lh3.googleusercontent.com/OfCeIDybTytw5cqRZlaVfiiAMMS-i3WiiRveFS6dxdQoprJvqJEcYWf-mfbL9B2gCg6USEnrj2ANuhd79h3EeQ",
-      "view_skin":"https://lh3.googleusercontent.com/3iQQ-SEjTFADYrVQHTttXDGNvGALTSfJcwa6uGMJb75SXsqbE7kUmUpXl3iWtEdhYu3NYLjBH9tq_c8FahdLIw"
+      "nama_skin":"Boboiboy Halilintar",
+      "skin_url":"https://lh3.googleusercontent.com/jn4ZP2qllg9evsRMKjG4VvKlY6z5Q2wsfEWjYtZxEeyrifl5MbbAETSeBIYK02Y_2slwS-r8qI35dHG8K2L2NAQ",
+      "view_skin":"https://lh3.googleusercontent.com/-TgnbaO6SPFCG0-LwGVNxReF4uRlQcJkeRdE-T42qWGy0mHn7Fy2zgZU1CL-xZvt1OWJa_gseiVe7cbvBRccOQ"
     },
-    {
+	{
       "id":3,
-      "nama_skin":"Ironman",
-      "skin_url":"https://lh3.googleusercontent.com/cw7kMNis22WSYQt3ald4CE0MGDIHEz6F117yi5siSfiADir_zYIsC6zT6K7rp2Zwn9aAXe841ULg_MUoAqpFWOM",
-      "view_skin":"https://lh3.googleusercontent.com/WRRFomiJcvyiCIAMZge6XfidYx8697Xq-dxs5MjP-APEoK0oVLXPUPNsBrhFYCJkDjPEQcj5kwUPibx7fGCbGgo"
+      "nama_skin":"Boboiboy Frost Fire",
+      "skin_url":"https://lh3.googleusercontent.com/JkgkVr3gEslh4q4tDHzyo1IP702xic0ZZmuRDzJMLtAdUccrJe60Wsy1qU0pkZ04MSWXebROL8_Wk1QHCDJGMw",
+      "view_skin":"https://lh3.googleusercontent.com/AxdY4ZgM8emhVHtgJOa_auCVx2PfJI1MCLJhrjTIUDvD5BX-1yQszOB-G3q2_A0dxPaEW0HZnogKERQrGSOTtA"
     },
-
-    {
+	
+	{
       "id":4,
-      "nama_skin":"Spiderman",
-      "skin_url":"https://lh3.googleusercontent.com/KAoenQJU0Xm6LdpnM3I4h1oeL6z_kQXxSGlE00ONC8t4RDPsY5wmfYZL1VaapuZbS4im69s5ufdiXOEE_EHy0pdbBEbx8EdEFsE",
-      "view_skin":"https://lh3.googleusercontent.com/spXRERF9KUQCud5iVhjFQzTnqQ-ttyZJQgzvF22yc_-MRLbPLDAv2jvQ2896XCmZiyYlmzMo8rCyhCdLOWQJRlA"
+      "nama_skin":"Boboiboy Voltra",
+      "skin_url":"https://lh3.googleusercontent.com/eLqUn1K_7q2VHMWtRj5CGy8FjIBxTTA1SqrIfCPNpGzcb51T33OVRHW7ed0Cb3Fk_gUoc6A5370Fo0yzq7G2K4bQum9ENO9Gx8ER",
+      "view_skin":"https://lh3.googleusercontent.com/hlctoZ1q9Yz0k8kUIfwxPykXQfarOQ8BYTpRXzlDLe82ytv3YVLGJykQRWMYoAZEmir-10wHNObV-QYjoHqFFI4ZkhNEv3D6miU"
     },
-    {
+	{
       "id":5,
-      "nama_skin":"Deadpool",
-      "skin_url":"https://lh3.googleusercontent.com/Xy2u40iqg60XY_J9SGUAQWYvuRJVMEkDmJCzCLiCLWL0rIFbSYnTojyk60aZhDMJ62daSgUb4m90sgpRVZ4_",
-      "view_skin":"https://lh3.googleusercontent.com/SMkdgKEe6Rhx3X2_Qz_0BM1CqxhSGOIbCTCycr6SrdP_8kKl65nsOWfdsTypaso5lvPInfl9k_Cf5DNV9vPlRA"
+      "nama_skin":"Boboiboy Solar",
+      "skin_url":"https://lh3.googleusercontent.com/VQLKMOC7byUGFFVtnT4gUHBp3YiB27fTTFIK2lyMF2HFHLa2u8ShXWZrgx4n22lvv2jTGWvYk7HvA_O7_J06Hg",
+      "view_skin":"https://lh3.googleusercontent.com/wtDA7uU8fC59NlOMnaqDrJfu-GXGEQyl-_bQs9NX0CHYLqK5ecMkNI9Pu8YHyUp9wL7owZH9AP53GF0N017HRw"
     },
-    {
+	{
       "id":6,
-      "nama_skin":"Captain Amerika",
-      "skin_url":"https://lh3.googleusercontent.com/oda0Fu14lq4LT-L8aGh9bBpwrymZZrz7K9owAmJ8CF0YSkaLa55vuSNZi-KYTMtpZubyhsXhbCja4C71Wba1",
-      "view_skin":"https://lh3.googleusercontent.com/yrkmUYbYxfePyHx1NRe5bPEJhPM3sqllvimkNwjaaVAxqfO0v9W9e_dG5781J6Ylg7D8C5CZeS2rMVN3t8ft"
+      "nama_skin":"Boboiboy Duri",
+      "skin_url":"https://lh3.googleusercontent.com/YABn7vc6-JxrQBFWeZsDSIdQL-dGq3gVyqVcZUdXAI1bcm4V180Cf4hY90lx0Rg_60I67xv4KzbA8U7c4nzQ7A",
+      "view_skin":"https://lh3.googleusercontent.com/JuspHtX0zAC68OSFbDwfq1jGDKqERvhBKnxmqmHMdKrbBJ9X2O5C5Scn0c8XT0ocEIksGpzZJT-e8nDDFAsGwSo"
     },
-
-
-    {
+	
+	{
       "id":7,
-      "nama_skin":"Wolverine",
-      "skin_url":"https://lh3.googleusercontent.com/ZfX6xK9-84eVmBlUhuq-V3jyQ3sRtXkMOle5VNL7clFTCVYjUQO2eGdO-D_Xf6r4mPTX_BEYN6bG4MANpIczGw",
-      "view_skin":"https://lh3.googleusercontent.com/uaJPGCy4OKO-l-kO31_bGPswxU8ChJPOUSjDGqE01F4Klla4xIOi7MzPdiLyeiWXTnYpDsKZy20RZknG5Sdo"
+      "nama_skin":"Boboiboy Air",
+      "skin_url":"https://lh3.googleusercontent.com/Ap09Dr4RIfD9etLX8ZYcrbkISiiIztw1ZaFOD3ZFJn1OLYoeCNAziFFaY-dN0NZFQUQelg-LzMCn_1eYgYrWPKAsXhdKxi5_Lg",
+      "view_skin":"https://lh3.googleusercontent.com/h12NNp5OK5ivb7wQI6rJyJV9GyZ58IRPZTYxFmz6wDqA7-blOGNTNSf0qyzeVbXemj3f3iUwIGyqV6FYLnfiyc9aT5fORcfkuA"
     },
-    {
+	{
       "id":8,
-      "nama_skin":"The Hulk",
-      "skin_url":"https://lh3.googleusercontent.com/7yZA9_acJmYeL4XW31c3tL3AK0aoeJHoE3sAgiYBqk7Lca2MoOtMEaFaS9mJCqXzWjiO4t07caVMxYO7KJy9fYY",
-      "view_skin":"https://lh3.googleusercontent.com/zkEkVCgYXxLieG-H_5uzqiEFNz15H7d6kY_J_i6bZ9FC6DyBy-lZSVRmQQKFIq7WsMkHVxfZdECmJEi8FvheheM"
+      "nama_skin":"Boboiboy Krystal",
+      "skin_url":"https://lh3.googleusercontent.com/jDTKc28hRbx6vdBph_4fNzADHHJJ_l8PLN9GlFa2VFIR0CFZND8THrjpHNgWDSb01TDF68v30GhVEYhD58GpeA",
+      "view_skin":"https://lh3.googleusercontent.com/DpqtvNdjOAir_AOFp8eg4HBy-x2HV-6Bngmwb0Eq6_rLKqn1Ej9TrqxYUe7cuFzcix1yoNRqa5h4KzTnTVw0Sw"
     },
-    {
+	{
       "id":9,
-      "nama_skin":"Thor",
-      "skin_url":"https://lh3.googleusercontent.com/BgJkkp9d5LPaNMdIQv8xbG_dF8Px6rB7_SUZdmcykrMRAYHNqJ1812ZWs3f7XxRZ24TPy15-_CPIumEiCR1G",
-      "view_skin":"https://lh3.googleusercontent.com/-Q0vRAjwg9-9D-Np5YS8hJSIcgs8BtIw9nw_BRbZpz3azgyPGAPS5EJpJDBAVzm4V-ot5mbUobyQJgyyxsh9WA"
+      "nama_skin":"Boboiboy Petir",
+      "skin_url":"https://lh3.googleusercontent.com/mF63oJalusGWj39TtatVXuaq1naq9t2hfe5btwQv1PdUgTNcyiSsqmaSXWVIwGyTxger64C9-CZJdZH8VXjT2A",
+      "view_skin":"https://lh3.googleusercontent.com/td0ut5oBAfPyalIGHvetSgEDY9o9oqL1azL1_2HH_HJpsvXd3ywxUcoGD0RUzxJFYZYnbcBOHsMCWhp5u1BCyw"
     },
-
-    {
+	
+	{
       "id":10,
-      "nama_skin":"Superman",
-      "skin_url":"https://lh3.googleusercontent.com/l1JqeAYBwvgznipUWLN3EA4q_W2ySXC7gZ1L86FymWPNFoWgQh9CAGNb_pGX6uqQfFeDuaMwJh2K2UkAQD8eBw",
-      "view_skin":"https://lh3.googleusercontent.com/7zmiS3wCq6Uszcg0O-NJRWAsepF47TT-lqujRgaf7NguiMUGTnl6iGeA6-h5-T458sddzA0WRH-iVM94u-U8"
+      "nama_skin":"Boboiboy Taufan",
+      "skin_url":"https://lh3.googleusercontent.com/PrSSCeBo7s5EE6QkkQWYePVj8ZXAEvaAgbyatOnIpPPLbg8_moP1pM321sw_hjDH0mu_s1jcBbVXqZo-PYZzMlU",
+      "view_skin":"https://lh3.googleusercontent.com/AF-Xpb2egWCFbcfMsiExmw4svtz5fjH8TErBbu_Vzsl-qNYyPJZ9KcyNSLAFtpUXee2zCeEcD5H2eYR4yUKr"
     },
-    {
+	{
       "id":11,
-      "nama_skin":"One Pouch Man",
-      "skin_url":"https://lh3.googleusercontent.com/BlXcjXTOPxMgMrQ7SJWOtznAZlkGxDJZ8KceboZEB_AbwwLAau_zbZfQgeF3H8BMX_XSTLAgnmxdL75XDTM7X8s",
-      "view_skin":"https://lh3.googleusercontent.com/RxMgIk1iuWLIVveEBieyMkcQfpSq7HyQgeUBIgwyuySBcGbmAd796pjVhxvlD3K67-LdWKjSfZOKOrtrze8l"
+      "nama_skin":"Boboiboy Earth",
+      "skin_url":"https://lh3.googleusercontent.com/mAzo-xYFYuVOtOFc_RlI75ngOqTe7eL2WszwDMcaW1AToBBT22g0ZXV3q9K02KN8S-gJ8Hnn42nVtYUPIk1i",
+      "view_skin":"https://lh3.googleusercontent.com/pO6HFIZZflD1a1YnVX6I3lIDH8dfcpUwXl2MTKi-6U7pNKiTsLFqtr_zxLnDtpDrn5D2X4ZG2RIrl4ZND2LXdHM"
     },
-    {
+	{
       "id":12,
-      "nama_skin":"Son Goku",
-      "skin_url":"https://lh3.googleusercontent.com/E7V0YcV9V0GP2fdr1gtCDmlPl00-zEvVPVkNdoYRMvnECblejwti7dXWGQJzh-ZAWOkw7BrUvHxONquFc6zbqg",
-      "view_skin":"https://lh3.googleusercontent.com/udrTngonhn0A-PxTDUMG3-jgzTF0Dj5ZBEj2c6v4BR-FAZpEnQKFQHbqkkQ7uAvQAPKGhbPfromeYJu7hnZ2"
+      "nama_skin":"Boboiboy Ais",
+      "skin_url":"https://lh3.googleusercontent.com/djs917hN1QGz3WYPVxGF9TiPpeO5JHXzE8c0TedpLtl9lotEr14Phw9ozq4NaPuIzY-XRCrtqPSbZONHTuwm5A",
+      "view_skin":"https://lh3.googleusercontent.com/7H_Qz3jT0WrFSAbAZQl53Gc7dIv5FeIOGE4xwYBYvJfIXtEF9O-qcogT5oF3vS9kF_4cribmARXum8A5t1Hf"
+    },
+	
+	{
+      "id":13,
+      "nama_skin":"Boboiboy Sorb",
+      "skin_url":"https://lh3.googleusercontent.com/lxrAgtGTJGgMQihd9iUL1r1tLpzB2JyY0JCZ2rppboeOyrL2QViqk5Cq-_36jAXkYpYpEfTJ-uCzo3HdyirvVml35XhXN5uR9xA-",
+      "view_skin":"https://lh3.googleusercontent.com/oi7MrogmeXL7Joek0TExGK_E16YIzTcaDYi8JCKd1N4xfdf5v4LY_FtBOhvl6lsqqP3dkLyiSedbniBMZDJha4c9NT5oL9NRYjA"
+    },
+	{
+      "id":14,
+      "nama_skin":"Boboiboy Gempa",
+      "skin_url":"https://lh3.googleusercontent.com/4eqGygnacD5zXKHbXgE38xaxW5j14MQXatLCJ_T1Cyhg9sN8S_-fdt8ZbEuKHPtThiVuf4V9OE50O7kS_KeMO5Y",
+      "view_skin":"https://lh3.googleusercontent.com/0wX2Abm-83WyYjITUYrSzG4uhMyHTYVdtz2VsHVEGK0D4pMiZHCb2HSVdGJ6_RWbu5XJOwWjp9_5vm07hm5UJg"
+    },
+	{
+      "id":15,
+      "nama_skin":"Boboiboy Belingu",
+      "skin_url":"https://lh3.googleusercontent.com/Y3TAM_kBpf47MwaEGtaVddHDl1iV-da4hKYBGo1eZzWd_lvlzvbSQuOzoDMR0uP1fpqJ3wVOI-CBlvELKS6vA9WX-A6ImV7hhfQ",
+      "view_skin":"https://lh3.googleusercontent.com/LgSgm3w1QR9tPxwvWLN0oaFoyeJ9bguMbgn54p10aB3NXlYPIXRsDBZPJL0FSLCWPGY_LzbBfRtfl0RgFUdhSAj75mKOxJCYl20"
+    },
+	
+	{
+      "id":16,
+      "nama_skin":"Boboiboy Api",
+      "skin_url":"https://lh3.googleusercontent.com/NMwBbrtMcyGM_2vzFNdc7NpaiZe7sC6RoHWJ5-yred8utCFN6O8cmmw84OGPThSxmOsW8GZSKfa2e-iIyFaf6WuJEUZUo0nBrSU",
+      "view_skin":"https://lh3.googleusercontent.com/JLKMsdcLj4ktzkdNrK0Mnp5zOa7jrMFvck7HcTieAl-pDX2ksnatpWcOR5_3aX-ow5BJv2AUm6gBdEIGqwjrGv4_Iy7SESWYLu0"
+    },
+	{
+      "id":17,
+      "nama_skin":"Boboiboy Blaze",
+      "skin_url":"https://lh3.googleusercontent.com/hDyLYRLjj6qWh2KEKKb_Oz8SYMhgHkEkd8MGS8Bd_ApW6YL7NeEnvkjWVMuKW5Kgcr3-PL1cSIj9vHooLXbpFw",
+      "view_skin":"https://lh3.googleusercontent.com/UUb0a24p8Y7N1jEEakuzUm1qrQfKIcaq0LwPPTEf2wDSpTECKfsRgmUCYHpzgRdxKBUYI2NAYOb36zKJiPFnFQ"
+    },
+	{
+      "id":18,
+      "nama_skin":"Boboiboy Tanah",
+      "skin_url":"https://lh3.googleusercontent.com/-iMvkvL-F7JNPggKs1Xjc73XYn5hWjfB3vmtUGfqUAwsuB9OBxvdxVdJ2WEnTAI_M729NJ0pVF5g6oWxmkqXTJsSlmYhehyVroo",
+      "view_skin":"https://lh3.googleusercontent.com/c9-NU3vAesbLp1vsnjlvTq6feG2mNMBoe2GzM_zFS7glTppJsDpjc5dQ9xkaL-6gyEywtnqoHQ48aBEEDi7m4ZEr0eBLUqlbbg"
+    },
+	
+	{
+      "id":19,
+      "nama_skin":"Boboiboy Drak",
+      "skin_url":"https://lh3.googleusercontent.com/t7taA-D5oqK5HEOffAPbRQgOHhOLx6zGGxB8yURfqfPYgxBp02DTNdL9UPfQ7C3Hya8dhhuPTdAWxGrLECsv9w",
+      "view_skin":"https://lh3.googleusercontent.com/RNPJPlz4FAnyhahQ8HeycOtL5ansUcYu14qSW52TcgfFQE67qICF2fMJZA5R4sVBDdIjqlCfqseFmoIDggSnUGI"
+    },
+	{
+      "id":20,
+      "nama_skin":"Boboiboy Ngain",
+      "skin_url":"https://lh3.googleusercontent.com/7BgMDC5T97nrp2df8JOlOhBIYHJWkFE-xGQgZl6Df6KhAuyKkrLIdtC1lAxUVSCql5iYBwoQXoBR7TTmjvU5tJcSjM1GQTFOIA",
+      "view_skin":"https://lh3.googleusercontent.com/r6--MeGVAt8Pvn8FLptpsdakDLDM7-cYcoAotzT3pfIUeXUfEJ8AyLuKeYApYVkBqmtWY0lgi-5_8bjW7WjFWW69CbVi8wjoYrk"
+    },
+	{
+      "id":21,
+      "nama_skin":"Boboiboy Ice",
+      "skin_url":"https://lh3.googleusercontent.com/T6EIdm6XECAGTp2Wnk_F-bcCZJSRQCua2YRfe6dc58JibPmcwtGZk7VMCLjIc13S90zovg-SNRQuZytxnvsP1PI",
+      "view_skin":"https://lh3.googleusercontent.com/ulyDEirhka0_6Pu7kifXFvhpnqwBr8gZa-fqTWQtrCkPnkJkwgvp381PKFqyOGLFE7u3dlzpJMXtwvXa-uM4_Q"
+    },
+	
+	{
+      "id":22,
+      "nama_skin":"Boboiboy Storm",
+      "skin_url":"https://lh3.googleusercontent.com/cZLWvDzxBdPqTW-8CVRqo04b_gXHxTKEWRqcA0orbB_VtOdJyhK-KXV8fL3hKW1TeRWxT0MUXXd5OzmJ1HWT5g",
+      "view_skin":"https://lh3.googleusercontent.com/D-z57n5isK9fD5LXLBmHKoCu0jH_l5NcsWvdgAVSZu_2ul1RwbnE9RjiLGkCjPrDJ60TofxGFz6YHYUsghXYJQ"
+    },
+	{
+      "id":23,
+      "nama_skin":"Boboiboy Lightning",
+      "skin_url":"https://lh3.googleusercontent.com/ZsG-7nnnZ6FxpN3_cDNbLHInj4s2bdx90ilMlttMcvXrzAvO1eX46a-GWXrfg-IEYLpOCJwIvz0t0XvlX-w-vw",
+      "view_skin":"https://lh3.googleusercontent.com/w9-aftdfT46h_cCUj-lX47KJLiWvMmXC61glvbepjGccjZcTFKQzdfGlZnpm9guTz9bHgOhAuqjN0V96rDRwtg"
+    },
+	{
+      "id":24,
+      "nama_skin":"Boboiboy Spinner",
+      "skin_url":"httpS://lh3.googleusercontent.com/ijJLQfTF00qQ6WhMrTVr9wFCNxEWbabNUKTMuSguLsD0laQjSYvcF6XJDX5ckWvnS5GHsIEZ07Rv-fBduVR30Zc",
+      "view_skin":"https://lh3.googleusercontent.com/h5VzrZyNzz6iiI7voTIOYC749TRqUCYwjxwQgRCrX5uLlyEIUh2jYnzb8g4c3LsCQpnzOG7WSS0R9nsUN2aWiQ"
     }
+	
   ],
   "Addons":
   [
