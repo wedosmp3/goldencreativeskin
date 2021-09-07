@@ -1,0 +1,317 @@
+{
+  "Ads":
+  [
+    {
+      "status":"0",
+      "link":"http://",
+      "pengaturan_iklan":"0",
+      "admob_open_ads":"",
+      "admob_banner":"",
+      "admob_inter":"",
+      "admob_native":"",
+      "interval":3,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":,
+      "mopub_banner":"",
+      "mopub_inter":"",
+      "unityID":"",
+      "unity_inter":"",
+      "unity_banner":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "judul":"more app",
+      "image":"https://1.bp.blogspot.com/-xRUWFfyTRTs/YTIjP5Imz6I/AAAAAAAAAuc/j29IJ21e4CAPoQBLrbPI8d33jEMCaRmxQCLcBGAsYHQ/s320/1.png",
+      "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
+    }
+  ],
+   "Skin":
+  [
+    {
+      "id":1,
+      "nama_skin":"Mr.Sausage",
+      "skin_url":"https://lh3.googleusercontent.com/gp-o6_BPU1hxQqTTj5QIJa8QGvS0SpHTBFT7IOQl9_Lollp5MPSSCCwCv2lFBixyHkgciPGFgCnbj3lfQxVRQY-W8KbCvRcy4g",
+      "view_skin":"https://lh3.googleusercontent.com/aUukTPkttPMB0sODBqSo_fSQDWCqwZg7mt4v93lNfH0BZdgf68grh-RgsauHOCOkNCU13K48S1650hXORqD-LHskYAtjK_mle_1M"
+    },
+	{
+      "id":2,
+      "nama_skin":"Mr.Sausage Red",
+      "skin_url":"https://lh3.googleusercontent.com/Tizb1DNEQIExNTCeacLcuKf57DqZSHEOMYQ9K1cb1Wh7bnSWLv3Ylci60H6avEixz0ETsBPZbQF9t7sJjJdW511dRSVRFq9oHrw",
+      "view_skin":"https://lh3.googleusercontent.com/0o2H6JdIdiPlbSRPpHhB-klEVMsgnnW4t3JAQ7F6yGSG2EfQJHPRHLAUMsNo7h4M_RYCVn-WIaqRLsY__RYoc0fS2I3lrkgu__G9"
+    },
+	{
+      "id":3,
+      "nama_skin":"Sausage S",
+      "skin_url":"https://lh3.googleusercontent.com/iv9ooDE0naJ1HP4Ld78LzeLxaN2QzFbbtgQnuP5Chvh-Z7z8cAOmO0v8AoPvL1u9kLncv2Zwg09rZMmbwE7kiXQ-qzhB59g_Iw",
+      "view_skin":"https://lh3.googleusercontent.com/NO4GB8UChqMNB1iQCuMZA-GmOGg_OaHpiFCxC1qYLCgl644bL9-HcUdksfgYtvIn85ToF2xL7eYhRcs8lgwebaYY9_vTipfGXKDZ"
+    },
+	{
+      "id":4,
+      "nama_skin":"Sausage Mytical",
+      "skin_url":"https://lh3.googleusercontent.com/ymOWkT6U3jB2NDAUlvH6AVuhYEGKap9myoIRY7thxREiTER-XWTvDBGl427jG9phGKQcXQKgp3VG3YmSptY6tmXMV04YR5Mzk1k",
+      "view_skin":"https://lh3.googleusercontent.com/AX3_mFDb9cQR9r5NiwLS3iCOD85gAsN2wpNsjDupFfCusODjUcoPDO7wI7a-Qg5pJK7zN__dFqfdrAO34_IipXlTn6yFtLTucsZC"
+    },
+	{
+      "id":5,
+      "nama_skin":"Sausage Mythical",
+      "skin_url":"https://lh3.googleusercontent.com/4sLVTQd2O86jg1d1jW-XOR2v3kI_53eucvo5fIYxW1zir-ZzjoOHck9eFdq9qFEE7GWPop5fsS-zvp3aM0ctWx4kQQTAGQDoiXU",
+      "view_skin":"https://lh3.googleusercontent.com/t9mPn1-cIvGiULNyti8aecy23av9p91L8MvpbjD8YW46cJlf2fQkRNMjX6-KlpTaUecVoeePXVrKbgGHe5NlTI2hGcTdxwkHYQ"
+    },
+	{
+      "id":6,
+      "nama_skin":"Sausage Spaghetti",
+      "skin_url":"https://lh3.googleusercontent.com/fEbI9jCZTYLsFSpXM-lctbZ1JDvnbP4YKKRNpIOUSCjn8RmVwRaGWBoxNfYEExeqTl9AP2DH7MZc1Ny-8bldOK0j-wx3ftdsoJw",
+      "view_skin":"https://lh3.googleusercontent.com/_FVJfHRLYqDNcR4YuQNecyBgwfVgRSlKiPssBVBMoVvVwHSStb6bpU30O9kyLvAunXncM_9yxDGtp0oBEQ_O5F-6tblCb_sxsw"
+    },
+	{
+      "id":7,
+      "nama_skin":"Sausage Pleum Vs Food",
+      "skin_url":"https://lh3.googleusercontent.com/DwY4D1_Ip5YOKlcuGj3me4Pqm_2NtIRPqASiURImemqfbnjZygct2xRxYkH8p8zVs5n5V6tOlkKYQ8qXvv3NgsNS2_ex1BFS11s",
+      "view_skin":"https://lh3.googleusercontent.com/uMZl0lXodYjvb_5Lt0C7bIUUJT4rOJ4EeTIECLOl9Qi8IN6z4pVmOt7UJIlSj2tLQOhXADn3QYoMb1hkTd7Zgtmb-_t4CrSIhHGr"
+    },
+	{
+      "id":8,
+      "nama_skin":"Sausage Pinky",
+      "skin_url":"https://lh3.googleusercontent.com/L5em9jhJrY15diTJz_C62zCCBoqmhqPYZSEDC9rUlpuG-E6vDnHr0IuY5jumBBo3ovixQ9Bk4SFvAt1X0-CLUbSu61UazC5hdvk",
+      "view_skin":"https://lh3.googleusercontent.com/NQpMCk42y7EFllbOA9OueYa5dVLU0cY76q5ESymMAcnBzO6vmVfAoxfoIyICnuT6aYmdMbAVC18GikFuHGOXtRWR7ffxuVC2W1o"
+    },
+	{
+      "id":9,
+      "nama_skin":"Sausage White Black",
+      "skin_url":"https://lh3.googleusercontent.com/D8rSgOyKi1UuOYMy8KRTcsolKkDDCcorlnQFfakPr47pad3HXzwDjxd78-8L6JcHQkdwJ96XAviKXt7pLi6dMOcV_Cn-Nrn-BA",
+      "view_skin":"https://lh3.googleusercontent.com/4cW9XxjyR2W-NeNbE7CFB5mLv_DCrcrvFIXZzJfpUBA6H0kdm2jXor9MbthUmKhE_7uKAq1FC6jbyZPJpPju2KdT-Nz2LCI0yA"
+    },
+	{
+      "id":10,
+      "nama_skin":"Sausage A",
+      "skin_url":"https://lh3.googleusercontent.com/jDJTE7SCHKRKamlq0OPFG4srKyaCSaeOUequRVNN_Yp1lRrLS1HEgneubI4kXHffuosLQ8SdG7Xes7jy9yuHVFc",
+      "view_skin":"https://lh3.googleusercontent.com/XA3ac3VYhkKT0vOefhoufl9iT9odzN76sKlgLxiy1ET7dKXE3RQ32zlGzO1M7LKwYCN7Hpko-w93ZKM5Jwy0XWw"
+    },
+	{
+      "id":11,
+      "nama_skin":"Sausage The Spicy",
+      "skin_url":"https://lh3.googleusercontent.com/7oa6hF7IjF2VnBEYJKUhZuY8Rw6EL7byf6pUvSycku8ykE1y_oEBdJV12wF7e-U3-5dkOzcsS7OBbBUe-zimBgeInFGGHKE3hGt1",
+      "view_skin":"https://lh3.googleusercontent.com/3d0JzM5NXMiL1_xz8HO0XO3eXLBf8gzV_EuFbk5fOSxl08D-zFZ-8XAF1vQPc4o8pAj6CiJYLXBhvwZwBjUhOt2MkYL6Yvs4sxg"
+    },
+	{
+      "id":12,
+      "nama_skin":"Mr.Sausage Blass",
+      "skin_url":"https://lh3.googleusercontent.com/hHO-BRyh3XHNK8P3qWXzbIHYk-Rcaxyoz5cO39kKz9ry2pG8snxkLiA1ORd3EAHuCx5BodvaulZJoV04q6t4EOEiQ-0s4bpRN34g",
+      "view_skin":"https://lh3.googleusercontent.com/oxQXGCTTuZzopWnG-sZJVa-8lKIQz-wJAZIk2baOXCZFFqIP-kerbs11zAPQQas042uNeDh5Zdz6ok6N4jlPBAjVlTeZyGlk3TY"
+    },
+	{
+      "id":13,
+      "nama_skin":"Sausage Akatsuki",
+      "skin_url":"https://lh3.googleusercontent.com/awB17y04z59rmO6X8rV4wKe5F8DGxj6BpnT0g77aq6k0sp0-TAmmfyai128UMHLkl-1FzTbjwaH4AQjk5g4UPrpX_9mhfmHK8Wc",
+      "view_skin":"https://lh3.googleusercontent.com/boHJPQ4FUlusNIJ7w2u2YRvilIsRF9j5TvfpxeOTfB9ODtOxRRsaw7MYnu0LXvB1jlkxEYrpjDvYcExTsmTTaObiNSqcgsPQiGNC"
+    },
+	{
+      "id":14,
+      "nama_skin":"Sausage Dachshund Hot-Dog",
+      "skin_url":"https://lh3.googleusercontent.com/loMhOTxSZf8qHDkyH2O3OjDTdAqnDFP-2w7somF-xor8OoY-obEqB2Z7GODF3r6y03f1V-ohHQGXfIwmmf7oYw",
+      "view_skin":"https://lh3.googleusercontent.com/rvlVrPfGzrtSNT7vQ71_rKrHN6WHAkEp5ZqplBTgCl31ePt2nDmVoswFhjdyPiLvB3v7vDNz-sOqEpIUaL79PQ"
+    },
+	{
+      "id":15,
+      "nama_skin":"Sausage Hulk",
+      "skin_url":"https://lh3.googleusercontent.com/csreDS0fTcNZtQ83oqIgrceiqwaQY8HNWUHp6Nk2KdBhLP5_QEdGulksZ-SjE8JaJTFXZAwlpa8LqWz8YHgQ3A",
+      "view_skin":"https://lh3.googleusercontent.com/Yw5UEKckZMd5GsrTSJV7D023emgS26SzXp42bHzQYEhoxEj2NwK09tjQCCD5nfuL0BHLtMVYH9EiZexb-JV1yw"
+    },
+	{
+      "id":16,
+      "nama_skin":"Sausage Dog",
+      "skin_url":"https://lh3.googleusercontent.com/BTb-gyh-xWaeMzwC1qHSMt35kcFK0U4daqBowWTLAcFCsazKkxvqC59jy7ZG9S6tuR46nnYja9Lfb3NDqEL3Yn4",
+      "view_skin":"https://lh3.googleusercontent.com/laSqxZqP7l40LoDTcGPuWqopXz213XNUs9GydFmzukoCdKLaqMqeapDyey6YcXV6I2HTZTeXsFkjfmt1iIcrkQ"
+    },
+	{
+      "id":17,
+      "nama_skin":"Sausage Skin 1",
+      "skin_url":"https://lh3.googleusercontent.com/wBGcMW3Hcchl42dcd74xkQPyGbJFC_wgUABsFz96nxp2Uh-EHNzLIjeJX5wMpnSTOQZfpzlSWORWg4-0bMiSrQ",
+      "view_skin":"https://lh3.googleusercontent.com/mXUEcUUrqFEkn5z3_ys5QpxnFpaTrSNAWawJn_84WEJzib4Yl3ZTeLKkDc4zqpJBZwHUaKX66PmiDINkZHSohQ"
+    },
+	{
+      "id":18,
+      "nama_skin":"Sausage Junior",
+      "skin_url":"https://lh3.googleusercontent.com/NxQDmBsOxJkd-9RK3t5U1obgCXJsmM-8b7RlrbTu7GCb225MpxHd9oSU-KFnKQXoy1rb8cwFx-7XG9hRE6sdDg",
+      "view_skin":"https://lh3.googleusercontent.com/xROrZG6sxXNNTM2FAFPs0OL8fG8wuvSpH2US-uSiaA724iH7ZzW_ey4ID3beXV44n1RtHyDsdfLpLgTwleHwTw"
+    },
+	{
+      "id":19,
+      "nama_skin":"Sausage Black",
+      "skin_url":"https://lh3.googleusercontent.com/GjcysmJyRqJY2yq9a2V2gxjELPx3MCXBPESrMpo-uFRsDBiwe_UDx3dP7gAyvhg5DUVO0EtOrGnPRtbY546nAg",
+      "view_skin":"https://lh3.googleusercontent.com/ANWAxhkYaG3fjkJi0bxYPZnJHJUq6wmSwMfyoJjtxoWUYTCtv9sihYFk5YqgiaUDJTCiIji8AtIi6iRlm-fThkU"
+    },
+	{
+      "id":20,
+      "nama_skin":"Sausage L'il",
+      "skin_url":"https://lh3.googleusercontent.com/w0kaTQ9Dz3VyDyJpyn4KFquUlL_VZDfyIuHsPdLaskVbuvzB5I9F7sVlelA3yrWMM1XsCAl34aXR2jT1hKB1b-g",
+      "view_skin":"https://lh3.googleusercontent.com/5GZa1J7fsp4bPcKQWoGilF12MGI0CpVFs-x_j_iLkiZwvMJxiuFW1qkfL8cRfZGMAw5aZ6a2DGX03Z_3cyn97w"
+    },
+	{
+      "id":21,
+      "nama_skin":"Sausage Celestial",
+      "skin_url":"https://lh3.googleusercontent.com/5pBMPj21uEUgx4i_P6qJLLcHzjeT3SA6opEDTNPwvhF2-_C6x1il4nZ4NGOv3-qNozjcyI_2FTMHIQJ6PGKIm1g",
+      "view_skin":"https://lh3.googleusercontent.com/IhodQgUSNDE0vlVQZ3aYFdx11Ze0l0sNgUVl6rSm1Nz2Sji2sHksC6bzBCzmOwXbH59cqlHoodYh_ZZYGO6usnw"
+    },
+	{
+      "id":22,
+      "nama_skin":"Sausage SP",
+      "skin_url":"https://lh3.googleusercontent.com/4JgnhmhNgOIVMBaJU5dNyXy_z0WEG3gPk3bS4pyFD1TeyqU9fvXDV-Tum2eHdq_pZYIo-PZ6c0sdSbj3Pjsp",
+      "view_skin":"https://lh3.googleusercontent.com/tGMPpi1Stwe3WujNWJXNi2PCIsLDL1RrMzVNMI4-zh7z1W64vl0z3rlr-ImB71Vp1vhJKEuBgm1WqiDjg6aViw"
+    },
+	{
+      "id":23,
+      "nama_skin":"Sausage In Suit",
+      "skin_url":"https://lh3.googleusercontent.com/4KPZ4oTJfxgsseWxhUiQeJJy6JiXlIrb_AlpNEme-5ZvmHFkP2s2DHtBuH89f5Msti8TBXsszN6iDYf1pdi-Bw",
+      "view_skin":"https://lh3.googleusercontent.com/rvHXdG1wUgMVG8otMsZ66sQldVK7S5KZUyYp151_5JoKjzmwbPFo6fUjOkI4pCwqb0_Wlt5FGQjXIRA74LAie54"
+    },
+	{
+      "id":24,
+      "nama_skin":"Sausage Crimson",
+      "skin_url":"https://lh3.googleusercontent.com/HH65F8LYA1UvUwXTa8-aSARAp4VLoj69SnZ8jwZD7zLg-8DNWG2XZ42vldP9qv01fovlExkI4Hg80qajNFKSb4w",
+      "view_skin":"https://lh3.googleusercontent.com/p-FVQThc7hSlsayPEfzez7mgTp_aJAl6LQwmLLSebdEEg4Tjcp0K7qbMdYU_IEJJZXlFlM9k5zBQHRHLvXmX"
+    },
+	{
+      "id":25,
+      "nama_skin":"Sausage King",
+      "skin_url":"https://lh3.googleusercontent.com/shqvG-1XUR5I8MbvFbHI-qC0g-TL-0QtLdIUtLeRObAr-IioiEj8bxhJuPrvGWFt0ZYc-EApET6FSmmIqVaZgBE",
+      "view_skin":"https://lh3.googleusercontent.com/d4jyVdb6QLH_O5zAGuEG9s2nk1koRTtbcl4VRoNKYrjLZHnrPO_syvelJWMGY1ez17lz_FNWeLVqv3O-S_oG"
+    },
+	{
+      "id":26,
+      "nama_skin":"Sausage Blaster",
+      "skin_url":"https://lh3.googleusercontent.com/InUZt2GTZhmdZxPuUP_QIo0XqoHdTqWOGIOGq2XfLEnyzQmRjqCgX6GIfkKhfNkuNKmvFAOa0e_p_sYF8PbBuQ",
+      "view_skin":"https://lh3.googleusercontent.com/3dfIx40CGtMVffgXZ73zvSyEb8cmimnBmpkFJLEb1caU517AhdW3El5S_xpFwwrRvN5yvCTdY-BAs2raPyw8XLE"
+    },
+	{
+      "id":27,
+      "nama_skin":"Sausage Sweet Girl",
+      "skin_url":"https://lh3.googleusercontent.com/mpG2EQAdguwGrOa_xzhs1lUboXfhz05h02iPEM9C021s_S0u7_4esPlFqwIsUlxMG_YCzzChkJMtnX3k5zKpzQ",
+      "view_skin":"https://lh3.googleusercontent.com/bZomLa1UfXd1tVOY4QfCMGGl_Pht2_hvs-ksQjL5B7v54hFLO2ovWh6k8yXYY5tHE9Fe4vrMBBcYgv7HfaLX"
+    },
+	{
+      "id":28,
+      "nama_skin":"Sausage Craze",
+      "skin_url":"https://lh3.googleusercontent.com/yLu6-qbh76xPhJ1fhHzVYFMt0SZRRK3BpP_pNsGqbjxeS_n1bb8-6wqJKQe0Rxvna6-6xD2xrnCAnyC4KfI7RA",
+      "view_skin":"https://lh3.googleusercontent.com/KWBtYFww3mivsUPlx5--12fsW5cxDzqZCo-OrLaheyOJmUJ-jFDMTAyApKtegLgGzZFGqpgtbsGR13Zr9Y3yO3M"
+    },
+	{
+      "id":29,
+      "nama_skin":"Sausage Gray",
+      "skin_url":"https://lh3.googleusercontent.com/LebdLgCYpUB2wt1XC6evZqZ-VsHep36C6anL2VWEwvZ1FAgQdzdm-uySvUxQZSIpOuXCm9zfsNMAqLoyxRmLnQ",
+      "view_skin":"https://lh3.googleusercontent.com/RXlqmET8NQ0w0bUjhaoFMA1VAAqENLGnK6ZmMVS0JNMgd2zbDCsQsm4SzUcmuKK_vBWNvXAqdHOHn2A5jpVCGJQ"
+    },
+	{
+      "id":30,
+      "nama_skin":"Sausage Savage",
+      "skin_url":"https://lh3.googleusercontent.com/XwUcODTsK97TiaA12a9YB6XOleGnjz7gxSUj5bfSFwOM7mEh95UqSZ7skRZgDGCbQs_S0MAW_g2zx-rLuBIJ",
+      "view_skin":"https://lh3.googleusercontent.com/onlm7UwRVrnwjAp8_dV-QCQxZZAIxIrqhFLYjX-77jpd3Fp-X75aYzlyy1uppZ8uDeUfynI4zLS9C42EvmYr"
+    },
+	{
+      "id":31,
+      "nama_skin":"Sausage Samurai",
+      "skin_url":"https://lh3.googleusercontent.com/fhUzNnNgL7Pk04OkZuNFcxIllAMpmr5BIZRTT3nt5KdCx0RBQ0M3Qfx_rxWFkxlOS4td3OCi57lYJpoGPV1Oqsg",
+      "view_skin":"https://lh3.googleusercontent.com/H8_1sFlVYx-hreyLGiTE6q0fsE-uaE-KePD3AHvjSsxjo0Zq8EpTIEJUvmNu8rcAVZ6xCQnBxvuxOhH17YzqNA"
+    },
+	{
+      "id":32,
+      "nama_skin":"Sausage Silly 1",
+      "skin_url":"https://lh3.googleusercontent.com/F1QPBVFQf8Qrll01cRwyA57JjzEG0XxpzcwHgSNvvoWWbcD2wTeNsIWFaMHeMQiORjISpGsH-Zno8RRcgAdw",
+      "view_skin":"https://lh3.googleusercontent.com/FbStxeYZI0gFFyW9FPEmthKuM5wHU61W0wtYmB5zUluPV4ypMOfrn38cdVtivtffC90wFMSmKyNVQb3n6GK7b5Q"
+    },
+	{
+      "id":33,
+      "nama_skin":"Sausage Luna",
+      "skin_url":"https://lh3.googleusercontent.com/DR8OB9kXMKNe6alZoMvTMWw5j44X888YYyhjYI5a6ck2Zt0MXSNjnK8O8ttI-MgwGSxTbcbABjLjifa8vGVg",
+      "view_skin":"https://lh3.googleusercontent.com/AevMDhnYd4VJdMPhBzv5tTsJ9jWcDbGWWRbvKzoLX2Dhotp9bmnQjDhgBMEn_MsYn8A5cpdRqGsrdkTg4MYe"
+    },
+	{
+      "id":34,
+      "nama_skin":"Sausage Orange",
+      "skin_url":"https://lh3.googleusercontent.com/jAjFyuHm5731PLZm4NqqEtEnlAL8iBgu7CRT_9OiW8vOvswGV8WZc9UgBaMuk5OzxtPzSUZis7Byoa_kglYiUA",
+      "view_skin":"https://lh3.googleusercontent.com/b7mdBXDIRLpH9pzjp7tBP6odPZjzyTNwJCASNCMAAzzyvigng03RxnKFMKMjtpMDTXco0zlMK8c_XH7S29mh_Kg"
+    },
+	{
+      "id":35,
+      "nama_skin":"Sausage Soggy",
+      "skin_url":"https://lh3.googleusercontent.com/qe99n0M0nRcohqQ7cnYWN2JVaFRyid6CsT3RCNevJaGU1bayWdsfXjk2w1ZjCuQJyLkffP21bKPEofGqklzVLQ",
+      "view_skin":"https://lh3.googleusercontent.com/sOOILb8246hExkMZpLBzw7zcub8COd0V-yybeob1GuLZdKKY_cZaxkg9Fi_PGOPqYDyonqb5PdHdBl8F8ZRG"
+    },
+	{
+      "id":36,
+      "nama_skin":"Sausage Cowboy",
+      "skin_url":"https://lh3.googleusercontent.com/3AKNNIUe4tENxbdXlqAgTLYCpWnSVz_xnvUUpiXqzUOxicHJ7JzixiOqNot1cfImCuXPR8U5hLCt8CbylU6AkQ",
+      "view_skin":"https://lh3.googleusercontent.com/ovr69-VkgfN108Rn_63YHJWWVOAH9QLeORWYo07CfU6BuFmQg-kviXY5EldKEjsaO2p9x3j-w0wRoBzGncPULUY"
+    },
+	{
+      "id":37,
+      "nama_skin":"Sausage Science",
+      "skin_url":"https://lh3.googleusercontent.com/D3xUpNe74vUSXeCtbW0kTAWsGzRWsiyK7_H55NB2Qgw0O7A-Yr8peF37whcgQo5vNuAiJIeDdLRAgddhTYSxLfc",
+      "view_skin":"https://lh3.googleusercontent.com/2CeB4kGeoIdavBAW4I0UqlnG8s5XE6ooVdsi8e39whYOpSJMPviLw8rxq0qYD0gptUgINmjLSfEAf27cyUEVTQ"
+    },
+	{
+      "id":38,
+      "nama_skin":"Sausage Senoir",
+      "skin_url":"https://lh3.googleusercontent.com/ghiqzSJY_OvmjM0P62dwpBxgxKPN4pUyYDZn0k24jDeEafG80FfRxp4D417LSzK3_TIzamrUm5oq4deFvc_n",
+      "view_skin":"https://lh3.googleusercontent.com/2NtLB80DOPtWZ1lHWVH5AqHidZYO9ze-l8B9Tn_0ZmfQ4h4cYcxnTxF03FIrlY7VsFiCwwjLEHjw-0q9vHZE028"
+    },
+	{
+      "id":39,
+      "nama_skin":"sausage AOT",
+      "skin_url":"https://lh3.googleusercontent.com/L43brIImYcDffDnix8oqtmhyzOWDJ43HCNTsVXLdJUkheqNt1TlRE6pD3lmcdt_vfjElCzeDkf3AAVJlZySqyQ",
+      "view_skin":"https://lh3.googleusercontent.com/C8m2m6IF5V5NRztzSezA9YQbwz54dlIhX9zfcwqqcK4qWcB8d7jU7-JDm8MpxLfcoFJBMgPHvA3wHM5J2qhj8g"
+    },
+	{
+      "id":40,
+      "nama_skin":"Sausage Star",
+      "skin_url":"https://lh3.googleusercontent.com/6fuIDNBrMyInDZ7KXGXm3QmwdlcbaSf186QIwwC4sVE4WVlM1e_AK-_UV-uR7QE2qGM-24AEnjcrigqpsqlG",
+      "view_skin":"https://lh3.googleusercontent.com/dMfS3H2Tsej5mwOLx6zkOADe9ji8OgqW4kqxZtREBpaaZRc2iPyQ47-Jhhkzwslq7mFxTjrdq9EThyp7EGAe"
+    },
+	{
+      "id":41,
+      "nama_skin":"Sausage King 2",
+      "skin_url":"httpS://lh4.ggpht.com/X_hXLzPocYer15Pkkd-_nccjLVOt01230873QH9oMnIh4jVTptpZOBSo_2r2jdiCmjS0mNOk1sTvrVnAYnH67_0",
+      "view_skin":"https://lh3.googleusercontent.com/gjDTxii4Y6lOdy4QcajoVcMxD3Pfu_MiJY57wp_vOaFUOUGSNsu4LZow8q3TCJfFk--K0Xb-CV6g_qbJM_aDiKI"
+    },
+	{
+      "id":42,
+      "nama_skin":"Sausage Old",
+      "skin_url":"https://lh3.googleusercontent.com/VQty_u8eNhwH3c97SQB0w_EAv8I1lslxJc-pxL4dRKfPqAYjVmD7VdSbjMF5YvR2mawCdOVKx2_oouMqFgv8vtA",
+      "view_skin":"https://lh3.googleusercontent.com/DuL5lUpVjYWDr1wm4UPhO6rrZ_TcJYebDCSf2TaDdu0XOphOIYa9IdkXGidON-ifKjyHW4dDeEAtlZ1R-SC9"
+    },
+	{
+      "id":43,
+      "nama_skin":"Sausage Black 2",
+      "skin_url":"https://lh3.googleusercontent.com/ja1kLgkgnXnCHfZv87_a0vcpWKcIbfsXKiL7fn5dWeBntYujBuk4rzZIMPjhztELOthJ9MmAM-vo7jJnO1pv",
+      "view_skin":"https://lh3.googleusercontent.com/-8l439CMqIHXGhNaNO7DRd8OBXrDDjexq59Nf1gwezM0CkBP26lJXgl-pOaiaL8xZQjGCdX_-wvuoZ2CvFkl_g"
+    }
+	
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"Cat Plush",
+      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
+      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
+      "view_add":"https://aliendro.id/wp-content/addon/catplus.png",
+      "des_add":"file:///android_asset/cats.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"Hello Neighbor2",
+      "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
+      "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
+      "des_map":"https://aliendro.id/wp-content/map/hello.html"
+    }
+  ]
+}
