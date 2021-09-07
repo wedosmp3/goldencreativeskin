@@ -13,7 +13,7 @@
       "fan_inter":"",
       "fan_banner":"",
       "fan_native":"",
-      "startappid":"",
+      "startappid":,
       "mopub_banner":"",
       "mopub_inter":"",
       "unityID":"",
@@ -26,8 +26,8 @@
     {
       "id":1,
       "judul":"more app",
-      "image":"",
-      "link":""
+      "image":"https://1.bp.blogspot.com/-xRUWFfyTRTs/YTIjP5Imz6I/AAAAAAAAAuc/j29IJ21e4CAPoQBLrbPI8d33jEMCaRmxQCLcBGAsYHQ/s320/1.png",
+      "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
     }
   ],
    "Skin":
