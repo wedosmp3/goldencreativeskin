@@ -13,7 +13,7 @@
       "fan_inter":"",
       "fan_banner":"",
       "fan_native":"",
-      "startappid":,
+      "startappid":"",
       "mopub_banner":"",
       "mopub_inter":"",
       "unityID":"",
@@ -25,7 +25,7 @@
   [
     {
       "id":1,
-      "title":"more app",
+      "judul":"more app",
       "image":"https://1.bp.blogspot.com/-xRUWFfyTRTs/YTIjP5Imz6I/AAAAAAAAAuc/j29IJ21e4CAPoQBLrbPI8d33jEMCaRmxQCLcBGAsYHQ/s320/1.png",
       "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
     }
@@ -296,7 +296,7 @@
   [
     {
       "id":1,
-      "nama_add":"Cat Plush",
+      "name_add":"Cat Plush",
       "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
       "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
       "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
@@ -308,7 +308,7 @@
   [
     {
       "id":1,
-      "nama_map":"Hello Neighbor2",
+      "name_map":"Hello Neighbor2",
       "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
       "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
       "des_map":"https://aliendro.id/wp-content/map/hello.html"
