@@ -1,0 +1,329 @@
+{
+  "Ads":
+  [
+    {
+      "status":"0",
+      "link":"http://",
+      "pengaturan_iklan":"1",
+      "admob_open_ads":"",
+      "admob_banner":"",
+      "admob_inter":"",
+      "admob_native":"",
+      "interval":4,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":"",
+      "mopub_banner":"",
+      "mopub_inter":"",
+      "unityID":"",
+      "unity_inter":"",
+      "unity_banner":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "judul":"more app",
+      "image":"https://1.bp.blogspot.com/-GRF5s0x9sDg/YTzScDzfg5I/AAAAAAAAAu4/AuZxF5arRP0KDhXEPpsu4f-QQjrYiG8lwCLcBGAsYHQ/s450/1.png",
+      "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
+    }
+  ],
+   "Skin":
+  [
+    {
+      "id":1,
+      "nama_skin":"Aphmau's Skin",
+      "skin_url":"http://lh3.googleusercontent.com/U-zek1oTQ38lrFAuE2fdNdZkihyXM2BkbDYurbDY_i9ihBwzxiIx2UcHQ4lHZWSj-IQ0NlL0eeI0zekTyjq63Q",
+      "view_skin":"https://lh3.googleusercontent.com/gljAujBWaSb9hFYB6ocCfWZ-WBQZexRjpbH6V4ouzLkWN7HPwbfgn0ZEZFnT-s9x9hA7nKOY-brxJACuVJCZtw"
+    },
+	{
+      "id":2,
+      "nama_skin":"Ultima Werewolf",
+      "skin_url":"http://lh3.googleusercontent.com/XWVOoi-t9oB_Q7nMsQ7tqAmcpqN6lvLw8tf11FUlAgaOp3Li_76puY8kKXyQXBsDEZlSSOGfT-ZntAUofUOYtzNI1qAzEP6y0Q",
+      "view_skin":"https://lh3.googleusercontent.com/CJb9qG8IAsO-3-KJN0zHPaagTAns1hr4pK3AfJ4xqQ7FMp8rTA4LyEmqNBw6I85TitmBMmQ0VhORtC7-susUN6_pnEHAeFSkkQ"
+    },
+	{
+      "id":3,
+      "nama_skin":"Aphmau Red",
+      "skin_url":"http://lh3.googleusercontent.com/IZccAvFYMUPpRV62o7PvN06kCdjKRZzRcYZneu8-VdK43jMjPhYtC2N144B8euMDeMgkmh_96jXAuaPu3uIOHg",
+      "view_skin":"https://lh3.googleusercontent.com/v-2vbiOa4oCwlXno0mmJ1lkgV9XOBhm29MI2RCisKClKfSemI6D8L_JWDSmcAYTEP0LYWlN8VeFgaISGXbo7"
+    },
+	{
+      "id":4,
+      "nama_skin":"snow werewolf aphmau",
+      "skin_url":"http://lh3.googleusercontent.com/K9uaCVCKw8-H9Femr6JAV6i20lYLXw5H3h7FP2-a52uMbxLtB8mBI_SIMVbKmEduSDM8Q7Bw-5HVLjadekXlrIKfVEqmanOI8I0x",
+      "view_skin":"https://lh3.googleusercontent.com/FFt91nRcNNZ_6gyJO0Re8F0Vge8NElSUpllYIU8mPMKOLwGeZUlx5oaUcmMA1t2eHHPGYnGgmHU5BF3UHOi7DSMgSParJBavBRI"
+    },
+	{
+      "id":5,
+      "nama_skin":"Aaron Aphmau",
+      "skin_url":"http://lh3.googleusercontent.com/QpFFz6_dmcVtaqYaeU8tPwEDa2rH6KwbtHRejKTq6UrQpqvpm3WE5k1FgNkzIpLWAy59YAjmE28RdHuaf_zKyzGrIYkZ3Bxe3A",
+      "view_skin":"https://lh3.googleusercontent.com/7wqeuNeO92zzw-yJUOu_9myq2dvZub4d39NV6nSbd1gXDLsRBSlbByGieHltUk6Hga9EkGfl4YpmwmWTsR2ITZM_J2F9HgS6yA"
+    },
+	{
+      "id":6,
+      "nama_skin":"Aphmau Noi",
+      "skin_url":"http://lh3.googleusercontent.com/asTJ71-5IwaZbDRe3kYeBhwfLQufSSzHUgQKxWZFO4kIXMymNltb9l2ugpuGIgYnfMEY_xGPUjw7K5AqRDlW",
+      "view_skin":"https://lh3.googleusercontent.com/RRBuAc_ejWOWYS7pDtVDrUZu-R4xArkCAgkQyo-sTLB-sQkS_k34zhI73B9GjZERMUa4GuIExxh1FsDcWUHfCPYYFIBXlj6gZWA"
+    },
+	{
+      "id":7,
+      "nama_skin":"Aphmau girlfriend",
+      "skin_url":"http://lh3.googleusercontent.com/xOkYOgeMp48LhyLlMRmupFMysiBrvCxLVHpXY12Qja9-6PU732tdFSDaLxrO_-A-owlRwAcKgZP_ZcmujAaAiw",
+      "view_skin":"https://lh3.googleusercontent.com/h1jYGCoGI1vl2aGYj47qYIE2cAlXCuMG7e91Ys8Z2yofzOdljATED-lg_QxI6oWwDjnnsPtllvNtZ-9PBgaB9w"
+    },
+	{
+      "id":8,
+      "nama_skin":"baby Aphmau",
+      "skin_url":"http://lh3.googleusercontent.com/xWwmPK903C3hvhL69KECONQLc4QiqY2SeKTAd9HN--AWPZj1oGkKLUpYOsrEC38lL_PfXJZc_ZatkRNbLX4numB8CiGaA9vGfsAk",
+      "view_skin":"https://lh3.googleusercontent.com/TX2DL5NEwQk58u0PdopMMj4YdhFmv_1HMFZkLEFlcV4UIa74thSdqfLiaNtSWovZzIlq__j4Z8n7BmiNMR5ukNk2vCRVrYagJ2Q"
+    },
+	{
+      "id":9,
+      "nama_skin":"Aphmau A",
+      "skin_url":"http://lh3.googleusercontent.com/iPakPGm-cb2HoQv3erSQK6STS5ppbJKEJ2IvM2eHLhPXWX-AudAw1HbSBiN4zMirBQO3Knnj78mxVB2mKQXOBg",
+      "view_skin":"https://lh3.googleusercontent.com/mgFYaRYSbEoOcpSTwFl_3bqjLSTcXC7IouYDAj9YJkDTJ699Emh5I8QXI0lT55FXOc2K4xAZ2q5jlti5Ii89jQ"
+    },
+	{
+      "id":10,
+      "nama_skin":"Ein Aphmau",
+      "skin_url":"http://lh3.googleusercontent.com/5tltGWn5Lw5oXtrtxMfujTrA8VkDuYsiH91q1-vpFjA1aEn_IbIRTC1dnPcJJdM6qX8m8NCjoZhIAqJImrnkIYA",
+      "view_skin":"https://lh3.googleusercontent.com/hB7lwCSTUeR94vI_4EcvmuWmg4iFBJQA3m5dkSsATrh6OT5RIGJFaJYQwIPiMb87C0yoMxUKmlJCY2ltKKW7pZ4tJa86_nVq2w"
+    },
+	{
+      "id":11,
+      "nama_skin":"Queen Bee Aphmau",
+      "skin_url":"http://lh3.googleusercontent.com/K9EZN3bfZ5j729rsuE4TIaX7Qk6VwfMRuNb1NCGJbjOEUraM3CSQ8Y_8RTr7F0XdQCm1pLiLLy4JJpQh8b4L",
+      "view_skin":"https://lh3.googleusercontent.com/FWUdoQqBfknTNirmJr6TdGQUkdVjYv4akvnTdMi_RIj8LM3lEpn80ggI7gSv2DRjgZzi01tAVPzmh5jce4YMvyw"
+    },
+	{
+      "id":12,
+      "nama_skin":"Pierce Aphmau",
+      "skin_url":"http://lh3.googleusercontent.com/6mkN-WVFiujaTIaOor_TQsNUN0IToylrQCy3cXX0Dl_wHtfFF806cehmqQkORzPGCcA828Wwd-od4rClZJv5",
+      "view_skin":"https://lh3.googleusercontent.com/QQy97d-6x0giw0u2XBA5NCkKzi1nFIbnQn7NLWf9HGxlJcMLscJFfBwpgkRviaKB26Z7NJ1UdzPW90vK99kwtvvhRCnCOn1aCcA"
+    },
+	{
+      "id":13,
+      "nama_skin":"Aphmau B",
+      "skin_url":"http://lh3.googleusercontent.com/YUB0fd0eg0XTgZSj8Yr66s3-XA-9GGSWIRAnVe5JXkB_XPOZv3xsagiqKaxGz5cShBKbBV2X5FdN88lbNbgR",
+      "view_skin":"https://lh3.googleusercontent.com/mEHPLCFL2w6yuFufns1ENYFATnztRsdbRT5sAfk3b5MD9Xua45gbwV7tPbtyLmj-pXbPP7yo1AcML2rXuRGsGw"
+    },
+	{
+      "id":14,
+      "nama_skin":"Zane Aphmau My Street",
+      "skin_url":"http://lh3.googleusercontent.com/vDMDGCqMJ1ZIDg0DOGYnO9NIr7SLVx6r8xsh5QU6jCdUIVKLtS8Zc1r_AylwW8w8zmIlZnMoM_5oibQcIaDi2XDXlqKpOwF-Zrw",
+      "view_skin":"https://lh3.googleusercontent.com/5BTWvmbSJbQq0T3tDQUKuGxLojrqf3VD2oytD-WFml3N_k6470tqu-cr5e2cVnbOOGwRXJ-Fb6KCE4PHaV-fkyxDZr4xdmeRQw"
+    },
+	{
+      "id":15,
+      "nama_skin":"Ava Aphmau",
+      "skin_url":"http://lh3.googleusercontent.com/XPzjrNkwVoIhhT6IVceHh0PlrBbc7pAl1hU06atbkb-1uW84ALAOA-Q5bt9aKPfb9cXrwCl3xOv02DV1KIgDswk",
+      "view_skin":"https://lh3.googleusercontent.com/dnSBwuA8JwzGnVUO8P1BEFn0yx5ZKJ94sJITbw_RKOxe0QVn8l0LnRur-WN7BSFmyTxmOv9qtMq4Ko7DtEmV4TA"
+    },
+	{
+      "id":16,
+      "nama_skin":"Aphmau Just Remember Aaron",
+      "skin_url":"http://lh3.googleusercontent.com/m99j1O3w7c685STNQS3m9rKoEXrkGyLdrCMx7WN7ZEtqZkrzXu6LsqEfLS_L7gCg2XI_xk_eGesO6xxVHvg-yg",
+      "view_skin":"https://lh3.googleusercontent.com/Htk5DQ8ANQfElBj-HLr9GuCsKzjLhdjk1F3wAssuxjKfG31jlfNVRIa7jYUH5KQrun7C3GT-I0smYmxKYMz2pQ"
+    },
+	{
+      "id":17,
+      "nama_skin":"Aphmau Lol",
+      "skin_url":"http://lh3.googleusercontent.com/JUlmBVTzoKdFppiIU4rnppbLCYakTQSeGtewV53Lz8NF94EUtT3QywmVgSDJldW-C15jpZV39aimUEIlzDlhafHrsW4GFcNWRQ",
+      "view_skin":"https://lh3.googleusercontent.com/HhQFFzraDlVzb_bD0uGgtnuSfA4a3Yg8greApJ1qmd8jshy9nvhsTgq85LgkNgr0Y5BP-ew4K1xhpoDIq8O8JM0KFvu3F_xrtfY"
+    },
+	{
+      "id":18,
+      "nama_skin":"Aphmau Princes",
+      "skin_url":"http://lh3.googleusercontent.com/jQwnyA-8ihjaXe5IJDmIAJRAAELYXjRC1y9VD1PmIfx0zFM1NnQyp50wMQpw5NjmnwY4D1EsPmYEWFpT7XYgdLbsiorbYVld_w",
+      "view_skin":"https://lh3.googleusercontent.com/PyjboZUlN2AjSN6Rf-buhw_ehf-8AoCs6JMA6UyXH_ULhLDWIndv3flKzzMfPmHWyDJzC_FMKNHtw4tKL1ihJ2STsApcF_66Tu0"
+    },
+	{
+      "id":19,
+      "nama_skin":"Aphmau Pink Fixed",
+      "skin_url":"http://lh3.googleusercontent.com/uPYc47RnZt6ISBEmduz1vzfJ5-oc_PGv3UTjHdkUK9fyqknk6U0swStet10uStPah5j9K8Nb3BM3a7xRzFP-ZA",
+      "view_skin":"https://lh3.googleusercontent.com/zkOZTPLTJxLX7ilrc5CroiQYZBox3KVN4q_ZugXOC1__puiFwffqesPL03emmCLkAm7D9FhtOU2TwfSnSZdzPQ"
+    },
+	{
+      "id":20,
+      "nama_skin":"Aaron Skin Aphmau",
+      "skin_url":"http://lh3.googleusercontent.com/HRerczZul9siX8b71NOfwmjub96rP8LiibMZvp2s8ZNDhqannXPXTunYB01-8zcgqxpmaJoPG-lL1HA5I5XDBe_C9-QeMPctFAY3",
+      "view_skin":"https://lh3.googleusercontent.com/XD0DrlMqgCp5SVmftJitgnxnSb74ji0Lj8Jp1OPH2jIezuBB7effw-a8VDVnqd3d5uBcQxyfY6bzMLwa9FqHWVsTjfJkqtvSDcQ"
+    },
+	{
+      "id":21,
+      "nama_skin":"Aphmau's Year",
+      "skin_url":"http://lh3.googleusercontent.com/ED6P2SgYGtkaoz1vOTbl8AfK2sHCx22G3DXjWkXx-HK5lfQo08iviUDTgvnUQ2mbiVaLb37fGgXc1XGYZumuUg",
+      "view_skin":"https://lh3.googleusercontent.com/tclLwvaEImni6qquyJzl1zJUTw2AxTT7XKvUetzBrIxunEkbudhCfSFHb5numOE0VUYGBZ4GbWlkdtDfg4hQ"
+    },
+	{
+      "id":22,
+      "nama_skin":"Evil Aphmau",
+      "skin_url":"http://lh3.googleusercontent.com/M9RPuxg6Tn2F7C7kQRoOWK_VLGmOj-eP8bqJhBViwbRTywpvKrDNA-7whP623KeyqWWC47CSMSkMlruxNFP7m9w",
+      "view_skin":"https://lh3.googleusercontent.com/OQrFCyjiw42Em-unAFAhKM6kfndTu6G3nVPG4c-S7iJPfisBm0dOs22PQ_waSjkvXrVGGP0swnoICpB-0bZf"
+    },
+	{
+      "id":23,
+      "nama_skin":"Christmas Aphmau",
+      "skin_url":"http://lh3.googleusercontent.com/DJta8kzhrIQbMVrIq8Hs93y2c84FW45oviYX_JPdRD9tAQZWCiTO_7UfGrFA7euQ4sFqmmDUJUQXgBRYT9rn5wo",
+      "view_skin":"https://lh3.googleusercontent.com/6EcQOxJPr38rYripWxk9BaxQjk-doXnWm3d4Qsmg0zJH8J2gnrT8wy6-n5s2PSfRBckK_thVCBh-DH0UkmTHpA"
+    },
+	{
+      "id":24,
+      "nama_skin":"Aphmau Green",
+      "skin_url":"http://lh3.googleusercontent.com/mp0EVt5if69E6AfgxwgzGmj_bdaoFOpnstvplx6VdEEbQKvhujzGbiH-3FDr1m4SRq0NiXJ5Vvy52CmiZSnN",
+      "view_skin":"https://lh3.googleusercontent.com/5w674JqA6MnDT4EhX4efk0bM-mQNua_K-JyLG8UuTUVsvfU8PmgwdyBLWOm2NlI17WxuF4_d425rntHx8jcXyA"
+    },
+	{
+      "id":25,
+      "nama_skin":"The Legendary Phoenix Aphmau",
+      "skin_url":"http://lh3.googleusercontent.com/TlMNzuqVZ_yMEhLsNhIS_zjB7fGb88Lq2meneE5p8ME4Ld09fixIDrgJvYZU9cU7mqZFWffXOFRLm6vtIJ5vwlssB-qzC8j_uEYZ",
+      "view_skin":"https://lh3.googleusercontent.com/euCl3546-vbYfus1f4EjjnsrGrAJ4M-sLfm45NPreCv36F51ZVgZGVEFnJiYqfAugSpSRFO2rmg6aEQzllK9vW69L2mr_bpOGZo"
+    },
+	{
+      "id":26,
+      "nama_skin":"Aphmau A",
+      "skin_url":"http://lh3.googleusercontent.com/VwrFWBYO3ozB9YWJ4h_N_8ewGp16pP95Ws_zA-HBh11GbQNs_inRNlkMbYcFcJK_L_Gmh5NPMfRcqNIiZvXqiw",
+      "view_skin":"https://lh3.googleusercontent.com/YE07u-RZsQTXeta8lbvEf6r3P4oj0sJeB8xatHOe5z2Vs7xd2HPbp3pqtD9f89WDPtyPeFnrCeAyAARCq1eVzEOuILMm8TvRnUhx"
+    },
+	{
+      "id":27,
+      "nama_skin":"Kim Aphmau When Angels Fall",
+      "skin_url":"http://lh3.googleusercontent.com/LOUF1b_3Cz35DmrvepWEAARavfndSYSIuWE1jX2B0trggX0bb8enX7zIeZ2okuFIgvRNs9trbGNbL4_x2pUUjiQ1gt_hJn_GQoM",
+      "view_skin":"https://lh3.googleusercontent.com/GbwQyOY6cS-mHFL7P8EPuu3dRyy-U_7DyUutrASO2hFvZxOpjvzkcir-JFDpM-mWzmWZAlHoZb1R8fxPA8JedatD2IY0KvPrLIrw"
+    },
+	{
+      "id":28,
+      "nama_skin":"Aphmau Wolf",
+      "skin_url":"http://lh3.googleusercontent.com/OvFEfK_KLpxiYxx9SG0kp6OeUf924jxPAE8ZK9awGnFYUnidA94V8eQuSuO1KYudgji2r-V5OSnqhxSGA9kB8A",
+      "view_skin":"https://lh3.googleusercontent.com/3mqvBFbOYY0-kNb7mEDRVikOIzm_LJHnpqpxaVa72h2qDzfY8WLZJcSjsXsLYvGKU4Hs3CEogiiSZL02DLeNUw"
+    },
+	{
+      "id":29,
+      "nama_skin":"Aaron Aphmau",
+      "skin_url":"http://lh3.googleusercontent.com/rgOzN0jx3jBPcZSJGnYKKRZEr7vcnpAavkxmPjR8ohfF6_tj-x2TvNak8hxowZZcduMuJ8YU4QSJ2OvzF1zXvA",
+      "view_skin":"https://lh3.googleusercontent.com/u3cOE8tobcPtvuawRwBAMqFpI17Xuc_HptPN5tKLfwVKETqSVP85QQ1sa6kl304olf_JPjW6cKinT1e8xgKiPg"
+    },
+	{
+      "id":30,
+      "nama_skin":"Angle Aphmau",
+      "skin_url":"http://lh3.googleusercontent.com/sDdwfR4zkuOwg02jLWbUoB1m3KAPfBbFxjzkSMjKj9cnF3Q8LGwase9o_VvcKQ9Z07WZyCXnTr288vsnHtxMmA",
+      "view_skin":"https://lh3.googleusercontent.com/bh1uzT8cjbFBFAbESi7JoD8Gfkt7_o7DZAjh3SvB7TnZ02Tq2HtCcRZtEU4Qs63OxA_Wwax2Ye2eSX7yGdpO39E"
+    },
+	{
+      "id":31,
+      "nama_skin":"Aphmau 3",
+      "skin_url":"http://lh3.googleusercontent.com/ndzYJH5K74kTKUScHhz-Mu88J7ZanBG984X8MJYus1ccyK2btcg51fy3IrAK5JzgPFQJCK6kSVPTDrciPWdQ2g",
+      "view_skin":"https://lh3.googleusercontent.com/ZjoBo6iu9vfPcXhocyPx_iv1YjpzGZJBOJYiBaSpMkyIbbqeqO_NuC9FpJRGCwmmwW5mDR3fyMytRBy4CK9wg4c"
+    },
+	{
+      "id":32,
+      "nama_skin":"Aphmau ABC",
+      "skin_url":"http://lh3.googleusercontent.com/JHXEaUexNsCTbTVbeCZe0s4tcdZSvs3Gx2uvQtnRlhqWTA_Os8jX-Qdzv7feF-XnFf9CcBffb6jLBZz8OS2Tm1o",
+      "view_skin":"https://lh3.googleusercontent.com/NS_vSgrTriZt6y_a5YLP6rYw4ofwZhSqt4Si9iwbBWnOQVuefXcnk_EsymcVMXMnY6FhSAxBQ7Bjqd_IRkowpOE"
+    },
+	{
+      "id":33,
+      "nama_skin":"Melissa Aphmau",
+      "skin_url":"http://lh3.googleusercontent.com/ild_4ZILu-FlzPDGCKPrSwLoXtiBeOQFitxXA6G27jQj4nnBkNLvn5Jt6w93VvkKWWR7de9EvJI4mT-gJsXKqg",
+      "view_skin":"https://lh3.googleusercontent.com/YCyTGshsbtbnA8_iIgb2dhg4-hCx7Gp2mVR0ewTUu9JC8oaeAn3K6xLeho3-259aA7VdMK2bYGNKS12ZgWLg"
+    },
+	{
+      "id":34,
+      "nama_skin":"Demon Baby Aphmau",
+      "skin_url":"http://lh3.googleusercontent.com/lhHRmOOSRuJglN1zCByp6ghmwfYM99SjU0NMFD2_QAaxSPeeJayRulrZZ-vgz6rZOLopt2uof1SFi06Kh3yJOvMoyYKMcXug9Ig",
+      "view_skin":"https://lh3.googleusercontent.com/OAHoJhGRVXq61E0qxEi_mm_OZtWp34Nlpk7Kw9EEoIsioAuqDyFzmSEDvVYX1sFrjlBWoGbN-yFkjRggdQqPvaBKqZQiVMbc4w"
+    },
+	{
+      "id":35,
+      "nama_skin":"Aphmau And Aaron Kawii-Chan",
+      "skin_url":"http://lh3.googleusercontent.com/OaNLcrJI1FnM3dIYyXGtdWYvxAwcPT2DaZhNxl_oKdN1iHz4Qdo8ZxCL6qfObWm04-D_UEcSK8-vMkD-WDzBF0sr-6_Cu4FR5zY",
+      "view_skin":"https://lh3.googleusercontent.com/pb-DAyDSw98cE2CxSTsWu5wUP4gRJ7w_JqkEVoj616j9gGpWjKDPVQYaDn9fnlOIWwT5bhffO2GftnpXuewe4_hrNx2bwS1uqg"
+    },
+	{
+      "id":36,
+      "nama_skin":"Aphmau AB",
+      "skin_url":"http://lh3.googleusercontent.com/M5dQmvXjrhefbbrlaEAlfSRm2yU7H66OM8_WWvfwGChSjVDpMkvih16yEtLXJT39EbfVmP8B-Q3v5zMyYZFUEdqIdfMJqGQHslA",
+      "view_skin":"https://lh3.googleusercontent.com/1rsDaL6SCzhlpJqsDuU38GCH9NT0Jwk9-5owuhPmzQKOej6bHCXjxlCdpWHWpVOEEv6k9qS4KfnhuBqWAQywzPXoS3CBK8BvHSU"
+    },
+	{
+      "id":37,
+      "nama_skin":"Diamond Aphmau",
+      "skin_url":"http://lh3.googleusercontent.com/jiCPD924ACrSkdk4oH1wEoJqxKLZ7x-hlgbNSdu6KOpq8obhXG3ObxfoC1RAqOPgFepdW_Z7GifPvrh5sj_XUONRyx7UadWA",
+      "view_skin":"https://lh3.googleusercontent.com/CNeparyLN73R5jn02jBtmSpBzh6T7gEJS5JSpQEPuwFAVXKUIGojZM0WNx1rdhhsGm-qaup8B6Sxcypb1SJhTWWpuRnpf-hw6ZI"
+    },
+	{
+      "id":38,
+      "nama_skin":"Aphmau Jail V3 No Handcuffs",
+      "skin_url":"http://lh3.googleusercontent.com/uv52mH2ZsCYrB38Bg_qH9u6zhVu4yCiOtgdufXL4zSdFGJbuBJHrau9ZZUUazHL0jcjWcLp2fbFyBLk8uDh08ZfYrzbke_d_aQ",
+      "view_skin":"https://lh3.googleusercontent.com/bm1xHqpaKEaOMBBI30GTlG06lAhKMsTCbfXvbdMbppEenrSDK0fz2FoNgNw3U3lJJGlOxm0IdyzpY4a2PiXZYwxp0wSneAGvPQ"
+    },
+	{
+      "id":39,
+      "nama_skin":"Aphmau's Ender Baby",
+      "skin_url":"http://lh3.googleusercontent.com/9rAyffl1P980C_89kj_Ff8tViBjC_AWZ9YrwBTzgLLGlGg6E3je3b9bYbdVpe_U-DEvkEJtIpQmMEtMOFKNRcw",
+      "view_skin":"https://lh3.googleusercontent.com/bDiZ2ba1pMyzUo1vZkE5hE_EEi52ITL7eUuslo6lZIPoKcrb8tn23KYDM_KZbTQqRaE0tp4XBlNYLP_WJrvG"
+    },
+	{
+      "id":40,
+      "nama_skin":"Dragon Aphmau",
+      "skin_url":"http://lh3.googleusercontent.com/F3BiOKBwNcI9Lk6pZAAs1IUjnnRaxunFqyrJKaPHrLHU_vvZA5MRCmx79m9u-EoUiv2iqmyodhT4X97LDCHy_HzVAZ0PaJW2vgZe",
+      "view_skin":"https://lh3.googleusercontent.com/Ee2AvrBaaBP_ECwpVUkQacJl05v-Ll9hoDe6dUb54g-bXkBlRJ-tQ2HsSlpv1LEnELJSZs2pvdqWypfTysrtQGhrrvkO6Apfyzeh"
+    },
+	{
+      "id":41,
+      "nama_skin":"Katelyn Aphmau",
+      "skin_url":"https://lh3.googleusercontent.com/CF8mhB3HJuCwcJr__jgQNo6eRsJsWczqtC5kVKseMQ9bm6a4hy_Pxz8k_SD4lhpFjEK2gHp_rZiUeH5FUx3U",
+      "view_skin":"https://lh3.googleusercontent.com/4AdW-m--J0c4Hl1SL6U8alr2SzxHpPtn0oEYzuNEbT3bMN1qrEsCd6tQipwECIh8iN53wwuVIM-NBgFbouCj"
+    },
+	{
+      "id":42,
+      "nama_skin":"Genderbent Ein Aphmau",
+      "skin_url":"https://lh3.googleusercontent.com/a_iAmB81_lSRVLlOQKiqO3eoHxhoGNAOcLN11--rZrY-sMPZDpSF5jC35k1ryrLbHBWF2fnBi0xNJB3BrkBaIVPD0CjOk0eBHldn",
+      "view_skin":"https://lh3.googleusercontent.com/qS30TvHV-dGmuimu9HizJwIURmYtb6TOkiiY4fyHAzYiSR_Hpj12zWEgZSGNzQsQWDMKg_IVZQDQPIH9i16py-zil1IW9C1Gdw"
+    },
+	{
+      "id":43,
+      "nama_skin":"Aphmau C",
+      "skin_url":"https://lh3.googleusercontent.com/uPAWjHYIUXNCWFF6WwKu-uV1TLSX7TPZNk8piO7SHhbHKmBqsWjTGLUl3IU9BVX5ssLjuZ9wNql1gL3SNYeDvkwOEULMTBrMhtE",
+      "view_skin":"https://lh3.googleusercontent.com/qUtY9UxYfakttHngZcoax7X6Y1xTemGDko5ZhcxQvDW-7gnmnGZ3RxfTPKnA210EP2JEI0ktgyc126kbyrLDK6EsJHRqLGNwiC0"
+    },
+	{
+      "id":44,
+      "nama_skin":"Princess Aphmau",
+      "skin_url":"https://lh3.googleusercontent.com/NBLm22tEY-hgUN_N1Ofcxvx2pjQGJsQWl6_Rj2-crPeGpsJuyt9gz7NTCKT323rwofH9iaXeRcg_Zo94rysy3A",
+      "view_skin":"https://lh3.googleusercontent.com/3hfH3AK8-gNfpg77cExXUHt70OcAOR8HRGCoTKQFcyRFdFXzgqNsJRroU9OAfxYWV5DapG5COZwnRCvniSA1Vtk-hvvBsGbuQw"
+    },
+	{
+      "id":45,
+      "nama_skin":"Aphmau Outfit",
+      "skin_url":"https://lh3.googleusercontent.com/ohPpsHrg9zwws9V6UbENqYQTTZW5j__7H-hl22tYSAcjmmL_1eYQxtviQe6Bo4qYebNF7A3udlsl7Ghw6iJEcjdkn7E8ZD72ktU",
+      "view_skin":"https://lh3.googleusercontent.com/TznVhCF-K6unNEtOFsH4NMdJy6zDI8aEfdZSmzC5GolLx1HUW3_-VxEpZ-gLdyRrBO2iQPwWBOVf8H_aVHX_4sv_J_PudgzaSa4"
+    }
+	
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"Cat Plush",
+      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
+      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
+      "view_add":"https://aliendro.id/wp-content/addon/catplus.png",
+      "des_add":"file:///android_asset/cats.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"Hello Neighbor2",
+      "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
+      "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
+      "des_map":"https://aliendro.id/wp-content/map/hello.html"
+    }
+  ]
+}
