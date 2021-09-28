@@ -1,0 +1,479 @@
+{
+  "Ads":
+  [
+    {
+      "status":"0",
+      "link":"http://",
+      "pengaturan_iklan":"1",
+      "admob_open_ads":"",
+      "admob_banner":"",
+      "admob_inter":"",
+      "admob_native":"",
+      "interval":4,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":"",
+      "mopub_banner":"",
+      "mopub_inter":"",
+      "unityID":"",
+      "unity_inter":"",
+      "unity_banner":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "judul":"more app",
+      "image":"https://1.bp.blogspot.com/-GRF5s0x9sDg/YTzScDzfg5I/AAAAAAAAAu4/AuZxF5arRP0KDhXEPpsu4f-QQjrYiG8lwCLcBGAsYHQ/s450/1.png",
+      "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
+    }
+  ],
+   "Skin":
+  [
+    {
+      "id":1,
+      "nama_skin":"Zenitsu Agastuma",
+      "skin_url":"https://lh3.googleusercontent.com/oHVqq5Q1NwNau4OWQm7dG1xH98QnQYvG4HSDWOIHwUo7TwQQ2ANi4Ybdl31sMwuV3JqEP7Jc6ccfEtgzakbHq6svqf12A-wlSCan",
+      "view_skin":"https://lh3.googleusercontent.com/cKWY_l59Wi8-O1okXh7pZchMw0yE1Ug9FQhkhsNrKUR3Q0zmKQNKa4AVdwuLFdwrM9AFMbC2LwTQSqdm9syYct071L4JM1lBIds"
+    },
+	{
+      "id":2,
+      "nama_skin":"Nezuko Kamado",
+      "skin_url":"https://lh3.googleusercontent.com/Jk_pIF7R68VUwpz_nf9uCRsjoaYpFwKPdr4XUpybhpHMfYUI2iAJgbqfKTT32_9GjBGHb4gfEFV54SHRjUe2wXlYJkPmCcbo",
+      "view_skin":"https://lh3.googleusercontent.com/DWhFOeJ6wKlHAehhKzWKXByMBcZ9bzFLKSRVzD1UHC1S8Jjn3PNuSVkHX2YEPWMDVPJSSiAe1LTj4PjKUxb7QO5ARvWqzI_wJ6k"
+    },
+	{
+      "id":3,
+      "nama_skin":"Tanjiro Kamado",
+      "skin_url":"https://lh3.googleusercontent.com/BhMAk4iQYJhCfWk2OGviA3dzHcTZsnlLW9Z1Xiid0T7vy9EzTSavFetgunn5_E7cqD3Fb3_RhW3vaWXDvmqRXR6xrqOMsSTQFzY",
+      "view_skin":"https://lh3.googleusercontent.com/A2ziLKlpF0m7AzFqFAy-mx5VQ5zJKM5Jl1C-6uUy8tKxX6VI4IsQx2M0vMTlcFC5jhA8pHTW-RToXywib1JU-oxDFMD6vnhpYs4e"
+    },
+	{
+      "id":4,
+      "nama_skin":"Mitsuri Kanroji",
+      "skin_url":"https://lh3.googleusercontent.com/W3m7Oxan4wJJdNreyq2qfI9yUmOk513_9PYTOdFUnEBk4Cgd5dp3m9aE1oAHxHDlLfpEHjTqqfMSVl5Vx--JCfLEVqA-4UFVfP02",
+      "view_skin":"https://lh3.googleusercontent.com/yEjZB1cv2I-D_u2u9Ok-qT5JtOrJ-BXXCswZ4EiGZvTmOQavusSc0Qzryb_oJLZnyB4cPX6soIT2VIYqToBt6WPV2HKhewit0zc"
+    },
+	{
+      "id":5,
+      "nama_skin":"Kimetsu no Yaiba",
+      "skin_url":"https://lh3.googleusercontent.com/vo9n530EcP8S89s_RkeEWcnJl1hqJHOI_Zd8liyAfPp9Gj2_hQc6aQ85tG9ZOO1pLGtqa_7x5XN6croMC80MVDs",
+      "view_skin":"https://lh3.googleusercontent.com/Lg7Mz1h7XSeI2n0UCqc_CJ7JSpM25qpfZmrc6PJ2uQbQxwDvR6vADZWzDwc_gdH0mlv64fUmqKuLOhtZ61qu6g"
+    },
+	{
+      "id":6,
+      "nama_skin":"Shinobu",
+      "skin_url":"https://lh3.googleusercontent.com/6QOa0K8o3fr6sUKaiLsxzrjNP0-Nrbzt-t1iJnhXLJp6cyU4hl-s4LYYBxECEaUlBEE2fuVdgcMRLyc3UQys8Q",
+      "view_skin":"https://lh3.googleusercontent.com/ZJ4SUxTe3x31Al1aa4gFuxlaN2M3iGu9fcP2ZXq2-mGR0SIscAEyT6kzOFcCncy4ycOWaMOVFIEddhO918SrpQ"
+    },
+	{
+      "id":7,
+      "nama_skin":"Nezuko Kamado 1",
+      "skin_url":"https://lh3.googleusercontent.com/ecB4IusxThp41Vaq0VIUYf1GD7J_oHJCDFQdfGy8ij1tSktcDWr0bOZ6cimkIafQpmbu4nwvmnpSyzvN-xd5rsraov3whDW648pK",
+      "view_skin":"https://lh3.googleusercontent.com/Jr_VVr4YwHM5UviNQs7xLmCHd5IRwukw48DwMlHq_bNvVMmIa_q5Wwe_FIncKNbpNJxlA4ysfHHDtTCp0l_vUnGjEj9xO0zQ5Ho"
+    },
+	{
+      "id":8,
+      "nama_skin":"Inosuke",
+      "skin_url":"https://lh3.googleusercontent.com/cb_dZJoK63Uet5PRXN7GAmes74jC1FJQTaaxwBc7PTIBQKq6dmKui2vgIgGSDSxLr1f40DJS1mZk0Mu5Gra2bA",
+      "view_skin":"https://lh3.googleusercontent.com/FqemxHgOAg3P3qUwUGE2vq-0TRfFpzACOtsrBaxKWO5Bs86BN0joLAu5TKCAg9Tl_cr85Fhoo4XEO9qKkqiLHA"
+    },
+	{
+      "id":9,
+      "nama_skin":"Zenitsu",
+      "skin_url":"https://lh3.googleusercontent.com/Tz6jg736Gd0Kz1LVZvqe8N_stHyJ6TqDGqe9tNOO7i0sI8Syab3hMA8bj1OEux5QHV2E-uM-qXBZ4kO5Ae8wvA",
+      "view_skin":"https://lh3.googleusercontent.com/YbMcdAguMWm_oHc3N2iFFMD-SD8NcZWX3ayyjd3k1q91_Orba96xYd4clxU9fw3kmoDdXvmMh6o8FYBugVHX"
+    },
+	{
+      "id":10,
+      "nama_skin":"Rengoku",
+      "skin_url":"https://lh3.googleusercontent.com/G2l_9dkInYfrZ9oBRWZUyiN1PRFg3a-rBLH1pZlPHsP7sFLyX_x7JWWkCDtHB9VF5-EYLMDfFOLMvM_M8KfpG3w",
+      "view_skin":"https://lh3.googleusercontent.com/uqT8EM83wQYnsc2a3U4RozFY963a2xf86FKGhpG9Cm2v7Cmk1L2sYweR7FFIev1rDjwKyJPQNHCRlMKB7vIxeg8JkcLMGpET1hQ"
+    },
+	{
+      "id":11,
+      "nama_skin":"Inosuke Demon Slayer",
+      "skin_url":"https://lh3.googleusercontent.com/9f9DPyh4VnSMz1arGtoVQv_z1GKMrfRSZ-7LBFI8D4uDyFHFdtrt8KF0qwmYHQxl48b5tOWd7i7FxnzU_uw8YvLTL-rcwYcgdg",
+      "view_skin":"https://lh3.googleusercontent.com/8iYAk9nckKeH_bteymCY_4-9QIu7wXm2lVTEPvNUPdu4lK7Q31tDk5vCCct59DdDT6btG_nPN71HNL0YpbQLxDn8htBFnwvfjbgt"
+    },
+	{
+      "id":12,
+      "nama_skin":"Nezuko",
+      "skin_url":"https://lh3.googleusercontent.com/4DmdcEJ-aJyjPSQJSIuewICD7GAfIEjmUmGcHI0TI2SDA4QJwwooM6lrAk57ouXmkZAG_e_atOpOLZ0jtdoG5w",
+      "view_skin":"https://lh3.googleusercontent.com/u8xwLcYykpKdltFc8bZxdUL9QubEaClP0MxJ7Go65CQmHAgrJLYPJdtV1KnUGcMJW6CX88R0hv7bJAWpclv5vQ"
+    },
+	{
+      "id":13,
+      "nama_skin":"La Dai Demon Slayer",
+      "skin_url":"https://lh3.googleusercontent.com/J7gSfReZMd7r71HSsmfxlK1VGtT7wvhB0YCs8juE5uedugSIqEYs1cnPkmkcYomEjbqfZH8wf_m6l9QX3VZZgZN2i66sHAqaFxQW",
+      "view_skin":"https://lh3.googleusercontent.com/Gh8gkThGJswsKJTpj59bxyX04b6NrucA-Hc5s-rfzXIhbpnGT3o_opm8FNUrgif_5ysdWSyyRWYhh_x_Q9BaQyxuR5OXhWSHgU4"
+    },
+	{
+      "id":14,
+      "nama_skin":"Demon Slayer",
+      "skin_url":"https://lh3.googleusercontent.com/m_95_rW6JXeOl89yhYM2y8LadP82AGKgEFRyX61WJDyuzBLOJJyBRsjehT3VfmByAt4bo8qD0XNK_6I8eHbySaiGSRQvcHdwHSI",
+      "view_skin":"https://lh3.googleusercontent.com/Datg5NNmkrG7mEpY4HYu6GMP-jUlhYuIS8-nCYI119_KtaRNOVjobozFwNjHfseWa47_3iU7zuriJdtKK_kPidjU7Vqad8LDCOum"
+    },
+	{
+      "id":15,
+      "nama_skin":"Shinobu Kocho",
+      "skin_url":"https://lh3.googleusercontent.com/yulIytsePQ7ybXsyWCAiG3BiRDzPfAC71qnfttXx-IVo0XeDQUqgTLW3nmW0B4AsL6OCyQO6S7SAiOqIHJf7VyI",
+      "view_skin":"https://lh3.googleusercontent.com/-ve5zUHhwxdFbhzgwNMk3ym1pchBAVa3bSODNY6CESltHzkxWi-Jx1lUi_QS-atPOHG4MXmzC4rIlhFdCD5YYddVvuulT-zp1Q"
+    },
+	{
+      "id":16,
+      "nama_skin":"TV Demon Slayer",
+      "skin_url":"https://lh3.googleusercontent.com/IuO_hbXSzfPZLVFT9u4xqcHhP8bwyJX9Qo4wG1lKEnUq72tneuBN9EmtLzj8urBEDbqg96Ji9NN76XfkR7X7Y9-QPqLsIMACFRc",
+      "view_skin":"https://lh3.googleusercontent.com/fzNIuN_GwAsWorrkfizrMndRXVs5aWgZPvITzm7a6YyNO_-aMs5KwnXiG3OtMWn_AHFKKHECYlBTVr2gbQeVgJ6K_iiHPgdHNAM"
+    },
+	{
+      "id":17,
+      "nama_skin":"Demon Slayer 2",
+      "skin_url":"https://lh3.googleusercontent.com/IopR0XHK-bAtXGgq5evJKXeyz5kM1sGlWtY6yiMwFEKsozynOZRj4mhHkBdJfQ8HfsRvzCmu0jxgpuJBP7n-Zg",
+      "view_skin":"https://lh3.googleusercontent.com/ieR_LJwML0z1OT8nuabIA6dMFUsUuKn1WhKwt5Pz4R0BUf1s-OBWolMDNlUmvg6H_FuoNSBT52cla9l3-O1x"
+    },
+	{
+      "id":18,
+      "nama_skin":"Rei Das Fadas",
+      "skin_url":"https://lh3.googleusercontent.com/CW3T2jh31xp7YnF5mWifwb1kZvHunDWakqP38xoP5xKweB9PglQSuw2Cjz6EW-Ew-irJf7R4HijvKzuXuWdNlm0miXk32bRODcxL",
+      "view_skin":"https://lh3.googleusercontent.com/ZUYZ8cwDh7r2CYdPZ42LsMxT2YalaD0hru5GSQYTntxVDk_LCdwrC2oZReRTI2X09xvAFJK2z1blCUK_NYyI2eR8G1Ym8uiKCcm6"
+    },
+	{
+      "id":19,
+      "nama_skin":"Tamayo Demon Slayer ",
+      "skin_url":"https://lh3.googleusercontent.com/t97p2vrKr6n37xzcpEyH9oLGBYf2bIPzQedncI9kyuBDkiwY7Kw2dY7wr_RUwE-Zhuww7Z_h9XPp7NLLGZ4u",
+      "view_skin":"https://lh3.googleusercontent.com/hCfyzHrQ3WITmFNI8A5ymo0IShf9qu6jtVXIqIcf2LgmnBUylzWXDhaWLsAKaOijvsArcIFaviKpMXTnZ6bV"
+    },
+	{
+      "id":20,
+      "nama_skin":"Mod Demon Slayer",
+      "skin_url":"https://lh3.googleusercontent.com/zqFNQXflt4EzQBUH2KibqFu9iIpFV_-MC8AAxuW-Qv3Bpet__H4PKamC33pqeJT4NOGKZequnqfS2kNhTTlwH3y0SRFxaaDgddc",
+      "view_skin":"https://lh3.googleusercontent.com/orOzev8JpHrrg0oRT0_QI2p93ULCbo9J0qsE8MyDmNPSM_c5YhAtzUTem_SMo2evn3P3SgT8mDblZMZbXPUIiK1xTXrKefskgqY"
+    },
+	{
+      "id":21,
+      "nama_skin":"Demon Slayer Anny",
+      "skin_url":"https://lh3.googleusercontent.com/fxsVaJXYe7HTNHqECO8Gl-5AhDRtbN8fI9Mhz5B9Yo6UV0rWJuW1rdxUl4kw1LQv37GWi1WEflgLB60X4IMMBhM0ByTx-JL2jg",
+      "view_skin":"https://lh3.googleusercontent.com/USNyTwFQ63yZbx0Bjo07WJEhwXixUKomA5Xd1hnO2ZTChXz1dJAjIU4IRrAI-OazmoPaeMaDXtJLCDcPxSMhpLR9lEIlTeKsHjk"
+    },
+	{
+      "id":22,
+      "nama_skin":"tubo demon slayer",
+      "skin_url":"https://lh3.googleusercontent.com/92CPRUD13sFpO8sYEv9BlG4yEutB8t664ZY16mloDeNzSYgfaA7kFOINoQUNIWM9Y3DXzWsGX3_E_HoHXd8IXwQFVTmSe3am0ikk",
+      "view_skin":"https://lh3.googleusercontent.com/o3hA7jrlGQyZtL6EnwfMgZvBXo7lLqDlJlnpInUgHFxVwdRVhJk1mX9FwvTuHW12kme-VXsyJ67iW76dC8lsxvxIY-0xe4sdKA"
+    },
+	{
+      "id":23,
+      "nama_skin":"Demon Slayer 3",
+      "skin_url":"https://lh3.googleusercontent.com/RUk_ahoSiK6GhKz_lUbBB7GNWTOqZloJQTLGsnOtWoyklQ5h5TxT8qji5V1dY_leYo4bLli65dh_YFwo5-K_vM64j5njfr8vNPUc",
+      "view_skin":"https://lh3.googleusercontent.com/yYjr33GdE5SMbvG-ZGAt6GD3Owu9nakOn2kNTKIqX5FPLUECkHr457CcqZF_Gdtke4axzaQ7XeFpZTxyn2vsLZzNYmMc3XqB_Y8"
+    },
+	{
+      "id":24,
+      "nama_skin":"Demon Slayer 4",
+      "skin_url":"https://lh3.googleusercontent.com/Z92fc2mD1Lw6XvZTX3fsIrM0bXiYdPcoV2Fv99QDihWvsfXhyUuN0__l8kY0gx7zV4TMCmLVKPYcNqsqVQoVVTfP7_bprGvbe8M",
+      "view_skin":"https://lh3.googleusercontent.com/5SHb25LHrWrF8aaSIR4JQI8uXN8r7QzUcpGMWqvUCyqk4J6hrpVP4HpzglNRQTukBhxSKSR7HS0qKkeQa1GIbXh9V7wgo344EI0"
+    },
+	{
+      "id":25,
+      "nama_skin":"Demon Slayer 5",
+      "skin_url":"https://lh3.googleusercontent.com/Z92fc2mD1Lw6XvZTX3fsIrM0bXiYdPcoV2Fv99QDihWvsfXhyUuN0__l8kY0gx7zV4TMCmLVKPYcNqsqVQoVVTfP7_bprGvbe8M",
+      "view_skin":"https://lh3.googleusercontent.com/5SHb25LHrWrF8aaSIR4JQI8uXN8r7QzUcpGMWqvUCyqk4J6hrpVP4HpzglNRQTukBhxSKSR7HS0qKkeQa1GIbXh9V7wgo344EI0"
+    },
+	{
+      "id":26,
+      "nama_skin":"Wolf Demon slayer",
+      "skin_url":"https://lh3.googleusercontent.com/G-2Pf0dJYdMeD7zAnvKx-_oEuFS8errS7vPgHtaS51Zl-cXSlJVKwn1oqqtQPNeQc9zdBVUFBgokFDf3L2xkg4MceBFL_ZVUkg",
+      "view_skin":"https://lh3.googleusercontent.com/CZJ9LgiZ2O_q5zQAgosKG0cm0atH-GONRg79J24UYeMNEP9TH2Dlrf-FaMnwVPcsnn6xAijZqg921bfpkmUYCvtJkSesrxMNfw"
+    },
+	{
+      "id":27,
+      "nama_skin":"Demon Slayer 6",
+      "skin_url":"https://lh3.googleusercontent.com/sIrltcpCqeK4BLIdas41vYj0Ob2f6boUqXaC4LznEZ7_dPJGGZ7bWKjCDaAN0ath0O6pPSsUQW12QBEmKEzNWhZMkZonttOfEZNM",
+      "view_skin":"https://lh3.googleusercontent.com/aJVv-HS-RAz8ytos7-AT2pzKWpfRtxTIxthaG0NczmYGmtq_A3FFWsvM-0CP2B6XxodX1vJoh09FmjBANYKhzk8I2uPkOcUJA_o"
+    },
+	{
+      "id":28,
+      "nama_skin":"Valerio ",
+      "skin_url":"https://lh3.googleusercontent.com/0D3lINRj5keo03np9XejUjdjeyckaSP9EUTg-Hu5vlpyOqTM6VN3Y_I7QMebQPrG3y--UBOHLAR4rRmwsdNh3fzZnLIY2gpjiUA",
+      "view_skin":"https://lh3.googleusercontent.com/AK2EVbCw9_AISXATJ8hq-10jJuHj-tt5TwaVpMJ6Aw51mIAkALpHYmgtXrRpRof82c-c12uXiI7lDkwI_D9MSt6xfgvMes9MmiZP"
+    },
+	{
+      "id":29,
+      "nama_skin":"Nexdiven Demon Slayer",
+      "skin_url":"https://lh3.googleusercontent.com/2yvhPsQjcVfz1Ln1NJ3Voj-DZu4i8ZctANx_3brqt9N9rgd2c_wqoqsNNr_3U688_1dO-0cVwSp0I4ujFfsJxMmYh0KlGEYcss4",
+      "view_skin":"https://lh3.googleusercontent.com/vXckLB_Ces189N2oIzkPnzUOkcL4rYbnlTmCFOyskoV_w1WrsK-tkW9dekaLybFHkXBp1iFNGE8uwMMpxZnZjUUnvP_hzQ387A0"
+    },
+	{
+      "id":30,
+      "nama_skin":"Touch Monster Demon Slayer",
+      "skin_url":"https://lh3.googleusercontent.com/UJnfm3v0aNIT7UC0dd7ep3EsD0WfgAEh-u0RFoeGkd5sQZQOFUyjs_tonH1IpPDlrQgHHYTgdwKOJ_GG7S9r2auzYkGfKvkzUMmn",
+      "view_skin":"https://lh3.googleusercontent.com/3zeKnkUt331p-P-RE_Kv12CsFnzN_aCbRdJaEOFpGhk3vkLRZfDiyqls3zLcn4WTSChFbC9B8sWdENK9Zhl6WhK4IYDA5uE0LJY"
+    },
+	{
+      "id":31,
+      "nama_skin":"Azymandias Demon Slayer",
+      "skin_url":"https://lh3.googleusercontent.com/FSC6zHq3m8qxX0YiYLmfFRnxAE7vDS9mAyQkyoVS8yqjpPfIkxAJNV87UxLhXFa6zxZOqtvh_uM434ldhCLYBAoXrzM7EDAGeMM",
+      "view_skin":"https://lh3.googleusercontent.com/lpLmelJQKwApDBhGKNxRvxWoXa16Xz1cE38W4XRvzZo--9UGrm-LizOb1I3Bw03ATp8JCWqM3TgMbHQIRIepucjVn5ozbwwUDfVs"
+    },
+	{
+      "id":32,
+      "nama_skin":"Demon slayer 7",
+      "skin_url":"https://lh3.googleusercontent.com/d9_kxnbVCxHmAHDCCNq9a8sIERn3-c3JoZHOT6-RZ30PKki-WWHnaNN4uiaVqyvcAiApZbW6AjmjOLIQ7Rd3smlmqWHgWtAAv7tB",
+      "view_skin":"https://lh3.googleusercontent.com/HUy_bRQ1VskCsdzVnkwkU9xKUqjwzLx2arXp1dtutrON4s4qQ9YiQ-tjKE6NjH-Y1aA1nWJ4Yo4fv9SHxaxiuhMheaVhaxzkZw"
+    },
+	{
+      "id":33,
+      "nama_skin":"Demon slayer 8",
+      "skin_url":"https://lh3.googleusercontent.com/Ep9aQ7btwOFBSQQ3m-lqRFrCH-WHfdtj8egzkpTQ4pG3bAj24rl4QqqLWN3Dm1YvmzgDdaHsxr4ZxrhsEi7upTt4l41xp5hckuc",
+      "view_skin":"https://lh3.googleusercontent.com/2sJL_Rnf7mRt3o4zTKyxcTXuiYMNeYOxCvbAmwpjtd13xbWGEn1yt007YZHPgMd6GFDBaoRxsfzwEjDwFr96MWFti8kn_mYoTlBj"
+    },
+	{
+      "id":34,
+      "nama_skin":"Demon Slayer Slime",
+      "skin_url":"https://lh3.googleusercontent.com/13BbzqPA71dnKMnQUdD7rcB-C2RMgGljbD4DFhMFe5uou20vd5xpjSUQI0Q-iIUvoERsRtAvdvO1zHy5uY9U3K0ekxBEtzbDW54",
+      "view_skin":"https://lh3.googleusercontent.com/jceO0S2KnUybC8aDALBJILY9DfBlf1UQnDPA1CKQtEKuKQ3pM3d-nlylHMq6zspELIYyJhMWBmcq0T-HI8KszS-GeQOjtEKiww"
+    },
+	{
+      "id":35,
+      "nama_skin":"Demon Slayer 9",
+      "skin_url":"https://lh3.googleusercontent.com/io7VrS9DciHQZMAoEdqQWJfXAaLE0zJ_gXeGY8TFr9Wip59pHZi8WqCR81MC-sLj28mkyQOw4hfhdFtQARSYZ3Fl30_S4dd7qA",
+      "view_skin":"https://lh3.googleusercontent.com/0gNyHTvqNUeXYiwdQXTlVGjJ3bdGrsxvzNFaUZuhpyTsgB4It5Js0eFp8Fl1wHZk-XhqeY5T1mHNrjEwZoV5jhLSMkNVjrBzlW8"
+    },
+	{
+      "id":36,
+      "nama_skin":"Ezra Demon Slayer",
+      "skin_url":"https://lh3.googleusercontent.com/n269okTwUMuTjXbLfl2bSrWafrYjZrUcr32-n2eHG4-Dx_3flT4cJKnIRnrlqJCouR-pweA06DzW4g778uRiUYfP3xy9SLP0l1Y",
+      "view_skin":"https://lh3.googleusercontent.com/Kw4VAnGqPQIz88MCVynaQvBlZXecwo13dnu0BEk6nWqNHOVHmbLJe12XsuQ-EIYOGb-RLkP4XZIBwVUung1nS0AatzCGPIpCXBWW"
+    },
+	{
+      "id":37,
+      "nama_skin":"Demon Slayer A",
+      "skin_url":"https://lh3.googleusercontent.com/7qQEalQsUzWfgrUBpUMFB3UNNMew7-f50-qgnc4AHWXtbsYjnyD1qxRfeVZhThrsfKaJQlXry6-PSxJYnDEXmXGoEDvLU7-d3s0",
+      "view_skin":"https://lh3.googleusercontent.com/Sqv_SsYQwa7gh2yvm5YlLpLidcZpu2acpzc7ylN0oSFIyWGKuoTzYmWJdC2PKGzFR0IHne5kaowvL-j6D8srs9NhM135y11G-k2b"
+    },
+	{
+      "id":38,
+      "nama_skin":"InsaneArran",
+      "skin_url":"https://lh3.googleusercontent.com/0Y770p-RP1-Io06eKPyj8Rc-ey-2XQh7S6XHkb8iUfXUw45wPPVTmPW65XGsrZe8c6Xyd4U3h1bMET4c9XoGmYeVTWW4ET_k-w",
+      "view_skin":"https://lh3.googleusercontent.com/V8m_nqxtyvcJxgWHLZuVPsxQfXns3BimJfZ5WlBXN_K39nMDrVbHyO4cpTz4Rj8BZhhPYlDKRMkJoMqrLEC5J6oI3Maa1JswThQ"
+    },
+	{
+      "id":39,
+      "nama_skin":"Demon Slayer B",
+      "skin_url":"https://lh3.googleusercontent.com/fHu0zliEQgw6TUK_40Yy-20bEu9GrvVx3WxR5GnW9N1MljwtVUg3VKdexcAP2ZjPf-ohnuOXkO9nvDpXSXUgB-tvSlmFVz4I1BM",
+      "view_skin":"https://lh3.googleusercontent.com/3bhdAFJ9K01A3niefJ_G7GVPT2zV9l9ByEXdt5xph6yikL4TkVjsgau5HjyGlqAZVXbS6Ualr-vrEBVz-augNyNz-hK9OwM4Zuhl"
+    },
+	{
+      "id":40,
+      "nama_skin":"Demon Slayer C",
+      "skin_url":"https://lh3.googleusercontent.com/glVoifboIIJfmnQ36b50ci2fLD_iS7-U6gcB0cH6iwdt8uCLJislflXfNPJu2EM0kYOQtbgkbv4e-Jw-eZMNYrdrqUA9yLD5Pw",
+      "view_skin":"https://lh3.googleusercontent.com/tqYUftjTda2UwU7j9wIt3Z_wTfY9gNLlJo9vt3GnlEtY9a-XQq0Lo0LSyyO-5WZc41GWcyQne1E60gPIKMK5uPyOsEPfv6-D0VE"
+    },
+	{
+      "id":41,
+      "nama_skin":"Demon slayer Me",
+      "skin_url":"https://lh3.googleusercontent.com/fTsfFc-_0xa2KPsHuyv1k_tzQhL31CWGsSHKEWTaToJoFW7DHPL3okzaOe1PsL2TSJi_C04uvAmo6gsSIQ-BxqGNmaSV8H_5LOc",
+      "view_skin":"https://lh3.googleusercontent.com/_10UP6dUrzvxUQsEo7lInM2bWtR2_RgN6uGUZgvUXamY2DEL6hwPezrpvCC2YJQOFXrTDgDVvbLY_1XJUHdFUmPhYJ1nfnZEdGkZ"
+    },
+	{
+      "id":42,
+      "nama_skin":"Alex Demon Slayer",
+      "skin_url":"https://lh3.googleusercontent.com/aRyI8Qolncy5nR59-UUlmFeeGLEnoEbaKcuGHzJF48D9usePU0WUm_RjnDMVYPMGOirjDYVxfuvds6MyA9Vl_oyKK1FiQ9Q9-A8",
+      "view_skin":"https://lh3.googleusercontent.com/2WnKaqWMK1tw1Ep1iaHmmXDJ_NtSkIpWHOo-1DGLDWUGAVnns3LPd4QdHsjUov9GLwdc35GQKLpioUpf3GpyRfSjAnZnAdYsYxQ6"
+    },
+	{
+      "id":43,
+      "nama_skin":"Demon Slayer Black",
+      "skin_url":"https://lh3.googleusercontent.com/tqMs5uDjBy8ZGeHd2C35wogOI21rbEbwlnLtBxcBZ0ah8mZW_YW2XHtDmHK_QisSIJodQRVH-i6jxploNDIXYnkw-y4xkYI9MDI",
+      "view_skin":"https://lh3.googleusercontent.com/GUM3uDMslJEQOMsYylI5PfvuMD26s8yKgH0_HhsKjGP11Goj-9YWzVbPmaNFZX6hef088wN5U7AQALV3AF5ShxPv6sEnJpQcRZ8"
+    },
+	{
+      "id":44,
+      "nama_skin":"Demon Slayer D",
+      "skin_url":"https://lh3.googleusercontent.com/Cbqky_NdKhtiNzMEZJug6AYy4fPeERk--anTpDdFKLXTv2XYyNHEAtjR7BFiFFfgUjexwDlLzS8cQxuvO3_qOTJ2PzxwNeGykHzk",
+      "view_skin":"https://lh3.googleusercontent.com/AEgIkjlpdza6BX0PU5s9A49_dH8XD3_trcXtHLymBSbwX4PvBQNkw33cc8q2IqKOOru44HUz2wyhIqOkY0CfiDoI28qVclawcg"
+    },
+	{
+      "id":45,
+      "nama_skin":"Murata",
+      "skin_url":"https://lh3.googleusercontent.com/ZeSaJpdhHWcOMB3veAnGslEXl61MuanO-4_HOYIPq9-_a89s2f1dxrjfT7QD4qdAMbx4UYKaqjoVzRc2uG0zTyQ3-lLOI-XZSYo",
+      "view_skin":"https://lh3.googleusercontent.com/Ptbet70sUrNa-VoRJhNjDlEx_Lrqv1ImKWESiYXPvWHAT2icqIN21092uTSaWcDDST3abvQoqBjdtX7Bvba-pSO_dbDDvDqTtg8m"
+    },
+	{
+      "id":46,
+      "nama_skin":"Demon Slayer Nrkipp",
+      "skin_url":"https://lh3.googleusercontent.com/3oYnYR88gEXHGToR1uoPUpCPSS0W3akUMFlYQRwHuop-TKn32wn5KSczv_c57sIz-NHlYy4hnS8P-S6RluVe1UM5o2wOSUJrGB-G",
+      "view_skin":"https://lh3.googleusercontent.com/MWVn1dul2bl1EgKDIQzA8I_ilm5gCaoZjEWnajV7n1H-zVJsLVXmF_f75jT3qtnokWc-6KKGHmVzbszgz5kt3RBUDMrEgEW-hQ"
+    },
+	{
+      "id":47,
+      "nama_skin":"Demon Slayer E",
+      "skin_url":"https://lh3.googleusercontent.com/Gdb-k9AUyAW2R9N70DdX8Nua-6MEhytAE1CzE60scjbRiHQYAu6zrWjFia2e1e9YRT2poLJGXIHZq0YlOrzC4fZpZK5RHv2Hpw",
+      "view_skin":"https://lh3.googleusercontent.com/WhLmuek5KNjWvkCo5iXmDQQGDyk-m50dya3Xxspn-JCj-5hm2yvBgdFXJryqL97QMVH--l3Gl_LTdzC7-mLdNZpTbXQLecXdCQ"
+    },
+	{
+      "id":48,
+      "nama_skin":"Demon Slayer Meh",
+      "skin_url":"https://lh3.googleusercontent.com/_JEWL2eMyCAds5o8QHAhde2Yuu3CsU3al2dXuvmE9k1vA4jTE4bQWz3EjzGOIqziR-SqMYAJDfXlCrQfdkhg_YL2CslfcaeQb_Y",
+      "view_skin":"https://lh3.googleusercontent.com/Rda9jx1Fg2ZTX17a_jFi3wqtXoGBXD77FcgWcl7W8y2AWEIRv9AsMwjll53dgY5lx-H4YLtd5WNZXPaUrw1tIHZuxGPyUpwJPPs"
+    },
+	{
+      "id":49,
+      "nama_skin":"Ryota",
+      "skin_url":"https://lh3.googleusercontent.com/nYS-XlxIYxXvsAwabfKW-UJ6SsqV7J3DwaTYj4v9WScsPXdSqHwLB1ZVjXXzBgUhgm6aLIgfFhSFbWa4X1tfW3qgaGmLAsJHa74g",
+      "view_skin":"https://lh3.googleusercontent.com/HzslCjMLwAAPcESlG6dasx8UiNM6tjZT70BcNH-pZdT89lFAZowuQc_rtN5eq6pRphCzzQfpkLhUQy2bdYkrF0GIMm2P33VEAhQ"
+    },
+	{
+      "id":50,
+      "nama_skin":"Shad Demon Slayer OC",
+      "skin_url":"https://lh3.googleusercontent.com/QTX4b2OB0Yu0zaQ6o43cYfQlk_XbhP_EPw_zx6gYAsJBJ6eRss8jIraGY_hlULGM2Qz2ZWrtzhHHKyd1-w7oHlmp0tdI60VqRA",
+      "view_skin":"https://lh3.googleusercontent.com/MIiO99TJKWokENH2JJwMYu58OiarNExqfihKnA3qOr5dhrukwPXUdLxeVxBJ_sQtVdLVFHC6VONYIjU3mD2vzthu-o6NNlyG6A"
+    },
+	{
+      "id":51,
+      "nama_skin":"Slieping Demon Slayer",
+      "skin_url":"https://lh3.googleusercontent.com/vvtRrQLE2EDBv636zxDG2Tgm-2I-2Qq4EWgZ22XYbzkzls0G3FnsIAfWeViy88s-5ZzsW6pjPcposOvpPPaUgiuM8oKyGLVpYWk",
+      "view_skin":"https://lh3.googleusercontent.com/EIJagCXMcnh-dTr-gOO4DM1HKxDJq-a1YuTj_xRS3IVL8A2gqyIBv3LSUviVzTsaLBipUAxblGMi_kxZtsLz_Q2XuZ9blFZoLUo"
+    },
+	{
+      "id":52,
+      "nama_skin":"Noelle demon slayer",
+      "skin_url":"https://lh3.googleusercontent.com/WW5zT6j8G7LWaTEKBToOeip0d4LyEzFaRSQfnzRD0Fe-Rfu7YwFvDwW6rQTkp05_ByL27Pd8QHOkHWTEIfnucINI5_5pqADrhc0",
+      "view_skin":"https://lh3.googleusercontent.com/3V7XewWJKHRX6rsCGtAG7Mp6banZbfRdIs-qB5sAZtd4z_e7eRFYtM4yIG6EkDQZZBj3C_S7tcWvESqdLM5WRI3_8wWp36zHGw"
+    },
+	{
+      "id":53,
+      "nama_skin":"Demon Slayer F",
+      "skin_url":"https://lh3.googleusercontent.com/knKp5p4jUg5aLUFAzEyBxMcc6kYHd1-7GQcy0sSEr5t2dQKBfiQKGU0Ba6jm9EruEsZ12Vbh5Q6vYQBiAve4lhpWGMttjKCHTn4",
+      "view_skin":"https://lh3.googleusercontent.com/F0TimiPd3F0ThIBAsf8YRgd8a11sUzwdgafE5n4rKJ_N3a9TfBz0Ag12qu6_Imi4KuJRvZ4sdhv1WVh-R09oFI9LyV92Q3ksaZ3z"
+    },
+	{
+      "id":54,
+      "nama_skin":"slow demon slayer",
+      "skin_url":"https://lh3.googleusercontent.com/zijsyNzCpCDxfkr_L2WHRIbPdsGAIurrbZJDJrXfuTpyf9ezbxgcrR8lx6QC8Qwomq00rL4IUKfb-BpXkMAgI-vNWW6iH7SOZGg",
+      "view_skin":"https://lh3.googleusercontent.com/HYmY2BTvRygunSYeckFB0dKK03FKLLDHg519S0tnysy71u4mT7WjWE9CmiQCjHL_gZ5RFUK-AYFuUeD1ZGNChRXLHmmV4Jxc0w"
+    },
+	{
+      "id":55,
+      "nama_skin":"Demon Slayer G",
+      "skin_url":"https://lh3.googleusercontent.com/qkCI-_tJbUu6bnIuP4AU-m569kHwz66bLulntKl3KOv7CUoviRWtkea_U57EYuMCP7q5aOgoyQbDnqx6w_SKQTEusmEIkHmHhMQ",
+      "view_skin":"https://lh3.googleusercontent.com/O2TlJG10YVkrl0AqX1HeDNG_ioNWNySEoo0QarbQ_M1Qedwkyp9fL0NUka093U6KIGC2dNXKAXboxy-5qtn9j03nTnn2yuASZt0"
+    },
+	{
+      "id":56,
+      "nama_skin":"Demon Slayer Base",
+      "skin_url":"https://lh3.googleusercontent.com/_1Prfeavp4fufHkSKFAiI1jLPwbGDhhYHr_gtlEO2gjhro4lCIujvOuxD3eg8YnxM4QcwGIOYQkQ8pepiR3GAH_KK7SeZip6j1o",
+      "view_skin":"https://lh3.googleusercontent.com/aHe4laRD6Mk3cyVwkMd2Kc1fhKcJ2RGZ13WYC6F6VGUJFpPN7QsDOivSAD6aCncUmQpcgh9Zw5_ZVqa22fW6FYn1jY044_lQjQ"
+    },
+	{
+      "id":57,
+      "nama_skin":"Demon Slayer H",
+      "skin_url":"https://lh3.googleusercontent.com/bSq4d56BssdqBW7nGe9evbw0Nbuh2Hp7zrhHrrCAW37USgAhyrbWlLX-8jIBuDYzrH_bjGxukzCxOVDEqxiOhwT6NA7fhQ-BUM0",
+      "view_skin":"https://lh3.googleusercontent.com/ONN5ipsVgB3ByZMk_KTffcOr4S-orUBUT63q6RpDdExxX7Bjj9To97bLJsd_-UeQNCArQGJnfJ1s7lzACb5BatOHGnsnfa6xBAI"
+    },
+	{
+      "id":58,
+      "nama_skin":"Demon Slayer I",
+      "skin_url":"https://lh3.googleusercontent.com/F_O3BTtkmOP_9bseTVkXlRxIClEvlUp_Z_7NqBf8JeFSNaAh6JHtFCRcmdGPKR0ydPI1Cn3SDD7QIGdJx0L05Q4M6xjk9PWi7Y2b",
+      "view_skin":"https://lh3.googleusercontent.com/OInL8WD7dUO___2lxNmCUrlQzfd9Wuf7a0XYUdOvvENzpr2mI64PWZ5jAXMcgXjc6K1kPKWTupWq1_sGes9RYewxl6pWZL0B-A"
+    },
+	{
+      "id":59,
+      "nama_skin":"SuperMarcell Demon slayer",
+      "skin_url":"https://lh3.googleusercontent.com/2FXDiqsVM9Tdh1kxP7H98D-X1q1-6aHOKg93krXdQOKFz71-i0bSjtknFmbsAt2velL-gssLW2IWTrpbQxDqfuqGx66Cjbt4lHo",
+      "view_skin":"https://lh3.googleusercontent.com/q0cC0OwvgHKPo9q4kakn4BTrmwWyPAlTa9WOdHVnvk8z7SAVh3z9n6xK5fJaaoaL505MUEWLarc1UyuTcCbAMI0i6PCXOXHXqq4"
+    },
+	{
+      "id":60,
+      "nama_skin":"Demon Slayer J",
+      "skin_url":"https://lh3.googleusercontent.com/-rQVpsuUzu7OH3frCzZprQVHkwBVj9sxmlIIh69EY2x2HeoDjcy_OXRv_NfC35QsWmMPB7gNj8Po1NUPAJvA4UFp-wQicbuDGUk",
+      "view_skin":"https://lh3.googleusercontent.com/aoHZ7_9rpP7io9g37xav8EDwRcX9QrpRJ0q6uHz4myWxN1cye0D3aN9GtcqWPw2-_IUB5SNz9kX9GBZG669oCTZ05EV5n0Owpw"
+    },
+	{
+      "id":61,
+      "nama_skin":"Maluco De Demon Slayer",
+      "skin_url":"https://lh3.googleusercontent.com/1PkxsUuJ6al5tO4lqYjHsx2ji_2YJ9VIwQikxPBpWQ4NpxIUculaOaQodZkoV18Kg_7aXG0vmptErYF7jic1O4ZIrU7qdoi0DMLZ",
+      "view_skin":"https://lh3.googleusercontent.com/obH6SyKJTG_AHbXzlxs3KDk80EZmqX1wZfebaUcpRoHB24Z3vWUib14i3tH8IjpsBnmIQyruWew4i0jYx_ZIPLFOl-rS0RgQlwE"
+    },
+	{
+      "id":62,
+      "nama_skin":"Goku Demon Slayer",
+      "skin_url":"https://lh3.googleusercontent.com/Ta9YDMQfbfPoJygIhwqlMVSYXmO0Ql2-GIq4SXLGJDZneA25str-ofOnzfJXOzu5Ei8r2jAWNWcqBSbGw5AKgEiO2ztFXk7Sn6Y",
+      "view_skin":"https://lh3.googleusercontent.com/eO_Y3E3cuiCB6xG14gw8uGwpxqjboIyIzoNZW-EgRXFVE0RwuCH0qPdax0FpnINxutz7OlSWRHOqB2ahGHE6wnROkzNLGrhPLo0L"
+    },
+	{
+      "id":63,
+      "nama_skin":"Me Demon Slayer Jojo",
+      "skin_url":"https://lh3.googleusercontent.com/ZeH9FKqdRa4NeWVdOHqacsLzyBz1S2_mx61QD8hgiiofCKaw2VKNQm_dfun2EThZIG2eNztZrc9nRnLhwrjBoKKdQiZF1fC9FXwv",
+      "view_skin":"https://lh3.googleusercontent.com/lw-gQvNDJRQI3GXi7s4lsENVt4hOuZMs-t6pj5tcQ4LV0_SjGSy_5U6DRVBl1XHNRWQdx1AJ_b_81KqPj4KwkHn8vBn0LRTNkNk3"
+    },
+	{
+      "id":64,
+      "nama_skin":"Demon Slayer Z",
+      "skin_url":"https://lh3.googleusercontent.com/A9koAmX3ED-TbGWRQaJ7Z-aUA1TLGdCueBG1izWYAkBt6797KH5AZnySfkZzvTuVLS4ctJExHukm3a52iHoZKbJ9_aPsgcCXOA",
+      "view_skin":"https://lh3.googleusercontent.com/ON4-jb9pkQRsfprAhV5KgAetfhvPvguIWkNVAZqVcCK0VP4Y0-O2ObSc1VVMPUreE0Eo5E2OCxY4Cjg_Qp09-fG3U5DAyCzTZig"
+    },
+	{
+      "id":65,
+      "nama_skin":"Titanux Demon Slayer",
+      "skin_url":"https://lh3.googleusercontent.com/aDr1BD6SP4wKAG37T6A44EPbbHGDSXgWa8Jg56zodZbJ0J12DjYBPT9pOJ0sb10-ejivWdB9JljqJAReSTjcpemupkKNZ-IUtO4",
+      "view_skin":"https://lh3.googleusercontent.com/4mfWfyMcOrrYot2NuWqRc5yzbvGFbUmD-pzqR4ZtTTAcqLCZH4gr2EqI04j4UUR93OlHiWKOpA1MLXvimUCYxlh3dTdqBrtHrg"
+    },
+	{
+      "id":66,
+      "nama_skin":"Ender Slayer Demon",
+      "skin_url":"https://lh3.googleusercontent.com/kwrOkqAzbCXBH4FLHBcMFJoqGHkdUpyfaUkfbJGOa7XFIPy_rdDmHCdBK8GVJniXaG8GUURWgmPht5oDJIbfvu96EfFlhGsXyBY",
+      "view_skin":"https://lh3.googleusercontent.com/uWumiB82mmQMRx5M9z4s5jYYALrnBR2DAkelVh76hmPjq3L_nCzIJ_ywloOjV1G9bCgWWEeY4-NahFMkR8ToR_eMmf5MafxLYgE"
+    },
+	{
+      "id":67,
+      "nama_skin":"Demon Slayer X",
+      "skin_url":"https://lh3.googleusercontent.com/yVxS0BQrwtd1Fxx60U1wL7PHdXJ9TyWg1c4WK_sP5ipjShkI5ANlNungvLDLP291ssO0wrO7R8dpEC4uwQJwRHjQ_lLsYV4_9w",
+      "view_skin":"https://lh3.googleusercontent.com/mfV_kqEpwsk5wI0l3fX8FHoAF2ia5OOU_kTGeI60qxO7xlS7qEMvbD-UK62mcGb65x2e8rvuc0jeFr22fB_bgtpKVm8ZWZa-lCY"
+    },
+	{
+      "id":68,
+      "nama_skin":"Demon slayer water",
+      "skin_url":"https://lh3.googleusercontent.com/ANZQRSzxVlZahJtvn7baAeF21qS1UB7vsp1Px5d070ZbC7f5x0MhITblfSHTAYbthEm6Va-dF4ARwJb8Z9HmusnlaTmEOvZKAsA",
+      "view_skin":"https://lh3.googleusercontent.com/Wg9oeQGSu_pXiqBr7ripZy2iwpmvqXxqo2KNLKUz3FOf6gr5oSuEW96Mz_2WOjt4Kk1TMQcY0HT7QBMRCRZegvMCoU56J33FbVY"
+    },
+	{
+      "id":69,
+      "nama_skin":"MNskkrest Demon Slayer 2",
+      "skin_url":"https://lh3.googleusercontent.com/DLT_a6N35D2nKpMpq8jAPtcbT3Nj6LYNSccTomT7W-E7VJjK6UqxKrDkCOegaik2wsm9tKfN3FNt7KsKv0f_y_A6BkoZWuo8FA",
+      "view_skin":"https://lh3.googleusercontent.com/J0KqWIhlZXdCuyKT8srMDAkjnYH4t3SoX8AZ0rsFoI9NltSWL8rD-XIjx03ySkv7480LL3kGhEqxxHZQ4-K922a5e0F1Gj9lxA"
+    },
+	{
+      "id":70,
+      "nama_skin":"TrainorYellow Demon Slayer",
+      "skin_url":"https://lh3.googleusercontent.com/9AJBslmuYs5UXpeGas8u6U1yTfqHW8fOiJ0Nn_80BqJ4E7ECeHHVR0bYGLA4iPyE7IAstdtO2WzN9aVNbeEHColnKcDngBkbtA",
+      "view_skin":"https://lh3.googleusercontent.com/dk9cmgG0AkGamjUWt3ogNAPbwaYZJP_ARj8iRSYiWuR0d7kw-45p8zFSetqBcByP-ntagKdIlZVBZotjiKsLidFGnb9vVSoo-4w"
+    }
+	
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"Cat Plush",
+      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
+      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
+      "view_add":"https://aliendro.id/wp-content/addon/catplus.png",
+      "des_add":"file:///android_asset/cats.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"Hello Neighbor2",
+      "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
+      "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
+      "des_map":"https://aliendro.id/wp-content/map/hello.html"
+    }
+  ]
+}
