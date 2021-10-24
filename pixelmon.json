@@ -1,0 +1,419 @@
+{
+  "Ads":
+  [
+    {
+      "status":"0",
+      "link":"http://",
+      "pengaturan_iklan":"1",
+      "admob_open_ads":"",
+      "admob_banner":"",
+      "admob_inter":"",
+      "admob_native":"",
+      "interval":4,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":"",
+      "mopub_banner":"",
+      "mopub_inter":"",
+      "unityID":"",
+      "unity_inter":"",
+      "unity_banner":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "judul":"more app",
+      "image":"https://1.bp.blogspot.com/-GRF5s0x9sDg/YTzScDzfg5I/AAAAAAAAAu4/AuZxF5arRP0KDhXEPpsu4f-QQjrYiG8lwCLcBGAsYHQ/s450/1.png",
+      "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
+    }
+  ],
+   "Skin":
+  [
+    {
+      "id":1,
+      "nama_skin":"Mikecrack Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/vpDztKMJQhuOlj-_XjDyA4x_I_Hr9JjglESjRiXZSR7vvkIQswrsO2z2p5PzRb2ebNriJLYlR62vXs7OgLPEdb2xhP8Pf_w2fEo",
+      "view_skin":"https://lh3.googleusercontent.com/I18_7XPTZc4lLn20Pw-NqR5Gcs7nckKpQ2xAIiEeOCah0jeD40qQJS889KcScD8faPuZ_474szBNWYcrlKJiWn6GumbSPUgHxw"
+    },
+	{
+      "id":2,
+      "nama_skin":"Trolero de mundo Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/Rrol1p9_HODh45nltWf3BiOx1ViC_Td-TYEIeeFTTL8k2O7DiudKPz-5lg0XU-9zWUcI_T-SPf1aa47Yg9n5lECL0B6bSVCCxWE",
+      "view_skin":"https://lh3.googleusercontent.com/VeVKWZGMfSNxqTzzhbtBbw66MZvwXobj2ZDAETX_dwFN2_NkNGo30wQ8uWoJkgUJbXjSJbqa9aclH8C3nDKq301u1jSv-DfXT58"
+    },
+	{
+      "id":3,
+      "nama_skin":"Pedru Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/1S0_r_xAIXEGZ5vVR0yYEu_MCOT_Oh97tEc3JiDQ8xq8txdW7dUMGyYjRJYgPYgrfGG4BrKCA9tc35-HODp1_q1NPgtf8ti8mdE",
+      "view_skin":"https://lh3.googleusercontent.com/fxQkN69jekKAlQhx7CBixltV35BgLcK6cPbpjtsp4b2Lru6JkdFiAMg5vBuC0NOFl7ByUNMIWadufxYIQBX21MCRYnKoXsUx9UE"
+    },
+	{
+      "id":4,
+      "nama_skin":"Santi Bandicoot Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/Bm96-JyWTp7unlz-Lv4jS7AM12JaMtpqY0nZ6GgOryHuMW_uO6sluaWxmcuPNndUcCHLjChg3quaNx_dd1OPf_VetiIKJ9OcM-k",
+      "view_skin":"https://lh3.googleusercontent.com/QT0qI7F4EuYTrLL3GSo86Q6nE25KTQimoyVQsfxI-afV3xr3gJx4D1LzRE3xF_aKgUX0IzYK8gOnrJiN5FjQQg7ccbTJjyOr6g"
+    },
+	{
+      "id":5,
+      "nama_skin":"Eternatus Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/p6C8VUJYwlha4eLQ4pX3LWdZRoNn8PESt9ZZq9ZyatOk-_ulERowgsdtPFDjQiMK6QJzNtJplVrM9Kq01BeMnHE-sJ1weoiNrg",
+      "view_skin":"https://lh3.googleusercontent.com/0hIu1o04G5U63iB-sS7mjkoEQKwshuwLhS__XT08AUFa6-pjHYs9Xo74dikfx5gLE4z9UV7lftZDXDLQkix8vURx531yWwCbXw"
+    },
+	{
+      "id":6,
+      "nama_skin":"Jhony Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/PRb972MW9_jh6lsSYCthG4Wjy_pbrlrKPOLHtHSYhcbrv2_zTHbPI4Muj3XXOUuH7x2DI84CxYrtrVNf-RAcdwM",
+      "view_skin":"https://lh3.googleusercontent.com/i1SaezV_awSiy5_oRH_CWvscljxS8sM3L3XuufjS4Dhl4TuAn0-5ccm9otHPYya5wc2zs0O06_Ez_sMsLGDhLV4"
+    },
+	{
+      "id":7,
+      "nama_skin":"Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/f4--32c1VBf4Xxxh8E09LWAQHlpxJFCJIF29SMxeqaHsKP9aHE3H-jHpFlT2q2N5CS0xzYyZhf0UkzDtBxMk",
+      "view_skin":"https://lh3.googleusercontent.com/XoYEtC9SXXs_86fFYiH1NJoogLvAvD359SWY5lVSMGzTPq1PnO4xa8kVOVx0GLBRwfn0WrRmssGIy91jPNMI"
+    },
+	{
+      "id":8,
+      "nama_skin":"Slayner Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/e7dcYJFyo828l1d3fLMWLLq14czM4rBq_p8a2lNzStRdZkUwRz1OW1mxHf3Yy8YslSC6Zwv9B5bkIBZtkI9UwcClGkcof8n99Ro",
+      "view_skin":"https://lh3.googleusercontent.com/zc9dhZ4giR9y6ExQqS9bBw2aXaGuoDCNX6ZJli0ravIcCrIE-KjBRDrNPoe2hPpVgQmy3WdT3Od4NCCc1CU_RXTBe5oHc_QIbrmQ"
+    },
+	{
+      "id":9,
+      "nama_skin":"Pixelmon Original",
+      "skin_url":"https://lh3.googleusercontent.com/ToKMRe8fyvmW2R6rmn9SqUSg7VvE0Hlojxiqq4FU9dL01GYzfj_OYooBSkTQ-X1WQsDKYqQw6Utpq8zSunr0Oy38Af4CjmaT6JA",
+      "view_skin":"https://lh3.googleusercontent.com/0uoU__aFqSKqdq-ALOwPqlZhxlPZrADpw0cwXfIa_1JoBY54_-kY6MbA4A3QtSgaUdpons5L7J695DLtUCFGwOQ15_Uct0MIwhY"
+    },
+	{
+      "id":10,
+      "nama_skin":"Pixelmon Girl",
+      "skin_url":"https://lh3.googleusercontent.com/GePY4v4_UREAC_ZLexJXyW0SKzZy-Yr0OvFXaJ0jylN8qvb77ajmeiCYJHGnBRifS6HCe4SnnRFzMJnSKhCXa_cIky_y8Ei2WTo",
+      "view_skin":"https://lh3.googleusercontent.com/HSWL_DjQ9iUUNr_lO_PaODtFNYxKi8w0DCsPRADqoCzShNjOXnNJ5gVr-mjkZ44Dq4vmERtQejDkK0qZEj56eYUKu-lRldqCREgY"
+    },
+	{
+      "id":11,
+      "nama_skin":"Muxquito Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/VyhTcF_NvGPotfzkbXzRbAedUTQMSyeuYnChZjadbzkN62o0DvAlKtArcAYN3YkLhBdovl5jFJH8QmbXqzUFQjTNlWs4nV3IBw",
+      "view_skin":"https://lh3.googleusercontent.com/0rFsxwmTKWKQF-bXp-TlopZiNRDKn_tB3SVM55P3i24we6Jz7DIqBP0DkOrW5668e6HOuq3Emq2AW5MpbpGZhgr_Y15YloETlAsB"
+    },
+	{
+      "id":12,
+      "nama_skin":"Retxnom Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/8WR12zKNTp_Ax_iOiBsnxebcGOsZbq1qmI7WXgrauK-Lo1IHtGRSOEaYhClJVh54O7eG0x1-TNE_ajArDlQZ4tMfOaeklCK-15A",
+      "view_skin":"https://lh3.googleusercontent.com/oNh1sJ1kyXc3CLDfXKkJcpbN5Jj31FnU3Ja2YyLtlgLTTC8qK-sKGUvrfG0jngrz-6IoLXC0t28Uv7LzBvERJEDURMweS5HxXw"
+    },
+	{
+      "id":13,
+      "nama_skin":"Drak Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/We6uY03L5GhF-ZUrKINJu8BROFgc3WM7Ky04BhaRKLa1EwzgDvgmeW_xQo4mq7LOR-oj3KDuNmxbQXihcfxE7Fz8BL8_Y0yF_kU",
+      "view_skin":"https://lh3.googleusercontent.com/si8mNNKDjBExIBIqE7hlNNHxOB6L9PThRG8H7mVlxjPdT7dhm7drgxYJ2dCfJXg9l9KMCtNMCxMyO66a_I1h_hKzGVEDgULgng"
+    },
+	{
+      "id":14,
+      "nama_skin":"Pikachuboy Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/iLW0PEqzpmQZp0-pwSNuPFRvf6MgTFaCtL1qisxnKlwZKpEmiYT5PzSrLaBkc2ZWQw2ZTYVaYqbthQI2caKIddLc0o6buEQyHew",
+      "view_skin":"https://lh3.googleusercontent.com/bTN9G4ebE4pxNhn0OCvcWgp9yZb4zNtVXUqfPfvhHTlTP41E7MJChQJYJSvoPqvVag-PJpCsuvaowkhL-jLt7I9-U6iNa8gSN3w"
+    },
+	{
+      "id":15,
+      "nama_skin":"Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/S5ED2e_A4Nhwhs5Q3QVkyPd0n9lhV4HEbGFFGYYWYD4MyEWDhf7HFTIa4aMZgrTFZMR3XCmWQzb-Cz0PxZOZ6mXEQJ7EqDt_OjE",
+      "view_skin":"https://lh3.googleusercontent.com/y4GmVcSq7pvljl_wIJzedBRPA_7Vv7XT7q-Rf-IjLwfii2UzU6KDfWWPM5evdozxtrqPFKTTDdRoUS9JIlN7JXhLDG-LZARqUXg"
+    },
+	{
+      "id":16,
+      "nama_skin":"Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/5PJ1ZmOdWNhVuIoWX-Vj4RgM07OpHw5w-kWbk2hYMKXXQySU82V2FIfWCQGE094MxceDkfDreufdGJJnbiZSlAKMxXBzR2cAbi0",
+      "view_skin":"https://lh3.googleusercontent.com/iJRLiPyaKjAhRilopsxLxk24EbTwGJZoQZyjX4La9EPa-MgjxTA7_gixAN0J32qASbMlui6LKad7q17ml59WjKmpfta1ZyZ9kEUq"
+    },
+	{
+      "id":17,
+      "nama_skin":"Perry Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/jhXkh1asmr27Qdc9lg_JWJtrJQ7Hh-vFcTbwCSqBJp1l4J2LMB4_20eEcX0PLshjmBp2WHb-19-t6CHdieLjXjMMn6szXD2sw7xv",
+      "view_skin":"https://lh3.googleusercontent.com/cFtyocw4vKj1QcMBZW1_vaOLMvaNIezdsoG_HS89JM0pS3l2OeIND51eL_yUUxUUxhPrIEw6zaHWg46hQG1wAUF_Xtgw1oLGtEMA"
+    },
+	{
+      "id":18,
+      "nama_skin":"Naruto Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/JR6CWMUHDZj_riHV0fPEehNZm4QxNSSvrXmGJIm8OZNf7shdK0xpzE5doHloqHGHUD6BYkk9ujPiXhgd_QtrazxtRLCNUoQWzMs",
+      "view_skin":"https://lh3.googleusercontent.com/KYCsnVsFc3uaEEt5i-ATqu10fKQqN67VwN0pYlB7jcomRINgYqj-hHDKA3Dg5Mx5GTaHQDQouiAOtACqVPphJ8wSuuQEeOMlDWU"
+    },
+	{
+      "id":19,
+      "nama_skin":"Cadu Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/6uotwxwgB08xSIY61tVBvfzbS6y68sNfpWxiE4KsoicaRp_edM2oD50n9z1W3mA4NPcahQIBqhoLIclUndDZXnlV2RQP8OcMTQk",
+      "view_skin":"https://lh3.googleusercontent.com/uvSBTYN8wwHKfZAGx5ki8LDE9fZyAL0exz_FScodYJQCqVngZ2LMlyMg-HCA0qRAzG_6C8Ck9VtbL6l2rJPfQl8tHTV1wR18dMWe"
+    },
+	{
+      "id":20,
+      "nama_skin":"Nappa Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/VyVws_y5Eg2eBSRX291PZZ832j83SzaYRW8EUsx2Gq0jnqjD2FdbbVChFFoVYRjofdT6dsGJ5AVzZcE9K1C2JAQwu6ZaG5OUzw",
+      "view_skin":"https://lh3.googleusercontent.com/4lWo1b8a88Qq6oDQJ6Nzn3Q_he0NJxLzGjn0oxjCnnq42Gp8TP4hAy1Wb_-dzBAfsY0WW4K2DnhYDjuYjaGquFdBYG6Q0e4oEw"
+    },
+	{
+      "id":21,
+      "nama_skin":"Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/F1P7xLLxA7KJ_4t8YDhW0dwtj1jV2tT1qUMZWLS10NjZK9wZ44cMC3xV2f-db169_gvK9yFIZWoVBdk-LQjgP6k9PdnlP_3p1vs",
+      "view_skin":"https://lh3.googleusercontent.com/zJzJm42sLbhKWMOMpXpBxvTZ1xO5WJbTtSl-kwfWCzacqeauBos4m3rguHQKbJSRrxe9JHFttIR002Up6qJkSN1pGjcMaaCMYA"
+    },
+	{
+      "id":22,
+      "nama_skin":"Husky Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/ZoPFjJcctRjqdprUVQ32kth9xCbx2OeefOIc2_JcjTREfSuDd8KAEN0auUqtWfSfkOzx3zvJWcN3s2fLfktywl9f0jN4KJyoY9A",
+      "view_skin":"https://lh3.googleusercontent.com/prva_-65izsiMdgpHiLq-QqckdLrKmZJwBg4CgTYAKp_aykp-viJpIiIEajJ1DK2L4SUF34FX_aXMzlqmgqS5P9qd-e6U283-KTA"
+    },
+	{
+      "id":23,
+      "nama_skin":"Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/9A4yU5PGBEA85gi2wfivtd2JQ584Tipv1LYBcois2_g7jWfnKcx46ovo_T17b2A0Ez7jUQir1_Zxd7ru-iLj6QI35nePogMvz3A",
+      "view_skin":"https://lh3.googleusercontent.com/7L2VPd0gLAb9jabzMcxufUHX1HillEv3wmC0DiQzubDfeDWhm75nqISwnWIF2ajrd65GEANA__bbmiDrTCQK1HD3bIOEw8-NWw"
+    },
+	{
+      "id":24,
+      "nama_skin":"Bioxs Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/rX34bY9lXV6w9gH7Rf6Nx27ibTSBoYU_ymnEwyAihFEkoUYimPJK3PzGGbKkV0can145ronySHvDV916ggO4iNQuNCTrVmbKjA",
+      "view_skin":"https://lh3.googleusercontent.com/MfgKtXlz9kuqpiGanthY27iXzpekKSgH3SnTziKQ-1YFZ4oJBdZZ5dAtG1vziIX_m9w_kVOycrYP2EzSaFlBsim5Ow2pLfjy_Kj2"
+    },
+	{
+      "id":25,
+      "nama_skin":"Foronar Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/r89_0XP6HIMUUHcmpilBqUU8HpYh05bb16rnaDimFjU-dPbcUkVpVckHDHTDNMG5gutnGW3skuOhVg-RaVVJeY8oV8GvqUjD8jk",
+      "view_skin":"https://lh3.googleusercontent.com/IrMIPGk9zCxGfx2t-H6KPV76LP5TSQ8UVZXtpydihnb-Y_oXnWfk7vsa4Cov7dkTdOPHBJwtMthSP_CLicuSmW4JvGuGJphzcfk"
+    },
+	{
+      "id":26,
+      "nama_skin":"Foronar Red Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/hy2ICAHeDY5FFHkJ7TDvDMSWMLQlRB7KqSoWSkyghRzyM9HN81JSFqw7H9P_ZDeLO5mrZKcZn8u1Pb2-XUkL9O3ltjnzWUnpooM",
+      "view_skin":"https://lh3.googleusercontent.com/-M8z39av41XzHWjZMsO_G1tKdg1PsOiIEf9kwugD9vxHynjj_BFawYnaoizuenDV3n7tXne3Itk3F0fce9o3adodWR3ggCmdNc4"
+    },
+	{
+      "id":27,
+      "nama_skin":"Bymiant Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/IK_ud8c6eotvETPzYnGpTtP5UBavkleRBZHabBlRpjCj7PSy4-kqy0AgsU6EmjCrXM5sxhnHi_QOPpTrx4D1_X6u5y4foqXo4A",
+      "view_skin":"https://lh3.googleusercontent.com/YnqJFSA98w3iFW30ctN6yaiDXVuyHZyXy-xAM-pWip-f5eIBESt7MWVkJgmoU4eglXVjfPRmFJY8zUFPTeYCwjnxJqURpapEIB8"
+    },
+	{
+      "id":28,
+      "nama_skin":"Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/T6hGmEdFzSZs_14aX-Xft9FfeHMHO_JV_RqalYsuKrvM-CAZQ9iMdOydOxPo8iBcsLi9KfflROZxPTYl5HWHRM8Pj_ZLmkWn4HuA",
+      "view_skin":"https://lh3.googleusercontent.com/Cx2mHyhYIqifObIzlJ9Pc5XtyRkROSdkPwnjGIE16Hk0ngGLXxFNFLiZA5WM9wcu4y1u-raXO9RojNrdF21PdXhbuz3ZCbkZGe8"
+    },
+	{
+      "id":29,
+      "nama_skin":"Desar Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/ehI67aqRrDo1X7edoxum_ziTXwQS2HdFKcXOZNUgyc8v39pjr-GhYLLJrWrHPy48LBZ6fHEGUg_WbykR2sKs51HSI6DqJCxEaJpY",
+      "view_skin":"https://lh3.googleusercontent.com/tKzUZkSaArmItHEUU_ErgbSi9rr8U8lVCkie_BJlb1JI-Hf-1NlrAo7fN0d1IU0cIkf4IM46wIbuxJR7tbIQxAW4cuHv3Vqh3kY"
+    },
+	{
+      "id":30,
+      "nama_skin":"Mikecrack Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/wvcoIGmY83Rrej2T_dECQeFdHX1EJ2xMxx_-gi0VmJiyXOKcsDoV3PSp4riN4e3OMzXBFkVVGq7M9ehyMMIgwfwcqWnsCsx9_g",
+      "view_skin":"https://lh3.googleusercontent.com/r3fCe4HZl33OLuk8BcOzH8BkaXzjKf5F-aHkXuLm_4oXVenWCCZIz7gb_adD5qbwxLDn-ggCNkRTwj5a5mN2BoOiDGZw3iSAOzfM"
+    },
+	{
+      "id":31,
+      "nama_skin":"Eu Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/asSJo0HayvepBeuuR-HtBNfhj5LNRBMRXnGedFRq6YBxa8BiMWjHF3h2VeEmrnSoivgORsef4hufVnMtEoeVSK5UIl2DPMGIios",
+      "view_skin":"https://lh3.googleusercontent.com/w5GEkJmdkR91ZaW7uvhmTzjpwBdrCEMXCLp2koIeoyyMP2bcgE90mbVz8VLhRbtkkvKyCPM56qOjsbKdFXocFRXX14yh1Pdki7k"
+    },
+	{
+      "id":32,
+      "nama_skin":"Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/LWl0-I-E4Frer_bTq5rUHqRxkG7WOAUP_-wHhm9oVkgW_NOX2TK23iPGj4k9tG-DLJ7jNeG51yJ6YXHzJ6AcBzZcTJGal0yrDIM",
+      "view_skin":"https://lh3.googleusercontent.com/_VkR4j1-A0V6OFAxIWOOgUAeozwRd3v5QrZ4a_03K8H8no93DdGou0kZk-RU4yMMC7s1fjxh5nnTn0fdiiNwLIYHTDSWaQvqmw"
+    },
+	{
+      "id":33,
+      "nama_skin":"Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/4ZpxIiHP_axUzEcyjOVO9HHz71S7Wsu93bnQO-UGPIODSZ94wbbL4sZTXaisVxUS6ZVyTKGdzfZCydZKf8DnneFFeh2iUBLa7w",
+      "view_skin":"https://lh3.googleusercontent.com/EozMRihfXkaZBP_RZ_NvVJbvle4XisIRsmJKbqVjC1KP1IpzDF--PRgcbZk6a1o2IO364AKfpi9EoV5ds748I2OztSkD-SoQCg"
+    },
+	{
+      "id":34,
+      "nama_skin":"Galaxy Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/aZrIWL5NKTt8ZQV2n-sgSo4jhYwlgKT8o_lhWPKK3zhLjK6StNzQOGCLKnmxlqTuzTYSbwyBb941VCA5DOuHCUZ5UDKR5zmwbB0",
+      "view_skin":"https://lh3.googleusercontent.com/1NjRBiCuvKdzY5fNE6naqyQ14cx4B8XdTIB0sz3bnPFlMUaTpVNJKp24I1TuykDzLeKzG6wRACrvykCSXfxqY4YH4tFKivlVO5TM"
+    },
+	{
+      "id":35,
+      "nama_skin":"Termiprador Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/j41pv09GcBYH9z56eIh_qRdfAczK3_nTU0jOMRvdRhOnbQ2xDOwap1eky_HqZC7BqoL4ZNtQitkJG35xmktpQhnZwtBJmqA2j78",
+      "view_skin":"https://lh3.googleusercontent.com/KgXSEP_oOrIYdJ1xRBig8ERpYATBALc-ndnxxFjrkmC-49PxBj2BxlOBE42m6s8fy2sMxkA0r66zfCpnCA-G2Ui-VgOlw_T5X-M"
+    },
+	{
+      "id":36,
+      "nama_skin":"Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/XBI6SlS1O56aZErzVH2sx-wh6SGO-dK1iToCHJsvz9aEETtvfldXVfGk3SKo3RFEUKWPJVXGdr-7jlPzeGHHL0jbciCFEBq5KJpR",
+      "view_skin":"https://lh3.googleusercontent.com/4C_MzZD8kIiTRBbKLgQOMm7sQ4DZ1rOW01u56BrEKMaosXe2XzPLlgvcTLB72Dk4tOMfbKarlxggnObrrURLTKEZbM-9e1xJGho"
+    },
+	{
+      "id":37,
+      "nama_skin":"Xamas Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/BrRYqTGTdbZZ61ofPpL_Ebplv6xzIp5enAK0ftx8y3xFMMLIQs61Ja-7dC5qE118d0uDRn8UnFl_C31nj9A0ZURIWDZkhsThxg",
+      "view_skin":"https://lh3.googleusercontent.com/xrztqwsGteDcleNT5gtln3-Za-NcCEv3iEHdbEUlUIcyDDIEk4BtBjmEFI0XJVvwkNfJZssxXmD9D-hj4chBQzP41uiNgJEUw64"
+    },
+	{
+      "id":38,
+      "nama_skin":"Special Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/bWJrUxTJmUuC3T2KFfK0dbrXykuDsSzSvmFIpI_MNbYYRM-BHnTTa0AE4E4p3_Bb9rWSuA3pgoSZ0iMFu5vMRvwHF0wgQcuYSJA",
+      "view_skin":"https://lh3.googleusercontent.com/NkM5uxPxuxQDuGBeWq3eJ96tIzWBq2oM-CWupskTMTlkczsrUtcwHJnTfm_HmufQpBOxktrdPf1N5_7BFytanioBwfr53UbbsEa0"
+    },
+	{
+      "id":39,
+      "nama_skin":"Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/PXTreFJwN18lDWJ6BBN5sVku7wTj_MWeHgkjSxkuT159YXD44yPnDoEVP6Jq56JbuNAO311vjATCoXd7L_X0zMPvbc9x7W0-bQ",
+      "view_skin":"https://lh3.googleusercontent.com/LIi9EL5HuFmT-6RiaGA1Nd2pJqqNbJXTXZULMBFR381-NC_QbWkvLhCfgYZTZPkWDVFIeRDrAGASGZu4TfpfOo2OIupw2EmjIME"
+    },
+	{
+      "id":40,
+      "nama_skin":"Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/jqvm69kmlrHidh4wIsUptVxJDZwLVmIXt9KuQBJNQmYgqoXLinxIdr1Fj7UQeuaRwe6xUJJlI5J9XImKLQZzj9NSxkFl04H4JYtf",
+      "view_skin":"https://lh3.googleusercontent.com/k6voxYofUTFbhfTcT2nVcI1oEjZH54iu_PiaP4OW32DToFQDOgyrJNjU3-45eJJdPeYrGiQDPSny0IRsgXH5e6tKvIaeNqBFdVI"
+    },
+	{
+      "id":41,
+      "nama_skin":"Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/5rNr_8Sr_TgKeSkMxuQs7WtuMdQBqe53mBPpYuV91uaUO8MWbTcdj7h3qaQlFYCK0tgOFY_XkdulKU_UvfbID94YDn6ZPU4uUA",
+      "view_skin":"https://lh3.googleusercontent.com/vBL2MkT7_g0gCKfy0GiHlndcvUTb4n3UnTnJG5LPEi1QHNpKX2b1qPwbWRUqQhQVF0OG2_MqVHhmoNqMmbsK1g_V8YdkqMEA6w"
+    },
+	{
+      "id":42,
+      "nama_skin":"Better Kazumi Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/fLIWdemgqGiWPW1SWCMim9YMgYSTFmqPQQsotgI2PigYTwUThC6QlRZWz_BclEb2Ioo9t_HfvhqmQfYRnisMqVQdB3m2un10og",
+      "view_skin":"https://lh3.googleusercontent.com/Fxo4amFcTZ8AuxQl4etMAXQo6FOr1f4I8dKCtAAIj3KNAb92SgfJp0PWPNMNfE7JgZ-SCyiMgws6KE1z7xTDLMnC5bo7eEYkuQ"
+    },
+	{
+      "id":43,
+      "nama_skin":"Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/w95R_mB8RcNf2FBFCqjun6yZb9Ksim_Zb7ij4XD288Y7XBkEKkoqBaJr2MDKOAZUBau3x3hfbmfu6McAZ-ZOZ2dL5C2KejKGKw",
+      "view_skin":"https://lh3.googleusercontent.com/IBMEToTFejQ8UjoQPntz8JdAGsQT_vuuZnt9Cxb8jc_XmVER693RkP1T7RCCcnvenBrFHe2KnDHkViDoxN37pKO72m3Mj-K_QQ"
+    },
+	{
+      "id":44,
+      "nama_skin":"Timmy Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/XUA8rf0gjWHiPeltLz6-Qkx8ROAnyWCMdiAUtBI5sjggoUe96M-H6rUJ1HHfsCdz5ZzLOogu8TYZpEO0nibSs-yeIPDwqhLiTg",
+      "view_skin":"https://lh3.googleusercontent.com/O-LL9Sg4LGKO9s_FnVntoJDadsdkbvKPbx02j8qFdoSf6XdshWeeVqN2PE7Vym7u3kDPgBZ8FDnjzck91uDU2biUnZkyeGhwC98"
+    },
+	{
+      "id":45,
+      "nama_skin":"White Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/SA9cEdOvra5C-HT5VZceVkdU-BYxd9sIPoUuM-EkWfe8cq4tCn44FDoTDjipqX7IDakua_l45iVJXwl70xfi5RCDwrWfsBUdJ7k",
+      "view_skin":"https://lh3.googleusercontent.com/q7GJzyFqUJnFrencXiwPkL_-2puoR--tdThRuIkX8FI2-4R6ZT-3QcpTXKNx8XclW_hYxMBYAqwb2WFbFQZ1w78GfeRzBQwEEXA"
+    },
+	{
+      "id":46,
+      "nama_skin":"Rett Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/kDGpRhhUBnvrS-O2uaHDMWjZzuAg1_VPtT6t07uKGljY06yQ-ejLEXH4U2bInGpXcKgz8Jc-aJI_ITGnkCwEBVrC_49OPQo_I9g",
+      "view_skin":"https://lh3.googleusercontent.com/cqbpoImC5XqJLaMbXm_7AaPh3jlG1zsjPbdYDTJP8S7JZhoUd60e2WUCVkwmitL64CMDmJSvxK1Ci7LHnCo1kAuDbugtyQKDBg"
+    },
+	{
+      "id":47,
+      "nama_skin":"Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/NJHG2ucsMajNYnkSaBpVwnDh091ae1fPNCgUw8wp8LntT-JeF750gfI3-5Eipps6jfD0Q4YXoqEvvB97f09r7hiUPR1IiKFvRQ",
+      "view_skin":"https://lh3.googleusercontent.com/NfvLaqwSxbWO7rcbFzol-SJElVBhIAfbXZWzKaBOxQFbMPNGQhgB0OGV3B6WF5R90q2ScMqqUIw6UhvWtw2qEG88nuglNBLVXg"
+    },
+	{
+      "id":48,
+      "nama_skin":"Rex Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/KTMhO9N9D69NLzcR18qS27_lb6ltrSDF5aNIL7Sq8g41g4EYmGm4oaI6IgOMWdtRiN9GYAJtSD7DZnfACIE9XYWQdQLUsSTYfg",
+      "view_skin":"https://lh3.googleusercontent.com/aTOjI_E61_SsLg7DWBrNAvAr_ESnRlcJaSJNl27fIXKrEsCtHlB_F6pYhDOANcCjcDy3HebEkC_fs-FElRozHL8GXZ81_L_l-Q"
+    },
+	{
+      "id":49,
+      "nama_skin":"Tormenta Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/_CkFZgrg8EDUJJX0v7tPKO7qC4wKcvAuuGqTikqP9PgGIYEGfWjzmA_i-5ZQyUXEw6OKtdGy6k8D3F2nKEka8iw2gkAJnmiHmtk",
+      "view_skin":"https://lh3.googleusercontent.com/iT__zrw-pizHqg0PerISYnXdoJQixeO4H07ud4ppgC7HKqc6utkeCroOI9hdX_8Ek6n9ETYIIH_CFAz598UbVoS3IGoqGiXZOhn8"
+    },
+	{
+      "id":50,
+      "nama_skin":"Ruby Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/k1auIS4v73zHX6bX3nNA2-e-VBrFXex7PUEDcY0mvCOQSZZhQSuXZ_5vlxYrBxZu2nbX13XrOqYWDUzh8u7ro7lFhMzIN6FVcBY",
+      "view_skin":"https://lh3.googleusercontent.com/893Gj1-gb3rinxemvVIHFkRNmjCPN4w1zEErrbJQGjZPz91XlM9TF59hUzomBuojRFRjDDhZT-MoA9PCzCpHctycMpfY7KFG2so"
+    },
+	{
+      "id":51,
+      "nama_skin":"Agmo Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/U2oyKYXR_3dAWgRT3p4Uxg0Oixg1wsjfTzRAs_QIyEiqNcHrW-1z-ziEnZdIxufAUtufPbz3Yih-bhQMNfDk44mFmsUvtJJYxg",
+      "view_skin":"https://lh3.googleusercontent.com/BA3Qy9A2l7trF-VDPANgTQ-KC_ayf_sxo1MI7VQjDx1Xhcp80JxV842Fm_f-yiACSzSRznBJcotEs6stv6iKS3zB2Cf2K1iN9Q"
+    },
+	{
+      "id":52,
+      "nama_skin":"Kidd Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/D5XgChNIjt6dEFs_Yp9BSV6d8ZN1QU2WrqcRxz2un7FZQcwRQ1qd4BFsmX2-wleR_pMcGU1AEJ5jwqn1nMQX3fTR9Z1dIQpTWQ",
+      "view_skin":"https://lh3.googleusercontent.com/JNwbR7vffXZzNZwxzEHkkp-daXzBFUcnyXChAxWAMU2d9AJELRhO8ChvQobspxx2SG-6THfSOZ6sh7izMY8G796HW61w3bj0bxj-"
+    },
+	{
+      "id":53,
+      "nama_skin":"Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/iKIHqU_VSkF-d63cMV9AocOZ9QKObbkleomQeJxu9jREHf1T3zdoJDwiMZ9pmbq7MxwuHuhtAxhQcYfUi5M7eDn6Svu3HJkGDdA",
+      "view_skin":"https://lh3.googleusercontent.com/NeG2Wq4PwU5l9h1I07bI8S7Ue1_0x0HVbQqx1ihU1x99oucmaOliDSqVFt7-USZ_IiWmroJxS8Q3W59fQjj4nSJ6r1tUpQ082iom"
+    },
+	{
+      "id":54,
+      "nama_skin":"Tamaky Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/DcMfOFEFzyjCe8BJwg7FDvHbiMJFSiOnafqwYXJ_WIGVl-ZtJyPDnx2aMDvDQf2hPhPFfGgfUQVbroFgBfFs9pG_lbOUd4Oxzo1_",
+      "view_skin":"https://lh3.googleusercontent.com/0REoUPL9fKcbD6-3NzvGDT_YHdVoUFRU4_ltyfHUGXeOGvokXeZE8W_PaqySugbT5cbqOf2jAjrwzXiLegMFvzxYpkkxovJV-A"
+    },
+	{
+      "id":55,
+      "nama_skin":"Marcrex Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/3Mjw0wt-z27OsCK_eR4DBYGswPGhzOKCnZAsUU28ZuhcktiylHm5onis_K_VibK8i8zNfd5e7xzqd_bDMF342qFjW_lWGb0LjLry",
+      "view_skin":"https://lh3.googleusercontent.com/OiAwy37zp1gFlK-Jmo4Kigd8C8gBA2J5uetmKMaE9F-uF9XxslaHeugWkZ4rBI0H4-DK6nrAHu7739tY0w7ZgP5ljYbEmX0xFiCc"
+    },
+	{
+      "id":56,
+      "nama_skin":"Santublax Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/hoOdYdSjFNgYXMBilJ9cLjsFmNE1Sb8rZgKfjFJkvKH9hcYimXhxNao1aZheiVTDdRfXZWDErA5i2OnmAC1zgxs0wmOEAWlOFzU",
+      "view_skin":"https://lh3.googleusercontent.com/azHhbYixOPIkwsRYpcfH5zzk4ZDzsnTLPR9ivMQ-nesQ30yDYzLIkYqPu_5rrzI-cW7zrw3NZvD3XOaiYITBuLbg6q9HtkrPy6Cy"
+    },
+	{
+      "id":57,
+      "nama_skin":"Marco Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/n6Qz4KLVerZByKhbnrBg7y40xF92kQtssAsGphd-Bcs4A1SJY2ffWIK1vJGj90X0UaJE40h7MCB4UzJfni5wfXC4oPsdTeYoSA",
+      "view_skin":"https://lh3.googleusercontent.com/3wGdlpKgCXcwqoDPpKaX8uYkgyBMUkBUdMY8iUdg-fxuRkLytzYrDInVdPAHbX4YjZoj0Q4THj4s6noH3DF1UmjEZwUD8T5AV860"
+    },
+	{
+      "id":58,
+      "nama_skin":"Manchi Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/IhrAu5qdDOZbOutgX1KMiT41bWyykm9U2COb8L_WKXtvkfcsJg_hH6dzDhBREtccLqquetQeB40qa17II_9jwT8lx9tsEyQSOmM",
+      "view_skin":"https://lh3.googleusercontent.com/XDSwIFU3oVrOUREvFgEtKxEynFDjtrgg6CQO3z9CLVEIRalt2LjYrNo_BOOmJtBt4WgwVJP1-MGzNsgvgyIC1BO-BkIkTSX5ebg"
+    },
+	{
+      "id":59,
+      "nama_skin":"Adriyoplo Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/gdjbaO1ZiMAoU1xMKp9j-EO7PZsSZ0iu8M6ivrwMT93Gzj_XLKScwHLekOcbPbQYdek2pRBOl6u61UJ9K241fpjI_aZZfWXbiw",
+      "view_skin":"https://lh3.googleusercontent.com/3yUONC2jwIRMYTQV1CKCz75rqT9rHCEFRIH6ue8NUI9WNE7azbrm5_2Xs-qqDjMOrORIGBBAXsabo5wOCnYR_XjNfI6TS7VkI4U"
+    },
+	{
+      "id":60,
+      "nama_skin":"GG Pixelmon",
+      "skin_url":"https://lh3.googleusercontent.com/JascPwsw8tLRCXmPLQSUHqZJde2YD9Af3Wi7a80QWIPlG38Y2yjJGIr_Dd6kl_SOEYTyOR9mV_TE4dX5UlSRe-wn_guz2BFzEYnh",
+      "view_skin":"https://lh3.googleusercontent.com/fWQ9oVX36Un1huVHUvsb6MQx4XJHNJgIgcv56StSnphpOOP7ETFtcTziEpzYnzW0UDluFUr2ZpRkasML7fyrI54B9KWXohjYfKg"
+    }
+	
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"Cat Plush",
+      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
+      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
+      "view_add":"https://aliendro.id/wp-content/addon/catplus.png",
+      "des_add":"file:///android_asset/cats.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"Hello Neighbor2",
+      "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
+      "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
+      "des_map":"https://aliendro.id/wp-content/map/hello.html"
+    }
+  ]
+}
