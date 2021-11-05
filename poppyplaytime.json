@@ -1,0 +1,311 @@
+{
+  "Ads":
+  [
+    {
+      "status":"0",
+      "link":"http://",
+      "pengaturan_iklan":"1",
+      "admob_open_ads":"",
+      "admob_banner":"",
+      "admob_inter":"",
+      "admob_native":"",
+      "interval":4,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":"",
+      "mopub_banner":"",
+      "mopub_inter":"",
+      "unityID":"",
+      "unity_inter":"",
+      "unity_banner":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "judul":"more app",
+      "image":"https://1.bp.blogspot.com/-GRF5s0x9sDg/YTzScDzfg5I/AAAAAAAAAu4/AuZxF5arRP0KDhXEPpsu4f-QQjrYiG8lwCLcBGAsYHQ/s450/1.png",
+      "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
+    }
+  ],
+   "Skin":
+  [
+    {
+      "id":1,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/iTHC3HcYCy7dusQQ3HVHnVCZF-qukabEQwdVDd64T_xkqaerxtPO9xJ2bLmUN8Ygv5EmrNDuxl_2Oui6u-9WEL5K1LArTHEFdsw",
+      "view_skin":"https://lh3.googleusercontent.com/7JR0e5RF3ChaOvUx_zLfzNhLtQG3nxc1EK20-4L-Okp0Yso1jusxC-oCRoT0eUwKTMC7t5diVx4FQEqVV7EBf0GI9I0aSdzB7QM"
+    },
+	{
+      "id":2,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/ozJ0ZHPVag815yBQEX9Rt89qL7N7ZOyHB-7KYxiYmzdSkqR4aPdW7mzXrqnojxJAs-R51LghooXKurPzaMqPUUp75tuCml5Jo6gt",
+      "view_skin":"https://lh3.googleusercontent.com/opjYL7gcZKduwi1vjJfST8jaWjpDHZuxDLC-mCK4SPdUIkfGUpWVeI_CyPQXAvishMD6e3qWe5saAMYAEim2IFe_3Hm_yIJ1mADG"
+    },
+	{
+      "id":3,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/Tyh6CM7WEetZ8Hb1Es41VfYLXgsmlB16fKUiJYKl3VZxIdwH1_Yr7oawpL0I_Lk-8WtBMIxkl03xuFoVpFC7xO5PPirZcq5YWj4",
+      "view_skin":"https://lh3.googleusercontent.com/mOeT-D-2lALBIPEXbE9os9pzmqe_tFA40FPkOFRp-M5XuT2uW3u3BX9RKNaWfrGKBflRhXSq15_CRNoxOdqb4dVqYjUp35c4TTg"
+    },
+	{
+      "id":4,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/ZWMnRHY8Z-CJ4yR5i7sTF8rv6G38otKOqTzl4RW2zwxBBoA1q8wqSaEEyw4vLTLRbZ0dY7DfuVO76PSauO_VbJ3OsxwQbb4d1NQ-",
+      "view_skin":"https://lh3.googleusercontent.com/lW79qRgpoVjNtkcIldVZ7RbWMYP564-PnF2db2AyvTp4_QVVQv-NFPRq0H1FFDSZfahKZBhnlquQ07AL4CgnbT77lnvauqpdCq8"
+    },
+	{
+      "id":5,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/OXWsZZhKYmPR8jwR3EnWKUwWgC9mUocXVUwhw9x6RH2IcP4g9jG0jZ7KOLmUOvw10Df7GBSeZQagmezO7iw5gcE-dzXnl1301JHX",
+      "view_skin":"https://lh3.googleusercontent.com/0j1MmMSSo_dOMb4kiLzPLDemMozn04EeKX4hGEKtSIHbMHAl3pesBEo4_7nKLw3g97PAaQzTFLt78G9deUTrBLpO0qnWOrcuVw"
+    },
+	{
+      "id":6,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/rgsdn5cCJEhQOFLVoo6gspPEMlu1UaIXP3ETtJixNoBPuG97Qvp9gK-v17jSkZdebdBsk3SVisnKtoM58jKf_29SnjuHTsKzMdum",
+      "view_skin":"https://lh3.googleusercontent.com/9pv5jnzjsyTuIN6toUCyNgpKnPuG0QdzU-2t_54I8_dN6O5C3-Am5JJ8KHUvLwB7jO2bVgD_uYPb-V-AO2iZ9TQ8AJWnTpV0VpU"
+    },
+	{
+      "id":7,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/-wnBXCtXpgHRb6DT3xMqP-t-pNsrhtHckRBxqaGIgmw1qWxAPT8h9kNSwYbp2_T2ICgzR6oCq_mUQJaHXrFer7Yx1olHvUW2dew",
+      "view_skin":"https://lh3.googleusercontent.com/MNWQSboEhusms_LQIIWWJYEBx937nu7VOeET85NeYMDnSSwAzzBQx6IcPhu5rzqTW2MemcRdgxmOKlMMvipvRoFhxlYTnICY5o8Z"
+    },
+	{
+      "id":8,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/LOOIGhNsDJoINchYV9rC16lfqxGLXIPouCTh1XcekGp6pbIQAA98jssZiSPX53h9XKfyfHjQPMi6b7WL9iUJKM-8JfD-f6fMjto",
+      "view_skin":"https://lh3.googleusercontent.com/2M058WfxnxPau5aHbi18nay7NPLwpQzf_gs-fV3FEzHVrMTPSK-EdRxHSkyKkV5PMvSJw_0zL3teVxzYpcwMS8hV4F4xcBH5FPw"
+    },
+	{
+      "id":9,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/Nega2oU01lPdntGR1CJGEfGDSwa8W0tBzUsGLvXHAD_kTXeDrAIVsv602VtriLt-2uIbWtXoHnybXOYtR50WPrK_MiHKzMyLWKs",
+      "view_skin":"https://lh3.googleusercontent.com/TUKsx-Gr6fiBJSLVvzKOpHQqs7CY1myW12CPtU8xVwPWLgVCCuT2H3_4j2m149d6lCpyCFFTqfJAioln7DfLQhYb8dtkhfgCSHs"
+    },
+	{
+      "id":10,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/EqPdqEDaCGsv29QOOueTvlSUSoF00ZqWR2ZZ8medw5G-B5gvH4rLEJDbXV_XVvOlcNadg6kLBpWgxJRuzSgfSwTr0JvHO5DJjwbG",
+      "view_skin":"https://lh3.googleusercontent.com/JhbIQ0SFz0V-X4Tp7GtKuVUiT6QS822oN2m7c_NyNoD1Y7O6SC5EJM_z_t3_YIvS7TclK1lJY-Sdn3oorUH0cDVeaCnwZN6tk5eA"
+    },
+	{
+      "id":11,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/V2H5xep6QD9epZMgFYliIj-1rTToeWY0NFKignqrSGT_EFcmSc__R0A4o-WRMO0tW4Fphwwx9S-ALJGI0YCl2lNZPzmNPz0YLmk",
+      "view_skin":"https://lh3.googleusercontent.com/lPO3HHBto786NCVvlTRZ-DRA0wD704qgyu007lWYXk-6ZCWhe7ghJ8KPGeJN4SwijVGLs3EcCx85FLE-X8SHzaXHjMbAk33zP4M"
+    },
+	{
+      "id":12,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/iRLHxkILqDPdSpa7CBWNqIKOVpM7DCtG5p6DKV49woiUoWuRdjIHK6QelTVHtCOHiSJNj-rTXTCGCdRtMswPYckgip0q9hSmxfo",
+      "view_skin":"https://lh3.googleusercontent.com/rYCV2nv0_AUm8I0JsolpzHqz6BIeFZ7TuUeueeWD84_CLvJj7Hdv1E1O8U0q7mWhEE6nu2ejbpfKagbTlyiglLxuaWCLau0UnE0"
+    },
+	{
+      "id":13,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/b_5Oak7egrT30GHLRpXMRAeDpFb7zkiVF6w76sEQGp1NCuyZm1biLgx4cqYIrh34TPt8ZFj9ACNzRS47sfsxgwj3lln2ykQa0Q",
+      "view_skin":"https://lh3.googleusercontent.com/QR5yP624CWBR7XLAqXphVytCb7GV4rfSKfGJSyfpwdFO7KPNB4Nv2rZtXzIr1aaVQc7Jba7hAK-lsbRsA7m1mEyZAGAV3rf9mQ"
+    },
+	{
+      "id":14,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/9mSrVb2uChbakQyVh3CcbJFJOurINERMgXZLD871B_ZqLmvBBQ8aJWCcamaHrLjJxgbrwSVHaBSUJO45ZL1WyVIB6szcsiyv75U",
+      "view_skin":"https://lh3.googleusercontent.com/0aMIa3xHba4_gZETP51EFkK9S_gdiLR7uANoTpTiT6sxj1Ws6VVrP8z8A6DiXl3LRwC7PqiWdtBn9iiX1eYVAPKf_plXBb_totQ"
+    },
+	{
+      "id":15,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/mhENPTamhUlcS4vUcfRd9YGx4wXWqBr-qherzUovsA__7zC1dG-rnqkstagWgRVQUH8FsVrPeuPdRfo-mkK8t-8enPgUX1GcFn8",
+      "view_skin":"https://lh3.googleusercontent.com/VQTl6KXhuNuWAgyvs9CGfsSYHx_7yr2flpqnQvbYgmrM89xBWT_BXo-6jtvbLX5NA6FgqXJ6kehdEylIysy2YAeybegmw3Kjag"
+    },
+	{
+      "id":16,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/EOOuE_HGU6uhjBmi0_hTRSx1_jPahaFloGu-CQHBCcgaYkan3C2u7nvGn0c8eN5k9ONtqrGh8IBeSO4GGbm9RSYFu1cDXVjwPQA",
+      "view_skin":"https://lh3.googleusercontent.com/41CwgGR3chU6GZbylonmjjG5okf_NwhisJo0qplYveYkuRYX128M4OdOMdcPArq0gCUfT7IGPxrjxOVQZgVOwtUqPkqMp792GNM"
+    },
+	{
+      "id":17,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/2ZPrkvU2zbve9H5FHfvWtgJi0x7yDNTyNYEwGer-5T46gMcYgjJGowlVsmqFboHJHR1pgU1zrnX_3xqBGAjdOGE-MxScWPuskg",
+      "view_skin":"https://lh3.googleusercontent.com/hVbfE3PvU-J2iqUbEKfazYSVP7GliMhRUhvSzGamKxcmi60KuZ-fLiWvg7W-0zTpARtGX_DovnvTJ6s7YGFoKgBF-k6UwY4vU2g"
+    },
+	{
+      "id":18,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/zwdoA4SAxk8bi26OmBFnbvrt52DaDG9NcyOw7vGxRiESRpgAOAxdlcK5zTu1PX0CyhG7-irZH-XNrSNzi55K2_uzQ9kvDq0Ib2U",
+      "view_skin":"https://lh3.googleusercontent.com/MWe6yu6oxUctzmLnroX7L_-AtwAtTW_B_4wovKRpBlooX4iJzVfz0UQ6__9liaGem8THvVPhkvTZQbeQvaWC3iUbOqXjmNZX4So"
+    },
+	{
+      "id":19,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/TVIAdd1Rr2uLv_PxA8w6s9AUJTH6ZzFfk3_NI3xU5n8ayrSAHD_YMuy78vO_LHAtwyVKf7tk2UQirA1zjb31UDTecF_z_Jzprw",
+      "view_skin":"https://lh3.googleusercontent.com/iv7z6cGwTS5hMF99WaW3Dhy2qwYgWuOxW4IVV2Q-nHgObsHe0q56AbN0SQbxk8XvP9Lr6kd9Sk8Zyb133DaHRRmTYooGITY58Nxr"
+    },
+	{
+      "id":20,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/D7s9TUtL5rwiXRz-wcHcrIUvM67rfOQaZvsO16p7KVecrK-k--nAeRKr4CfJPfZsuJHLPGLe3GGEgtcy5FttcXIt7D9YY0Oamqo",
+      "view_skin":"https://lh3.googleusercontent.com/LfZ5Dk4qh90PGPC8zNMAsomQrmq7fSs3BBWi2GzgDD00WEgrNiqv2cff8_TLR3XhHat02dCy0Y63xrU6tUE1NT7UmzzyTT_vdGY"
+    },
+	{
+      "id":21,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/2BWkN-MjFnsMoM8VyFVckgi-NPywHR2ZTIorDlf-5NB9KIiOFeQj_BknRiewSa20XD02qEMg0QIYN286u43KwzBHCMB3c9UxRxA",
+      "view_skin":"https://lh3.googleusercontent.com/D0tCXgm7qNgJj0VoDicpr2y_xZbez8wsb9zFOfAkXUn9EKdfM38tAQdheA4i4NhweVLKWa2JurxySm2UnBjPh20d0aEW_qMWf2Y"
+    },
+	{
+      "id":22,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/qMoauhimcMIYJ1y8ZqySRIW3NT0pgOSZ7IK2HMpg3kp0iF23BaWrpHxqJhzFFK_ytgnA1vmJbt65-y7h0RV42fDJbm_PA7DjmOfS",
+      "view_skin":"https://lh3.googleusercontent.com/gwAgGvYgvyUojk9JJb5vR4kDvGM40gdrwCESnLbo8iM4Hep_BA3Xml9wZ5G-JTg7zhKGIFBY99XX8bNHtzRA0k8DyIwBaIRAoJn0"
+    },
+	{
+      "id":23,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/FXTQNSi58oK0za7WK2ZiB3JCMEbBFzbJyIiiOidatmsBoT-fMHlN2yFmqyzADhJ7UPYKN198-hBcIkvgIviOoqUGmQlAuczRTtfW",
+      "view_skin":"https://lh3.googleusercontent.com/gEgrAGOrcd8tjjA67zvqW4ifx09fzOnjUPI8Yi9PtnWq7B8v_fRAnynJmEESgFJ3C95dvgxIqyCAvjWmwO8smz0HcySmq9Jarfc"
+    },
+	{
+      "id":24,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/Pjmcs0yX_XnbON8OHULyKIZmh6FuzDgCPhdGUdP8kHwB7ql_ri9i1RJVLSIYulosOozAI7vt4zTJFshctI3iSEU9160QfRzxg-8",
+      "view_skin":"https://lh3.googleusercontent.com/J5aqsuB1SddPHWuKH07OEF2FW-MZdT9Zr66Lzw_6O_Mwj1HpQIOEzy043R79iJ2FfwHgeWRI9968VbUxGy4jcMp1-e5idNdv0EaI"
+    },
+	{
+      "id":25,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/BYKaiu1XvvezmPKl3DrjYRZ_QWl5Nw1H-KrH8QgtcazPOv8gcIkoNZ597ADzHcwJTDp89VuT7Oh-8juPTQoAw03KIWCZywZ04nU",
+      "view_skin":"https://lh3.googleusercontent.com/O-rwfv-od6_UF8MX8rrlhI_Pw8s6UXoEQp4fvfpYLuus8Uur_zoASXTHvRMxDVxf38lqUwjLvgDIb_yaxuyppKyB-ZUZ9fVpMzP9"
+    },
+	{
+      "id":26,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/zZQCqo6kFdlc-F7_0_C6n8wVeIAvvOp52-93hPnfNmajAIC3dBldfRV9K7ZAoCTzcS1Wu2I-ctU4i-MwkNLdQS5WTTHpd6VxC1c",
+      "view_skin":"https://lh3.googleusercontent.com/TOVT5Rf9uHxuEJyjaoXwddYPLVA_yCsxkQlPksv1QUgI8v5OzuSDkO-3JIDuoRzrjNkWh51rxe6nNHP_cOGmKTJWWKob_ue6dmY"
+    },
+	{
+      "id":27,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/rMMSMlcYxCPh_gsFoV66kwkZKotVfcT796EEGYLwWIhQaF6lKuEi5z4TsFv3tphbEgUqas38H2FG5IDj2c5kYCBkqvUdaeioxW1y",
+      "view_skin":"https://lh3.googleusercontent.com/fbo0C5XvtB91RuX2x6sQJODgXDH9CvmaAaKKeJ95LYUgCE6lI5yxAEp-UVVl1T4ug369StVlj6c6u058mtJrSLbMH3I7WzX6"
+    },
+	{
+      "id":28,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/EdKe3wUPphxk1Xww74F22HAuRsHnP3RySrW07S_doNfo1CSHpxSZPsD5a3gkxlPmAEJondUORjML3SXVA01WstVrTSwFMbknFUVl",
+      "view_skin":"https://lh3.googleusercontent.com/k0Kw0QiOK64JDXjbnbYxBWpSUheqaaXHaWjfVImatcWUBaTjEZOHA-7vtnrejls39MwwOE2ITBr3e1Ob7zYShwKl--ZBANYY2g"
+    },
+	{
+      "id":29,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/0-fgHr1FRC29EuKuXATppsbLDuJBchPrcQgAHUgZnE-0zJlE-xjAzDe6yzNjk8-4ulRhoI2LbQzL25-3PyRXE8NbubUTfSPBKg",
+      "view_skin":"https://lh3.googleusercontent.com/DNs_lw1Mb1sgVLbyizDD3n-vDJa6CxodbiA4CxbFGHZM5kosg7BpfvUY8lrEYpZRQ9bXBSjn5_bopeRGlf2JEP0FFAYuwljVzXv6"
+    },
+	{
+      "id":30,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/SDtgc6wFdkpPmypZVSemWKfIKWlUc2-I9lagiGyoeRf2U9s2vCPzKfp-vtMGlnGrD0zdKHxp661TztTSnb1lsQUEol12nkkYsg8",
+      "view_skin":"https://lh3.googleusercontent.com/1i7ukmT8y3IK4PF0qKnE1LxBMBFCXsCNxpwwsaXZfpa8hBsZ-VxYMPeeVby24DWMmPS3ccX_1xoY0kxctZOUh8Dk-nwloAYkFQ"
+    },
+	{
+      "id":31,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/nEvU5u82nwtINSk3I_dg4tj_ClSq6Wiqq2wuQOnY4E3LGmh9i2ir2Um_7ohTtKT4Tv3OSzD1X_BwvWPBveNScHhuONVTkSlljnlk",
+      "view_skin":"https://lh3.googleusercontent.com/f60zA0PJ_0RR0kt5kw1oEVoCDfkYIsCPVzK_yoFx2krArF8ZFbfWbmHTTvuRUOgy33L6TumKrsz1HnIcKI2K_ONeejdNQ4IXxg"
+    },
+	{
+      "id":32,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/7sxVf1Khvm6NsB2nwn6tfgV7uHO-efnjwIP0ewjsQf0ZVdnm6KpUIJKj0PpzcmRpCmN-Lt3RvX46cPiT4RsaGZhY23eTvsHxoig",
+      "view_skin":"https://lh3.googleusercontent.com/H-3jBdRNbper16qZ_rSjimJVemHrnzPc5jXCocJYWgy8N6ZylUWAK5KzPtaE5w4OijFchLPmVg4cqT840O8ENvefOy5GfKRGk7Y"
+    },
+	{
+      "id":33,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/F7BhtE3UnqS4GggVaejBchouBkk1l-FqL4yQ3e5fwsDS6FEBWnuRnNQ4m5gLYopxKCLSfYsaQKGJmOGvCozFFPQ0KzI8ODz4-V4",
+      "view_skin":"https://lh3.googleusercontent.com/6hGVos27pnrpc6OnV9CENN_jH3zt59e88Mit6L1odaRODKNMjzAjCnhvBrl0PrDrBw2NTt0klTfLbzvHaC8-2jNfu4sofU4LIQc"
+    },
+	{
+      "id":34,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/k7iYYX7viKvnCnZ4wJXTMkf25_OP4zUizgrl1NAaH6ImJRoAbo1cC2WpkemDmjrYxhxydujmH6gXQSTZIoo5Z5TUMVWL-q2U0uM",
+      "view_skin":"https://lh3.googleusercontent.com/13lzzDCwLwPiKnX8Wi48veK0XrFW5gLOVKVKQbpxCpoTq5tzy_gKdRJXlmk30paKFfGxJ10eowdifHuOSyH1SSuVmbnZLlEvJ7Y"
+    },
+	{
+      "id":35,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/mLZoYToE9x41FyP_cHAR4fncj89V4Dbj7nIvZaMmFv7F7cvnKtYKwP7rhuPPZujdBnNpdN4VKEsckffZPQzc_OtwxkiyO-LPKMM",
+      "view_skin":"https://lh3.googleusercontent.com/wK6FvCpHvgeSBilZC_q0Aj58YK3urB5gmEBXupdUZ_PoEyo-5zBbiFjIIjD0BUJqa8_Xaofy7fvtXMXHgWLgvFc4UVoXqQObpg"
+    },
+	{
+      "id":36,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/CJpl_Wi3KWlY3Bzu9u5sdWqu9u2AnHuUV_5Rf3WgdYZCIXyGvxnLxkVUiq89IdLqJG2bcngA2LOSUjZWuMljps3pkL2uAkFRoDY",
+      "view_skin":"https://lh3.googleusercontent.com/f6btm8a8cFw_aKZ2aln0Nn35tuittIbS73vLZ48fiklzKdjT-5P9Z59Hk2DSToLjajVE47SXJSThoBwW2ycWRr90MPRngU_QcW0"
+    },
+	{
+      "id":37,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/nGtuNjI7zXdWTSx7x8dmUOTzuZmanZuKXNHxDc11_T40askrHBzqAtKrMhPHVS13a92oMMxrYdUfZpQ-9Ie2_N8d30gPJWPDCBQ",
+      "view_skin":"https://lh3.googleusercontent.com/n0PacH0gfOGkg9AocvVBNCnCJxpPC3Ar7xn0SXWHDOLRH9M-yacXQki9qYvCKLreA_Y-rJg8rMZgV4vHdOvf516wU9zyhyOkqHI"
+    },
+	{
+      "id":38,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/EaJTkPgiO01choFimpqD_ZRr5SWPeaUwCGggCb4rvQDP-Chi1Wp-ZFp34IUGSA2rqrPd_SwEWe_8F4OHpQYjw9o33QC5zp3oVw",
+      "view_skin":"https://lh3.googleusercontent.com/WBjL31ZUGsSEkfELFsuxtcrvblRwkVHKyUHEtjlVj6I8oQEYQptM1UTbnC-wyO8GaGAdERupu0GReABbnICsQMh4xxGzJpLY7s6z"
+    },
+	{
+      "id":39,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/Pe6PSNK7lskGCSb0sacuMI2k_EKz1bnm1jV-A0H-zS--vapq16VMIDPeahXnNq68KS_bSA4XKprwHt9u2NHuYE3DAd0WLvuVDR0",
+      "view_skin":"https://lh3.googleusercontent.com/2iOH7wkmtZoyf7a2NvXo-Ip_TwMhhYwSOfgo4S7s-tvjn9cfDYOK0kKDaml1FN6L3OHLDQBvF-mR1FqNxTF85_ipw-uQZSLa9_Y"
+    },
+	{
+      "id":40,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/a8WQkdXnwjhkJY1BiZF42c5w9kT638VtOEdXm5dpmT3PmYENuyA2Q5dR22j9D4MoEz_ZWQ0_8_z-K5IaOwDD0uiEj_zHGFuOrMk",
+      "view_skin":"https://lh3.googleusercontent.com/qJGXy3MxdD9iuRyywtacz4R4CTW-R0ARwtsAGco6mtt_fM75aI73pIJXd1jmS3LMMRX-yhfB7OImkCJsumeEIi-jNnQKOcWBze7l"
+    },
+	{
+      "id":41,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/mkzfftJmRZVcz_2Aw5Zsy7tjJSlU-gVTFuJczv4IP67EhRR3QLayCYQHsaC5i-sIKDN6wsQxkBVRprGUrM29HsN3s2rDzQrjhUkx",
+      "view_skin":"https://lh3.googleusercontent.com/A-7h9UfvQ5cTj8EaZ0bdBQ43sgXlyo-zS1wEIkN9IQWXjmyrFdgzNsdCQ0D0blPu2tEqK8R2TZgfLckKxX9pvDqbDDM4SpxRa6c"
+    },
+	{
+      "id":42,
+      "nama_skin":"Poppy PlayTime",
+      "skin_url":"https://lh3.googleusercontent.com/b0KcECsz3rYhngUFlnlZrceKWGyozm4v4aTLWlrb6nJzrIWAKGUVtG0Nr6xaS16_cdJhQuNDQIemNORgYR8sDaRQBAbyUR1ntXQ",
+      "view_skin":"https://lh3.googleusercontent.com/97vXyrYFMdlMfm0cAhhRT9KV3sdoYfw91J7QHQB70WXX_Cvyq-b2jMJd7xgO2kcSHqv7jaJrwHWjbv2FWM7kg5m9V9Nc5q1Jf7Y"
+    }
+	
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"Cat Plush",
+      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
+      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
+      "view_add":"https://aliendro.id/wp-content/addon/catplus.png",
+      "des_add":"file:///android_asset/cats.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"Hello Neighbor2",
+      "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
+      "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
+      "des_map":"https://aliendro.id/wp-content/map/hello.html"
+    }
+  ]
+}
