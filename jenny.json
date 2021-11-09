@@ -308,12 +308,21 @@
   [
     {
       "id":1,
-      "nama_add":"Cat Plush",
-      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
-      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
-      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
-      "view_add":"https://aliendro.id/wp-content/addon/catplus.png",
-      "des_add":"file:///android_asset/cats.html"
+      "nama_add":"Addon Jenny 1",
+      "add_url":"https://wedosmp3.github.io/imagecreative/jenny/addon1.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/jenny/addon1(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/jenny/addon1(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/jenny/jenny1.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/jenny/installation.html"
+    },
+	{
+      "id":2,
+      "nama_add":"Addon Jenny 2",
+      "add_url":"https://wedosmp3.github.io/imagecreative/jenny/addon1.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/jenny/addon2(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/jenny/addon2(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/jenny/jenny2.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/jenny/installation.html"
     }
   ],
   "Maps":
