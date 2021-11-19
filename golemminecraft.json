@@ -1,0 +1,430 @@
+{
+  "Ads":
+  [
+    {
+      "status":"0",
+      "link":"http://",
+      "pengaturan_iklan":"1",
+      "admob_open_ads":"",
+      "admob_banner":"",
+      "admob_inter":"",
+      "admob_native":"",
+      "interval":3,
+      "fan_inter":"",
+      "fan_banner":"",
+      "fan_native":"",
+      "startappid":"",
+      "mopub_banner":"",
+      "mopub_inter":"",
+      "unityID":"",
+      "unity_inter":"",
+      "unity_banner":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "judul":"more app",
+      "image":"https://1.bp.blogspot.com/-GRF5s0x9sDg/YTzScDzfg5I/AAAAAAAAAu4/AuZxF5arRP0KDhXEPpsu4f-QQjrYiG8lwCLcBGAsYHQ/s450/1.png",
+      "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
+    }
+  ],
+   "Skin":
+  [
+    {
+      "id":1,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/N9fPOY2PqbpxT6t5uLJ38SUOIqkDgpKXaJzE4O8PjlvoOvDk0ablpFLLDICxgj5bC_1ld4KMX21nWiEv5Nm3FQ",
+      "view_skin":"https://lh3.googleusercontent.com/8SovlQ_5Vb0w0dteP0aSeOlqZ_Gjut7wbBxLlqeuS8r0hXdOg1cTocq73BUf_wfDJoI__FO3xNqU0lRVu1xl"
+    },
+	{
+      "id":2,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/wZm8p8yBbtZxQI94OTjiYTV7FMApEmNffqF0KxUuVc6Gf5tc-YtLTKwzvcwYgzTfRI6XZ43Q18HoRttokLOl",
+      "view_skin":"https://lh3.googleusercontent.com/fySV7Z-HB_hYjTfGHk8QhIATjNTbUvhHaP1987wXy-PRcZv6JyMdhOCdomgFomoR5Xk1b1UGNFk2Fzc1Enea4oM"
+    },
+	{
+      "id":3,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/L8hlwQlLtI5TCYeLEtn83cwG3WU4-Oq8qDwjdbkpIRhEozvOr3e5Ye52Pluuhocno8lMOoAwMPG4dtyZ5MIW_A1JL-EUm74px2Q",
+      "view_skin":"https://lh3.googleusercontent.com/CnWkUMQqCNhgw6vDNSFjiKzLVfpnRz6gFBV7M-JqDjD5_EaQjfhgLsePMg6BU908ITjB6kn5G-A8ch99APL-lmXBkhmgqYH33-Q"
+    },
+	{
+      "id":4,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/V3ukREfgbid3_RLEVHv3ulwkuM7GqRE3Gul_aPRmvT2NINYsFIKXTOruwcKzlB9sDfd0PmWuT-M2j3AlL8n2",
+      "view_skin":"https://lh3.googleusercontent.com/ooGB7GJGeJyDW1FQ3iq0ACggnWaF-You759lr9y20fMSVx6Dvk_lN0Sqs6lWO491XGchJQ_jqKIi-CjUWl5M"
+    },
+	{
+      "id":5,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/XTpaleGm_67sIxVvYlUVRt7P57vRA81etE2FMMIwbygCmMm6VP7bKiTLpfpBglCR2YxEl06eBf4N9NV82ejn",
+      "view_skin":"https://lh3.googleusercontent.com/haOvax9nUlxNAA-NLboy7mPpUBhSeXBbs0vzVq23E5VmQfd7tDGVr0S3ke-ShR7FblC1F22eWoqauiVKdRMT"
+    },
+	{
+      "id":6,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/CVjPXBpikCKs8p9hkeOEfgA4qKGL3uKxj10fP2Mf2G5tDS41HU_Itvu_bfMLN_rrx6CM2t-v00khGJswVMUsdw",
+      "view_skin":"https://lh3.googleusercontent.com/mom1gxBEf5bdoYONq4A0hMQ3OvRs8jEZvsAdT2GI8BT2_i_iZNkjaHW0UXPKvyBy3tGaUonVPyW6VAFmjk13BPg"
+    },
+	{
+      "id":7,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/qVSml6tkLJGw51XiaSVz-6slUckC9XVHM6wTx5puTmhbLJE38YBtHuSYYdQEDRk80PCh7l-W4H76IsV8YbcW",
+      "view_skin":"https://lh3.googleusercontent.com/4mqyOxI63GE2a2ZBLYrMppXzNUPtgCmRbCziYcGdEjw8xTOgzDqIAHvaeVSbok0yJB_EliM9USKu575xExzvhQ"
+    },
+	{
+      "id":8,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/ZVFKV-UFuSce5euWQN4fNH1kLVydOlLdvJyCI_vyX69Z9F22Ou_Zw9yQuAaQfzlxfUtELHEl854tA977ndvqVQ",
+      "view_skin":"https://lh3.googleusercontent.com/hfHG1_BRs0RI9WVdfngEHrKmPb9sd8i8qupDLk4CWI-gidVNa9Rnnyhs35WriSPwfUgkFv4OXrZzzfturwMAsQ"
+    },
+	{
+      "id":9,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/jWt-AVW9z0mlH264QF704Rmw1VDhCx2vHOJR7vFvAKGpa0srEYyKB7JNBFhyxSTNFHueuxdnqOCVUlJIaUx4",
+      "view_skin":"https://lh3.googleusercontent.com/LjyWLIiJofGvAzuOh0kC_XS0wEOOr7gMHMhS27Zxc3rHlppC6-wQDD1VMJqAnsnv3_mbLFy3qWpB_XOiicdwfT0"
+    },
+	{
+      "id":10,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/JUSXT83HKXxhoTNx4vU87dXzKmqlrIp1ei0Lq2Ndp2JsCk1CfCe7uOc8EOLpYmfPs1f7Q1xpEMhQAfVVrxjx",
+      "view_skin":"https://lh3.googleusercontent.com/EzhN0YfclfN_F7k5Yuj3yqSQ6xJGAU-Qy_3WP33wWriVtt8V5r5ALU52-WRUb1mqTGcGOxU8itqAvM4vWGZRsA"
+    },
+	{
+      "id":11,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/8IOUZOH5vR9KXIhEToXH0cq1xnxkfVr4j71BhHxxZZn9KYfR5IJ2c-EQjz-roNpduW767H6ufl-b7h153UPbCA",
+      "view_skin":"https://lh3.googleusercontent.com/UZseoCTBlSXlbZ0POj17saOe3mr_7AfgI8p9-MB2UgKXqx4Rrs80sEHT0Q-u2tSHEoOWGAxdRiz4fqKR0gNW7A"
+    },
+	{
+      "id":12,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/WTbSChMuP1tjKUZd7yJIClnOo0pZq7T9xtLngRKbGcPrrmgTFcQDy-5cKnGiotFEeQ-J_GwUj6ASjCidID7J6A",
+      "view_skin":"https://lh3.googleusercontent.com/WIfMIxx1tGMyegsTNO172P0NaB9jahjUxd3fBGq-VHQ9Xm1yrrpw_3ZSILst0H0-0PkRE8Ne0StjG0yIRG6a3w"
+    },
+	{
+      "id":13,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/yWgFRdQgmXMa786lTikk5RwgJ8M_Qe5Qzlo3IzcT1iNcpHgdRQd9mtfurDqDNSStrgtzKEmCf3JNqvEa7fih-A",
+      "view_skin":"https://lh3.googleusercontent.com/MeTBpGQHUW1e3So1xRmCjOODSPWGrGoT_tcKp0hZtg_ICdfDKFkpY32knwNOYyFc4NJrFmvfLt_PMsHEs1NRmQ"
+    },
+	{
+      "id":14,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/wqVTIJewIcpbG4GkGz3BJKnAgv4vJ7quu230vwv7dsNG6K7BL-uPiGRVNENY1xrnHo2Cv5ff9SFkPc2hhiZHv3Jx1QPu8NfiR8c",
+      "view_skin":"https://lh3.googleusercontent.com/H34euro8rMlt1gjvRAjgwOIMJhIQ0IUqT0vRbFokjnkYaz4Z7Y_RAxKXvF2THRcFs0borCgCsm_QDxKYqwJ_NRuz-jtOiWnRCAc"
+    },
+	{
+      "id":15,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/dW4UkiFmUVQLy6yxsgJeKGwUp6RwZsH6qXssDYaiV9XdEqJub20knUV5TxACBe-Q79nVXSoQCPMbv2-LrYaqXQ",
+      "view_skin":"https://lh3.googleusercontent.com/kRoqWSRZ1hMKIc5xxtyhI-PCvHfBcst-_i5IpIimN85NmBNKyEgkubCg0SBwOfxZ0jkOYufT20qd-_Ra16xv0A"
+    },
+	{
+      "id":16,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/a04drndhSNsXZgzOaTNTfZyVc4_wxbiAcdWyBw6qkSgDR-gfXaoVEb8yxHzcqG_McJL3bcenHPXxUSjQkRxmhRE",
+      "view_skin":"https://lh3.googleusercontent.com/L5JeWy7_MSbYPRYxTRD1nQ-uHVNJ_dQawpaIcEZnhE6xl3hPZUQPgC2Afqk-FqtkP4PGqanasIuSSz69u7bM"
+    },
+	{
+      "id":17,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/r9I7uy5_pODgGBU7j4f5qm5i68g6xXiFWC3FEIMV7GDwLUCtNbL6i93F2msibe1cpIW9H7qNlKe9zg5NFwtqDA",
+      "view_skin":"https://lh3.googleusercontent.com/5io5EXRLldViqph6cuuHspz5PW1RcBp19Unk5GFse3CN9ukr-Sdje7EDvcZYL5gNnJ5rr1qknoZ-6lty6Dc2Lw"
+    },
+	{
+      "id":18,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/BZCnqWu6ivREjSdmjC9mA7rzfrlA96oFaGUMBi-SzNyIcpWhDNZQo9mF9i290hUgKZPXWoiFDWXdo_FzXQKs6Q",
+      "view_skin":"https://lh3.googleusercontent.com/vo6cTncZzbAnAjLQ8vMn9qwpKvalwG2VfEjw5w-BjQqQ7PDwAMDklkrkfUZ-LftAL2g-NfpiTpm6YNDZorTTdw"
+    },
+	{
+      "id":19,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/EE-3QLOnTZJarHEcJQuLeYERdylRAc-nZresGLtVOEZVRY7TRtAiMk6A9e2c4s1lA1i5mBcC2E9vxb1FZEHW_V8",
+      "view_skin":"https://lh3.googleusercontent.com/j5z-Xncc8TFeZ7cPbNx7qc53YFeQbwz5nWpN_Qy6GqJB2h5Pj-XI2kRRIIpYaFjopRdFsoPeAFY9DQ5quwsZ_Q"
+    },
+	{
+      "id":20,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/BAyBzrOAi8lZyOIGnR_B2_A-vbshg1Eslj6qB2CvcHn11vYmjVHIFrOt2IKe-Q1VmvoKRl_R-tsLm_EUw-XJPw",
+      "view_skin":"https://lh3.googleusercontent.com/ItZhF-iST-BBbiGngCzB0Zr7k-KCzJf3xqyoXoEH13XSge0YfSTgV7pcPSOgzZHtNvNR1OQAx7kgxgqM8b6M5g"
+    },
+	{
+      "id":21,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/0Eb35W--eNZWznq_ILicp3CnzQ5hGTMNbojpvdiM3u564Y7oevmZr_V3lI4W5PN1RqZJY_VcGLJoyoEIf9Jj",
+      "view_skin":"https://lh3.googleusercontent.com/_d9BEKwlSnXml9Zfl1-qH1sIr4nbyJg1vobgdmn7MX7itO1Jk7bZDC8MRXDk0nKymQ1StvdnUriZngAYNXG0z20"
+    },
+	{
+      "id":22,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/nBJydz-WPqCJdKC65NVKmzwBL1yaEizWMsTzSslLTNnR4tHIR7dQ1j3nJbBAvnmE0EkFOLhv5lDpN6UwSAH-",
+      "view_skin":"https://lh3.googleusercontent.com/odf9B4MT-K4W4dWXqf5J0ubKcCwkkwRCZ9O4SaIUCrM2Noknb87IuBrbLND_M4MBTStBMF_gHyCMU253Z-cw1g"
+    },
+	{
+      "id":23,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/UYT0N14bQSIcmT8Mnbp0yYbPpyLSJTIM3Kv1jK_-HsRnSQqT3VgttEiolv4YFKF9uSE42Hpa5BOmpUOzIxCY7cQ",
+      "view_skin":"https://lh3.googleusercontent.com/phUrBluV0QPRu-Vnny8soSfZ2nCLiuNOfXbMivQhS4mff5Ej3h_lrT1vFdsHF7V2vPIs7b-4Vm884VGxW_w-0Ik"
+    },
+	{
+      "id":24,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/yPSiiGtc0XbyWdm81kd0xv6iuTt37P0FQqdn8nRI2TM1che2zhuXNmBNedxxVGHeWF_ldX3wlP3HDddXKtD-lg",
+      "view_skin":"https://lh3.googleusercontent.com/SQ09LGnhBeM3uPNWiEqJDniBHLLZQx0fdUFDLqLxhqKrKYidZDBvjS-AIpZrsp2JLRj_0inXtVrhYeV48YXS"
+    },
+	{
+      "id":25,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/AA2_VcjNxD0gBZK7TFUqEytosVpHBjQkW9s-M0fHAczL8dhU7cXcGcXCSjcWv89jaIn515u2PfCnHnhBGIcS3w",
+      "view_skin":"https://lh3.googleusercontent.com/qPqQs-n35qqPEj5VP8uzQzpxKZUv4btCbDEj_uiKwpMcN_F6G1v_kc_VZnUnXi27MMzgzS_PkyukP7SOAQa1xwI"
+    },
+	{
+      "id":26,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/7hOWePQko-cyM_7iO8o1D79L_zeFH9DzPucHhmdqFi43-9mQetcN0iWT4V4Qsww5Z7M88R6n5yQzOQY6tq51",
+      "view_skin":"https://lh3.googleusercontent.com/gkfnioJeRSwZQBVub2cLksV23RQKMhnx4hWHCe9ub8cTuev_vNq6iSRZlFyuCsy3UYJ6JcN2HVtcUe8--nyCKQ"
+    },
+	{
+      "id":27,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/026oebD-AjuZUUZKyoYz2w4ydaJKvYT_Inp81i6oAzB12i5gp3H2ojAnoDiTGs5Bd5f3aqaz2ixZCMeLPnvyig",
+      "view_skin":"https://lh3.googleusercontent.com/3iXOYQY-EGa-lnVd49_9SDup37cTm9BmvYXhVDxFcEA8RMOcyuV8DgjXPi8VFVN8eHl-YrBOM6e6OIeZVM4oVw"
+    },
+	{
+      "id":28,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/oa5WR_hZdVzr86yGrYHRNBqGfWrFsorifPrZaWXmNcwaSN6Y69hmOoF1chSfs1XFTHu47ZJgeYqqjdkD-C4xiQ",
+      "view_skin":"https://lh3.googleusercontent.com/890WbbCLWUt1SDbeT4BAL2g77paC_NRHMlLi-EVMRNrHyjUe7VJIHhMc7AR1rPJy3Ji6eSCCpP3D_z-rdVxTeg"
+    },
+	{
+      "id":29,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/yfhycBiybYtHyKSn095EwQlonQ0CJ0ve8gRNE-CpCysdBr4k-NF_EoVg2EjRpVMaeWsPl5Ymd31TPSJ_n5m5",
+      "view_skin":"https://lh3.googleusercontent.com/ti6yJeRSV6hwMz5i5zpi5BFNRPuQITAMaT6v4JZUyzRsPot_UwZv43_-EMpV1cgV0aKPzDeN_mCBxYvEZiMA"
+    },
+	{
+      "id":30,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/lFaB_V-2ZBO60OJUvwNPDpOhyWuzuwSIQHA-NmcukMZHojd5tOp_F68QtyaRC5HNb-mziW91HP-cVBzmNpqCTUSYzX742Cd4rU-U",
+      "view_skin":"https://lh3.googleusercontent.com/bgCvNIP2wZVj9jL6Mq0kdXWUmTTcPUUVUz5Icfl8SZ0pCv9zhJhL6cuI31lHw6Zs7bvI-mHkInND-9C9O909pnnLz8UvI_1t2Ew"
+    },
+	{
+      "id":31,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/J9mNPJM7cvGxsvQ6J28svSeSwWkeqZ80hNy63PEPD2suQo5xIR3JCx9CYLETAffBc9gdBOxF9mjxOKNQdbSD",
+      "view_skin":"https://lh3.googleusercontent.com/kxy-NLkZ7EMOzODMQOEiK8b13P-4uPGVUR_MrpLfvcLSduTJF2YAgAChNYpr-V9-JVl1tnqPshJO17f23WtvsA"
+    },
+	{
+      "id":32,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/N2_32wvsnYvzUpoXV1R7rUhkzy3Kyo94k8fatk29WU5KAaZLyaPk5OuCB2igkd3xAL_6B5AUY4X-n9HS3P9XsJrryliQBvE0L_aS",
+      "view_skin":"https://lh3.googleusercontent.com/1OkO2oQXIwqft6h4DHy1XbqHWxPJC_7ms7j-oYsAtXMPBHlphZybUEQ-jl72tFhaVq9lNIH2Yo0V7LoQcB7gjRIpVSbSAgjg9Q"
+    },
+	{
+      "id":33,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/ZeLRo1tyk1ob5LSxScWwq3fbX5LTLla42_H44mrY9blyVHsC6-Ch5EURj-INBUpLPq_t9cC_jsinqtM6pBNn8e_yOhxlNZZF1A",
+      "view_skin":"https://lh3.googleusercontent.com/xcV3X6x8hdQAPQbR4tbkT59_t1mB7FhN5zA-cB_9TqzK3lgtb6yNlkSkXz2Qr7RShqmRftZKCINcC7vRZJjwJmFUiavjpLoy1NNX"
+    },
+	{
+      "id":34,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/yiCeAVqNUxLwIR4drjIqAGwCn1chyxSG-M2JgAxnybIWqh4wjCn8aytc6g4iKOFswFcY0PUgb6TRiKjT2HaB8jQ",
+      "view_skin":"https://lh3.googleusercontent.com/nnNT0gHLqPOMd7m1znRWAc-pvds5jlLmZkdaOopnsA2s9H3PPliy5Qy-HxjvYa7mYClMFOx8hMEuGomd4YrY8w"
+    },
+	{
+      "id":35,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/ZzQpu29dCG7PvNQQ8IahLSLVAaR9qFhqrtZ5FCdFEgTbfvnjL0yY9pwi5M_zBjmr6B3bJZLMR98b5WpNSxNHwyQ",
+      "view_skin":"https://lh3.googleusercontent.com/hQEI0Qu36QBUGd75WZ_W0su6mrdypcNcwy9CGxaD3kFly_qHxWBriggcNmRx_9w26afEviO0lbD8c91IX-AS"
+    },
+	{
+      "id":36,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/PknjVSxwCLztpjslaJMUGeKXA5mJUlaI5K6eG_zkYnbmq1VNo-QD-GSw_NVztdTr-j0tZ9BBzMGV7Ssi216dMQ",
+      "view_skin":"https://lh3.googleusercontent.com/nDGMJmB4_319zIq5nsMx73SfiF6-yZjrV_osZtiyYy7MXJtNtXm54DF_JyJATHeIUKThQaltnn5GUluG3TMX"
+    },
+	{
+      "id":37,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/6k2ItgpsebX-nWRUvcnRchLBofizHMd_QmyE9hvACK4ia-fIdQDiQNE42_5UDKZZ4BrEVukAxSLT9MUaRwGtiNc",
+      "view_skin":"https://lh3.googleusercontent.com/9wQHncUhMacv4NPk7XW1r3IoBRxtaFQ5zTL-nGczGnC_NV9VwjUDmVLy-PILH2p6szN-kNviMMTtSw8nUFi0_lE"
+    },
+	{
+      "id":38,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/xDw00ontg_SIK44g8KjzkTFD1qyYNhRt_GzuxhEmWZrYDW_8CUR2bi8Ny36VD0fV21IUlj1wXYgTeHN0bL-XTA",
+      "view_skin":"https://lh3.googleusercontent.com/SeyHO-Qw4mSkYlZk3ZP5oACNNSmAFu1Soicxy_vORFTE8K9JmlKxyq_d0Rfm0FTtvj3XUyeFtSKn2q7FlH85"
+    },
+	{
+      "id":39,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/fee21fuez3V8d_6cdSYKLq47ZufOZ-q_G-Top8cCWFNHIghv3ti-vbcXjX0gjwYcr_ewY_3qqr-81QxwKfvY",
+      "view_skin":"https://lh3.googleusercontent.com/vT1jQLkLW-y-jnUFFx9gYHLp_w5yg3YJueqgPxIuvDnSjRF-Z-Mk44k6ntI75d3UW3Ikwa0e_RoBdkSsI1fGzg"
+    },
+	{
+      "id":40,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/THgQFaK4BWQqeDJQLxY8MomNRlbM9geUB8iJR0W8mKu0WZKfv4_9X2fbNVj8LdTToApp66inxqunIGXZFGWiVDH_zwRnD7jPa0g",
+      "view_skin":"https://lh3.googleusercontent.com/irsSMWNKo_E1zbTPgMOkuWTLOxVXBjKLt4eMW_zYBEWLSCiQfnFhJE0SQLgoC3N6CGUGvFysxyvUQYTvNfs51kYjvHcYQ-g0AQ"
+    },
+	{
+      "id":41,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/4EW2CRXfOE2s51MIykYcJe16HlfNDJQfiQnPEVi10Pj8Fam3zyYlP03FqPfNSGPx93exhpJ_orEdwih0CQXB1jzHWZy2YcYY_IhW",
+      "view_skin":"https://lh3.googleusercontent.com/wH17QG7ja1aSYmD6LLDvqN83e-PWPpDu6WxtDDIaTPxlso2GxHtHXjxcejoPRAdYgBE7KsetTlo3uMrIqyqwiMh3zPF2Q1YS8u4"
+    },
+	{
+      "id":42,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/jzh7G6T7B1IGK7_a9-7IUPSL7vA0NY19m1V5LD4TLX9cZlYNJrjsG3710gPs3If3FPElzKPv07_HzkVpOefE9NjhwRzKgy5-x35t",
+      "view_skin":"https://lh3.googleusercontent.com/XuONQRENyza3d4ysna3gJXR9yeJHjZo-WmmLU4qBXzlAB7RX7HuqdHyZZk0CcDwg7s70SCDkCvrmgcsq4nlUgUBw5gc9cOyXymEM"
+    },
+	{
+      "id":43,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/Y20TiSfLH8f0sny9b51qqv0xH4FSSCVeZn5t9g2bdn7103Ts_ISbJ0yup-6LRbLcMPxJwn5p4oHEPZUTRPXD",
+      "view_skin":"https://lh3.googleusercontent.com/vS1DXctaB22gQ1_JPK6ia8TWvkLcxXoCCwbbfv6WWFmfTByaRE3Z2aUlfZNpL1JWq7bePH_yk2gfCw4OdLlX6w"
+    },
+	{
+      "id":44,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/Ne8mQFufr98ab7HKeWMLYs3eWoJ7VlKiabKcPTpMvU1jLBQeigIrCHl7vecxQxqUaKeI_5Bem5wIljFRflg7P3bzDejytrZpjA",
+      "view_skin":"https://lh3.googleusercontent.com/JEmtnP50Ig43ee3SwPZgC9TSfCZIg_BVTMOEoXsBzCtxDmJ3ozVXssbXKVA-Q8J3hf4M1hq4IUFLwa3IGNcGFpdAsMacSRyepQ"
+    },
+	{
+      "id":45,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/vnL0t-KIPFUwp6BmsGz837pXkD6JoYY_24Yg50w94IK9OfOPqgO_R0BEdVXthHpRPah4Ph8MM2mMY4wZaNdQZ18",
+      "view_skin":"https://lh3.googleusercontent.com/xzIqQ18patDqveA7kpIztQkX3367BSC3AHQ2fU58gfEIehN3Mwl1-hVH8vvTjLrnQzct2x8ESvXUJqFyJPt7AQ"
+    },
+	{
+      "id":46,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/0CryMA7vRO_KI7G0axZDsQiCWMYtJdqcZL3OVOsLUXCm-Px6GhD4C2yBD8PZZ5DhkC5uaqfmwkEI_gRby19Fb1ZFK0V5DGmK-knr",
+      "view_skin":"https://lh3.googleusercontent.com/ouuk_Dfnoegt-dJ0qBvjnglRzMQl0PTGBO-0flmMLzR9BVgYn4lvDpqZ43IiJKFFV36GiJzc5RA0AcB_AzNysRtgYZf_NQi2WiI"
+    },
+	{
+      "id":47,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/1zH1LE0ZKMzN1Py_ywsRweYkLts6sjJ3FsAwoDF2ZhpekvaHljL3npOI2e0hfnalexxaGoVB0g4aVR71bPxY9Uo8iLEEF8k6zt7s",
+      "view_skin":"https://lh3.googleusercontent.com/ktXy4ELo_y5fLNXo9GknJya9O3HF-F8oMoZn9jvBFOyZETypHwvo9u6gFzHLHmY546S7WVqofPwHRr8MhV5H5EKINRzot4a7RMk"
+    },
+	{
+      "id":48,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/BffHXnmQLrGEheldazotZDQhyp4WAtFrO3KtWfZ_aEYo-Ax0Os3urDEyecZu0jf-FYHJMPEaRsWt1NOwAblf9Kk_zxuFGCd4tnM",
+      "view_skin":"https://lh3.googleusercontent.com/gO-ZRK5Zg-EdZSy2IbwMeN7bGfqvpM8_-AFKawZyTDJS20Tkj3T9twEYvBGy4DMIN3JeXck5alrzGpv1kXSElTiihuWDsEIAGwg"
+    },
+	{
+      "id":49,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/hhE9Ejt1HaVtBVuMHaE5pIIsYTRocZMySaP0e4gu3XwmoSsWYD8PNzknSqlSKjzqKpdTKpEwJsgOHoTTqnOANUb-55VZ6cLhgVo",
+      "view_skin":"https://lh3.googleusercontent.com/xmWaopQks7pIncD2kZn1I4QiFcDKi8SMlXVrG71bEsr07wWp83qHLWN-uginbazHvHkbO4alcxBBPY6vybgFoc3tX3addkPz"
+    },
+	{
+      "id":50,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/vlizkeb0BfjKpLMtADDUUDBVj_kAwzLwyxzReGF5Jdpv1hbNy8sNKsaXq-LAu66Kfi592jjOxrlUhUBT7WjIIqa-Buk9wZXS-wY5",
+      "view_skin":"https://lh3.googleusercontent.com/H6ezvxJMYjsceXm4ywcQ50gmA37RBxNb62rOmZYKlRHzWPVDubLThoGqPMRHPHILWbsPVO9BjepfaFH4MYIeOv8AbIx4-RkNfQ"
+    },
+	{
+      "id":51,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/eNaDQZgRnnza9sm7e_M5tIJl29Kuk4HQ3WkycS7RYhuQkuwH2aIDXfZ8nGU7p5FiFEyAS3iGtY0O1jYDkHVMlceA8FwFXss9WA",
+      "view_skin":"https://lh3.googleusercontent.com/qG55f-O9TM-ZLgaKCoyebCbTnRy6044ocVesVIZhJhBTc6Xlwn3njDflp_J3VnrBNCVS1fhe_jQ3bmUZm66sI9zei2rr3KNlovSl"
+    },
+	{
+      "id":52,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/Aj1ImWjq9NbXE-p2CzcroJG0-lAUDnL4YdnDl2eA-C3cunEnIiOx7wfQweNweAuPFwUE_j4A9Hk-xlmo6hMDGGOAuTXnS6lw_ib4",
+      "view_skin":"https://lh3.googleusercontent.com/H6nWWU6bnRMuCymY6pzLBUYJLZ7AlrzG2H-gO3V3UGqmRwZBGmrmdexaMJpwsGntVsDmPuKikwTzuSvPbd1KiJyx3GsADsmJns8h"
+    },
+	{
+      "id":53,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/43gNhD2NEdGBi7ZQZg5OkDAWLa1ENqTxd3yIfQKi4fpefSVRrbvLZqeMEs-YACFRshLZl1a_p_e3AEtk0m3PIMcwzXPsPq67aG0",
+      "view_skin":"https://lh3.googleusercontent.com/BrmymeMkUuXv4CmAzv5asJFUcDThzTAG3RCVlLSNza7mMbAvuGr-9XdTXTz5rOfWtsW8yk0iR69oVfMMydFvv0JZIMsBLuDgNQY"
+    },
+	{
+      "id":54,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/NZ564DgiQxnotAgISAuxanTsag7bU1ZnBVux2aKggiAM-aGRhEvsfiJYBY9e1DISU6Ed8LWrMBLOdlIgSauJiv362qrRNkYDVQ",
+      "view_skin":"https://lh3.googleusercontent.com/nQQ-SgEbSv4OMfVWlRA0rADK4tKLZdZjtRnemu8ocLaeslskYvPxtUftTIgqObIiR7u2qME3iN7VcX_OL6Fh_qNqGlge_Xo0UYM"
+    },
+	{
+      "id":55,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/yrViZoxv_771r49DfkbDvvwA3Xrt9jveSG1Dpz7JODeuTXiQckjqSG9Ahukw5fJYm0k4PQffVSCwLSus7fQzGWc09F32TZ2rbDaT",
+      "view_skin":"https://lh3.googleusercontent.com/o9w_Q-ynDIEILk2Qi1EnjMqgUn2FBbZVOcr8aCUoquFQsfXl0hr8RjcLtkXoycZVeiYF82Brhz_PSjfHZif5MTqjayzKtvo8SuU"
+    },
+	{
+      "id":56,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/3EF3DKeVmuHDZ4hX8tgn23Gn9uu0AQsqRYpMgQg6shgVkDFqKHhVc6lnGlG3Lihge3UFkO6_BISBE0KFr6pvUg8L9-2W9h8A3w",
+      "view_skin":"https://lh3.googleusercontent.com/N7118J9-yN0Ryg8RDH_VXbJeyqRXWaF9UXnmrLvBOrBLJS4nLSII_jz7bo5Kh_BlqyYW2ixjMfxQ1wXp4EM2mbXvJr8W3mH1rw"
+    },
+	{
+      "id":57,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/ToKRxwnWWHxdwWaHg8-UX6oxk-t3uNlb8pi521q53ecInyjN2IzCzhSh8y0sVPJX5OJNgZ7nWCrDIkuOKHR9cfoXeRZ-35Avxeg",
+      "view_skin":"https://lh3.googleusercontent.com/hcMVSCTTtGw1fqo92u3a4uopr9NjvQLDtKjLnG1KR6PZybu8FPPvzgZdlwzoMj19xD2PXqe9JUMN2KKSQH-9gMJqId7QdPv7JeJU"
+    },
+	{
+      "id":58,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/RYEThjrZtPv1trFS7XRLc41_BZn00S3DnUkUHwpFJOuiwoxXw2yBQ99rTJ20hFccpUCzZAkbQpYrTdCsJgMedn7OvgJvNtOdD70",
+      "view_skin":"https://lh3.googleusercontent.com/R_PUKEO14PHA_I4QRDb1hj7AC_ZNlZGJjsGNIlg2tMrUJ8J3Hz165CjuHx9hv1TwZbuy18DqtV4LIM_REKQh6zoy6tMRdUrMIA"
+    },
+	{
+      "id":59,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/MuiTyLyCzFvaiB2aOQyr4hIzuF1yswOdWctwml_MgDFQNHFCGOJFx5FJlDKlFff26nX5qoMpNUrfNtmfYm2N02VXGaU8hM5-hro",
+      "view_skin":"https://lh3.googleusercontent.com/CSyBKMq3viqEUs0p7NC5Kkm9HSzvMQ0gHl8F7K2XJJ7wwhcWWdREGGj1Ob9HMXtFglxpxamp0D43OwBuC5sx3gQskL9Lxdo_W1M"
+    },
+	{
+      "id":60,
+      "nama_skin":"Golem Skins MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/CD_YP7rHNHVBoBDEGwmZZ8KcBJbcjQhzU5ORgi6TpimgaVqBQ17i6X9flgaXJy5drglXtwGUOmsJsdc29860BUmjxTKIzuoHYmx0",
+      "view_skin":"https://lh3.googleusercontent.com/fpHW5GQV_jAz5ezgOrAxcTKFNjto9RCNeFWwxil0e2wSyDeMN3SWW9rrAW5iWZCurAgJRR4abr-mJls_zMhrzbDwJfl4EmC7q6M"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "nama_add":"Addon Golem MCPE",
+      "add_url":"",
+      "addB_url":"https://rastariski01.github.io/coppergolemmcpe/addon1(B).mcpack",
+      "addR_url":"https://rastariski01.github.io/coppergolemmcpe/addon1(R).mcpack",
+      "view_add":"",
+      "des_add":""
+    },
+    {
+      "id":2,
+      "nama_add":"Addon Golem MCPE",
+      "add_url":"",
+      "addB_url":"https://rastariski01.github.io/coppergolemmcpe/addon2(B).mcpack",
+      "addR_url":"https://rastariski01.github.io/coppergolemmcpe/addon2(R).mcpack",
+      "view_add":"",
+      "des_add":""
+    },
+    {
+      "id":3,
+      "nama_add":"Addon Golem MCPE",
+      "add_url":"",
+      "addB_url":"https://rastariski01.github.io/coppergolemmcpe/addon3(B).mcpack",
+      "addR_url":"https://rastariski01.github.io/coppergolemmcpe/addon3(R).mcpack",
+      "view_add":"",
+      "des_add":""
+    }
+  ],
+  "Maps":
+  [
+
+  ]
+}
