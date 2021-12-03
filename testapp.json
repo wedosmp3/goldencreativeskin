@@ -3,15 +3,15 @@
   [
     {
      "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "native_for_admob":"",
-      "backup_ads_banner":"08532411a0c07b8d",
-      "backup_ads_intertitial":"83d542b4b0dc28f8",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
       "interval_intertitial": 5,
-      "initialize_sdk":"",
-      "initialize_sdk_backup_ads":"",
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"123456789",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
@@ -21,16 +21,17 @@
       "link_redirect": "https://"
     }
   ],
+
   "More":
   [
     {
       "id":1,
-      "judul":"more app",
-      "image":"https://1.bp.blogspot.com/-GRF5s0x9sDg/YTzScDzfg5I/AAAAAAAAAu4/AuZxF5arRP0KDhXEPpsu4f-QQjrYiG8lwCLcBGAsYHQ/s450/1.png",
-      "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
     }
   ],
-   "Skin":
+  "Skin":
   [
     {
       "id":1,
