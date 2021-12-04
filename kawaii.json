@@ -2,453 +2,454 @@
   "Ads":
   [
     {
-      "status":"0",
-      "link":"http://",
-      "pengaturan_iklan":"1",
-      "admob_open_ads":"ca-app-pub-2521648737251856/7035827504",
-      "admob_banner":"ca-app-pub-2521648737251856/1975072516",
-      "admob_inter":"ca-app-pub-2521648737251856/9661990844",
-      "admob_native":"ca-app-pub-2521648737251856/4083195253",
-      "interval":4,
-      "fan_inter":"",
-      "fan_banner":"",
-      "fan_native":"",
-      "startappid":"",
-      "mopub_banner":"",
-      "mopub_inter":"",
-      "unityID":"",
-      "unity_inter":"",
-      "unity_banner":""
+     "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
     }
   ],
+
   "More":
   [
     {
       "id":1,
-      "judul":"more app",
-      "image":"https://1.bp.blogspot.com/-tfGWp4eBhYc/YVEtSR3UDUI/AAAAAAAAAvY/XxdGzR7jG0INT9fpAy_ADGUxexbGGhlkgCLcBGAsYHQ/s300/2.png",
+      "title":"More App",
+      "image":"https://wedosmp3.github.io/goldencreativeskin/playstore.png",
       "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
     }
   ],
-   "Skin":
+  "Skin":
   [
     {
       "id":1,
-      "nama_skin":"Kawaii Diamond Wolf Girl",
+      "name_skin":"Kawaii Diamond Wolf Girl",
       "skin_url":"https://lh3.googleusercontent.com/TXtEkOMu9JRhySXjHRzrUzxdGCwjpP_LIJmVMwlEkL_CX7MAqNtHIgnhQmP6O79UsgqFpRwfk1lKlKCi6rS84Q",
       "view_skin":"https://lh3.googleusercontent.com/gGJ4GNHyFmPvC7pZoG0wR384Ck-iLKGAERFeajaOfu-M_e9wD1MN75Q09q3VhCVD0kPvyTwxtW3k9SOPhWOpnQ"
     },
 	{
       "id":2,
-      "nama_skin":"Kawaii Star Moon Bunny Girl",
+      "name_skin":"Kawaii Star Moon Bunny Girl",
       "skin_url":"https://lh3.googleusercontent.com/f8Du2KuRzvKpGOqbLnvwl18zhpsfRXra8OQ1hnoI15VVQZGmkguGbngaVIdpRtK5lAGLQqCCMika6uPAgBn7",
       "view_skin":"https://lh3.googleusercontent.com/izeGzC0gs1eRPCjHHLDL6G0o_WMNA5s2EXhae_UyoxSRSe_N3-kiRXBByln6jFG_FUTZJyUN4xyO5RzhT8sh"
     },
 	{
       "id":3,
-      "nama_skin":"Kawaii's Modern Family skins",
+      "name_skin":"Kawaii's Modern Family skins",
       "skin_url":"https://lh3.googleusercontent.com/xIhdNIe0aIfqO-L0iSs8dJg0PWBfY5dar_ftxN7XrQDsoG6mztIrhM2YzhuhCTm8RTmCoS35D9ExUY3XRZsNJ3E",
       "view_skin":"https://lh3.googleusercontent.com/16ZfEwm9hkarFMGgs85sXTd6nlLSWeBufWA3GgIKjlcpCee_gGTEuatx9pWednPMeEJ5obBvG4u-AMdcGKqKFg"
     },
 	{
       "id":4,
-      "nama_skin":"kawaii skins",
+      "name_skin":"kawaii skins",
       "skin_url":"https://lh3.googleusercontent.com/ppqBHQxLDho8Ai1w__6TPgTcLWiQ01ne7vSdO7PZ1H65RCnFIvqOionRMb7nPPxvILkSYHb7MlS--DIq1J6Jfg",
       "view_skin":"https://lh3.googleusercontent.com/-2VK-Q0MitgVH3H1UbcVDi9UA6VzNTtCWyJr10fqu1rZ3xptRPuKcaapB1xnUwre9JOUil2rhH0Z6mO4BmWS_Q"
     },
 	{
       "id":5,
-      "nama_skin":"Cute Kawaii Aesthetic Cat Girl",
+      "name_skin":"Cute Kawaii Aesthetic Cat Girl",
       "skin_url":"https://lh3.googleusercontent.com/dR2YPFOiDAKY9U3UKwKopH4J4Fb3x4lOXjO_RXNXhIN2QqqoXhLn2aB3Kb3a0If7-tLW6iH2Cux3i1V4lkyO",
       "view_skin":"https://lh3.googleusercontent.com/QO1IUfeFwXoluP1nktpSC1APGOGUqgU62ZvC9-8temd4ziySQ4KrB_zbLBhaZhtXFhcv12vLdiAYh1LfpXMMKXg"
     },
 	{
       "id":6,
-      "nama_skin":"kawaii cat girl",
+      "name_skin":"kawaii cat girl",
       "skin_url":"https://lh3.googleusercontent.com/QQHifcdQ0qjUtSli_Lr_JRzgBGRutb6HyFVFYVAq8JQKrqSthvoJOHDwb256ZnwwvqVUD0DiNBco3BrpDqcDrQ",
       "view_skin":"https://lh3.googleusercontent.com/F5PrPED3eRl-iqDmmWj1Ll2isXplv5TxoDcVRWUpD6fiAU8bd-tOdqGL9mOHdU6NIqoc0WPqQeES52u_NsnAzgk"
     },
 	{
       "id":7,
-      "nama_skin":"Kawaii Baby Pink Anime Girl Skin",
+      "name_skin":"Kawaii Baby Pink Anime Girl Skin",
       "skin_url":"https://lh3.googleusercontent.com/9mwiKWIix-5UdL5XPjcTGMhlQWO-KBfKTRaTuIt0e-J7Hybpulj5mZ-2P1qb6Je9Cgfs1lqKxLC9kFQ89JvPBSI",
       "view_skin":"https://lh3.googleusercontent.com/1inu1DE2J1UxL6v9qmxRkZiRofr6Cp5TPEtt5bhTZfD21lYTsnwjqDWGsmlaOD3V7toEc18uP-_3t1LzK1KBMw"
     },
 	{
       "id":8,
-      "nama_skin":"kawaii girl youtuber",
+      "name_skin":"kawaii girl youtuber",
       "skin_url":"https://lh3.googleusercontent.com/TT6KJCHrN_bqycvDodxfELMXmTF8bCneAgB6FMp7WhFM9qWc4wPcTbSRThLVgBR_TZSQ4793nwmLV0Y2Bv33Tg",
       "view_skin":"https://lh3.googleusercontent.com/hNFmscHritlT2fKjf1DDvr3VyU9rcgE0Rz3OF6llSiPGORRcQ9Dpz4G_yC6Wm4B9hB1jUJQLo4BDbDd_G1rzeqA"
     },
 	{
       "id":9,
-      "nama_skin":"Kawaii Friendly Neko Girl",
+      "name_skin":"Kawaii Friendly Neko Girl",
       "skin_url":"https://lh3.googleusercontent.com/TfwbCaJqjh76WOZb-pIO4ptRiZvx_H8OxmVrR3pLsfcxjeA-Xc0T_VebcMNovBWFdD31mY_JZ6SxcS1Vcqrx",
       "view_skin":"https://lh3.googleusercontent.com/u06xsGeDTBs_HbZGQn_CgVhtibbrhvoBBRhCjM_wB-pzEzHrZvGLITFVNxpaD66TTT4nI2nUk0z7nF6F1BcE3A"
     },
 	{
       "id":10,
-      "nama_skin":"kawaii girl HD",
+      "name_skin":"kawaii girl HD",
       "skin_url":"https://lh3.googleusercontent.com/uwvf_jco1jiqI_7TPh8prRhR-2KU3pIY3glATD0YD3Osu9SBx7mSbDAcC6eDc14prOcx4UyoiCWlJpqwrzxXcw",
       "view_skin":"https://lh3.googleusercontent.com/tBeGxzZF2eitY2gz4KBU63x5_x9SLWjmlmRdBmHznO11oXbrV86e6FTbCaFXadCwouvXz5EtWjMPwYjJ-REm"
     },
 	{
       "id":11,
-      "nama_skin":"Kawaii for gray",
+      "name_skin":"Kawaii for gray",
       "skin_url":"https://lh3.googleusercontent.com/bQ4-AjT24wzpqAzDKtZvjHoP-4NBION1DVRsD8MacGGu3G7XTTqwVb_mEbizedSWwdGK_leOHH_51msJq4TKmQ",
       "view_skin":"https://lh3.googleusercontent.com/lfh6drpqyXB4u1kqs2bGcOLVAFMXfM-Ohw9bKGK6ZrQx1_QcyQDLriWFxOjYy3Zmkn3X6P5QyI6uYjY-2cZrdg"
     },
 	{
       "id":12,
-      "nama_skin":"Kawaii Nyan Cat",
+      "name_skin":"Kawaii Nyan Cat",
       "skin_url":"https://lh3.googleusercontent.com/v8SVDlZheDjTVh40wWyQZ6h_c8vDd8EmwbAXhY20T2B8uRysnSNdLT5hz1D5Xz2UVW8bCRlroYvipQZMP25b",
       "view_skin":"https://lh3.googleusercontent.com/RBD3Vx-4gfKLdQeRsB1WNFvKaa8C3RdHfzFQJgyOMhBNmFhMVdvizk3zgVLvnJ32gIkVkaD1RW0i2wfy_avq"
     },
 	{
       "id":13,
-      "nama_skin":"Cute Pink Kawaii Cat Girl",
+      "name_skin":"Cute Pink Kawaii Cat Girl",
       "skin_url":"https://lh3.googleusercontent.com/NHRF_Tj4f9MuM9fWWxW1Go2_aNzPTiD06WcQ8dYxlbKp7FlczcdYh_cP6NTLJsraip_u-DZt_mPZOxbdgghjEA",
       "view_skin":"https://lh3.googleusercontent.com/zO_dawLguYunmPfqsgwSjmVVqmd9xyaQonhhzjoQjbqdJ_l6k0Z9hynIOKtICP4pOoxs9rHnPUdZZtxeo7g-EA"
     },
 	{
       "id":14,
-      "nama_skin":"awaii peackock",
+      "name_skin":"awaii peackock",
       "skin_url":"https://lh3.googleusercontent.com/3h5Ql3Kxfi1LCR1n5RdnfXPGWWMW889tVFWr_Q2KlutLVN3urV1xpD3JhXcUab5g7qGPGuAyrXO5N97Qmmy9fA",
       "view_skin":"https://lh3.googleusercontent.com/uUnEsE6QylEQUrtA2dAi7XKSVtu8tJjtg_PJSaSHIgLtPBN0DlY_zRLImnpMqSofz6fKbU4i_97gSj2Uj15ersc"
     },
 	{
       "id":15,
-      "nama_skin":"MAR Kawaii",
+      "name_skin":"MAR Kawaii",
       "skin_url":"https://lh3.googleusercontent.com/vzHy8wwu5CwmG_CXaWRlw2OS1HRidwpwjDFsm2G4BIypVmkh4R1HZ39J_EibAQNCwmjcsmjWdIuuUP6EdOxZ",
       "view_skin":"https://lh3.googleusercontent.com/MnijsF52U78HEPnDGxKXu8qmfYYLXTeEPam3Vx2bp78EU0fvqlC3kJQTuBLM47dgMZOC_AAtt2LOPsa4Zj5P1A"
     },
 	{
       "id":16,
-      "nama_skin":"Kawaii's University skins",
+      "name_skin":"Kawaii's University skins",
       "skin_url":"https://lh3.googleusercontent.com/dLhutQZkfIYyPJxGa94kTIGHTNjseE868ye0hg-yujroo8JMec_5v61R2us0IS1DANWXGNt9xHWTtlTWpMIq",
       "view_skin":"https://lh3.googleusercontent.com/hezcVzcqf33XhRREL9C-63cRGgA09hxs0w3BiXFFFycXi1-YN9WWFulu53k2g85PG3GSTHpekGTf30tboBvBJw"
     },
 	{
       "id":17,
-      "nama_skin":"kawaii fox girl",
+      "name_skin":"kawaii fox girl",
       "skin_url":"https://lh3.googleusercontent.com/IYqO9kAR4LdJNqgZ7J_baIkGgb4Nif7x1pmN4BWRxTuDpwqjSg-Y7zlwxseKOxtHG_gqGjdAjN7OtqND6LeQXA",
       "view_skin":"https://lh3.googleusercontent.com/3lVO7oCDLyMJKRFBlmM4FSuhcugHga6-bAxOZ2LXQeYGPJpTuu5EFd6VMmKlwRGFytoethGIGvve4RbbCy3kzZw"
     },
 	{
       "id":18,
-      "nama_skin":"kawaii chan",
+      "name_skin":"kawaii chan",
       "skin_url":"https://lh3.googleusercontent.com/AB7hqVmODTBjGSMyNC9A5WVWo_37koUcg_irTiLaqlv3IsWlrWm4r5XuPyLhJ-8LIh4_oD9qhFnsmstBNq7i",
       "view_skin":"https://lh3.googleusercontent.com/HQ1MHQRbySgtt8-2xJ6Urj4rMW0UeGNFHEswNqTg2G7bJpFFhZ5i5vhXsd90TCDDlCyF2r9bdV8pQ5B-iUb-V4iuPy9oKhKnlQ_p"
     },
 	{
       "id":19,
-      "nama_skin":"Kawaii Glass",
+      "name_skin":"Kawaii Glass",
       "skin_url":"https://lh3.googleusercontent.com/8C4Lq5u-RAHwZhRJxH5vt7Sc_uwDlxqWqYKXPceBmzZY_HB4-7r7WMfqR5T_16fCeqR_0m_wY0yR0BVBKulZ4w",
       "view_skin":"https://lh3.googleusercontent.com/bwBU5EJ2ZKCmEv41hhq7WnKw7itaonL9hwiAUwtUOn4baFuHJaB2wvJvZTWyX20PA8HyGZ5cXADSsGO2zudEfHU"
     },
 	{
       "id":20,
-      "nama_skin":"kawaii girl in bathing suit",
+      "name_skin":"kawaii girl in bathing suit",
       "skin_url":"https://lh3.googleusercontent.com/IL_fmbZPIBokq7nKRR7qKjq7DOPHIUO_8tUsjehvvGXWmZcAtC8abosAVoXWi2I0t75Ldv8Kbc8ucgfKT2nB",
       "view_skin":"https://lh3.googleusercontent.com/zD6BCyGbQw_WlAqlJ3op7H6bzCaeDQXTYs-BrQ1uGJmXzuuYgB6RBnGdtk_AGgYZt4LayApeEmrRRZmT8RDu"
     },
 	{
       "id":21,
-      "nama_skin":"kawaii baby cute anime girl",
+      "name_skin":"kawaii baby cute anime girl",
       "skin_url":"https://lh3.googleusercontent.com/9mwiKWIix-5UdL5XPjcTGMhlQWO-KBfKTRaTuIt0e-J7Hybpulj5mZ-2P1qb6Je9Cgfs1lqKxLC9kFQ89JvPBSI",
       "view_skin":"https://lh3.googleusercontent.com/eoI3juI-NArJzWtXiM7S9NbtVQfGsP2oC4r2hp_z1H5NoPaQZScy2ifxEmeUtn2PiCaObuNatfLsKU4Eb8Xcfj8"
     },
 	{
       "id":22,
-      "nama_skin":"Limela cute cat girl Kawaii-chan",
+      "name_skin":"Limela cute cat girl Kawaii-chan",
       "skin_url":"https://lh3.googleusercontent.com/M7DUmuk6la6WKRCnguEaXEMzuWxYiJMuL5E8CY3V0Pae5rKo8DvIwPoeal7kwgtoyJGUjA7zOz8esG0JpYMh",
       "view_skin":"https://lh3.googleusercontent.com/7nJNOVl22fWYbV6NoSac9J01_45dHfid6JlTGwfJev8yIETqwxnSn7cjFDqCLzuXi1ABd3HcBl0QtATaNeFzIA"
     },
 	{
       "id":23,
-      "nama_skin":"Kawaii Panda Girl",
+      "name_skin":"Kawaii Panda Girl",
       "skin_url":"https://lh3.googleusercontent.com/WM-xp4NOb8UT1BtH8k_zXc46TONHojGDB9yqzsyThiGyp4q8rTmdfLnIGmnzTQaqC7xfuTiOYh8KXY68syGGLA",
       "view_skin":"https://lh3.googleusercontent.com/rFIdkozIbOLesoZAd2XVHiIHKBAF4gxjNnA3hPUROCmDVG2lE-Rm2uakv9WFlahhK8OJqC9sjX_aPa7iUsp7ug"
     },
 	{
       "id":24,
-      "nama_skin":"Unicorn Girl Kawaii",
+      "name_skin":"Unicorn Girl Kawaii",
       "skin_url":"https://lh3.googleusercontent.com/WTJpnzbXQNz6PqsvJpOJk1oi_01iY6rOw9_pKlbrG6Pw8MbNkR8UwV75TvW0Ur1eTQu-S07BaCDJoYvQp2N07Bw",
       "view_skin":"https://lh3.googleusercontent.com/idEMhKsgokS6W4AIJcJZkF3JVczHxsUgJDd6sYj9JyokkACsKvtj_cOJMkwQ3eRZ8xb2ZlOZAW3KBiKpZMYFaw"
     },
 	{
       "id":25,
-      "nama_skin":"kawaii unicorn girl gamer",
+      "name_skin":"kawaii unicorn girl gamer",
       "skin_url":"https://lh3.googleusercontent.com/KFtkEJZUZGFNKS3nLAen1XNP6lvDgcWBt9eGLYgVuvM1sR8tqAG12up5_DW1rfRU8nh_Mntw-P2yeZ1hht4-8A",
       "view_skin":"https://lh3.googleusercontent.com/9dDKprnnkVDshXHZnNXPL5Hfu8WsC7AGuLCu-liVmSeSODyyV5eto3aS9dMzwyZHt58Yc5TuirgR-G3rsPtZF5w"
     },
 	{
       "id":26,
-      "nama_skin":"kawaii girl with hoodie",
+      "name_skin":"kawaii girl with hoodie",
       "skin_url":"https://lh3.googleusercontent.com/wLazNjo8NRrRSqVDpmQhoPdNLgSE8otIW0Eh2vEfOnPbFiRNHV6Wcc1B2fNdfxODgSlQ_E3E3lwAUo573XCQcw",
       "view_skin":"https://lh3.googleusercontent.com/1_l7zP6uyVxwIxp0ybPJdUQgZYqGXakoNbgxV1P0T2ROBKDIUusb7RIaToSjrjckY89OndS9P7QVTWcvfb9lYw"
     },
 	{
       "id":27,
-      "nama_skin":"Megumi's Kawaii",
+      "name_skin":"Megumi's Kawaii",
       "skin_url":"https://lh3.googleusercontent.com/RY_sB3pE7yKk6q9a6ArV02xG-V2eP-_6Lhy2SWuCKkV2_KpE7DHiGlqaUFF6TAumxj_eqwQtG8bqpbSmeGUX",
       "view_skin":"https://lh3.googleusercontent.com/gYVTdPqJCgS5t-axxUdkfxLFI-SbsZ_OQFnWHzkiBFlPutulyZLD_s_seG-Zmh3BLrCng9-aVUG4LALQ4KQ9"
     },
 	{
       "id":28,
-      "nama_skin":"CUte Kawaii Glitter Girl",
+      "name_skin":"CUte Kawaii Glitter Girl",
       "skin_url":"https://lh3.googleusercontent.com/bqPss48X2clXCLUjIGg4c5109Dggj1gX9qbGphEBcoeK38hRHlp3dVV80ozJ3nYEdrccT3cGO0XZC1hwiy75rA",
       "view_skin":"https://lh3.googleusercontent.com/BRq8OSWvJksfwvGExf2pbiEVbM8rbtR6zb_3r-Hs3ccR9KswdgPoPlWKob3wrDNXuWPIAQTJbkGnCr0ebvTduA"
     },
 	{
       "id":29,
-      "nama_skin":"Girl Kawaii Skin",
+      "name_skin":"Girl Kawaii Skin",
       "skin_url":"https://lh3.googleusercontent.com/MKSaHHdojtMyoboRqVQSyDP494F3EebL8Gb4fNjOwJZQyUQvIN58ieVSBlK8Ipw5OAXgvP8UGfA88CeT5wMeKw",
       "view_skin":"https://lh3.googleusercontent.com/pxeiVxwcmx7Y50WzYbF5mnvDMKtL1dA0fUdMj6BP1t87vdwKVdUEeZPVd77fvWNzzpVtcoWnrPkEviQNkq6D"
     },
 	{
       "id":30,
-      "nama_skin":"kawaii orange tabby cat",
+      "name_skin":"kawaii orange tabby cat",
       "skin_url":"https://lh3.googleusercontent.com/7kvWHfitCUuoZjQUOVdWg4HNkyhLbYX0KEfdiLzNwx8uGqgPq2YPsYr64MhEm9gfRCW6oIQ4d46toWpHu8Z27Jk",
       "view_skin":"https://lh3.googleusercontent.com/V6kIFU568RwdZBHHNwAU0ZUmTvFtSfF-X57vI_V27qNfXMElK0BsRnwX9XqqjdKjGzva4mgGBXwBmWRpyIon"
     },
 	{
       "id":31,
-      "nama_skin":"Kawaii's University skins",
+      "name_skin":"Kawaii's University skins",
       "skin_url":"https://lh3.googleusercontent.com/hCMyRhWt1DcJrQHMpr2BdPC24ZL2LLn4TKoKxUEf4eQ_ijAVvPZqhFckaDtpenE_62pVrxhUDe3-CtS_RJgN",
       "view_skin":"https://lh3.googleusercontent.com/g2zTatnoPcF3VotiXMToXhXrH6u7UjtlmZjDURMMC-r-sCxT22c0zp8-R73ilSDMZ1hs_eYDpLQUdcsDKjzjIA"
     },
 	{
       "id":32,
-      "nama_skin":"Kawaii Wolf Girl",
+      "name_skin":"Kawaii Wolf Girl",
       "skin_url":"https://lh3.googleusercontent.com/xw4pEbk61FO3MnZ1pioSgX6AQo9w5QGKkeRrQNQKoVanp7zCxWA0zJFxrOKl-dbi6kf3kip_KdXwQXs--3O8",
       "view_skin":"https://lh3.googleusercontent.com/ULHMGl7t1zlA8TKJCRqF4ldmiJLm9-gpMuCWN5w4h6iWMDF1s2aXSsMANnG4dss3mntaRCZWe2jSaN5QIqafdw"
     },
 	{
       "id":33,
-      "nama_skin":"kawaii white anime neko girl",
+      "name_skin":"kawaii white anime neko girl",
       "skin_url":"https://lh3.googleusercontent.com/CejxO_xAdbavnA19hJvsItHOQ1pm6EdIwdg85o1qWD4A7oZ2mo7TnQ8T-3Dcy4iGTKdHsJAt9KKH0Sj-gzQp",
       "view_skin":"https://lh3.googleusercontent.com/n7Ctclry3PUFIAanF6xja8Cz8Fz83buKhP3Go76Pz2QZ4StUbzAAwKzcgiP41NeEMAQcIdJRaL-GAApcaHkTGQ"
     },
 	{
       "id":34,
-      "nama_skin":"Kawaii vampire girl",
+      "name_skin":"Kawaii vampire girl",
       "skin_url":"https://lh3.googleusercontent.com/1AvUz0dvHFpI611Wboxt2nylmP9AgW-N7GN29-6zIHCWocpTbRXJIf2WqymWF9eaLW31pp0loSI60cj7-wH_",
       "view_skin":"https://lh3.googleusercontent.com/wWbT7BI3_Y8_nr6owOaMVc3g71g7c7xvhy71WAHRMWat0Z7v41iFMRENjlXVX1ir5bkJeU5lbIcFxDrY1-qM"
     },
 	{
       "id":35,
-      "nama_skin":"kawaii loli 3",
+      "name_skin":"kawaii loli 3",
       "skin_url":"https://lh3.googleusercontent.com/so8KmPT4ipPEKjXNyplqRNEYe4cXqzrA5Zx3-QNM8ZqO1xA6nO_VYwE_2FvZq6hU_MAC4ZZDV1nA5_mxuSZswtE",
       "view_skin":"https://lh3.googleusercontent.com/5n-3tgTjWe-Jx0Z7T9yFdLdwsS89EfG_g-EXjyg0IyZvO3R3VaJNjTZ-mpjZyUOupX6z9CixB0MuMTpJist4bQ"
     },
 	{
       "id":36,
-      "nama_skin":"fofa kawaii",
+      "name_skin":"fofa kawaii",
       "skin_url":"https://lh3.googleusercontent.com/UvtzzH7iOOw6EBafEFNQugMttO-EZlsZtWgP8Yf_wCVy6vKBxyNskJO1QOosrH139-_XeswLbxugdK6U7fArYjA",
       "view_skin":"https://lh3.googleusercontent.com/6055kGadrT2hjs__Ti5blQNJcisHU--_shCrUFjVQOubbpr94jL1PA3-G1W9rkyCqUd3wB38cUE73g7fVQN1"
     },
 	{
       "id":37,
-      "nama_skin":"Kawaii's University skins",
+      "name_skin":"Kawaii's University skins",
       "skin_url":"https://lh3.googleusercontent.com/-PpVFuHoJ8_HA5XmtbK2Z95Z3TnouCsAvvN67Bq6yrlvPYb8Xrsh_Rpej93rrYlj13rZ-biJpyfl4WpQMDmK",
       "view_skin":"https://lh3.googleusercontent.com/vreT4qXEdiuuuz6TsWEGbVq1hGMgBmKXldhDUNx8zaQn4GiimGlnSlUejVUhj-xhb064uDv4RhvkbXBlGfOVPg"
     },
 	{
       "id":38,
-      "nama_skin":"Furry neko girl cute kawaii",
+      "name_skin":"Furry neko girl cute kawaii",
       "skin_url":"https://lh3.googleusercontent.com/S9F9ogcEgspZ4jV6R453wUvsB_iLzCGJyCCnWxnsJGWLjtBTxfT2jR2LgJTQkQuxYmI4QUGfCDrteLqx4n6xBA",
       "view_skin":"https://lh3.googleusercontent.com/kAnutpBe3lxiqkcVF4PSeveYO_Usf8f22Ub2Jh2lDQF9EtIKpuoMu6yK-KGOk3Se14p-VvZuVdVhRaFsoTpX"
     },
 	{
       "id":39,
-      "nama_skin":"cute kawaii duck",
+      "name_skin":"cute kawaii duck",
       "skin_url":"https://lh3.googleusercontent.com/ytb4So_d3Zol0vYKgbv_m2I3EuJl0XgkyBKJ7doilHiaAFMy1PTrbzPsvUvzir3EclCl4PU4QR9RLapEkvGfAQ",
       "view_skin":"https://lh3.googleusercontent.com/9i8HFlmtf5Ipt1TxYLD7qo56CbzDQBcUPRC_k3YHSDxhvOWfC8RrHrYAfdP3TQ-ZEjOoeG6YaNkpmAey1t4CCh8"
     },
 	{
       "id":40,
-      "nama_skin":"Girl cat kawaii",
+      "name_skin":"Girl cat kawaii",
       "skin_url":"https://lh3.googleusercontent.com/3AWPr1LgBcmnsNGifbzWhEds3Zpvv9pv_npVvYIg5BYF_KlnZzhuBS6KYIrwphMvMMtzhpAeiXYrYHI-iQOHzA",
       "view_skin":"https://lh3.googleusercontent.com/SdfkVyKX_wdcJ25t3rnXApzgf20vVgTxVj7u6oOyps-F2cxt7CF7rwmd0lE_Br_dJRoEj47kuBTFC9_82jaLIYQ"
     },
 	{
       "id":41,
-      "nama_skin":"kawaii Dragon",
+      "name_skin":"kawaii Dragon",
       "skin_url":"https://lh3.googleusercontent.com/9nGM6-se428ofl4SOMIegvNxE9HbsQiL-RY7mLQ9dtiaVNVkQDIBJ3L_3-pSJe341zHPHT_PDggSYma1cfvd",
       "view_skin":"https://lh3.googleusercontent.com/ob2SnlH-ZiIgAO6WJEosbbTRmNc05V2_AR1_v3gCAbwxIx2KOXVfmWE296qNh4DVbexUdw3N_J-JHI4DV1l9"
     },
 	{
       "id":42,
-      "nama_skin":"cute fancy kawaii girls",
+      "name_skin":"cute fancy kawaii girls",
       "skin_url":"https://lh3.googleusercontent.com/1AK4vFf1gSYu1yyn0pu85dhooJXQXiV-UsfLEipIxKxBgloC_egYzOyXC5Y3J6fe7qh-6UxA9N_jdY9G8nsR",
       "view_skin":"https://lh3.googleusercontent.com/c55rn_CBarEio0MSa3AG_5lb-FTRaWW5JLf5_uEoi8PAHjrEYvn3k4rUnT1kGvfDiNzF1N7AzDkT7T9cvBMxnw"
     },
 	{
       "id":43,
-      "nama_skin":"Menina Chibi Kawaii",
+      "name_skin":"Menina Chibi Kawaii",
       "skin_url":"https://lh3.googleusercontent.com/79JmhjV40dsCKBXFExLs-4CrtzV8boNF36VAxpJhyqSHVr-jmV-9GczEBBmFyp4UUxxDfJTQD3wD5bQ3N3-A_Q",
       "view_skin":"https://lh3.googleusercontent.com/-M4aBncPgp1ir-D4usvUl9krD4GHsHZnLoD03F1_K38LDyOx8Biy7y5uBjoOGPr1tO0GXlW9FPSShssIF8Ud"
     },
 	{
       "id":44,
-      "nama_skin":"kawaii halloween boy 2.0",
+      "name_skin":"kawaii halloween boy 2.0",
       "skin_url":"https://lh3.googleusercontent.com/dqWykrBZdCaBEITmAww4ybEsd2l8FXATuy8VAXtD4z-XsGoPQrUX9HU1cmq5ea7BB0tTx8qwzbSor4F4upyZy0c",
       "view_skin":"https://lh3.googleusercontent.com/CIMXtez9mMlrbJgL1322tmdRlfG0nl3vUGyPAXdIukfHuJiOp3fTxPEKrfhmMQwCCfgT4X8wnwa3UavQvlRfbCw"
     },
 	{
       "id":45,
-      "nama_skin":"kawaii girl cat",
+      "name_skin":"kawaii girl cat",
       "skin_url":"https://lh3.googleusercontent.com/SvN4YB86VhQOUPYsDqDHsT5_phDelfom3Ib3ADSi0ddWY6BrQ_q7Bzk9fh8bTgtl8SeHUfuO5RRK_0AyiFLO",
       "view_skin":"https://lh3.googleusercontent.com/6eP8iVqdnkUH5UNOZAgoJ0rF3ZGNHhezLnfusTOTWnmcwDoxE0aiyTpwD_c3LZrGPb0FaiPrepA2u2LLRAxd-XY"
     },
 	{
       "id":46,
-      "nama_skin":"kawaii boy",
+      "name_skin":"kawaii boy",
       "skin_url":"https://lh3.googleusercontent.com/egF8w4L9qFisVyTmaVTOhxyo28QZJtmca4IQ-NOddkPpEAp5PBZp9IInpnhst9Y44TvlxbXjH8tf42YF-pETnQ",
       "view_skin":"https://lh3.googleusercontent.com/ofd0Kmcl6cGiz82qLpXuBFM4_LZSMpCKuk3ExbZC-M5FOepGzn8Vvp3mJHMVrhK5v5zdj-hvrZ6ZV2zz9qLP"
     },
 	{
       "id":47,
-      "nama_skin":"cute fancy kawaii girls",
+      "name_skin":"cute fancy kawaii girls",
       "skin_url":"https://lh3.googleusercontent.com/fD000EmxDQuNsu8WWCREbARIdWEXzWaSZbGZx1ZXQULHWIMigwTOLj7QDBCDHTcohKCO4DTnjI8GPW8CiOfw6g",
       "view_skin":"https://lh3.googleusercontent.com/OaKCjZBd6leVP6k8xrzLv-WM-8NKVWwSVg604zc2iHRup6pm9hqKAUnWKz6s8gBW0XZr0ZzhQtrEVg-NnljR"
     },
 	{
       "id":48,
-      "nama_skin":"kawaii girls",
+      "name_skin":"kawaii girls",
       "skin_url":"https://lh3.googleusercontent.com/TBZuPCfrfdI3MPJRWsILi8tl67WMcBTfBBhuLjNqavbjlgpgkeMl6XkXUEOrT40zs2A-cZIRxVcFp-DDG1NS7g",
       "view_skin":"https://lh3.googleusercontent.com/dFCJINkP9PEeugtrDVOOTMZj3XD4KEM-O8bN_GoqfqiXRWyICXtY0gQct9J95DCUKbG0JC9fC371UE-ervfuPg"
     },
 	{
       "id":49,
-      "nama_skin":"Kawaii girl 1",
+      "name_skin":"Kawaii girl 1",
       "skin_url":"https://lh3.googleusercontent.com/CGEr05ApFeTLwIho4irUpyeXI53zuV1uUqu9sVbUJBJRRMqjbDFJ7bnUUL-FvZxaHJoI7I87SFCwkrcqhSCBPcg",
       "view_skin":"https://lh3.googleusercontent.com/pO_CF9ba0as8ILAs0tMBk1gIh4_Jt6pgXdQMs-3l2SJqn0o_OIq80vf3jImndVHaefP3Hq73UnmcRfl3vrYLCA"
     },
 	{
       "id":50,
-      "nama_skin":"pink kawaii or chibi man",
+      "name_skin":"pink kawaii or chibi man",
       "skin_url":"https://lh3.googleusercontent.com/j3kj6zlMSE_e_g7lqh6ushmgwcy5YjnC2corbjaeeg-af49FB119A_V-Jd_jO-YmtUuicH_UUxa4dY9nH-DF8g",
       "view_skin":"https://lh3.googleusercontent.com/yHaWHoiAygCNQqN5vAURmQ4T64HdMG2wRhxMaH6oz7Twp_HrFUjoOdT44WLWknZXp7lo7u8AgI1g2e7C-drrhQ"
     },
 	{
       "id":51,
-      "nama_skin":"kawaii galaxy boy",
+      "name_skin":"kawaii galaxy boy",
       "skin_url":"https://lh3.googleusercontent.com/nOs9E3iG8X8SPOHajqyrEo2tQENL9nlalVdoAEV-MkXgwWjarPJ7eCSmGRTV4A5loDBPqGSoGmOHr41OfdaVXw",
       "view_skin":"https://lh3.googleusercontent.com/yvOPD2FX8cifsO5ogVya2s8CqpchX_CDSaGCR8i2RgotZj-fmuJpVvnFJaCF2vbtxB34il-bbjKf1maj9vG7hw"
     },
 	{
       "id":52,
-      "nama_skin":"kawaii boy duck",
+      "name_skin":"kawaii boy duck",
       "skin_url":"https://lh3.googleusercontent.com/s_VtMEAZwe7apK-J-aWQyZ76wHAzUzl-XkfR8wkHqXGDlX3j4uEO7hi7ERVsmzQnEUZ3Hd4bh3lHZHALn97i8ps",
       "view_skin":"https://lh3.googleusercontent.com/OkYYcZHBw6v0sMuw8c7LJKDj31yV3h6yS_vYnR6KJCWYbdoqfqKdq-RTgNpTRT240KmzlWVtsukevsjACTah"
     },
 	{
       "id":53,
-      "nama_skin":"Azlim kawaii",
+      "name_skin":"Azlim kawaii",
       "skin_url":"https://lh3.googleusercontent.com/L4d05nB1EunaCbmMOSxjlPAswvh7ulEAbUw8Jtqqr6RAYUte2-iHk6byUiRwhD6_srWFYSS9SN1lEaRWypzq4PdxaeI8useVQUQ",
       "view_skin":"https://lh3.googleusercontent.com/V511T_SgDzljuuQJXb1oM-dGulH_LmR-qY33i297gDSfXawnLuFLXzUAsq0LUUTpX4AuRi975atJHzorgaagglvECv9DiHaiXA"
     },
 	{
       "id":54,
-      "nama_skin":"kawaii icy girl slim",
+      "name_skin":"kawaii icy girl slim",
       "skin_url":"https://lh3.googleusercontent.com/2RFHoIOaX5FM85fDcx4E5Ht7DRG4WQ-X7tWYWq58o5X85BiTiq7a8HWZWfC6ehpMT0vxZyI7UvWUHDOZEQnXhgs",
       "view_skin":"https://lh3.googleusercontent.com/ZByzj8GZCn-h7p_8DZDGwjsWxLOLP2C5wwSJLLL6LtphZGelEVxW1YmAAXDbzd_SwVHrEAdE43zh1DnWJPIZ"
     },
 	{
       "id":55,
-      "nama_skin":"cute fancy kawaii girls",
+      "name_skin":"cute fancy kawaii girls",
       "skin_url":"https://lh3.googleusercontent.com/6FnDoSOct3EoXFUiKt4mKKpvPN9akBq6YYKEQf2_lFaCzF5K97vgaGftIDxkN-AslNJqorHSgPFp7ZWVmV2LLAQ",
       "view_skin":"https://lh3.googleusercontent.com/44BYKNHzyPuOWTLAcL4gkDFYVWdKRX_m_cGsT9Otz9J1UdfO6uyp6124E_n-pr95psskV4vC4nqAAG9ArMsv"
     },
 	{
       "id":56,
-      "nama_skin":"cute kawaii girl bear minecraft",
+      "name_skin":"cute kawaii girl bear minecraft",
       "skin_url":"https://lh3.googleusercontent.com/nXu_Dax0p3R9Wf1zvyeFgmu5qu31uKgrpHYsnmir7M0pxIcPMyl41P5-SMNfE2jYbKnUhSlAJPpUnuin0C_kAQ",
       "view_skin":"https://lh3.googleusercontent.com/dj0-wHLuvUXR3x9AOtCXuHYVGL8582L1hDfJSIxZyLY5QAqKH5-kz5Sz9p865tGT0J8Zi04eNAnna36IUS-xSEWl2kT_FUCpZXw"
     },
 	{
       "id":57,
-      "nama_skin":"skin de minecraft panda kawaii",
+      "name_skin":"skin de minecraft panda kawaii",
       "skin_url":"https://lh3.googleusercontent.com/nctn05EKC31KhXtgkDaU4Eye5uBXvCzRqAwVWtnZajMbU6LKuiJRHWa0bml03lXxddXRwtCJYi7MCe1h3LNZoQ",
       "view_skin":"https://lh3.googleusercontent.com/rmy7_BR_8p--DDPQigB3-AxNsOkjV0eEM27yTFbLfDgl33yIfmi0FGWN_ssf8PyPqAk91j-h-UL2LJxBZx4ex0Q"
     },
 	{
       "id":58,
-      "nama_skin":"Kawaii Chan",
+      "name_skin":"Kawaii Chan",
       "skin_url":"https://lh3.googleusercontent.com/WB5IewA3WRPLUgqqLjbmVuIuQ4gT0ocLvSldQM_D65K_9AJ7sXTTuYliuPTyNJk-0yrzHJh7rr3TstBPB22mz-c",
       "view_skin":"https://lh3.googleusercontent.com/jrRQqz4RlqADMEBcZDieN5GYE4PN0nNU0o1jElb1jTG3-XHC42v4YXHQ3kkkvhYMyBqugYNfBgfpo7E6IMF2NY4"
     },
 	{
       "id":59,
-      "nama_skin":"Kawaii Star Moon Bunny Girl",
+      "name_skin":"Kawaii Star Moon Bunny Girl",
       "skin_url":"https://lh3.googleusercontent.com/AScEqqicth8OPlGxv2mdUJxRPS2iX1_UOZ2mp_smnTT-r3bn3S-ZFwGP1G-SxkS_dKDmi7haNBwejp4mNAez7v8",
       "view_skin":"https://lh3.googleusercontent.com/phuH3pNnsqpoEy7Y22jbmIy_Ofq_IvWbZEctuQOGhxqPgsxtlKdltXTZMjQg_FL3xqzEOb_vRZFKkNOgbLEXqu4F4KhegVdIF_ws"
     },
 	{
       "id":60,
-      "nama_skin":"Kawaii doll girl",
+      "name_skin":"Kawaii doll girl",
       "skin_url":"https://lh3.googleusercontent.com/YBxrv5jB1csR6LZtPsILAtaaOzhhTQRQ9-QgutIGLvMoWzkqcJ7p3RL7idghcysBsckb48BA-nV9gvl0O_m0",
       "view_skin":"https://lh3.googleusercontent.com/2X43we2I12WW4jPJ96Cx6io9boCG9C83WxR3cGm5pdimWWKxTdtpkuJsA9UyiQxO1nz1EstqXRhm1d1W3D3MzX4"
     },
 	{
       "id":61,
-      "nama_skin":"rana kawaii",
+      "name_skin":"rana kawaii",
       "skin_url":"https://lh3.googleusercontent.com/YXj1FGTP_Wgjuizmr9uX2D4eyuqYsRudEiEExhxsIAq7bbaAl_DslosKP497JwL1rFKLettDwmou4CUMOhU9zxPntycuGTO1AGs",
       "view_skin":"https://lh3.googleusercontent.com/LWg3D1mFZR_IjJaAeJfqNUKV3MGAKttxghkJMBIpOSZF9whmXZlXSxXzpjTYMtbnPYOZKCvHfpQqkegz_MpUdQcNsc5CYxtJ2v6N"
     },
 	{
       "id":62,
-      "nama_skin":"kawaii boy",
+      "name_skin":"kawaii boy",
       "skin_url":"https://lh3.googleusercontent.com/-vrBcFMaT27gAUuSTbSKCZdEaioKDf8sl_n3crtCeRKlrDvRvAGTFrxlGHMrJMtsWHk175KxS0GRHiO1FkszXw",
       "view_skin":"https://lh3.googleusercontent.com/LNzBkTj4gNfQMKBvx0BMWQU85VDsBErgYDCHu6lkW4BkWNwOo2SO-v0dqgqYigh1ipzM8-Ep7Ibnvy0LqmnKUQ"
     },
 	{
       "id":63,
-      "nama_skin":"Panda Girl Kawaii",
+      "name_skin":"Panda Girl Kawaii",
       "skin_url":"https://lh3.googleusercontent.com/PhYSgu5ZQMuArJ99h3ViknvoJ_oKPGUsATEZJo54bDsoemvk--DvMoGDki1DAVcVLBApHyrUPWyOccn52Txu8g",
       "view_skin":"https://lh3.googleusercontent.com/8_G3J7Q1p9r2j-WM7VOng26xUFdrq3NicNNUpQvT7YMz7Fw46uVGn_l9Ezzu1i0PjT2-20NVuCxnJ8g3Yie0"
     },
 	{
       "id":64,
-      "nama_skin":"Cute Kawaii Cat Girl",
+      "name_skin":"Cute Kawaii Cat Girl",
       "skin_url":"https://lh3.googleusercontent.com/BIA6w5tk4BGXeiYuWk0zAmYSIMr_t3X_08n0weXnYDXPFCnhS9wgAueZIWPr6RRRZnUyLzAO-33bvbnawamR",
       "view_skin":"https://lh3.googleusercontent.com/qcNxu35zIKp0q7gwwymlx80dla8iOHGLzVrLIe8vpx9OPwPSwKlR7lgORFsnsGCihbm-lXMxwiCrJNDpbvZe7g"
     },
 	{
       "id":65,
-      "nama_skin":"fille kawaii",
+      "name_skin":"fille kawaii",
       "skin_url":"https://lh3.googleusercontent.com/75DFwKqqTHsTRc2xue0XHUToFvNMZ6l8cNQgpxlFAn3gfbSWEjmcGCMuS15TRpUAWxuzUl8eIRiP6Efm5cUIBA",
       "view_skin":"https://lh3.googleusercontent.com/rLiRnc2D8O2qU3dgMG7i0KT9C4CfZckGnFhGWQwooF6R6r34WY3ADmf6GZzL592XBBrD4J-yizzjZ5lHxJhH"
     },
 	{
       "id":66,
-      "nama_skin":"Shirayuki Hime kawaii Girl",
+      "name_skin":"Shirayuki Hime kawaii Girl",
       "skin_url":"https://lh3.googleusercontent.com/KVcaFiNkvIH8eRIQvPKJED_gz0uo9Jy6Ct0nm4rkge2rPMPhNJq057kSC3kchWqpH1NGKf17QW96S4MDGJQnrw",
       "view_skin":"https://lh3.googleusercontent.com/9WO1vY9390H5oT8yJLDF6pQrmc1np2j-xBgJ5cEwzr_tO5DCtfJITmgyCNjfQ1zNiZmHpjOfdBGPk2mcdNoOgA"
     },
 	{
       "id":67,
-      "nama_skin":"kawaii pink girl skin",
+      "name_skin":"kawaii pink girl skin",
       "skin_url":"https://lh3.googleusercontent.com/pv14TTRmCxMIzSSw9muPcyrxLjDM5_Iit8Tz7uuB6BFJ8qxO6nhXmGABPb7b7cBBdj50D_2-2jPIZKOs1dq7zA",
       "view_skin":"https://lh3.googleusercontent.com/uskGieNAgZ6_hyzuuh0D2KMOwJxgt4aO_f4h5_9mqD7qKftRdV7wJc9hfzlUTR_laGACnYLGAYeknKReVweoFHjNzvW3Ms3BpYQ"
     },
 	{
       "id":68,
-      "nama_skin":"Kawaii HD girl",
+      "name_skin":"Kawaii HD girl",
       "skin_url":"https://lh3.googleusercontent.com/dYa7mpa35b4c0K7H3regm2_-ybZpZQhT26O-Km1HHnAN3JxDQS077IUMyU4S2rveUg-3X8cRUpzCFby7aaCP",
       "view_skin":"https://lh3.googleusercontent.com/72s2ADQDpjCNR8y3wAB4JdyBsO8TjXkpIFi9Tk9r3kSzAXngCHLnEZG1BoxaW0AtXURQV0EJr_GDkpUuX701Rg"
     },
 	{
       "id":69,
-      "nama_skin":"Kawaii Hula girl",
+      "name_skin":"Kawaii Hula girl",
       "skin_url":"https://lh3.googleusercontent.com/YJpHlVla1DV_iFpso68P9oyZpkxb5_jn2o2xwS5_OzL1EDbRQJKLVk1j6KExvJD1MMjnrKFPEVDhz5d5JDEKFw",
       "view_skin":"https://lh3.googleusercontent.com/Wk90k81mDKzIrd9OyVi7txztzoXago_nLOHJkWJhfAE-Ab8SO7v-EeIarNrRCywxjLvAPbdVhB2Jzp0Oiao2JA"
     },
 	{
       "id":70,
-      "nama_skin":"Demon girl kawaii",
+      "name_skin":"Demon girl kawaii",
       "skin_url":"https://lh3.googleusercontent.com/ckgqv2QwjS7D9SPHHUpGUALUIeyLJ4WlHQ3BdrMflht4tnTXJ6JHVk9Ca-efI0KEXxGo-yeuoOPY38Z7nqmNuw",
       "view_skin":"https://lh3.googleusercontent.com/Px0ZBsL5sYZaqsCdTHqt6quDizEySMGRagi_pvVMm0qBEcfHSzH_9Pmq_4CULP2VKo-Sk4BESVvknqJH4khk2w"
     }
@@ -458,22 +459,110 @@
   [
     {
       "id":1,
-      "nama_add":"Cat Plush",
-      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
-      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
-      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
-      "view_add":"https://aliendro.id/wp-content/addon/catplus.png",
-      "des_add":"file:///android_asset/cats.html"
+      "name_add":"Addon Kawaii",
+      "add_url":"https://wedosmp3.github.io/imagecreative/kawaii/addon1.zip",
+      "addB_url":"",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/kawaii/addon1(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/kawaii/a.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/kawaii/kawaii.html"
+    },
+	{
+      "id":2,
+      "name_add":"Addon Kawaii",
+      "add_url":"https://wedosmp3.github.io/imagecreative/kawaii/addon2(R).zip",
+      "addB_url":"",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/kawaii/addon2(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/kawaii/b.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/kawaii/kawaii.html"
+    },
+	{
+      "id":3,
+      "name_add":"Addon Kawaii",
+      "add_url":"https://wedosmp3.github.io/imagecreative/kawaii/addon3(R).zip",
+      "addB_url":"",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/kawaii/addon3(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/kawaii/c.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/kawaii/kawaii.html"
+    },
+	{
+      "id":4,
+      "name_add":"Addon Kawaii",
+      "add_url":"https://wedosmp3.github.io/imagecreative/kawaii/addon4(R).zip",
+      "addB_url":"",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/kawaii/addon4(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/kawaii/d.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/kawaii/kawaii.html"
+    },
+	{
+      "id":5,
+      "name_add":"Addon Kawaii",
+      "add_url":"https://wedosmp3.github.io/imagecreative/kawaii/addon5(R).zip",
+      "addB_url":"",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/kawaii/addon5(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/kawaii/e.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/kawaii/kawaii.html"
+    },
+	{
+      "id":6,
+      "name_add":"Addon Kawaii",
+      "add_url":"https://wedosmp3.github.io/imagecreative/kawaii/addon6(R).zip",
+      "addB_url":"",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/kawaii/addon6(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/kawaii/f.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/kawaii/kawaii.html"
+    },
+	{
+      "id":7,
+      "name_add":"Addon Kawaii",
+      "add_url":"https://wedosmp3.github.io/imagecreative/kawaii/addon7(R).zip",
+      "addB_url":"",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/kawaii/addon7(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/kawaii/g.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/kawaii/kawaii.html"
+    },
+	{
+      "id":8,
+      "name_add":"Addon Kawaii",
+      "add_url":"https://wedosmp3.github.io/imagecreative/kawaii/addon8(R).zip",
+      "addB_url":"",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/kawaii/addon8(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/kawaii/h.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/kawaii/kawaii.html"
+    },
+	{
+      "id":9,
+      "name_add":"Addon Kawaii",
+      "add_url":"https://wedosmp3.github.io/imagecreative/kawaii/addon9(R).zip",
+      "addB_url":"",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/kawaii/addon9(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/kawaii/i.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/kawaii/kawaii.html"
+    },
+	{
+      "id":10,
+      "name_add":"Addon Kawaii",
+      "add_url":"https://wedosmp3.github.io/imagecreative/kawaii/addon10(R).zip",
+      "addB_url":"",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/kawaii/addon10(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/kawaii/j.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/kawaii/kawaii.html"
     }
   ],
   "Maps":
   [
     {
       "id":1,
-      "nama_map":"Hello Neighbor2",
-      "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
-      "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
-      "des_map":"https://aliendro.id/wp-content/map/hello.html"
+      "name_map":"Maps 1",
+      "map_url":"https://wedosmp3.github.io/imagecreative/kawaii/map1.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/kawaii/maps1.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/kawaii/kawaiimaps.html"
+    },
+	{
+      "id":1,
+      "name_map":"Maps 2",
+      "map_url":"https://wedosmp3.github.io/imagecreative/kawaii/map2.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/kawaii/maps1.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/kawaii/kawaiimaps.html"
     }
   ]
 }
