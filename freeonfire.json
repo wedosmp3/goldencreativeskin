@@ -2,393 +2,393 @@
   "Ads":
   [
     {
-      "status":"0",
-      "link":"http://",
-      "pengaturan_iklan":"1",
-      "admob_open_ads":"ca-app-pub-2521648737251856/9886818134",
-      "admob_banner":"ca-app-pub-2521648737251856/4273730506",
-      "admob_inter":"ca-app-pub-2521648737251856/1537377211",
-      "admob_native":"ca-app-pub-2521648737251856/2199899808",
-      "interval":5,
-      "fan_inter":"",
-      "fan_banner":"",
-      "fan_native":"",
-      "startappid":"",
-      "mopub_banner":"",
-      "mopub_inter":"",
-      "unityID":"",
-      "unity_inter":"",
-      "unity_banner":""
+     "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
     }
   ],
+
   "More":
   [
     {
       "id":1,
-      "judul":"more app",
-      "image":"https://1.bp.blogspot.com/-GRF5s0x9sDg/YTzScDzfg5I/AAAAAAAAAu4/AuZxF5arRP0KDhXEPpsu4f-QQjrYiG8lwCLcBGAsYHQ/s450/1.png",
+      "title":"More App",
+      "image":"https://wedosmp3.github.io/goldencreativeskin/playstore.png",
       "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
     }
   ],
-   "Skin":
-  [
+  "Skin":
     {
       "id":1,
-      "nama_skin":"Alok Veteranesco",
+      "name_skin":"Alok Veteranesco",
       "skin_url":"https://lh3.googleusercontent.com/_pFNloSoYg92QLI1Vb27xsuRAu-kb01LZaHOwa-oT9p32C8CqEqemdH0gcb_4PBxpyKuc801WRa25y6Eed0q160",
       "view_skin":"https://lh3.googleusercontent.com/SzcT1Mrz6BRHyA4qaadqyJVbdKZMyaFMRQyLrpWAneOZOA2Q5LhuGcmjow9CnA1aX_ugCX-ciCBOQLbI9w9U"
     },
 	{
       "id":2,
-      "nama_skin":"Free On Fire Cobra",
+      "name_skin":"Free On Fire Cobra",
       "skin_url":"https://lh3.googleusercontent.com/yh1PuBcvJRe1yUT8d0U3FqGc-cImgQuzq5OMVR6cXtOQwd_wYUd99izsgHqhyD3iGiHSjabCQrcml-Pb8yLOTuVLwR5M-8PflWfS",
       "view_skin":"https://lh3.googleusercontent.com/Haoj7ZfTkuoqIK0xpx6HTUqbrptpxcXhxUYjHwCapkvU6b7H0kDxLeyuxEMW4JGwQNrsn9swWrqOUManrfaMb5CmmFP7TqZ7Ivw"
     },
 	{
       "id":3,
-      "nama_skin":"Free On Fire 1",
+      "name_skin":"Free On Fire 1",
       "skin_url":"https://lh3.googleusercontent.com/3MYYgKLHcGW-vkUrNhw6G5vlko8yBHccewsZelC1O7nSJ_A6Wi_Ii83SG1jJ4Hpa9mXazB01UbDK1m2-RV8Dag",
       "view_skin":"https://lh3.googleusercontent.com/UMxadp3f-ZKWW3C-VD7u82mO7EsUn5COCSylHdairWvWhwjOueVXYBgqQKbV97TQwTytZB5pKtXYsJiGnGbuXw"
     },
 	{
       "id":4,
-      "nama_skin":"Criminal Free On Fire Rouge",
+      "name_skin":"Criminal Free On Fire Rouge",
       "skin_url":"https://lh3.googleusercontent.com/fDH_NR5fJqt-nwthmR7CghcYExCvuP71r0nrir1VYF2rQDKL2cz6_ppSi3gwJd1wsHmBTdZhLZaHCnu4H9iBaA",
       "view_skin":"https://lh3.googleusercontent.com/5wW-ssDt8f5dQPetBkhm8x7MW7eL_1zQBCJS1hmw7eq7py2TdQwUTl4d8osL_xGMHDFJwzoxicJ0jn-8UHX1gQ"
     },
 	{
       "id":5,
-      "nama_skin":"Sakura Free On Fire",
+      "name_skin":"Sakura Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/tOBZtTPlisKG0tYcas93TmjpKeJgpDuMv5jYZudDMylZNP01Fq31Wx70d7uRbYS4U4cY_TCeFRu6STd7hhDs",
       "view_skin":"https://lh3.googleusercontent.com/q44STy9M5ckOTHAn3awjo6zEx1tEENFRkHMyl3bhe38BDF_zYTZFpjryCkQGsrwR4s8Tf1YocEKXasN5uKkRXg"
     },
 	{
       "id":6,
-      "nama_skin":"Free On Fire 2",
+      "name_skin":"Free On Fire 2",
       "skin_url":"https://lh3.googleusercontent.com/ypgM7eLo6ZLt6jVfadg-toO8OS9cTwZUX7e-78eXYUrj_WPjCfnLhtoHmCuXG2Lzf3Zo_xnX6AeobO_a4oF-hl0",
       "view_skin":"https://lh3.googleusercontent.com/HF74Hf-e4nOGdvOROKCS8GwVI_8BhsOru3mkVJs5Hh2DK9Al2gQqQmU5Yt-GyOHQq4ZGhJfhxgeYowDuyzV7hA"
     },
 	{
       "id":7,
-      "nama_skin":"Hayato Free On Fire",
+      "name_skin":"Hayato Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/qPuq2gprmCiyIj1fqBEP217-DoG_-E1HSDTQIOwFfaSOv9ysMg_kTSrPEl4OLRssyHEgYcbVLGhHyERP7wZ2",
       "view_skin":"https://lh3.googleusercontent.com/-2IZcvqGZaq_xUj2W05jEYQCgZ34QdcYfENQ1NXxk1go2pU3tGX9C8KDJLBBw-rqIrdhyBmDDK45bu8eHMLn_Q"
     },
 	{
       "id":8,
-      "nama_skin":"Criminal Free On Fire Vert",
+      "name_skin":"Criminal Free On Fire Vert",
       "skin_url":"https://lh3.googleusercontent.com/J9CUcutmPzYC3D6FyWRu5_BAgSFFDzCWGW7VuTCyu0y7xX4uU3A9fyxPH6lVwYEas0X-XqmXVpzTHVcE3U1kJg",
       "view_skin":"https://lh3.googleusercontent.com/sIzUY0vjpOQI2h18rMYS2ow5flWfPpdEQx2hbDQWxLApb2ZwLUQZrk-9-QvywQ2hQK3KW_Rf1PZ5RNNUXmDuXQ"
     },
 	{
       "id":9,
-      "nama_skin":"Free On Fire A",
+      "name_skin":"Free On Fire A",
       "skin_url":"https://lh3.googleusercontent.com/BOhgbKoapXHaiz1bSGB7wquNI90WaolZVxaxlP-d1Qon1MYg_yll9W9WWxgv6oZWKzblfvkutF4PhQ5MT7ET9KY",
       "view_skin":"https://lh3.googleusercontent.com/TUbJk3chlDwsVkPLVfKSHlQEJwvgmaQqsHePHGlaOSsoK5O7mnHajTa1CtIsL3df0FnDZGqOxtK6gs9WO84Y"
     },
 	{
       "id":10,
-      "nama_skin":"Free On Fire B",
+      "name_skin":"Free On Fire B",
       "skin_url":"https://lh3.googleusercontent.com/eMl_vyYgNVEJr4yqcU9gT9c1c3w4ZrfeJOdk7IADmRPp3etXk2Hjfvh8kTkTwKlRMI3SEOAHZ2b35yW45lUZuLQ",
       "view_skin":"https://lh3.googleusercontent.com/kM2YkPtMfGGtPz6UbZh0SrGRE5nc3rRNZotdgY8JpR1Il5OZMSGU77M6CvzvxypB7SejtFzY_NKBW98ATgj6Ug"
     },
 	{
       "id":11,
-      "nama_skin":"Criminal Free On Fire Bleu",
+      "name_skin":"Criminal Free On Fire Bleu",
       "skin_url":"https://lh3.googleusercontent.com/qCf6WXfYWQd6m0U4_3FEcMSXD59KSCRo4v3pPzrzniR1lVWROQi_qcV3EHirR97GqSi_7acCdhCRZBVfMg3mqw",
       "view_skin":"https://lh3.googleusercontent.com/DrylvKezD3-LJNaf8osmu51nA9WDTobfsbftpgG3sqKk_lsV1sRsBZj1X8sYWE0GvxJwao5U-k18a9dIAj35bg"
     },
 	{
       "id":12,
-      "nama_skin":"Pase Sakura Free On Fire",
+      "name_skin":"Pase Sakura Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/hTFQJfeUeRXt3xNxmgHHoKrw-y0Xscj8nIgAtG_mgObYWbiSgl0RSULj29lBwGc2959xiGUruMbEKxfn1ezDzO_GBLERHCf1MG0",
       "view_skin":"https://lh3.googleusercontent.com/-SnfBJPJp6EqY5FM4yhTHI_iQqTdP-8h7a6REDGIONdziU8hns17RelfPB8-dShx7A2Cn32yiaobyI2iLSP0aqHt5HCni3oVcA"
     },
 	{
       "id":13,
-      "nama_skin":"Criminal Free On Fire Jaune",
+      "name_skin":"Criminal Free On Fire Jaune",
       "skin_url":"https://lh3.googleusercontent.com/tG9A9DRLTO2lyLdkM3ccIk-IHY9VzW36KF_NRdP8WIuRHCYP0ySI0rSm7MQ1_j7ld1b7Z5wYJu9hxGENcnmLl2o",
       "view_skin":"https://lh3.googleusercontent.com/f-Wr4Z6l8UJ6QiNdryVvFMUzWDsdWmoZUX7SX0WNRVaTvordQSBMgXeZhIfr2p40-JsQ3suGtR7U7o5JhPyEXQ"
     },
 	{
       "id":14,
-      "nama_skin":"Maxim Free On Fire",
+      "name_skin":"Maxim Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/5DMpb-AkzdxK0I1d72xTL6RhkQd3Jdvm7AXwFqhBEBRX4miMZBfgCV7Vefu8xgb1fm6uiMkdTuTsneNWmUhmmw",
       "view_skin":"https://lh3.googleusercontent.com/UKhkSezGevqrBabtWyxK-nG4xm2yV9rRuTTbo63sx8h2puhK3uWcmuDcBNTc-ebUFrnWApP43OPxUPukLqWPCLg"
     },
 	{
       "id":15,
-      "nama_skin":"Free On Fire C",
+      "name_skin":"Free On Fire C",
       "skin_url":"https://lh3.googleusercontent.com/8Cg_5SRuEIe-idgMUrsvjKvUjhT5d4DTHKUqIGqh3qlb5MJBqPI32zi5DH9zq_3yqyJMMELP6KhjTXJ4ESQ2Tw",
       "view_skin":"https://lh3.googleusercontent.com/0NqPsIImCvsEhP5HfoLTQMzaaRF3oqMfcZhQjvj_lCDMHdg59vBQaHl2DUj079zEzy7g6pmPAcC6oCbZHztO"
     },
 	{
       "id":16,
-      "nama_skin":"Free On Fire Asesino Sushi",
+      "name_skin":"Free On Fire Asesino Sushi",
       "skin_url":"https://lh3.googleusercontent.com/0lAvp5Ca8zrzyKFrLU76a_5s6VpoAgBy6JsS-KQqsv3sVaC9aFfQih0-m1IJN9wGDaSDpNR6Pujxny-I-kQdZQ",
       "view_skin":"https://lh3.googleusercontent.com/ArkX-50xEtmvNZZKgci778hsVfV42NiNkW5oSHm24VA-rOrtDYsV0hmQpVCDc0_bM-y32blq09kGxvknpJyxng"
     },
 	{
       "id":17,
-      "nama_skin":"Free On Fire D",
+      "name_skin":"Free On Fire D",
       "skin_url":"https://lh3.googleusercontent.com/e65mBlUj4qio0qFKh54Eycxi7RNlKoABno5J5jbSxyJHYiEZLiajKf27kFOLu0_63wysaTF5rC9jqQ9qKQcfmuI",
       "view_skin":"https://lh3.googleusercontent.com/30BOPv7OkYZzGmw66w6DhrIm39yWqV7GxfriEZbJI_-u4q5Lq4Yj1atk7Esib7NA0OinMjm6Q1XtiZJn8_YuHA"
     },
 	{
       "id":18,
-      "nama_skin":"Cepcil Youtuber Free On Fire",
+      "name_skin":"Cepcil Youtuber Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/SSk_xCTgVc4WNy32s0Ki2rTsNj7cCfIsrFIlSjMAnYOVP6QEsvtdCiupLzMhmHWQiAA4jeRPGB8VtAccvbSnIgdiz6PQ3EjKEWg",
       "view_skin":"https://lh3.googleusercontent.com/NBr6xOIJcdYeb6dv6HvTC8E9c7qzEyptu9i5dlCZpT62431ydNGdCzFXck47h_OzNdT8OWwWoOjBGT0THaZp3tpvBUeEqIyglw"
     },
 	{
       "id":19,
-      "nama_skin":"Free On Fire E",
+      "name_skin":"Free On Fire E",
       "skin_url":"https://lh3.googleusercontent.com/V0ApYct-KePR1qzBQ0qVaUKoer0tyPfXCcLX6ZE7e0no4sXUe3o8CPgN6SBhoUNuWBolmPMgoC0WWLmu53rp25I",
       "view_skin":"https://lh3.googleusercontent.com/Eh0KPivfx5gizaN85YNHSlcW3RSwu9x7bEH2vYBAhGj0uzVJkfZjbnkBBqs6K87NckpALKhj-6h1dQ5kkgevk3s"
     },
 	{
       "id":20,
-      "nama_skin":"Free On Fire F",
+      "name_skin":"Free On Fire F",
       "skin_url":"https://lh3.googleusercontent.com/dr0geTtmNnOuvIzjvyvdkLaGb4jwe_8gtq9H_M8mtdqy_ORTrI9DykwV4ndHOw1AVzMn6IthdNKUiFNBXVxxx8PdLY1R95dU2Tg",
       "view_skin":"https://lh3.googleusercontent.com/QpPef3OngjR3UXM6Trnoi5BGduUsDoldYiz6MmLZ3Q69qGqR3i-C3viq2r53s9IIQ2H0gdbqRgP8rZRwAOuN9DZ2geJZMmlfag"
     },
 	{
       "id":21,
-      "nama_skin":"Free On Fire G",
+      "name_skin":"Free On Fire G",
       "skin_url":"https://lh3.googleusercontent.com/v36iriWLQf70O3X7HJGzday0EFN__EF1KNgM2Ktzs0Fek91_jdWX4crAXuVLLeehdD7H281xQ_bguRKssSZrm_8",
       "view_skin":"https://lh3.googleusercontent.com/HT3F3tvjzObUSTyjX3Qb30gYViUtFfaFbQJ00Lkb7XglvtLbzMl-OUqMtJgA7L4EwtuYrLqAl2FAB4m5VXnm"
     },
 	{
       "id":22,
-      "nama_skin":"Free On Fire Caroline",
+      "name_skin":"Free On Fire Caroline",
       "skin_url":"https://lh3.googleusercontent.com/HUrq9EcBJWw6JX685lnMeWEf80HZdELb4pOOGeOI4coZjo_t7wXSdRNbbWDdZTyMBtpF2bkgo-h9_MOQo2GKYA",
       "view_skin":"https://lh3.googleusercontent.com/FdT3_FOXDWuLO1NLFvLZEWKWfJ6cy4xDnXdhmCFAp08o2UR24Zc2saJ4koIStTK_h4Q6WJ0bOJlZe5N_UP1fjQ"
     },
 	{
       "id":23,
-      "nama_skin":"Kla Free On Fire",
+      "name_skin":"Kla Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/_xoRmfuE2_w_80ybrvzrraWHOVZU8toVgjya6D2iRnje73tWsXjZaSJm8O1JixgRjtBGyZP7_dVS2ahoi3zPYg",
       "view_skin":"https://lh3.googleusercontent.com/nUrgVt-hqVEHqMHh-Uhok-Q9qyRcdLYB2_7qcN1V6d6rSeY2MZJGZ-jpAqe49455JYPN7qD9BN6JsLP7gYWK"
     },
 	{
       "id":24,
-      "nama_skin":"Free On Fire H",
+      "name_skin":"Free On Fire H",
       "skin_url":"https://lh3.googleusercontent.com/wOa-_zNHejBLvR3965jzYhJShERkscpPiFgNmeG1JSo3g2R0Qbzw0-d8_f0FM5AvceqMkh6eCUNCe_IA8HRevA",
       "view_skin":"https://lh3.googleusercontent.com/PS-dwon4Fj7VwWrWaur8fxoWDyJfB4-cebmsB0B6hmj8LezFjqDJbCHQAktu0s0IxedWEiBiH_ozd4gkAwvlrg"
     },
 	{
       "id":25,
-      "nama_skin":"Free On Fire I",
+      "name_skin":"Free On Fire I",
       "skin_url":"https://lh3.googleusercontent.com/lfFnPUQhr8XIY2YAHg87_PeTVTQsuXBrMrHFzsPU0TqlxnHX75auKfWH9wPL7BeQwqN27oUwynPV_8_KM30bRA",
       "view_skin":"https://lh3.googleusercontent.com/IEmEQwTsFHMgs7VG9j9YCi0R5YFNp703DN0gdphx8-G1Sw0v1lJ4XDGA8x1bSyUPr4uzW_4scyr1gZVUE-6c9Q"
     },
 	{
       "id":26,
-      "nama_skin":"Dino Verde Free On Fire",
+      "name_skin":"Dino Verde Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/jDvN1A_nmJUATKXKjACI5YFnaUainaG6oiSQd7ktbOiFeBe-1kNixtDllM-A6m-7BZpel0bRGNNSPmkvwzayrg",
       "view_skin":"https://lh3.googleusercontent.com/JAHHMYyajpmgqWnB0ziapiRox5ZXwDnxvkGG-ffYCXy7DT-eck7rofZVOoZ73d78ShwieEzuvl10KR9JKbTKkzY"
     },
 	{
       "id":27,
-      "nama_skin":"Wukong Free On Fire",
+      "name_skin":"Wukong Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/aE8V3PeKd8pV-G9hFVvE1ZC08zp4xwWkEVVLsBfWkp3pGWxq3IhkXoLAWDg5v85UQOeIGJF6m4rVI9AxhMb4",
       "view_skin":"https://lh3.googleusercontent.com/ckb5PWV7459HqHK3-g_0sKkmMVWzIZfArrs1SUmlK02EUSVcz7byLcPoMflUtPVVqQgUKKENxmioS1uSTjq6xw"
     },
 	{
       "id":28,
-      "nama_skin":"Free On Fire J",
+      "name_skin":"Free On Fire J",
       "skin_url":"https://lh3.googleusercontent.com/51Ea9Gz_ahUjTzGS0MjkorUO4ZnnYr05NVKpVnt2Jm4ck1qHN0QUvPNdd4HZpzJM9wVRsEBaTdQJ4bDVhvDt9Q",
       "view_skin":"https://lh3.googleusercontent.com/Q24RmnyXGoK1UW8vZFgdw6J96UPmqXoGiqwwy28jaF48ZJq4i86D_YJ4L7RSLeR01JoYvlMAZQZGOSQx5SSRVE0"
     },
 	{
       "id":29,
-      "nama_skin":"Hayato Free On Fire 1",
+      "name_skin":"Hayato Free On Fire 1",
       "skin_url":"https://lh3.googleusercontent.com/8fOjHrPUZRNpOJA8ZyQD0TAIbjnctnGm_ckcBc4av5PSZg2OPMjU-AHy-jR9K04BTu8Z0bWfvG1sJdiFDNjD",
       "view_skin":"https://lh3.googleusercontent.com/sGZftFKI1hDMapBBvEtVCduSntfSR95Tac9w-vSRDHJTse1tvvynK7FBM6Q8M8H0fnlzKqoOerS51p0Y08FR"
     },
 	{
       "id":30,
-      "nama_skin":"Flamengo Free On Fire",
+      "name_skin":"Flamengo Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/JQxTIjLa_o3kLxg5M57UAoTh72SPs7bE-N3NcfkQx3x9NNMDIlJdk78C9z5BTFLI_yCAFCYdyQWWUFjv4eEONHp087XgleZKwQ4",
       "view_skin":"https://lh3.googleusercontent.com/VKgmOtHDVWbaFRVoje9wLw00nk6hIqJRiGmQC0lAEsRZnmlUa-OyIyBLfbiK-EVDrCXFZNw2ze5UbDESwcI2BJO0Zs6TG8FPJrCD"
     },
 	{
       "id":31,
-      "nama_skin":"Moco Free On Fire",
+      "name_skin":"Moco Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/4hqWlOTTZzhEr8Vfx1PVusVqxC_pDfgNdSAYFtWCv2A7UGUuqYw4UTQzuMMbdpn_3rnpd8nLyfJlwA5uXIe4",
       "view_skin":"https://lh3.googleusercontent.com/00w-L1QJVX3QnNtnHPvH8JPQ7eO26A-3owZtNIuNwzEUMRpdnFBwLtVeQW_DjxSFULTU1evldWxYnLaXGV-sjw"
     },
 	{
       "id":32,
-      "nama_skin":"Hambruna Free On Fire Final",
+      "name_skin":"Hambruna Free On Fire Final",
       "skin_url":"https://lh3.googleusercontent.com/kbwAaZ6pgJ_RWz4BMyC1BKjGzH17L9py4iaq7wlrTDqF9VaK7CHEGlBuq6ObzS7LB9qFHAEIdpmOx5mHFhbu-Q",
       "view_skin":"https://lh3.googleusercontent.com/BIx2ofBciuZnqAOa6SR47AlDppBe9TpUW9H4x4WDQUlPRm2IBU_f7g6BKpMZDgKK3QoroMQJCHLlxxRHze5p4g"
     },
 	{
       "id":33,
-      "nama_skin":"Chrono Free On Fire",
+      "name_skin":"Chrono Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/QC4t0rCVWyqr1H5h5y0alULrmGaIUaRyhkH6nY9NCJeBVhC7t0L8q7fDHcPEAuNn6uGAHuRZAQBOdJ7skRqwolZI9iEeDYQYrg",
       "view_skin":"https://lh3.googleusercontent.com/pIl-V5xrCO5Mtl7uaxzfflLoPyN1eP1qauwzhzpbFMdetTdTJsEShCqfsVxLeBIr96o2z5iFgbVgcZdZLso9RqnAxe5nyEMr5A"
     },
 	{
       "id":34,
-      "nama_skin":"Criminal Do Free On Fire Vermelho",
+      "name_skin":"Criminal Do Free On Fire Vermelho",
       "skin_url":"https://lh3.googleusercontent.com/azwPLnTlfx7X5ZKxo1mDPLUpehCd0moab8IaQHnj_kj5jeeGxhh7kl5ebTO-hrVWcVeI9g7Rk6xIPW76PuTN",
       "view_skin":"https://lh3.googleusercontent.com/yIVxCxN8HmySdcqAIj63Hv9dmSssIDuJ642UbJ3ZpWmcW0_C6wyaPE5DAZNQCgn9ctS-TUckMh5rlTMyRWl6hT0"
     },
 	{
       "id":35,
-      "nama_skin":"Free On Fire K",
+      "name_skin":"Free On Fire K",
       "skin_url":"https://lh3.googleusercontent.com/4HRV0yqzRC_dyFGMW1-zYH92zGfnMqKb4sqZQhoFnStwaqW-zHo6K3XrAbT7ISxoa_Ef1jk2m8GPE9ktq6H4hw",
       "view_skin":"https://lh3.googleusercontent.com/cDrZVVaejTROD9aVTZCs_otPUsgW2u4YbWwu7uwCiUkk-XE9o_DW-kXk9Bpy8_349HjeJjqzReY0j0T5UOPBKQ"
     },
 	{
       "id":36,
-      "nama_skin":"De Free On Fire",
+      "name_skin":"De Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/xKGDcRzsHlQVKMHBIVfVqyfhXZosp64cRr9NoklfT_WbTwPOjF0bFMDtVkahAq49LO51iLkDhFLv768VIq_KPjSEitT6T9pQydKS",
       "view_skin":"https://lh3.googleusercontent.com/IhsoCuzYg9kMtC7z_PhyPqOIm5Y98I9Y1oHsWEL6Lf0Kx4Bcvi0f5giUCod7Y9OquXUhdXn7urTCTuKdPFC26DgAfI8HXdE8RCg"
     },
 	{
       "id":37,
-      "nama_skin":"Wukong of Free On Fire",
+      "name_skin":"Wukong of Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/k7YqjtuO04SW7Hj6Itg9yQW0APe3Jf6YPDcmBbiohQU-m3W8f0EDAHlTxyNfddFHRQSDcldxdZVqxxt43dx0ygNiUvHHcmlXkw",
       "view_skin":"https://lh3.googleusercontent.com/FTOuuMk6_ImSqjLaZLCE5sjarUYSBmSg4QJhHyNQETlH03hDkL-ePX9CTRAREr8Yz5lo4kh3dONLkU6G9oh4HRIIQ6vaf0wOi_s"
     },
 	{
       "id":38,
-      "nama_skin":"Moco Free On Fire",
+      "name_skin":"Moco Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/AHRahBbFxBYBZP90nKSdtQwQjEiD2VXy2qbLpYoAn1S9pTTEl99hIBO4Ic8u8X8aU0nkl0Gt6x7jEh360pDF",
       "view_skin":"https://lh3.googleusercontent.com/RQIYevU98PWLMqLkqWGLimL-5WXX9cesdWgEsMtEFGLfr7vPQQ-QJ3R9aHZ6I9RtK8wKuMc1kIu6xZhM2KBy"
     },
 	{
       "id":39,
-      "nama_skin":"Skin Free On Fire",
+      "name_skin":"Skin Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/CZ9_1jQr5nKVzJvYPX3gWuz_3VsfixdRnRd1qyr2vcVRrWBtyoQwDwYzytSkkskL-gTeDnIMT-nVPyeI5XJ8",
       "view_skin":"https://lh3.googleusercontent.com/LCg06UXEMRjt9Hymo7qB7huhwkNhGUJ49HjrsFfNGxwyeJK-TkQbwxEmBJfjBYf_rwZlm1aHT1FLEi5aLZmD"
     },
 	{
       "id":40,
-      "nama_skin":"Red Gaming TVTM Free On Fire",
+      "name_skin":"Red Gaming TVTM Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/27OhCu9UHJ9aM0RTrzgu8Jw-PyPdeVug4UWnvTN9hnaHeT92cDYTDPGUIjCpflF6l7rwQetfF3aJXPDqLi5B",
       "view_skin":"https://lh3.googleusercontent.com/hK-JRqKVt4m5PdgRlPZrZlbDBPX6ajhv5ILsYx-ZJ9yt8CSvusQdtctvogqOWZebF7rTqRK33FGoZSJwAPl3"
     },
 	{
       "id":41,
-      "nama_skin":"Diablillo Escarabajo Free On Fire",
+      "name_skin":"Diablillo Escarabajo Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/QKT7SvtNNk2F-reM8YHQaGNGPlQ-4UGObahSsTfrZoIWS9zB6Je9ufyIIwHGSwkEiXvvnKP7pfgBpv6Ks-rfwQ",
       "view_skin":"https://lh3.googleusercontent.com/up0u_PahMZWYd0366_WX2NdJe5lWEAMZkiiM9zT0Nha5jF-rDJV8p-smCbtbnAf2jG5xu8omKhOeyfskYf8rqg"
     },
 	{
       "id":42,
-      "nama_skin":"Joker Free On Fire",
+      "name_skin":"Joker Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/E-Mjj_E4LZbFAy4_3lmH5BHFV3UUhDBFQ0uQKihtxTPgkuSMxQ_1-_3kx5Ly_S91OnNkVMmp5W3FEfzGytRBXA",
       "view_skin":"https://lh3.googleusercontent.com/lmclocJ0iFT1SJvt9i3pMm2ucUmEGfCeTuCnTOOupDmsKs6pCP6Nz5_FocZo74og8_0lVJ6LPOB9lp183w8rHA"
     },
 	{
       "id":43,
-      "nama_skin":"GrandMaster Free On Fire",
+      "name_skin":"GrandMaster Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/PBYf9MLhp9iESlj35dmlYwjKd_vFj2B0flA20PZkqF9y4IfZSDUz_CNBXGE1oEilD9XYvXR5zXdAPix9h3u8Uw",
       "view_skin":"https://lh3.googleusercontent.com/7vMpfzqT2dSe0N55ZYP2BQm9WyP7Y0sN2so849fopmTW4-Q_rmXqjC8PRKwpZ3vi9b1qwOmkL27FO8xzQKBr"
     },
 	{
       "id":44,
-      "nama_skin":"Ampha Free On Fire",
+      "name_skin":"Ampha Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/S6PeYiJ71Pzr3b4o76tlApCaj4gNP77O9kbpBsrRTYNqMjbOiQz9t5NofYH8EQOVt8LL5H7Nq9g1FKoAEUGtCw",
       "view_skin":"https://lh3.googleusercontent.com/bt-4YdEIZABjPn-I4FTalOxeqyLL1Brb_Ys-YAmeW4qcJGIwtK8IQ_Dy8xSHswWqxBDTqw-TXqYhejjehJ1WEh0"
     },
 	{
       "id":45,
-      "nama_skin":"Coyote Free On Fire",
+      "name_skin":"Coyote Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/4MhIyP9d0b82KYYL4r3k7bHB3fe0WQr16Og4xkA6asqrXz1IAB4J_Cu-6AJ3RW8y6_YKJHKN0HAsKueOJ5Ws7A",
       "view_skin":"https://lh3.googleusercontent.com/M19ocZiZ2ZTllcESNxt5P1APLGSdbLycfyEyTWu2pfI58QfJTfo8fk3rowyNQCN1M_O8wVm0lmIfW502yDJ7ow"
     },
 	{
       "id":46,
-      "nama_skin":"Assasino Das Sombras Free On Fire",
+      "name_skin":"Assasino Das Sombras Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/QMGh0RA1fd95jCMK7wc9eBl7JtOBVSur0eO81QU6gRchuCDE10sECGQW2-GAXS85aEY9yx-CfwHVg9-0QQ8Meg",
       "view_skin":"https://lh3.googleusercontent.com/b25Q_NanZ2v4TS_ryubCYguTZHs_yboxYy8IL5bLhIVAUtAMQxiDKuJQD0Y4n15UNvYwElMxgUZ-ZfF_pCJc53w"
     },
 	{
       "id":47,
-      "nama_skin":"Dino Rosa Free On Fire",
+      "name_skin":"Dino Rosa Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/9RpQVcjgv48Su375BFOd7hqq2bEFtQrFurIaCwGtg23is9x0gutwwYGXr6fN45rWehN5hbjea6jRJ2cYNLMbfPs",
       "view_skin":"https://lh3.googleusercontent.com/jJYS64mj2xit8yTIKBFSKbs43VYvthfOOouq3uBkfzcouFvxB1OLT8qT1nuNkXgOHIhMClJhjV_PsAI0biKBNA"
     },
 	{
       "id":48,
-      "nama_skin":"Free On Fire Z",
+      "name_skin":"Free On Fire Z",
       "skin_url":"https://lh3.googleusercontent.com/jGCS4TfSDEIz6JMqvoPSpaa3tgJCsVLvi56VXtlq0kZTyNbZStSsv0UuGeCMduuMTu7GTqdJA7ZhKolMAxoB",
       "view_skin":"https://lh3.googleusercontent.com/1UUrw9vQ53nWt4QeMYINUftIQOJDF5lECE-ZXx3FgA3E5EDid-eH1tlM3vSsZIqpBY4DOo-mbM1ymuRph12W"
     },
 	{
       "id":49,
-      "nama_skin":"Free On Fire X",
+      "name_skin":"Free On Fire X",
       "skin_url":"https://lh3.googleusercontent.com/eMl_vyYgNVEJr4yqcU9gT9c1c3w4ZrfeJOdk7IADmRPp3etXk2Hjfvh8kTkTwKlRMI3SEOAHZ2b35yW45lUZuLQ",
       "view_skin":"https://lh3.googleusercontent.com/5fHNo1zEznMlODknLflk10ilM5aGTJJ5k4a2T_IgxtUTAAmm66tql4wgYqHAHcIQzZTSqVMqu1R0GngPnvLadCaCArUOQRqjtgc"
     },
 	{
       "id":50,
-      "nama_skin":"Melhor Jogador Free On Fire",
+      "name_skin":"Melhor Jogador Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/-vMa7HZj6GGWc8viYNYI-uPyisTPj96_nYh1pyyTT_hB3VplIplEn0BGGHk_1H0VtLoKbR3UfbAMSDNgV9wOOwc",
       "view_skin":"https://lh3.googleusercontent.com/q9NoglJ2H4-bGsp-UC733NdAO8fzNYQ20bRRgMMXwhvR5tvrUxu2WibTGz71EjkRXQryzH6woz4LzJybJad95g"
     },
 	{
       "id":51,
-      "nama_skin":"Free On Fire V",
+      "name_skin":"Free On Fire V",
       "skin_url":"https://lh3.googleusercontent.com/vDVqwnUiv2MS9RV1XGu7oROGvhSXeKHrwzD-zLmqwMQhv-E9lABWpHWbuYRgDDu1QrolBlxsNXyqf6d0sA0gTQ",
       "view_skin":"https://lh3.googleusercontent.com/ezhdNMnIZXOgmbp-1SJ4ioJuxhekINp9G0Yz5ePK6JeKpPysS7c1IYGnlI7oXTUYppWNzUZ2-nqkJeWfLzBRloSeaGXr2-6e4l4"
     },
 	{
       "id":52,
-      "nama_skin":"Free On Fire Boy",
+      "name_skin":"Free On Fire Boy",
       "skin_url":"https://lh3.googleusercontent.com/x_AEpQrx9GrTVryJ_wdoi0-DiPrMfaZfJbKKK8pWLjb6qBR5gDs2i5ZWQnqmKVnhjVJdyXn91kv_2hjCuhrHTb0",
       "view_skin":"https://lh3.googleusercontent.com/-EkO4u1SLHbNwhvqhGhhqTtBSSXsYXtDaQP5kp4oG4bbl2SwlLfFhHe_tezGhvdrTlsU0XuiJtKLd7qbByZG"
     },
 	{
       "id":53,
-      "nama_skin":"Free On Fire M",
+      "name_skin":"Free On Fire M",
       "skin_url":"https://lh3.googleusercontent.com/hink307CsWSu8gIph2fkCN25JLG0vnxpiRBpw9naoW7nAh3vpxwttZjUkttR6ySiufUcpaOGld9xM2mgu6l1nA",
       "view_skin":"https://lh3.googleusercontent.com/_Um9VQZJMWSUjsGFBDD1YDlgByDDwhNTa-Ge0exD7rwGly1sIAW3J1UD7JwY_4W-Nkn180frGittNnwBaqfu"
     },
 	{
       "id":54,
-      "nama_skin":"Bundle S2 Free On Fire",
+      "name_skin":"Bundle S2 Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/O8WP4wcSEIw1g8mNLlo-jlQ5xozNj4iih7CQsyXgKWRVXvvGECAtpU2gFbxCSyv2VL1YuzFnsW4uaq00IueIQwjfIWtVgGhM0r4",
       "view_skin":"https://lh3.googleusercontent.com/dJ6VsCAwyqvzPdQjCTNOKnIXLRzDNaxRxQWWgJtCyF7SwrbkQKkdZt6DXNLeVHnBXD4JCDJ4OKr4xgJOgn-dK7gVfaOPjI4ncw"
     },
 	{
       "id":55,
-      "nama_skin":"Marco Skin Free On Fire",
+      "name_skin":"Marco Skin Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/if873aHW0N4VumfbFEl5V5qVG_4rR23iJ00QTiG2fHsvp-J4qoPoLSooBYgWGCAgNvDp4dTycHTaIsryce1I7G2G2AEiA058mA",
       "view_skin":"https://lh3.googleusercontent.com/zu1azFVsdaxLV0X5bGkvag611WkpfWQWGOAKBgkav7N4lKr8jZDfC9Kgd8CY2To3gzC6zFlkqKG8_DaQzZbz7jE5dvAZWKk6ViuN"
     },
 	{
       "id":56,
-      "nama_skin":"Do Free On Fire No",
+      "name_skin":"Do Free On Fire No",
       "skin_url":"https://lh3.googleusercontent.com/Gp7ktSS3O4V3qywz9hKXtI3jGMZ1_QrBUFXvrNYntY52jhIEQey5JZhFzaD7O7Iz80Obv1p8hNf3oU0g4rR1Ow",
       "view_skin":"https://lh3.googleusercontent.com/m2qrgCD-tRadVEqWF8tf_x8rGwuDDhTAeGJMucW1rn4lMcXudlqenmjNAy8UmoHA97sJWToRlhcYTONwaaZHP1R808tbmseAvMEL"
     },
 	{
       "id":57,
-      "nama_skin":"Kelly Free On Fire",
+      "name_skin":"Kelly Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/pfp4xT1cgphfmntaguAVpQMrqlhwix1ONhm0nu6VxKnkDeYQN5BxJBDXsTeCOvTubUoxTdEK4hE83jdewYla4zU",
       "view_skin":"https://lh3.googleusercontent.com/letMiU3n8zoCy_oOsxkmLG5ibzKtjIPqKOPbbvsGuxJ7a8xwgsbU1oeXt-LC1QiZyN6UxtfW_AQ2bX067Bt_jw"
     },
 	{
       "id":58,
-      "nama_skin":"Panda De Free On Fire",
+      "name_skin":"Panda De Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/9-KG8EY_HyrER-XtkTbI5yO2VMl6vaMxVCe0zjsKUDO2GGbMSfBZ0N6XVhOPJZ--9hptsIvbhX5Bi_C-v1Byvw",
       "view_skin":"https://lh3.googleusercontent.com/G_XMpvtd9D-Xcvwk6qJcQ5vC0MMhUK5QPRZwlM3Lj9eTDPFc0pNPcB7f3MR3SQ0Kib1YNKQaXs9OecP28bKqdW0"
     },
 	{
       "id":59,
-      "nama_skin":"Laura Free On Fire",
+      "name_skin":"Laura Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/Gy-UhBKrL7aMkknkV84V8VrI6xLsMBAxdz-GhAw24kDUjvzdgCrpkE6n7a5OyqApN6eg_bm2Y9vvLPqRLUFNhb0",
       "view_skin":"https://lh3.googleusercontent.com/s4KN4MpTFlFMMl2qbMkR1Po-ecwZZafFC5Tpz2a9WFGp3SGtkX2mlvPXnuzxSHDXw1CqK0WdCk10xOTKA8FBOQ"
     },
 	{
       "id":60,
-      "nama_skin":"Caroline Free On Fire",
+      "name_skin":"Caroline Free On Fire",
       "skin_url":"https://lh3.googleusercontent.com/MxZ4KQGzVIzr4ejNo3kl-Z2-_Mif_E-JmLRjwv_pjjSqWvVNGLnYHOHzZw9ojZNuMaMWM9ua-0fUAcEFH2gpI_4JoLWwm1JpYCo",
       "view_skin":"https://lh3.googleusercontent.com/Cx5PfZFEWKTRmQGzLKiIhssQ93uHMW1Bxd-Drkx_kUdfOXRzdiEGC0XrmnDT8G-CKtw_2QNj3Rccg0mi_j_5DQXy3ddZGrQp5Dc"
     }
@@ -398,22 +398,45 @@
   [
     {
       "id":1,
-      "nama_add":"Cat Plush",
-      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
-      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
-      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
-      "view_add":"https://aliendro.id/wp-content/addon/catplus.png",
-      "des_add":"file:///android_asset/cats.html"
+      "name_add":"Addon FF",
+      "add_url":"https://wedosmp3.github.io/imagecreative/FF/addon1.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/FF/addon1(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/FF/addon1(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/FF/addon1.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/FF/instruction.html"
+    },
+	{
+      "id":2,
+      "name_add":"Addon FF",
+      "add_url":"https://wedosmp3.github.io/imagecreative/FF/addon2.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/FF/addon2(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/FF/addon2(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/FF/addon2.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/FF/instruction.html"
     }
   ],
   "Maps":
   [
     {
       "id":1,
-      "nama_map":"Hello Neighbor2",
-      "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
-      "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
-      "des_map":"https://aliendro.id/wp-content/map/hello.html"
+      "name_map":"Maps 1",
+      "map_url":"https://wedosmp3.github.io/imagecreative/FF/map1.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/FF/maps1.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/FF/instructionmaps.html"
+    },
+	{
+      "id":2,
+      "name_map":"Maps 2",
+      "map_url":"https://wedosmp3.github.io/imagecreative/FF/map2.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/FF/maps2.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/FF/instructionmaps.html"
+    },
+	{
+      "id":3,
+      "name_map":"Maps 2",
+      "map_url":"https://wedosmp3.github.io/imagecreative/FF/map3.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/FF/maps3.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/FF/instructionmaps.html"
     }
   ]
 }
