@@ -2,31 +2,31 @@
   "Ads":
   [
     {
-      "status":"0",
-      "link":"http://",
-      "pengaturan_iklan":"1",
-      "admob_open_ads":"ca-app-pub-2521648737251856/4710335462",
-      "admob_banner":"ca-app-pub-2521648737251856/8649580477",
-      "admob_inter":"ca-app-pub-2521648737251856/5756001433",
-      "admob_native":"ca-app-pub-2521648737251856/4442919763",
-      "interval":5,
-      "fan_inter":"",
-      "fan_banner":"",
-      "fan_native":"",
-      "startappid":"",
-      "mopub_banner":"",
-      "mopub_inter":"",
-      "unityID":"",
-      "unity_inter":"",
-      "unity_banner":""
+     "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
     }
   ],
   "More":
   [
     {
       "id":1,
-      "judul":"more app",
-      "image":"https://1.bp.blogspot.com/-GRF5s0x9sDg/YTzScDzfg5I/AAAAAAAAAu4/AuZxF5arRP0KDhXEPpsu4f-QQjrYiG8lwCLcBGAsYHQ/s450/1.png",
+      "title":"More App",
+      "image":"https://wedosmp3.github.io/goldencreativeskin/playstore.png",
       "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
     }
   ],
@@ -398,22 +398,34 @@
   [
     {
       "id":1,
-      "nama_add":"Cat Plush",
-      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
-      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
-      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
-      "view_add":"https://aliendro.id/wp-content/addon/catplus.png",
-      "des_add":"file:///android_asset/cats.html"
-    }
+      "name_add":"Addon Ben 10",
+      "add_url":"https://wedosmp3.github.io/imagecreative/ben10/addon1.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/ben10/addon1(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/ben10/addon1(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/ben10/addon1.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/ben10/instruction.html"
+    },
+	{
+      "id":2,
+      "name_add":"Addon Ben 10",
+      "add_url":"https://wedosmp3.github.io/imagecreative/ben10/addon2.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/ben10/addon2(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/ben10/addon2(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/ben10/addon1.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/ben10/instruction.html"
+    },
+	{
+      "id":3,
+      "name_add":"Addon Ben 10",
+      "add_url":"https://wedosmp3.github.io/imagecreative/ben10/addon3.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/ben10/addon3(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/ben10/addon3(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/ben10/addon1.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/ben10/instruction.html"
+    },
   ],
   "Maps":
   [
-    {
-      "id":1,
-      "nama_map":"Hello Neighbor2",
-      "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
-      "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
-      "des_map":"https://aliendro.id/wp-content/map/hello.html"
-    }
+  
   ]
 }
