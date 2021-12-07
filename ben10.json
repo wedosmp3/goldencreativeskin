@@ -21,6 +21,7 @@
       "link_redirect": "https://"
     }
   ],
+  
   "More":
   [
     {
@@ -30,7 +31,7 @@
       "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
     }
   ],
-   "Skin":
+  "Skin":
   [
     {
       "id":1,
@@ -392,7 +393,6 @@
       "skin_url":"https://lh3.googleusercontent.com/rH5ZqEah2PmX-1Fvi5BF1aQ-3CEz4gAEQuBqM1JPxW2_f8DRw4C69WrzSUmeebKJrZ-zwCMTXxW3pSGGlf79BnB2BRFTEm3sqw",
       "view_skin":"https://lh3.googleusercontent.com/4y4v32yrhrwsVhC3VDElKgTJOGOQNTUSdCl0U4vVOZkByrsdf-Sx-S5l2BjDEeL4mRaTGpwoBh6HoGvUADfNkQai0o_0bQ-HUg"
     }
-	
   ],
   "Addons":
   [
