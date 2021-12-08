@@ -2,490 +2,490 @@
   "Ads":
   [
     {
-      "status":"0",
-      "link":"http://",
-      "pengaturan_iklan":"1",
-      "admob_open_ads":"ca-app-pub-2521648737251856/4887168129",
-      "admob_banner":"ca-app-pub-2521648737251856/9813025890",
-      "admob_inter":"ca-app-pub-2521648737251856/8499944222",
-      "admob_native":"ca-app-pub-2521648737251856/7513331462",
-      "interval":4,
-      "fan_inter":"",
-      "fan_banner":"",
-      "fan_native":"",
-      "startappid":"",
-      "mopub_banner":"",
-      "mopub_inter":"",
-      "unityID":"",
-      "unity_inter":"",
-      "unity_banner":""
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
     }
   ],
+  
   "More":
   [
     {
       "id":1,
-      "judul":"more app",
-      "image":"https://1.bp.blogspot.com/-GRF5s0x9sDg/YTzScDzfg5I/AAAAAAAAAu4/AuZxF5arRP0KDhXEPpsu4f-QQjrYiG8lwCLcBGAsYHQ/s450/1.png",
+      "title":"More App",
+      "image":"https://wedosmp3.github.io/goldencreativeskin/playstore.png",
       "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
     }
   ],
-   "Skin":
+  "Skin":
   [
     {
       "id":1,
-      "nama_skin":"Among Us Red",
+      "name_skin":"Among Us Red",
       "skin_url":"https://lh3.googleusercontent.com/xoW2xYRAz-pILEd-uAkATdW86EFE4AdHnXBtY6vWv1skVXRIfVTJfbSCfttMMqk7x6iEVM3-rAN-TLiXlNLSrEQ",
       "view_skin":"https://lh3.googleusercontent.com/h1TfkH4z5VVkytB39cRrIjvM8Q9ywEN68-ectw352qXMceAqnF1bBkQbkREBkMHX3lxFkUjPq7VzM2OA7MuciQ"
     },
 	{
       "id":2,
-      "nama_skin":"Among Us",
+      "name_skin":"Among Us",
       "skin_url":"https://lh3.googleusercontent.com/Wj-g838q5b1NXikCssQklUcDokGuUMfRYw_R4qQQFBa0OEp9gVH377ISNbv2QuGcgvc4XNDQ3Y2w_DIpFJWQXQ",
       "view_skin":"https://lh3.googleusercontent.com/gcss2Bg9bPFnu0h9ti5butn3ggBePc_UCETxb_-J0gQf2X-mtacjec0BXNldsi6SnchymzW7OfaNYLnzILBt5WQ"
     },
 	{
       "id":3,
-      "nama_skin":"Among Us Yellow",
+      "name_skin":"Among Us Yellow",
       "skin_url":"https://lh3.googleusercontent.com/b6fyCasZNTb-z5udsa9WlTXF9wdAc_TJCPSq2fAN-dyNld1zIEV6m55mFLu3eSavhKiia3cne_L6NucAXW3Jcg",
       "view_skin":"https://lh3.googleusercontent.com/xQ8--xpHt0aEKyoWkyFz3QB43Jx6rNAfiPHw06c8FAnYdJbXHVhWcLRLC1tv-6TWy_G-kz5nUdlXLpilJ52XZYc"
     },
 	{
       "id":4,
-      "nama_skin":"Among Us Green",
+      "name_skin":"Among Us Green",
       "skin_url":"https://lh3.googleusercontent.com/wzRsITm6ZjVKlcOMr1uCPSB9JSZTeEIVbF3GsMR57e3hQaImsGMZWc5zSvU65pHwhghQohVSctco4oTS4aSviw",
       "view_skin":"https://lh3.googleusercontent.com/v7HdyOACTmeJhvmQOKpuXAZtQ0GlZAOgWnbiI48ZHm15dljn4FuXxggi46Dyp7-u8gqyJqIGRdkO3spYmZW6kdU"
     },
 	{
       "id":5,
-      "nama_skin":"Among Us Black",
+      "name_skin":"Among Us Black",
       "skin_url":"https://lh3.googleusercontent.com/XTLnxfqQnFlfFq-CC9-9HXGmdWLLxvlpTLvn5O6_pHKqYh-0ntvwaG-gB8Vc34nA_4BRECgBVBxjFc3b6BrHYQ",
       "view_skin":"https://lh3.googleusercontent.com/gBwGew_szwYHmpHvgeyudljDDiaVTkDyyDMjZ6F-qJVBBa60Yz7l2PWp62xN3cH4_zA47RPrCCuLjNqF87CXIw"
     },
 	{
       "id":6,
-      "nama_skin":"Among Us Pet Dog",
+      "name_skin":"Among Us Pet Dog",
       "skin_url":"https://lh3.googleusercontent.com/mDezFrUjI2hXZ9zd_oivr7j_4Fno5tOFkSKPtJnQJWmlPChUPplG6TgqnKI4t0-OxHmr_VZ2syh_HJLiye3FNlNP1MFzQmN9Rg",
       "view_skin":"https://lh3.googleusercontent.com/47VyrqqqdeFwOM4XtLL8wYpm7m8WHuVkfZ_hJAsLFE4_betiGNzcXVejqlQI43TE9zo9CxsGmBFdf1gvBGN8YfB6VNJYw0JI6g"
     },
 	{
       "id":7,
-      "nama_skin":"Among Us Green A",
+      "name_skin":"Among Us Green A",
       "skin_url":"https://lh3.googleusercontent.com/auhLXiC5Wi7gcMy8HLMHMgBpE54et-gvuSqehqQeiCGJEV977vk1j8ex1tUdpzmXSTGq0hmBpLhlsr2jLLefuA",
       "view_skin":"https://lh3.googleusercontent.com/zydtHmv7UosqPg6oVGpyX7tLKEoMjV8gmP_Nbon39q2MFTf0Yw0rRiaZumMYUGM8olF7a6jSmy_VvCH_VJhSuLc"
     },
 	{
       "id":8,
-      "nama_skin":"Among Us Yellow LOL",
+      "name_skin":"Among Us Yellow LOL",
       "skin_url":"https://lh3.googleusercontent.com/Yaf8hRGnQ4ipKE5uvz3VvBrNpab8gGWKhqrAi72BJilMFGhjiOSSj4xq1x8jt32vl6OSy6Wp9UBb4UHvdNNBXg",
       "view_skin":"https://lh3.googleusercontent.com/jI1dixp9_4nTqPgAiC9O_Z-B1FKv9aFX1YtJeKSdxqGL8awfz7IF6DaODUDglNh803PlBvULH3f30Npkmwc9Qw"
     },
 	{
       "id":9,
-      "nama_skin":"Among Us Black Helmet",
+      "name_skin":"Among Us Black Helmet",
       "skin_url":"https://lh3.googleusercontent.com/hP3L1RJdxYaBNKOGN0H9trEmlkcKIioDqiZK-xKe0KdeAVCuA4RXeAqFNkOevLKLyaXpdGgriGG6FRbynVNkRA",
       "view_skin":"https://lh3.googleusercontent.com/WlUjzKN9bu8xuV50HDx2CvMZKDEK5yHEGkd8lXuogc3nPa6oUxuMN3-scAZlH3jxIDwohqBlXB9vgdVd81qh1w"
     },
 	{
       "id":10,
-      "nama_skin":"Among Us Shuii",
+      "name_skin":"Among Us Shuii",
       "skin_url":"https://lh3.googleusercontent.com/KEG-aTznWMjv8bLXMAvT6jYDMiZIoZq-D2AoDu1czTgoNBmifHW5cklgNsCmn1wuCQEy61rW9tTxRDRTbxc-rg",
       "view_skin":"https://lh3.googleusercontent.com/URF7J5FY4233F8L2WmI218AnXwA2hwKdlKTEL4ChtxfUxTevYO_pYmaouxZDcYvfGdN8mx9oL-_iNoEms43VsaA"
     },
 	{
       "id":11,
-      "nama_skin":"Among Us Blue",
+      "name_skin":"Among Us Blue",
       "skin_url":"https://lh3.googleusercontent.com/qNCBPZ76bFFI0fud48lru3AJ85V7-0FxVbhXc9VJYzHgsKxzavQH8Xsn4xXqiZnkAuQvx3ZT9gfXPpTzrzNC",
       "view_skin":"https://lh3.googleusercontent.com/UZW1XGdk8HsQqEVFfu3j-TZ_h3jqY3ZauJE2UTCIPe_c1lHvLNGZXepB90cM_WNy5BLrr_tKoIw7XpWgP3gi"
     },
 	{
       "id":12,
-      "nama_skin":"Among Us Creeper",
+      "name_skin":"Among Us Creeper",
       "skin_url":"https://lh3.googleusercontent.com/FVvesd7LaADSGkJ8BKCsblg2EnQa29YzG-9Qobnocao_s8pOLnUqgVJDfW-qHmjs2ph5oPnw2mz8D_Z_QInfYCM",
       "view_skin":"https://lh3.googleusercontent.com/ushKqBBvgaUy6AhRmCit_EAHnrpBxucADWKPWTFgVqxeS4LP2IniRvsYuYycBI_kKANueyfsrG23Lz8w_PdtGQQ"
     },
 	{
       "id":13,
-      "nama_skin":"Among Us Pink",
+      "name_skin":"Among Us Pink",
       "skin_url":"https://lh3.googleusercontent.com/ZMDPmmJouwevTPU6pI1iB2ApV2n36hCYSLdh2JBPL5qb5Z39x1UB6CJsKRJRMPEfWozRYw8xLYgMwzAx3Dxyag",
       "view_skin":"https://lh3.googleusercontent.com/XneERJO-q6nXjiJyipiw2_tNwMKcqe31pRR73-NwizuUH1F3FSNMsNi39TfvzYhBnHHaYCyXfXDk7kUhZMBXwA"
     },
 	{
       "id":14,
-      "nama_skin":"Among Us",
+      "name_skin":"Among Us",
       "skin_url":"https://lh3.googleusercontent.com/MW7hfJ8NxHLEhbCebJk7V7g-La37H8rR84C8-wQtJPCVEvBXIdFJ_F6jQif0NnfqfGPOFOl3NwdhW19S0m4sAA",
       "view_skin":"https://lh3.googleusercontent.com/SoUNsldBJN0jHfU3uogfEPIoOzXtxaG5mU_51AsKwL9RF1by05oTJDaNWfHFNIoUwXFbwTrh3zIS2TU6oaM-"
     },
 	{
       "id":15,
-      "nama_skin":"Among Us",
+      "name_skin":"Among Us",
       "skin_url":"https://lh3.googleusercontent.com/_AJKYIFt1h4IB7_MrYnymQ0GnPV-X8vmALQ4C8Mry4NyFO31vopDsjlvO8kTI4MdDgR__O9jPC28ynxiDCJHljB8qPffYy5ji3E",
       "view_skin":"https://lh3.googleusercontent.com/alcVvdIc5rcw2SK8YnJm8CLyC_3q1WuH0zQEpHMKOQJ_CG5SSg-wkox31uFmna916176opdb9G6ysZVRrjU72Ktyer1mYwKzN6NH"
     },
 	{
       "id":16,
-      "nama_skin":"Among Us Pixed",
+      "name_skin":"Among Us Pixed",
       "skin_url":"https://lh3.googleusercontent.com/YV8r8aEuIodlQx7gPGCF8VbTJWHGidr6aBu2dDfEHVds7Fa2Iw_k8-Uunb5wNowHCe-xIMkZ9gHb9_2YzXTBGA",
       "view_skin":"https://lh3.googleusercontent.com/aUtnLsxQfq52SzgO_5Cz3tjpqrIAJATkBNlM8vh7Z42SJtbJoHyPI1Ldq7weUIqqP9uu6mETLq2FNdN73Et-"
     },
 	{
       "id":17,
-      "nama_skin":"Among Us Black Doctor",
+      "name_skin":"Among Us Black Doctor",
       "skin_url":"https://lh3.googleusercontent.com/UFGqNxLz5WaEmdwNy9JJPkJywBXKIATU83q-xe0v-wfioalC9K1wvBsEBb0CxoSXaoJ4x24UEKyfdHJmk4YxQps",
       "view_skin":"https://lh3.googleusercontent.com/6LSXov-nVk0zlJ1OSHgRikjBvGdSj0dOzsvAu1o4yPIIRE-KOosSXmyC3d2tI6fUPFfbeJg8Hgzk8AO7JB_vHw"
     },
 	{
       "id":18,
-      "nama_skin":"Among Us Azul",
+      "name_skin":"Among Us Azul",
       "skin_url":"https://lh3.googleusercontent.com/eDDi1HUs3GRFPJNxJ2NBLP1L3RLtLN14nAYkRoCj6Diz8wNcsZA3B8ToDX4j2fdNOU2QllO-7AUYnFujMXzKpKQ",
       "view_skin":"https://lh3.googleusercontent.com/yztyh5QZQr7jNl0lb2LOSiWjQcobh0J14EA5xLG1dezg7myBx_4HFlC_usXDaWx1eSwfd7Hy912FzKB78TgN"
     },
 	{
       "id":19,
-      "nama_skin":"Among Us Blue X",
+      "name_skin":"Among Us Blue X",
       "skin_url":"https://lh3.googleusercontent.com/TLj2sAXGSTzOcFPtzOHBEL_ldyMpGVksWMmVr9VfwSxUjI_flDnqzsld3B-gGLIXx__JgCBbT3VHfwq7lKbG",
       "view_skin":"https://lh3.googleusercontent.com/Ig1wn0Gh1-0b_aHgbfZWjZG9BwpRPW0moikskQSLX5VcxsMkEcm0Au6hwR6smAjJjvSN-XL78GWqHGFvLqt-fSE"
     },
 	{
       "id":20,
-      "nama_skin":"Among Us Ghast",
+      "name_skin":"Among Us Ghast",
       "skin_url":"https://lh3.googleusercontent.com/I880eXzkyEslcdmGPT14TYOMnFhbKP95S7yVyqj_H8DaJ-0uZwf-CQdkMLvoiMgDZMaCm2E9EkkxPvbSEoFxlw",
       "view_skin":"https://lh3.googleusercontent.com/E-ty-gE55roQ8961EnDTTL_2aRFZWmzs5-fVT5aKFJiOD0oHyziLc8GFAnd8QW0ie6Po1NmvNW_Yt6AwVOmrGQ"
     },
 	{
       "id":21,
-      "nama_skin":"Among Us Pro",
+      "name_skin":"Among Us Pro",
       "skin_url":"https://lh3.googleusercontent.com/Y_0Hk4R8Hp23gN-grZgf5y6zQ99-QqtLqZl8AdESjg-Vweq-8JW3qiinW8YHylbKzgoAERJyrxTmqKmoHl5_AU-Fh3ITINlMPg",
       "view_skin":"https://lh3.googleusercontent.com/uJF4V2Q7sfTCzLOI-EwgdYtVr-1RQR5G_pNzSnn8KzdsbHI-aGNc5-jmEftwQBd8BjKBCY9a_y90GVST_lEgNO2E8zGeFcmpLr8"
     },
 	{
       "id":22,
-      "nama_skin":"Among Us",
+      "name_skin":"Among Us",
       "skin_url":"https://lh3.googleusercontent.com/Wj-g838q5b1NXikCssQklUcDokGuUMfRYw_R4qQQFBa0OEp9gVH377ISNbv2QuGcgvc4XNDQ3Y2w_DIpFJWQXQ",
       "view_skin":"https://lh3.googleusercontent.com/-j40c9aDaiRV4oAoTzJWCreYaXbJ5Kfeq_CM9eO9gIJ6tz9_j3FMZxt0sdRuqUsGJR17Lib627kOF8hRzrmm"
     },
 	{
       "id":23,
-      "nama_skin":"Among Us Pro X",
+      "name_skin":"Among Us Pro X",
       "skin_url":"https://lh3.googleusercontent.com/R3MmQ2MgZHqEWY69hcfLplETb4Tt2cRC5kqH47VJDmJxtRBTUhymDCcEKsVaaCitt8d-yaYMwXGG0-jpoi72PQ",
       "view_skin":"https://lh3.googleusercontent.com/Q2aqy1faLMESXTtz8z_5olb5S_cS4cuQpXiA3QT3yhCTc5Yc3sK4O4fnDQICRldlNc5MoLxreJtx8R3pOvCQ"
     },
 	{
       "id":24,
-      "nama_skin":"Among Us Dead",
+      "name_skin":"Among Us Dead",
       "skin_url":"https://lh3.googleusercontent.com/MMS_WhUGfG47yhYSIEuIJYKUjEmDbsfOIhKhf9TGTB1BQherHFAyoISuu8P2wQH4-qXYcj0Omb-cFldBRRPq",
       "view_skin":"https://lh3.googleusercontent.com/3rRc2YOq4xkAA0e27sI0bqXnIB9L3jb8RCyS8unEkl5CqgJwV3KD4cMWRt7QT12JhMjisXhvRhEqOS7KqznEw0c"
     },
 	{
       "id":25,
-      "nama_skin":"Among Us Green",
+      "name_skin":"Among Us Green",
       "skin_url":"https://lh3.googleusercontent.com/QytP6IMI8r-abtZPzfh2Io_SPm1UCJJRAL8pylORdx7vN6YHIIHqopdkn9-j1i7XywbQeH40PWELGWSh5yNMyNA",
       "view_skin":"https://lh3.googleusercontent.com/rflThF6o57lR_pnX08tysO_1med4aWWtGQswp81w9Jg9lCmaqZvkjSzfzfkTfpoZwSh9ZibYyovdOgkyprfY"
     },
 	{
       "id":26,
-      "nama_skin":"Among Us",
+      "name_skin":"Among Us",
       "skin_url":"https://lh3.googleusercontent.com/wisoGExdRmFpn93VKC3JFLQvswMj_RKYP7rG6NzrHJdXFv04yEHmoyAAQQWH-qGqHf4EmezBBWUkc4OMogxahA",
       "view_skin":"https://lh3.googleusercontent.com/UKKfi0dw8S9Q3ym4gp-IB72t1MAR7K4s8xkEw1Njay9BHMocyGV6be8s_1I9XGGzWrMHLan9m-dKx_LcWAoilIM"
     },
 	{
       "id":27,
-      "nama_skin":"Among Us Rosa",
+      "name_skin":"Among Us Rosa",
       "skin_url":"https://lh3.googleusercontent.com/Fgy5g9J8saQgQWmV5E6sjtxlwrL4PM8kbqwVbh5ZK71D4eqah7oUKdMkD_4seDI0mo9wPGDzNyjLLvvftRc8Fg",
       "view_skin":"https://lh3.googleusercontent.com/76M70lvUkB4JrcSIt78OFhkYheqOaXkxSX5aTbaLd4b-gVheJ-LlDuLBy5_My2gmRmKQ0e8E_WIxi5NORTclzUw"
     },
 	{
       "id":28,
-      "nama_skin":"Among Us Cyan",
+      "name_skin":"Among Us Cyan",
       "skin_url":"https://lh3.googleusercontent.com/W3g9Lqx76CNH8z26PalvdmJxkP4gyojHvd3dxoaLhnt7m9jnkXt0WbvVMlKhAwPGgX2j6SxfNLuYLaICehYIKQ",
       "view_skin":"https://lh3.googleusercontent.com/EfPAdFOZ_YRqig6Vpilb3tR1TOuaX18dJUCzaT7Ug9hVzYNQncSisAYUIiOD2l3QI4ygRRK5yF6ZQDc7ZHFa"
     },
 	{
       "id":29,
-      "nama_skin":"Among Us Drip",
+      "name_skin":"Among Us Drip",
       "skin_url":"https://lh3.googleusercontent.com/Nuu13XAzrEmCcuHnxDF3A0VcOET2icmOHWAVF7Cvp7b0yuy7IW95Og1LW14VY1j6R7ZOopwMH64lAgwUVeJwIRQ4l4WT-nlr3hg",
       "view_skin":"https://lh3.googleusercontent.com/HnwmKWHoYGiL9yDsjh6iZDSdKR7Z-V1Puis-HkPyU1c4RmL85yAr7t0svLm3RvgnDwWkczHqLjg_4tMibz5DfLbPb-6QbdsSpr4"
     },
 	{
       "id":30,
-      "nama_skin":"Among Us Imposter",
+      "name_skin":"Among Us Imposter",
       "skin_url":"https://lh3.googleusercontent.com/zcvLI07c6mNWPJDEKtYnOva4F1i-_XupA_MuXMIIuSaKm-6uwBYrHkC8q_mFI6dQ6LWfycB4JNZz-yPZaOni8A",
       "view_skin":"https://lh3.googleusercontent.com/2xjZSsvxIRo43Cl-M6yDyWTdeAfj7k96XxaAW5JODGStGktN8iuhVbGQrl2vyE_2sNdNHcKaiIDYJGPci9iaXg"
     },
 	{
       "id":31,
-      "nama_skin":"Among Us Purple",
+      "name_skin":"Among Us Purple",
       "skin_url":"https://lh3.googleusercontent.com/yDG3qBi2I3m_UAgoRuW0rWxUKDk9KZZN7gTz64r0HHvGMcoXhfxW3C7uQZ___diuyyhwSU-mgYUORgD38BoGNQ",
       "view_skin":"https://lh3.googleusercontent.com/QmhAf0FGaYRzA_NLhXNFUYhh9IF7uXfx1ckTeekif6xpfBvXHPqTMwtkga5cATtd_JYiwofUY-as0Ick7ODA"
     },
 	{
       "id":32,
-      "nama_skin":"Among Us Santi",
+      "name_skin":"Among Us Santi",
       "skin_url":"https://lh3.googleusercontent.com/Yae3DxRXk7jkFrIr5AAROi3w7yiOXliSrvhi_yKYm5aJOoaAoPG2c4VGNNSPWVK3HjJiSYrsTDM9rpcHeOgzF3nMdJJ5cv5x5w",
       "view_skin":"https://lh3.googleusercontent.com/MJUParOL2XZKVZEmFhG__yJPhPjkWC9MYbN5y-PXtUFPxOZNis8k165P3Y2mksCEdvXmsfhn9EmPLw1ZiM3gC9MdHIM0Z_OqN0o"
     },
 	{
       "id":33,
-      "nama_skin":"Among Us",
+      "name_skin":"Among Us",
       "skin_url":"https://lh3.googleusercontent.com/VhTdPBmJry4ciJYolU8hYrJwINxKPN_JDdje5PpOWYN5j0mwaveGDEbNewJ9iJW4Bm1GLR6lkBDtxHArdgRu",
       "view_skin":"https://lh3.googleusercontent.com/9VTAltnIAj2sA5MqtpHUBkJOHm_P3dHK1_A26GWIAFZcHpORzs1Ldi_aqlQHWiEtmls6AJtihSjAXiOKfEvbbDw"
     },
 	{
       "id":34,
-      "nama_skin":"Among Us TBNR",
+      "name_skin":"Among Us TBNR",
       "skin_url":"https://lh3.googleusercontent.com/xGvgrQNQ0o0ugu3vNP8s7-fvhw8Q2BNHXZPqij42Jrdw8pcGfiKhXsti8Anef5N2y4oNbb4hzktisPSzSTNT5b7VMRNv9y1uh_0s",
       "view_skin":"https://lh3.googleusercontent.com/ARnvsIBnTyDVWcuqquDz7dD_1iNiLl33WjPknBf72vg7U_kjU6L7-x3jP55cHfF5TaaojEyjHz9iMp8zgM4uDm3JGpN1zvhKLhQ"
     },
 	{
       "id":35,
-      "nama_skin":"Among Us Red Complite",
+      "name_skin":"Among Us Red Complite",
       "skin_url":"https://lh3.googleusercontent.com/Z3yZf-RtyTvGwPkrzpFl0o3iCkMvq2TODpUHspxX3B3lPoo8EJOWgWfqj-LQaEij3mO2yBtwEuR7YTeaRrJfTQ",
       "view_skin":"https://lh3.googleusercontent.com/oT9DGRNZApmEITJgqcnkKOkpbZsNfH5rpcJQLvE_SSvNXOzJfBxpb0gqp4MhXcRDTTyUqjvUpAXliA4MuY3FSw"
     },
 	{
       "id":36,
-      "nama_skin":"Among Us Impostor",
+      "name_skin":"Among Us Impostor",
       "skin_url":"https://lh3.googleusercontent.com/s9uE_0pPnAJOuBBKPBCHYF-r6PBR-I2rA0eDFEMeo13F0nAbm245tlLPXiNgKI8aNSG9jqZD6PVI9KMBybfy",
       "view_skin":"https://lh3.googleusercontent.com/_9Q2fATDR5pJgb1Nv-upUTQAU0LCOS1MYRakHpkn3NWDx2xmeUHpEg-TFGEZVtY18PLz-74r112PbwxDyIzY"
     },
 	{
       "id":37,
-      "nama_skin":"Among Us Wither",
+      "name_skin":"Among Us Wither",
       "skin_url":"https://lh3.googleusercontent.com/ug9Hvq-mkji0A4Xa6g7ba8p8ebWLgvKHgZ8gKkjqbTs5qZ59HNEpR_T5Mgcd6SQmtQ2LOTaeEQ0AYJitcZEWUXQ8BlZVE7bW6OpF",
       "view_skin":"https://lh3.googleusercontent.com/Li8-x4DUm9JfqrAUgeunSBBqonemayG4EwyAGT391Li20XLTYtYjm7-qEklRwOISv1QXWhOSa15NwuOMOhNsnKlldQmFwfHV8-7X"
     },
 	{
       "id":38,
-      "nama_skin":"Among Us Orange",
+      "name_skin":"Among Us Orange",
       "skin_url":"https://lh3.googleusercontent.com/eq1CCu3QSQjOUKY7oKzOE0dpnInOmM-_T-4fsbUoUuoK7A6isUyXeUWGfM9HwT9R7eg9wKzE70uNbiNTM8VREQ",
       "view_skin":"https://lh3.googleusercontent.com/kfDNMEdruj_LHJJRGShSGQdEgiEZVxjqA99Ml6eG2COEO_5rQAMEB5dTPwkvKteXAJFdT7FuS2oufmdha28ENg"
     },
 	{
       "id":39,
-      "nama_skin":"Among Us Chane",
+      "name_skin":"Among Us Chane",
       "skin_url":"https://lh3.googleusercontent.com/XXz5JY7fwlW20dy-2y0rMr8SEMbur9FMEZPQu36gIp06E9bkwF--Sk2ktuY4FUx5UsnSMLcgyHukNC3AYHBj4fs",
       "view_skin":"https://lh3.googleusercontent.com/-fXbz2Vj60dJjez70EB5E4ToLliIfMOJ5v69YGYr9_iFOCMu1Ds1VSrEjINydmgooWJWpjQpEfesBoNgBkpzwQ"
     },
 	{
       "id":40,
-      "nama_skin":"Among Us",
+      "name_skin":"Among Us",
       "skin_url":"https://lh3.googleusercontent.com/xoW2xYRAz-pILEd-uAkATdW86EFE4AdHnXBtY6vWv1skVXRIfVTJfbSCfttMMqk7x6iEVM3-rAN-TLiXlNLSrEQ",
       "view_skin":"https://lh3.googleusercontent.com/OoF6YC6_4lcgbDcCjNXKuDfXzn8mdS-fErf-kqoi0Yxhaa4sdQNg7zmtf6pr8X_8TbOdXIfNm05hLm-zuZAuexXPzBTp4hAxT3Y"
     },
 	{
       "id":41,
-      "nama_skin":"Among Us",
+      "name_skin":"Among Us",
       "skin_url":"https://lh3.googleusercontent.com/IzyFd4D5EZK6q5-CqKQHbkP-BwQxLY8ISvlG9uikJsF3fY5GuErRLeBABUx6Zif449DWN_u5GHlw-AZcpIJNQA",
       "view_skin":"https://lh3.googleusercontent.com/C89rSzQLwlfc6e8-G-Bfcavk4uEgYha4sEiyYmBYchzKg6RHqO9wZKpLLR2Gqi_ssFW5O0IoXA_9rX-rH9hE8T8"
     },
 	{
       "id":42,
-      "nama_skin":"Among Us",
+      "name_skin":"Among Us",
       "skin_url":"https://lh3.googleusercontent.com/rey7IxfeyIqsFHxlfNvUnqzHh2JjwG4yAcQTMuOWSy5elM0SRcfgY3Il3HeHwY00_l2WbRLLUV7Nl2EQCTKFbA",
       "view_skin":"https://lh3.googleusercontent.com/H8N3e8A6dwu2xqsv3__u6SflKsxKcAmd8eUeuvpEPaxbGTBaMwyQpJNVObDjveXirfmkKo__90V_icfr2dkZXg"
     },
 	{
       "id":43,
-      "nama_skin":"Among Us Roupa",
+      "name_skin":"Among Us Roupa",
       "skin_url":"https://lh3.googleusercontent.com/tza69IRmv8UgXxXq9a6p1_nZ8_FN3vAolOJLsbMI99GHxecFcQMfwi-PZkimHgSU0Ra0Z2bUB065I1g-P1fO",
       "view_skin":"https://lh3.googleusercontent.com/1UxwEkfVA47I9UDgFAIhWZpHZF_Cw1723dllVXoYGJ9F3oa2E4Q672b7kCEIcySyHV0CeMuX506woUhL0rmD"
     },
 	{
       "id":44,
-      "nama_skin":"Among Us White",
+      "name_skin":"Among Us White",
       "skin_url":"https://lh3.googleusercontent.com/PnUBqeEUh4EPUkHnaMHRDfOJ7bFA1A3R3HBw9SUJcm8wIA58Ee-70pkDlXtV2_UT4yeHFvRVvFpMWQFq6BqF",
       "view_skin":"https://lh3.googleusercontent.com/RoBgTaCEfXZOxUYIF2X3djw1nKdCBSADQ2Sqhind0iduRyQIEYN4atT4-EY2bqmNBgZ1trnHtk-Rp40CS25SNg"
     },
 	{
       "id":45,
-      "nama_skin":"Among Us Criador",
+      "name_skin":"Among Us Criador",
       "skin_url":"https://lh3.googleusercontent.com/fjkUlMry3fGTV0LcDuvyIGPuSAuDG7Od3I0k8MgI5wR0nI3ZNSNm2wryr0-Uua0HTI-XYqLAnOTn5pBYgmBC-O0",
       "view_skin":"https://lh3.googleusercontent.com/pzbEHd9qdEBBhqmVQ5fiDjkRFtYs9ipNHTfXhKXhAHbd3PuIV9O_nDDus9V8b-izNjSO8yOvQdBvt0lFtwvb1c4"
     },
 	{
       "id":46,
-      "nama_skin":"Among Us",
+      "name_skin":"Among Us",
       "skin_url":"https://lh3.googleusercontent.com/2EVMazlT_6Fb5eLw3nfEVYqHxOzJ0jw3EaY-VNWEBrQ49rAsYs_KunkUTRa-aPtq0AMhVXMZq57cafORc52EqnA",
       "view_skin":"https://lh3.googleusercontent.com/FhJQA-yGSqFz5ZiSBBcUeuV6dpraLijRVjsLTnxwDRo3V2-lBq9R6aAvers_ylgD-1gOlr9EchBlKCFrd1IXJg"
     },
 	{
       "id":47,
-      "nama_skin":"Among Us Impostor",
+      "name_skin":"Among Us Impostor",
       "skin_url":"https://lh3.googleusercontent.com/Fs8uXeZ--8afD6sVen6hyCAliqfM1iEwIx-KT3G0FPBIP9rJziA-AEldBdZtXRfLtxStQSy_vJdJOIKAtfLKPyI",
       "view_skin":"https://lh3.googleusercontent.com/fIG69dg4HOaFwg9aQ2ltsSwGM7O8BWPIyfG6Vc-5MG6SGbHE3FKZ0nfQS_DB42EQvwP9Gwh3hO9tewH9IjrJAw"
     },
 	{
       "id":48,
-      "nama_skin":"Among Us Duck",
+      "name_skin":"Among Us Duck",
       "skin_url":"https://lh3.googleusercontent.com/9RpaJq7AJh5CxovKrePCQ6MACSviDrSzqYuMG7uENSQiSPAlPN9StySwmXQJkFuiI4aVYRQ93pVM7DKBbIQJu70",
       "view_skin":"https://lh3.googleusercontent.com/LCLOA7q4z-gCDW0-5Ctl5FyrkM_bteQIDpOItlGKhodhuF2WJPmuNS2QJSNz9_V7pcfmFQ9I-4Z_YzSOqZed"
     },
 	{
       "id":49,
-      "nama_skin":"Among Us Santa",
+      "name_skin":"Among Us Santa",
       "skin_url":"https://lh3.googleusercontent.com/QBF_--pU7bCfMV6ahnUSwg7WCVPZXwTi_vNS87_xVc1KbtP67qI3uNm7PMaeF-tJT0z1EYUY3BTbvdxT5wz1xQ",
       "view_skin":"https://lh3.googleusercontent.com/tdTxSmvw1geoyabOSi0qkatUn_GczqSYdvQqsrbUO00RPEwCJtoYruNIdHv-toBgMG5A2nlv9P7lME1EoQMIo8HqO0r3ZYNN4zs"
     },
 	{
       "id":50,
-      "nama_skin":"Among Us Sans",
+      "name_skin":"Among Us Sans",
       "skin_url":"https://lh3.googleusercontent.com/bUDryKcRq01Rmupf4jB3kl9DVDr2KdMgdKP9QBwTsBBrAsMJp68XaKbL10TwtQrU2U8I2fr3ifQ98dGkkzrI9l4KwaG6qTeD1cAD",
       "view_skin":"https://lh3.googleusercontent.com/zTla2ARwI0-MLgJF8wk-te7SX5p6xXsUEQ2PWwXRcsFWXBQHU-rtbUHQ7XI33y6c646orRRRz6iwpq9sk4nmrLaNNNoxWk4Gjw"
     },
 	{
       "id":51,
-      "nama_skin":"Among Us Cat Pinguino Bendy Icin",
+      "name_skin":"Among Us Cat Pinguino Bendy Icin",
       "skin_url":"https://lh3.googleusercontent.com/x5A42dq464vBDsqex_Th1Z04a8tahR9TzbJmo0Gqx1rr40MP-ij1CKBFpQANHuGTzsIh0ocZT9UK9dAPDX8cYw",
       "view_skin":"https://lh3.googleusercontent.com/6_2k6aw2TVWdU0kahn8zs3gGVfqr1nixEI-RpiqluCXxdW2mj3d6CdsnxxYcicUnLplWlBSDu-qyrp_z1ZOFVg"
     },
 	{
       "id":52,
-      "nama_skin":"Among Us Impostor X",
+      "name_skin":"Among Us Impostor X",
       "skin_url":"https://lh3.googleusercontent.com/h2ACa864a5aP8r2IAUl2K29p3MfhDrNgXCSpPMTP8RaE2-pwFnWjrJDyk2iraiPJK7gjEJfsH41GuchGirtJFU8",
       "view_skin":"https://lh3.googleusercontent.com/hOVbo1BNse4jg8-3AfwflMljz4vkmuYxltUg1FpEQyt3CmxK0p0b0J3yXBi1hGC7DC2T7eM1iTNdyA_apyZxVA"
     },
 	{
       "id":53,
-      "nama_skin":"Among Us Ic Trevor Henderson",
+      "name_skin":"Among Us Ic Trevor Henderson",
       "skin_url":"https://lh3.googleusercontent.com/aX2Fd8IZ7oHgx6_tzwSOEBu8bxF74s8cVn_YkO-iqMvKO42Rj9k5CxjnNJOIhZqZa7iZ7nfAiSy3EtAdIZBHkw",
       "view_skin":"https://lh3.googleusercontent.com/th2Lg9D3EEBPtOaTDmfNeuXFfEQ_H-g_4carIVXhhRj5atBJoGTJ29hRLylsgOqqfPp5UvwvGahyiKgKy0MvTg"
     },
 	{
       "id":54,
-      "nama_skin":"Among Us Myanmar Crafter",
+      "name_skin":"Among Us Myanmar Crafter",
       "skin_url":"https://lh3.googleusercontent.com/TakyvTeLsLzJ-sdYUTt1c5W3ST6QfHrDHs7yt6ABB8B4mAl2XoRzS8TDl5qJGf-sVXiI8oSUjU_GN_2KEDTWqwT6HFm7PhWAv-w",
       "view_skin":"https://lh3.googleusercontent.com/Ql_2aJVy_R72-mv-VBiX8KB8nyfVznfO-VU9254YiJbpS-hRxrCH2hwbJSy6VW5sUzNob72PFnGxDNhe5ROJc5Nw1Jf0TEsG8_Q"
     },
 	{
       "id":55,
-      "nama_skin":"Among Us Raimbow",
+      "name_skin":"Among Us Raimbow",
       "skin_url":"https://lh3.googleusercontent.com/H9Ec-IVyCXv5Y6wATHEGxErQP8qvw3A8Km8Y-k_V_yfiVXvAoCuLFooOpuD7GrSqAU-SaCoyVUzN7Ep_crKfKuQ",
       "view_skin":"https://lh3.googleusercontent.com/zxx9HhjGLo7n5Ff2IkLNdlGmV341TzkgAiMtnzG9Il_1t1Xj1NFiPaQ3eGiS5l9d8ogkaCUC5GCdAyIPS8hZ0A"
     },
 	{
       "id":56,
-      "nama_skin":"Among Us Block",
+      "name_skin":"Among Us Block",
       "skin_url":"https://lh3.googleusercontent.com/ITBiwt7p-_XzsVnSp53tUs-CRpSEQW6zfUQzxGQ37QdSq-AnFK2uR9qfiD8X6jmnprx6kWL1FWYFGBzPYV-_GZObdhxrrsWdQA",
       "view_skin":"https://lh3.googleusercontent.com/cdErE2mMHewC5H24FzV7DtNM5WSL3QBnmhK3bje2ax0dc9jqSf0JdKmWybyNPigwYFrnY7smQTm_WR56q_6qbd2E3l5i9L4VH6w"
     },
 	{
       "id":57,
-      "nama_skin":"Among Us Voxeh",
+      "name_skin":"Among Us Voxeh",
       "skin_url":"https://lh3.googleusercontent.com/dZd9qkITwTRjt1kwZts-I55MBtB16olM1-DZsBpTZm3K9qF5m0XHou9s-2vEtIkPJwzNijaD0V-mrOY4cDo22dQ",
       "view_skin":"https://lh3.googleusercontent.com/c9IobO77BWrREqB0a3JL5c4wqEXM_-1U1TGwXe2h9n7VOR5J6hHUBxgTnXBb3poTkpumNl0PjAZNdOtpJ415yA"
     },
 	{
       "id":58,
-      "nama_skin":"Among Us Red Suit",
+      "name_skin":"Among Us Red Suit",
       "skin_url":"https://lh3.googleusercontent.com/sAiQ23IpOsUb__JclZDLY6nFNbpu7d_iKncz9rDpItZoMpU8lC-iZchwSPR1rJv3rhlrH8-Jqf2Py3XPRNuVFQ",
       "view_skin":"https://lh3.googleusercontent.com/SIUmiTE7zlR-LZYBvgXsSb9iTMTNP0ECTGoIP0j7qLQTG8sswhP80Gvc-P5ugrel1Dv6OxsFz3pTwovhiNOWqw"
     },
 	{
       "id":59,
-      "nama_skin":"Among Us Funtimewolfy",
+      "name_skin":"Among Us Funtimewolfy",
       "skin_url":"https://lh3.googleusercontent.com/RioRg6NI6t7bPcfGAY5EEqf3a8xIZSO7iH6J6hxhiXCzyQaQPWmlPxf_5x4YusX1H5ZE1J4WOSACxjiTE4mCWA",
       "view_skin":"https://lh3.googleusercontent.com/2KHsP2uBxVgLiOX7oRsEXh6ai963vyZMS3_XFVc842Dx6-FON2xK6RaAg4W_cXxTSi7wo6FyZ1jIKFgxMBLC7g"
     },
 	{
       "id":60,
-      "nama_skin":"Among Us Guardian",
+      "name_skin":"Among Us Guardian",
       "skin_url":"https://lh3.googleusercontent.com/vzObo7EEm2-hlKDrDFL984Z3FzFV6gbhDLz8SlyneaTJl2zNfGVT-elR5rvsZMv3ePrt2GULCTkGjOGqnXI7R-uYc2iYAnk3mQg",
       "view_skin":"https://lh3.googleusercontent.com/tgs6ihe2t56fvoeuFOsO2gurZ5Q7q-uon6qoWusUSRBArovDvfrzCtLZJPjacaZYCEz5wO5dIL4-okru6g7QUqk1kgSLIIDdMg"
     },
 	{
       "id":61,
-      "nama_skin":"Among Us Pink Mini",
+      "name_skin":"Among Us Pink Mini",
       "skin_url":"https://lh3.googleusercontent.com/OZfgszLGtyE4fMaUCRfxvBEv2b3JbMSjxTddqboMAmuPmGc9IQ-Gp1GCKHA-MGEKkQNwzNR1Nl09e96UDTOkUiKxtC3VSqtSaojV",
       "view_skin":"https://lh3.googleusercontent.com/D1SbINm1op_wHBo61wRBTzgXIvprVhNu_OboOOXrz7GHctivHjFAeKGEYQEnhHfROeiUw9qkeZGy3kw6Dhkkr8Txu2tuhhOtCQ"
     },
 	{
       "id":62,
-      "nama_skin":"Among Us Cow",
+      "name_skin":"Among Us Cow",
       "skin_url":"https://lh3.googleusercontent.com/DpcUaFpIbxo7CX4tdz8Ae0W8fyPBHUzIfBenUaDDoXnyW9lM7XMtFtfleRFNlxbXTB4_xYNUVrjqTUmG7QKB08zHXdHSVMVuRO3N",
       "view_skin":"https://lh3.googleusercontent.com/_n86t4xRschiG78pgnqYMcl1uaCO9HVWp6I2cSfq_7PrrKrMZQPiDc6DMyDg0LynrDobQjLFlXiBYk9xWYJ0YVoOYX6J3yjuIdzj"
     },
 	{
       "id":63,
-      "nama_skin":"Among Us Sheep",
+      "name_skin":"Among Us Sheep",
       "skin_url":"https://lh3.googleusercontent.com/yQzpY7hN9fumZiXf4ZEMR7POQSszoA77Kd_2vbft-Z9uES05dMxPuZO6w2Xq1aI11rUw3D1v-PWPqRHPfpNygpMINCrIOZP7ke8",
       "view_skin":"https://lh3.googleusercontent.com/ydpIcsRZ374lM-ewu6xDKAKjc2ImdyRu2nizkX85USK2iZwPSGYxFOs7HiqIvW3zcvf8yI9GMSKQboTyCw8nIYuLetKmjS_6t2c"
     },
 	{
       "id":64,
-      "nama_skin":"Among Us Black Character",
+      "name_skin":"Among Us Black Character",
       "skin_url":"https://lh3.googleusercontent.com/oFgydyfh0Dm86B8wD1O4yr8NJM8PPwhv9hW_9QB4UKuI8tG3m5D7tLhmnm4iTO1CvUt6GnJl86HVsi7_RBHGvBs",
       "view_skin":"https://lh3.googleusercontent.com/czrXRjKvDPHA_bopOH6ntn_E1XKby_OZKMcmJfwy0lNQuVyMKC83aRuEc2vvA2ggKB7q9UGoGQzmLBidmcD7Pg"
     },
 	{
       "id":65,
-      "nama_skin":"Among Us",
+      "name_skin":"Among Us",
       "skin_url":"https://lh3.googleusercontent.com/btLGzCeqcmk24VyF8JKwGtDSBgkgHSpYbS8bCRGeaSU3WxhtTaekqDxZKHz_k9PdJdl0pRTc2YM3nDl98J7qJK0fAM81hPDF7I4",
       "view_skin":"https://lh3.googleusercontent.com/kG3EUIqqbQTKSWtcH3149F3xWVbzMEhk-svrq1RsumHnKQJEb9sYIAFHyuXM-Jw693skzFuzdvK83btSc5xi5PgEZjDHymaT678"
     },
 	{
       "id":66,
-      "nama_skin":"Among Us",
+      "name_skin":"Among Us",
       "skin_url":"https://lh3.googleusercontent.com/Jjc6sBOPL9CZpcBS8YbN3dxleLYDH0qZ9tn6OiRSae82ZWQ3QAYm4orI7SvZ0rC_UIpIrmTgiOi-m9tj8DelVFo",
       "view_skin":"https://lh3.googleusercontent.com/QoyGRpczoTkE5mvKFDc7Swxd3Ge0su9_Uy1c5EIGArE4HNac92wccjT3_jbIlnqwAlRW-zuTWFRtJwv8oV6f"
     },
 	{
       "id":67,
-      "nama_skin":"Among Us Akatsuki",
+      "name_skin":"Among Us Akatsuki",
       "skin_url":"https://lh3.googleusercontent.com/k3l-iF6sJxGDT3ANtAb35ts0pfaN9kFVw7aLJo1qHuE83mhx8c63Xl1ToGdW7B0ev6QNSMB6uTA83wX5geTHig",
       "view_skin":"https://lh3.googleusercontent.com/RpQ2qr3fmTh-OwwCOBbsJaFfm2qDSYQIXs9vjW9_7nljd2Kpt3o1gd-29nCvE-bfV7SnrLY3HzjuzsVXmK1F"
     },
 	{
       "id":68,
-      "nama_skin":"Among Us De Bebe Milo",
+      "name_skin":"Among Us De Bebe Milo",
       "skin_url":"https://lh3.googleusercontent.com/nOnAFoT1x6fNJ9_NJu4en_5Q7IrQ4M0jJv47d4pO-qZD0orNRCajfG81B0EnLlBR_VXh8YmW9YTecPY50hfa",
       "view_skin":"https://lh3.googleusercontent.com/iflPQmawYZyc4DwhWbWZWQ35ty8bCX1Gwwt2tt1Vblmf1pba8iYARucBp8WCH6lUTWa1KhkuoBpl-rk7o3dtIQ"
     },
 	{
       "id":69,
-      "nama_skin":"Among Us RHM",
+      "name_skin":"Among Us RHM",
       "skin_url":"https://lh3.googleusercontent.com/4tyV3rQwDMMY8abK1dS9j5xJLORm72xAeoGidPiivasLpRgYrgfQZV2oXomcEBiV41TRcxMDqWXNCIa2-6sjb2LUofCqhHA3sIM",
       "view_skin":"https://lh3.googleusercontent.com/I-ThWHEbbuPsZzI9i94h13Z961n5BQxIARM_QZEvx-gFHnlQXGYgF8XJKNUXUF8rgf8_-sA9pXcX8UZAPcM359lHLWjja4Wlm0E"
     },
 	{
       "id":70,
-      "nama_skin":"Among Us Maid",
+      "name_skin":"Among Us Maid",
       "skin_url":"https://lh3.googleusercontent.com/gxYerP-BaCpSMR7iWKdLXqGHkVS7eSFigwY6ZFKESFOZoVeNixjQgOyzUOBU2D7mnLgX5PZdGDchiOjVLrra_dAi-cgMBdPRyw",
       "view_skin":"https://lh3.googleusercontent.com/GFD2_MpiwAjIhrQYUPm2CldR9szC2dIRuH62XogCDPIcVL73jgogagtob9yhNPri6JoqOGPXN431HjWyd9gyPIzCtJa-_pY4vX0"
     },
 	{
       "id":71,
-      "nama_skin":"Among Us",
+      "name_skin":"Among Us",
       "skin_url":"https://lh3.googleusercontent.com/Qx9CZ_eurMueGYDs915r2ej0QAH581UGTfKUnq2lJAhMt6LNozsUL4MDMKxcUpuqH2zerznjzYEp99iOG59PtiAQTPxluBAdT_A9",
       "view_skin":"https://lh3.googleusercontent.com/nryTRZMIkooinSucxtmXq_LVQWzfut8AEwKzoAOK7fwSZz0GT2F0QCmxI1oGHp5uLkTC-rDevQYJBzgl4INYcyp7AWwSTKPlbg"
     },
 	{
       "id":72,
-      "nama_skin":"Among Us",
+      "name_skin":"Among Us",
       "skin_url":"https://lh3.googleusercontent.com/zP1qePQMA1QzTw3JRPkVx7ZluGZ1YMMpM6DlbLRu3rDH6B_-gwcru0BbVYWSe_HTFtrwo-y5LlwCQE3vxxQq",
       "view_skin":"https://lh3.googleusercontent.com/UK13yeC6SmTR4vuLULRGRm972jfomiUzXXQsfDBfP3R6qHFBXrGm_LZi9463soTs-7E_mU18luTqYK39hBAz8g"
     }
-	
   ],
   "Addons":
   [
     {
       "id":1,
-      "nama_add":"Cat Plush",
-      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
-      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
-      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
-      "view_add":"https://aliendro.id/wp-content/addon/catplus.png",
-      "des_add":"file:///android_asset/cats.html"
+      "name_add":"Addon Among Us",
+      "add_url":"https://wedosmp3.github.io/imagecreative/among%20us/addon.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/among%20us/among(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/among%20us/among(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/among%20us/addon1.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/among%20us/instruction.html"
     }
   ],
   "Maps":
   [
-    {
+	{
       "id":1,
-      "nama_map":"Hello Neighbor2",
-      "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
-      "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
-      "des_map":"https://aliendro.id/wp-content/map/hello.html"
+      "name_map":"Maps Among Us",
+      "map_url":"https://wedosmp3.github.io/imagecreative/among%20us/map.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/among%20us/maps.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/among%20us/instructionmaps.html"
     }
   ]
 }
