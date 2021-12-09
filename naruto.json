@@ -2,490 +2,490 @@
   "Ads":
   [
     {
-      "status":"0",
-      "link":"http://",
-      "pengaturan_iklan":"1",
-      "admob_open_ads":"ca-app-pub-2521648737251856/8623921511",
-      "admob_banner":"ca-app-pub-2521648737251856/9937003181",
-      "admob_inter":"ca-app-pub-2521648737251856/4269743539",
-      "admob_native":"ca-app-pub-2521648737251856/8512240878",
-      "interval":5,
-      "fan_inter":"",
-      "fan_banner":"",
-      "fan_native":"",
-      "startappid":"",
-      "mopub_banner":"",
-      "mopub_inter":"",
-      "unityID":"",
-      "unity_inter":"",
-      "unity_banner":""
+     "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
     }
   ],
+  
   "More":
   [
     {
       "id":1,
-      "judul":"more app",
-      "image":"https://1.bp.blogspot.com/-GRF5s0x9sDg/YTzScDzfg5I/AAAAAAAAAu4/AuZxF5arRP0KDhXEPpsu4f-QQjrYiG8lwCLcBGAsYHQ/s450/1.png",
+      "title":"More App",
+      "image":"https://wedosmp3.github.io/goldencreativeskin/playstore.png",
       "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
     }
   ],
-   "Skin":
+  "Skin":
   [
-    {
+   {
       "id":1,
-      "nama_skin":"Naruto Uzumaki",
+      "name_skin":"Naruto Uzumaki",
       "skin_url":"https://lh3.googleusercontent.com/BGlAI-jtWhqOMTWXATrPbjf1KUJLBdkjpduiamKhDGzku4BZluzdNLundsqcpoCL6TPyTD4kyAOgKvzrHECbIQ",
       "view_skin":"https://lh3.googleusercontent.com/8lsJhiGmHS9UWaO7jmI--4R6THqyuM84BppMQKQXJedNXldiHtjLMbBxDAuyRMbRdOksZ3cbf6VIXy7uQBPUqQ"
     },
 	{
       "id":2,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/_WZXgB_ny2SoPF5UMdbbrMo6u8UuBTi9k2RNX1vvk3v3bb8KqQaF7SlkcXcoj30x_gpdZPeIiuRH1hI9OUywWZI64ra4GwpurQc",
       "view_skin":"https://lh3.googleusercontent.com/YXsj7Nzl-FIzukpSG38E_tlrlz6_ayzoOwbscMWbfjOwsA54n2OJXPY30RaR2BblYUhybUYe5I-lVeTWz7ExR7Utxj8tuZLETgc"
     },
 	{
       "id":3,
-      "nama_skin":"Naruto Rikudou Sennin",
+      "name_skin":"Naruto Rikudou Sennin",
       "skin_url":"https://lh3.googleusercontent.com/T3BqIwjtM06tAghPd3hFgt7_zthJM138FzNyT_SsS3230xtODpSt4rEIbgL7v2ym4wTKc18hl5Kkrfykb0p2vu8",
       "view_skin":"https://lh3.googleusercontent.com/TvjYnhg6LvhqWNWYvN4hckNB1fZd_-7BiS6NvaZ4boKs02-YBi1z38k3-OdBMhrijgOEQZU4b7HaZTDj9g7J"
     },
 	{
       "id":4,
-      "nama_skin":"Naruto Obito Uchiha",
+      "name_skin":"Naruto Obito Uchiha",
       "skin_url":"https://lh3.googleusercontent.com/jZyNsHOo8D4QoHa4TIEdAJa9Re-A0KXy4xvZTpsCrS0143LvVuaIGHfSPaoGqT-4LXDhTXDadWbteZnbfXpXto-Qzl-5RnngMg",
       "view_skin":"https://lh3.googleusercontent.com/DMA9BwB5NlYkTk8YprvB2ibZYnlJ8laLYvy3-k8V0w74mOhwVbQY6LP-3nHSsCbyTDyQ56D_A6kGhsffHNHVtBXD-QNOUoXts7c7"
     },
 	{
       "id":5,
-      "nama_skin":"Naruto Hinata Hyuga",
+      "name_skin":"Naruto Hinata Hyuga",
       "skin_url":"https://lh3.googleusercontent.com/OHizgkHFonxkZhIaL2ZkJsE3T71sPX0X01ohGR1iCHOz-u23XI-hwQE40lfwwrDN1FyEf5eQ7UpUAIypwtj0dz5BwVdOKVSo2A",
       "view_skin":"https://lh3.googleusercontent.com/S-rhSl4wypgao_fxmm_JWwVo22VC2gCJoaAV7i3GZpOTsWWAkA5Nm6STbnYMtrrUlYO6AvyO2r9s_Z4XcdH_50ciz6JJBeTbjJ4"
     },
 	{
       "id":6,
-      "nama_skin":"Naruto akatsuki",
+      "name_skin":"Naruto akatsuki",
       "skin_url":"https://lh3.googleusercontent.com/qEZWpWnD3RKOM7z6y6t1ew-XGyPESiuRSNEyExlvuISYEBQ5qIKUSkePMtAdYM_mAsMcoErphubBh9BONQdTEA",
       "view_skin":"https://lh3.googleusercontent.com/mv4G9HVpJtq9Y1tvlZw3nWit-zpaZxnN1B44S2IcqQ91dthIsad3BU6314VnPKGe1sQkp9WoDg_H04k7Ic9nHA"
     },
 	{
       "id":7,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/oCtReMJkxA3FehEsQzczuoF2zX903Y3VBjOVy7rOheVl97cy-LT_1IPymAUzBHrSgarFzW7v60uWlPwG5wwM",
       "view_skin":"https://lh3.googleusercontent.com/w-8_l6M--fC1e89IjKlJqWmsV_TolScmRB-RzIPvl0VOXUwUcc6p1J8OOSwFB7KJXM8LyXIv4UTOVH7Jf1Pubw"
     },
 	{
       "id":8,
-      "nama_skin":"Naruto Saque",
+      "name_skin":"Naruto Saque",
       "skin_url":"https://lh3.googleusercontent.com/ssfDz8_D0s7r-_fQi8KYilowctanUTFcB14q7tMpEAoNHPfN1krzPudIAysqEhaqGRtacrJiGcWT57ERy0gyLw",
       "view_skin":"https://lh3.googleusercontent.com/0NJOXwaEKfR5ePtDkrBuLb0E0km2jVtNimsAZ99sdl-84Ei6RgIExzS7pXGabQNzL77dof79KugYaoCrVCOq"
     },
 	{
       "id":9,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/wi3B-UXZCmhDkWfoc92Se1GbU14NYk3_hnS5lGqxgA0dxXGQMN1ChJOxgXcbOqROuPZI3SbQ1gkN9TusK9uz",
       "view_skin":"https://lh3.googleusercontent.com/pyRttpIwkzFlmb6QkVjexiALE9ofZFr7n9__1cuCmbmZ3NUBDXtTjMloezuXINkoYioGXVXLiArLc8DvN6llxg"
     },
 	{
       "id":10,
-      "nama_skin":"Naruto Boruto Filho",
+      "name_skin":"Naruto Boruto Filho",
       "skin_url":"https://lh3.googleusercontent.com/uPTsdOPjBr6vsFg2HgpHh_4HBlDoVhEIDkQpETvuHfbHsrHpuAknMa0Lci8_K1MgY4b0rMTmi2T3OdCjdqgIWQ",
       "view_skin":"https://lh3.googleusercontent.com/0YRY6KrnT1Waovep_wmI-vhPF_O9lXZrfNyz_u40oYs4W6R_GcEIvzJmS6x8FQB35MB3xIwy-DGpq-IlPZPfxk4"
     },
 	{
       "id":11,
-      "nama_skin":"Naruto Kakashi",
+      "name_skin":"Naruto Kakashi",
       "skin_url":"https://lh3.googleusercontent.com/giaNEjI_H1Aq0C2RMSsxNoYhUoqqk4NrSQBb6PFTs-UHGLfNc89bmB0IBXmLhAjPAB8eiyQ-QeXFQdY4tueO",
       "view_skin":"https://lh3.googleusercontent.com/roJnnjBUElRhDcZVraY_qnwcrtu3sib9xeUUTnX1MjvTQswhl8B2knFPyEbRcuBEU8-M2TM5fc9-r28OfRcOzw"
     },
 	{
       "id":12,
-      "nama_skin":"Naruto Pack De",
+      "name_skin":"Naruto Pack De",
       "skin_url":"https://lh3.googleusercontent.com/YwRY0cLOUekthaGhKbuUwXiUtAlqZZ-7CbkhSxaMADtDS43n-1FBaNMdBZEbe4CcNX-Y-4QBtwxbKEOT9qnRRGQ",
       "view_skin":"https://lh3.googleusercontent.com/fR9VH_DyiVUrj-f-c7N0k1eRsyv1iHRSF8facyKW9Vkkwq6s7p5WzYEjUBI-yq76KLuoY-7QXfofPrAU6sT15d4"
     },
 	{
       "id":13,
-      "nama_skin":"Naruto Hokage",
+      "name_skin":"Naruto Hokage",
       "skin_url":"https://lh3.googleusercontent.com/FHF7yTmfRl8KdZEebLdmO1Cp8MAW3v4uzWkSg7gkoxgEaM4rNRcgV72ADcSN0ILZkWVh84bI8w2BRftaEwbrEIA",
       "view_skin":"https://lh3.googleusercontent.com/BfXFtxLUxe3-HqEzECXOrQN8rM22rPQvCz_-VW-x4OPS36umqUL2fhzIOsA1a7gTLlAQqA27my94ppK2VDnY"
     },
 	{
       "id":14,
-      "nama_skin":"Naruto Robinhood",
+      "name_skin":"Naruto Robinhood",
       "skin_url":"https://lh3.googleusercontent.com/UNiQWsvupieYmefp73k3LYU6EvSkOipQY6ZeW1r0tNSko23ebodp0VkzqI4wpbLk8Sw-EG_hLN6KlJJWfoVzhoOYRpFBOYuGPYo",
       "view_skin":"https://lh3.googleusercontent.com/SK8buuap2LrLByvDpZgBVuTIZUcfLIRCU6cvG4e1q512964qb1on_4W-nrPFUwVVxhkPDN8957eW9uclnmx-C6-mjLJTXbXdUg"
     },
 	{
       "id":15,
-      "nama_skin":"Naruto Boruto E",
+      "name_skin":"Naruto Boruto E",
       "skin_url":"https://lh3.googleusercontent.com/3veDCeUe15dVLJ4C76V-sD4QSNghiDV0Ea8SlkBz_zuEGEjO_fds27Uk_rglPYVpH8GavqjS9FzPecFH5vwYf_Y",
       "view_skin":"https://lh3.googleusercontent.com/_8b0hy5x103dPP49UB67UFL1KzY8a2nLGf8grtQa4aKCQEL5AOJg0E0HH1dRNqTcrJo1OlrdSsHQxL0FAB34uQ"
     },
 	{
       "id":16,
-      "nama_skin":"Naruto Uzumaki",
+      "name_skin":"Naruto Uzumaki",
       "skin_url":"https://lh3.googleusercontent.com/5IExtR461E9IhAz2EQbLLdN6dCKbBCQEkGDa9XFYFYUIpBvTJMeSilx_6FXlYj9_AIxhC2Lwyit0V5SjNXSgxw",
       "view_skin":"https://lh3.googleusercontent.com/IeAu8pM7rqXcJodK2f8ixgSbdGT0di1EYsYdCU_jk_Qx4j61E4f9yWgAB9qxwD39JN7qulSNBCR0L2ROApgW8g"
     },
 	{
       "id":17,
-      "nama_skin":"Naruto Melhor",
+      "name_skin":"Naruto Melhor",
       "skin_url":"https://lh3.googleusercontent.com/GdxqlWYPJ6VE5Ibxwulllc_eQJG4C4fJsMSUSnXJGnOAPElH76LL8QT5NNA8BIuDCUGlkCniQTfNMjgX9ZLm",
       "view_skin":"https://lh3.googleusercontent.com/2I3jN8qWYFfBUfMgw-4bvaS5EUypvNOWOTItcSKQsLxdecCyn4ehrz6CxgUOMCcefKwOHHzDsbzdQzSuiFaqGw"
     },
 	{
       "id":18,
-      "nama_skin":"Naruto Gato",
+      "name_skin":"Naruto Gato",
       "skin_url":"https://lh3.googleusercontent.com/mA3leHf4z57_elzh5X-EMqmdGGUyOoSHA1UWjM44YYIGqtGhAoGZN_-P7NlEJub8pgDzo8vOUZtIAzkwLkl17Q",
       "view_skin":"https://lh3.googleusercontent.com/ph25q6XZ5pAvdH_Ax-N_s24vEZESRAx_AZHbWeYbWYcA2Cb3Y4sE0AASNkwY8M-ChscQ6YCuGMTXJF9GmlMQcQ"
     },
 	{
       "id":19,
-      "nama_skin":"Naruto Pro Pvp Dream",
+      "name_skin":"Naruto Pro Pvp Dream",
       "skin_url":"https://lh3.googleusercontent.com/ZBEI2xkAXSCBRdLzdmQNh8x-vtftP5JdkZ1teU31DfkKq7u9v5UaWmhJL_1viXdCaK-cv5eiWJpPxCH1ckIG",
       "view_skin":"https://lh3.googleusercontent.com/FL0MKw5ZoUC3UieA2G-QX_4mOZY-Cc6VNROQThedaMnKndUchngooVdoWOsU2PB9fEg3vxtl0bSK140kTm3l6sQKekx3xX6FuOP-"
     },
 	{
       "id":20,
-      "nama_skin":"Naruto Uzumaki Hokage",
+      "name_skin":"Naruto Uzumaki Hokage",
       "skin_url":"https://lh3.googleusercontent.com/ftpc_GHwgLTP5Ys31hRKDEqjQRcDPuZQKCGSYev8l4VPvDdQ9szTSPMsEbEJeEndZU5ZxpxiKxZQ9JPvWLDLxA",
       "view_skin":"https://lh3.googleusercontent.com/EweyPxr3ZcA17_A3wRp_u4Vo2leb2LngOLiQR4WkD2eXXU2OTlUoei202RdDCvx6y5DrqapaXA5lZ_elPgUm8mOsJL0n3Z0-mQ"
     },
 	{
       "id":21,
-      "nama_skin":"Naruto Hokage X",
+      "name_skin":"Naruto Hokage X",
       "skin_url":"https://lh3.googleusercontent.com/q4R3rV_ouiG_u8ETPjvriYKXTiXRXfOKSUCoze8K-HtTQE4p2Ghp1NTQGkRofLHLSneUouqlSoRZYP1yJcl5Qw",
       "view_skin":"https://lh3.googleusercontent.com/SE0Duv7s7zwdKIwducwP-kMd581M7ZoRtf30Bdw_qr0AMWH8BsKX3aIXKeDimPCMQYJ91U7uI_PGshikYPPtOg"
     },
 	{
       "id":22,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/g0T7bpe_EHuWVSpt1VL66TxFa1AHBAtyAQKRM-9eGBLwEn634jtmZ57xpM5fXtElaNAuQ4fhCn9z4b_blWkreA",
       "view_skin":"https://lh3.googleusercontent.com/cTHa5LkL7dhejsK3BhgeI8IRX4o94a1NcC50CpbZ0KeUW3KHfp09srEITTlAz4q2yGu1vaxB_Ccb35v4hPaU1A"
     },
 	{
       "id":23,
-      "nama_skin":"Naruto Girl",
+      "name_skin":"Naruto Girl",
       "skin_url":"https://lh3.googleusercontent.com/ecp2KXa9iEo_H6Ry4tgqbWb12OHQIAs6PID1NlmcVtxP6yY6eJVVqZCUV6YunYGGsaM-QiN6C2H-I2FLUcb0p7A",
       "view_skin":"https://lh3.googleusercontent.com/a13PqpFsWePwAFSi12ThrNmYHZK6noIWHvFprWSJ1M75X0qY5Iedq-niY09aGFMVbj7SPY_o5kYCdPanIudvPg"
     },
 	{
       "id":24,
-      "nama_skin":"Naruto Sakura",
+      "name_skin":"Naruto Sakura",
       "skin_url":"https://lh3.googleusercontent.com/8XWt6JnmHOSMPVyQ6_NDJcCf1E_TeNvG_hIx8R4GC7IZvn2mKU4CJVe4kv9a8JtF3bvnffwmfk70gYTrSMXbKQ",
       "view_skin":"https://lh3.googleusercontent.com/OG1XGZGZjywp0fcgTn-FazzlXMLnK_KaguIdDrv_kGFQsYFKmxuVmYgcYuBCJ9y_dIpnCHUST9K21jLtOgfD-_A"
     },
 	{
       "id":25,
-      "nama_skin":"Naruto Kurama",
+      "name_skin":"Naruto Kurama",
       "skin_url":"https://lh3.googleusercontent.com/JqHh53H3uYIGR0CPFSdi5TSqq5MbDid3TYS8vaDkMh5n9nImVKW_sJwI2KwUALhpebis-kTRpY7vOSFbD7Ny-Q",
       "view_skin":"https://lh3.googleusercontent.com/ZDbFdwK4gd4CyHr7iWEFNTW0R0Fc_fGwXYUUMUbiYrQT1u-nfNeOvHLQlAklEgh-aCafyO3Jp3pSAL-xhOUDINo"
     },
 	{
       "id":26,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/wAaepU5Un0EDMyS6lteVMR68YDLhgpFgLBQY2Ot2_kfFEGoi196MNn7c9UViLwaDFXC23an3yteExF6MQm5WLlI",
       "view_skin":"https://lh3.googleusercontent.com/VJ0VW4UjZlZ2usZyDFz6qZ0BG47nhPoYBG62EjIW7ktAGh_HMB0d2uaID0z1DrUkJQjTIh36b4hqubxbj4GC"
     },
 	{
       "id":27,
-      "nama_skin":"Naruto Modo Barion",
+      "name_skin":"Naruto Modo Barion",
       "skin_url":"https://lh3.googleusercontent.com/r1Ftt4IkLV2eh3cGdtTSnQUkGldBbFMhUE6dlzkCkWEclMzvZ0xYvSJIQiO5pGXZ2v8IxwM1qNU2FxKM3klNCiecX371fKXjkA",
       "view_skin":"https://lh3.googleusercontent.com/OolwirfPnmxnZgqHRTeWyjAy_uaN3DsawbS81pocRXB2z_NgV4Z03_xXasDsrJZQ3EX_wbOqx-ezM0RrMOGihNQcYu5xOhOjfC4"
     },
 	{
       "id":28,
-      "nama_skin":"Naruto Kurama Blue",
+      "name_skin":"Naruto Kurama Blue",
       "skin_url":"https://lh3.googleusercontent.com/uSo93hRqIgUWRkAoEf7UwXviqRBd5_mCrf-gx5aHm4DUo3kVDLNlIhcDE63ftwYXDDYlnFaLJwcE_HLt_b7G",
       "view_skin":"https://lh3.googleusercontent.com/v1yF1TddUwnfnxN2IyI1qV3S-FNm5Hk8xNZiDEf9HO4d6VWhpK2LFhnHyfR5Ak7CAJwv1AuVoMWuk_NST8Ou"
     },
 	{
       "id":29,
-      "nama_skin":"Naruto Uzumaki Crianca",
+      "name_skin":"Naruto Uzumaki Crianca",
       "skin_url":"https://lh3.googleusercontent.com/Ye5OVNrAxUg1NPXfts9k37dp6Atzxig1thjquXiApKp48KMEny64wyFLxeSoaoe12uipx_7QUqdcC09c2874hys",
       "view_skin":"https://lh3.googleusercontent.com/cP2IqLit7xv9ffCj-Rnh8qnbP51GcO3h6Ss2g1yg4bbl_Cy_RmN7py3hV4s0PCsd9CixI0l1kszinfsN1HOSZXI"
     },
 	{
       "id":30,
-      "nama_skin":"Naruto Shippuden",
+      "name_skin":"Naruto Shippuden",
       "skin_url":"https://lh3.googleusercontent.com/A94Tk7WFxFHfuqzlBu5Qh2ZQN3PtElA4WmcUlshNMo_OH9FBkVYYUU2I6i2wQ_Sg8IecAc0PK1XNTTEFzUb6z5_baDfJV83XXhj_",
       "view_skin":"https://lh3.googleusercontent.com/lAdBlory3x8sHW6ZomCMpdQfs2t5zNLiOmHhmLJymUeYbhKN-5Vd6_J9EbECo0TlhsPFFw0JILsA6PiUiduGoHC5SRVhgu7FBA"
     },
 	{
       "id":31,
-      "nama_skin":"Naruto Itachi",
+      "name_skin":"Naruto Itachi",
       "skin_url":"https://lh3.googleusercontent.com/flhQt7gJi-Oq8VA13LFdq3_eh7YQ9pmkWYIkgd_1dGUdXdHaQT9hw8E7yE3VQsM1i0Es70M8N25CzMXZu9jkgFs",
       "view_skin":"https://lh3.googleusercontent.com/WnU-HwIEK99HWWKTPCRGP9H4j0s_7gS4QLVXX-kMBio_xSGs2q5Pr8b2wGwYkd6cnIUajn-ab7_ACTIeanS4aA"
     },
 	{
       "id":32,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/LTTvBCpZ0cb3EgP0HtXJ3eWOXCFcTtQ24bAyxAet7-KcI1et6EtYPlvco10tTNro_V4l2eDMqutbI7GnbgZcYhqnywnxbroa6wJ-",
       "view_skin":"https://lh3.googleusercontent.com/J0CmwHfyj6VP9g-EdJA9FpsfzMGM89puxZFlVwNOwd9n4ZYcgM9MlhPayve8trf9PRh-8parezhpQuPZB26N8yl0gppYhvN8bA"
     },
 	{
       "id":33,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/7YZA3MjEVwW-Oq-e1Oju5Puxf1HpiGsX71hPhYfWIvPptcJP3jCqPnoc3n_isRIvDRZ_zvxCEkM1X-oKmKyL",
       "view_skin":"https://lh3.googleusercontent.com/Cpomc8siTNJ07pbI3FwNH5AtgwldqsVPIcMRwDT4UTlwMi7vH9mFsRKhEnAMkChQFluS8xJR3vhHik-j2j0NISg"
     },
 	{
       "id":34,
-      "nama_skin":"Naruto Ninja De",
+      "name_skin":"Naruto Ninja De",
       "skin_url":"https://lh3.googleusercontent.com/oeQoQOazZD68mtYd2u0m7pt7EUFDUmQTJxSb_r8LSLajUkw33wQuqjxTTVw9a9GEiVisEuJhsVXxdXQahYXSGiQ",
       "view_skin":"https://lh3.googleusercontent.com/226IWqowMhbKSFF5iALbx7faw_ySmpUnotaEw6BjpVmACtQ5sNCx50piF6_HR_znle-DGb1Lxf4wVQlJoTzDxw"
     },
 	{
       "id":35,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/wplRkjMvr7m2RRw_iKCoNUmCMuK2SGCQEF80dWYR8HFtzzKHBnqg9lo9V_YfLjNoyZMCo7IFbXaIyDrAQ8w9J_s",
       "view_skin":"https://lh3.googleusercontent.com/IIOe0MaklKnWaMPLDIx3Be0bdWm9fBCZ4c9P9h0iHlDjTLBaYNBoY3YRTjGG3b-QMa7CMhBjy8fbFNnEQlhE"
     },
 	{
       "id":36,
-      "nama_skin":"Naruto next generations",
+      "name_skin":"Naruto next generations",
       "skin_url":"https://lh3.googleusercontent.com/eEAwlDhJq0jqs5cNpi7xkMJDHDgpcUgyKypoEjZ6bebiNjCTwzJ5nEIbPobgDSA2HzKvVYkOHhUWYlRImEGtMWY",
       "view_skin":"https://lh3.googleusercontent.com/ewjSJb6oiKCPcRFdlXjd4e23nShrtW5oqaNdv98dhjikKQ5lxHgdAyTegHBjC9zDcfpq1v3YKlZarLTzfWH8Lg"
     },
 	{
       "id":37,
-      "nama_skin":"Naruto Hinata",
+      "name_skin":"Naruto Hinata",
       "skin_url":"https://lh3.googleusercontent.com/4WulLnnNZ5skzzMg4CswNcZ5xmCjrbfhfA21f3xfyKEnbLBQnFtJMjbxsO5FR9J1QHqTEcJLw3_Mt-bEZ8_UIg",
       "view_skin":"https://lh3.googleusercontent.com/hOWNtptD38S8SJ7xHNiYVreYdU7IRUOjLjEcPWm9mamnLc_Bw0u-MEi1Qg4e4fxu3wRzIxxf3i8M9rnrWGx8PQ"
     },
 	{
       "id":38,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/bolB7TA6W_1aQs_8TYA5ZXnA2ff7WblysOFt2gnwJd7edxDAIfg7K7Ybr7vn-YWEwtv92_mZGu-PcBZ0Xw3v",
       "view_skin":"https://lh3.googleusercontent.com/wzrrcJNb4NcDz4aaU2dPTY0CdlijgSRouNRhXgsKCv03__oKbCQyQMaCuz3pjdEB9TlnC55x8jWbDBofPPijvTg"
     },
 	{
       "id":39,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/BpYTLR6VigP9kyQ1oJw-DXNGFwJ-rP18_wqQdl_usGH--ppOWAfW2fExBRCFzEVGrfu6TFP-hl27lpHqapYl3ExvtOTMt_d3Ag",
       "view_skin":"https://lh3.googleusercontent.com/Po5UDL47xF3UxehlXPidSCdjDDjTc98VEIO0xsdrIf_jykm-DzTAeIpCZIxtv14ZRNcH5XoTrAddmszyVMU_kca9iuAQakNXeo8g"
     },
 	{
       "id":40,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/WK0Fh5NiGDAF-f6LqnBUSF5dUCTX41aKrq-1IInYsadppRzVsPKX0PZ-V2vprakTp1j3GDa4_lVkIN_zVVnLVLtDaOesy_RTodY",
       "view_skin":"https://lh3.googleusercontent.com/ZlOiJpgioDvotgvWVQkPIQZNXBWUDcIsyf0f6CbomGnPXBsh6qYaMrqMI09WwvbNzuKhmwvu0Y7dJZ1YDVFzaQ1w1Wep1ZCHkA"
     },
 	{
       "id":41,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/VmK3Q4ENd6aRAdiBBs7Rs_PL07ZZAxoZ7A6RvF7ITmVvoUUZ-ugz3LX2NDLKebLbW0GIELFihadV-5fminWpyM7N7Uo4DZgqNsZA",
       "view_skin":"https://lh3.googleusercontent.com/-8QbLo_shOluK4-OGbkuxhTjb98RJ3FM9GtbJ_tuNL7hH6LgTmyT1uuLPTQPPEROf1mfA2hGnFG64vuKbKTi95uT66XZSO-R-A"
     },
 	{
       "id":42,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/RyP8KF5jAg8HcKu8_H0kmNSAlJOEP_SiSDdv2OFBEgeFlLo6nClIq9ViATNfGbrtC_U9ajV--OK9YJ5MKJXi6A",
       "view_skin":"https://lh3.googleusercontent.com/LP8r-nD_mSw2IW5ugSVuKDcODznjM_asvE6vRwtrpkASRXcmNOJ8SaB2ypEFC7BDyFa8rN74ejZWp7Rz7NPyCQ"
     },
 	{
       "id":43,
-      "nama_skin":"Naruto Raposa",
+      "name_skin":"Naruto Raposa",
       "skin_url":"https://lh3.googleusercontent.com/-nt6C-R4TbfQVNkCvEwysTXYgYLAy7YRiG1qS6Gl7EYHDx1HyVQar_kt6_Vy9RR5H1jORzjjWfjXIYY2Z375",
       "view_skin":"https://lh3.googleusercontent.com/lyTg0LL9md5-d2xKDOpZiqIR5nqDayX2uLo4AyMNfr9upC9RdtcfNP2OOboBynxdx_hRGEXLQVjhYm9j9Qjk"
     },
 	{
       "id":44,
-      "nama_skin":"Naruto modo kurama X",
+      "name_skin":"Naruto modo kurama X",
       "skin_url":"https://lh3.googleusercontent.com/N1ABEZAQtm5mixW92s6hzzqre1Lw4edRgYhTZsKCiZIClufNUOJXK862fUDk3ie-EGRIO6wUcUiqjgizIqsphQ",
       "view_skin":"https://lh3.googleusercontent.com/gWHLNSsO_jWZGJrW51NlelbbtfNNLPNMDfoSEeH47n6osJL5CQ61PtnrEbowgxHcDnKAKYslXMSXeNAU8nGn"
     },
 	{
       "id":45,
-      "nama_skin":"Naruto Modo Vinculo",
+      "name_skin":"Naruto Modo Vinculo",
       "skin_url":"https://lh3.googleusercontent.com/Aub8ywmqKLHvDX3PB7pijvpTCG3pmVIEwmKzOn6fQaW3xGRzNhi7IRdUrKJBi1O3n3okTN-DNo9M6m59Hmar",
       "view_skin":"https://lh3.googleusercontent.com/zs8OZZGL592A1crXCIZhWSmPC6oilG8YEUn1EkHAPtVdzyIRVcRFMHZL4FFVD4EkfQ4zZejiXdBXFliHWY_x12w"
     },
 	{
       "id":46,
-      "nama_skin":"Naruto Manto De Nove",
+      "name_skin":"Naruto Manto De Nove",
       "skin_url":"https://lh3.googleusercontent.com/ctOIyKOhs_FqcNDP_fEs1iVXWgkJ3eRd2jOXgg2BT5e8C7D37cVNMFdyVgBub9_nIP2xFKDwK2XO0_pzJ4S7",
       "view_skin":"https://lh3.googleusercontent.com/zQ3xQfEBTGLVtTL0NUji8HzRlOVNZKSPcWhqQ63h8eDThxUzcgGLF-HIpuYmjy6aG4U0nCALnA1wSjhpLCr3LQ"
     },
 	{
       "id":47,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/g9XgdGWyFWl0CMTXUMDRWKZG3-OESH5fWjsh4u5W_LsVCQP80Gmyypig-2E_D7JxX7Mnmxp23mwi-IfS792f",
       "view_skin":"https://lh3.googleusercontent.com/upFuZjrfz0Ebzez4TAKoWEVXDUc6GVVUgr2fyl8-PnURj69sfaqW0vuv4an3_5Of3KTI0JvHUAANOmiutZHP"
     },
 	{
       "id":48,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/kOYvxxrrID7Ml5QFDoSwr7SfMR0f-WWrDybI1nspbe_d57xPxdtuTzD-D__9cQas7l-gHWrI6ZeywtOJbna1",
       "view_skin":"https://lh3.googleusercontent.com/woty_-6fwbcNxPmskPFDoGYhbaoD5Y2cYrSwDcM0Qeouklb0nlIJY9929A-OdhvTjrpWCRUBG2cRAbk4XdBdFQ"
     },
 	{
       "id":49,
-      "nama_skin":"Naruto Minha",
+      "name_skin":"Naruto Minha",
       "skin_url":"https://lh3.googleusercontent.com/bolB7TA6W_1aQs_8TYA5ZXnA2ff7WblysOFt2gnwJd7edxDAIfg7K7Ybr7vn-YWEwtv92_mZGu-PcBZ0Xw3v",
       "view_skin":"https://lh3.googleusercontent.com/-sX-ja-bx-UpMel7cMx3JrmrOrbDQ3jaeWiUzn72lFhOXWc6gbDg6nE8Ieq4Qg9Mf50JPTPGa7eTJQHkZQ5G"
     },
 	{
       "id":50,
-      "nama_skin":"Naruto Super Papi De",
+      "name_skin":"Naruto Super Papi De",
       "skin_url":"https://lh3.googleusercontent.com/8O4vepj1EPH3sFvAuKmmZpcpmSzozX__0tnN1wkyjByEn_ciGojbYCRPHzcQ4Zp8ro6vKaRT7_-39QvPe1sDHg",
       "view_skin":"https://lh3.googleusercontent.com/cK9r7Bp17kb0uJMw9EXMeqTJEt4WCeeBORlyBGiLKTstGb6G4c0a4BEid2Xdh0mwjLZINUpjOBNZY5LFOjVtZLs"
     },
 	{
       "id":51,
-      "nama_skin":"Naruto Akatsuki Danado",
+      "name_skin":"Naruto Akatsuki Danado",
       "skin_url":"https://lh3.googleusercontent.com/r56mUHfR_pDgu66vfOupQSBAT2E3ZL3VjkAZqNd7u_SR8cbgnCe3SWh49_cL870l3JP2sKrRirCO_i0dewM8CTG4w5qh-19Foys",
       "view_skin":"https://lh3.googleusercontent.com/1_GwH-ZZzdN1_AkbLoubaX6-qQQkQI4iCwpSw99aCKlmUkl7K8aceJSVycfS1_QIEz-JTKcRE3ME8FbLMuD5XWidWfxfsn0Jx-PC"
     },
 	{
       "id":52,
-      "nama_skin":"Naruto Barion",
+      "name_skin":"Naruto Barion",
       "skin_url":"https://lh3.googleusercontent.com/1-_SdkPZplPquMRruN8-2nDFjPpo4T6E3VKObdS1ZHZTdKrTlLVdtHPLBZByA2Src82PCPmFyNXktzJ8TbaqVPcd3fTlUmBUiA",
       "view_skin":"https://lh3.googleusercontent.com/VUUbLoLlxyx9ze2mM-5QTH1klOH-L3Gn6A7vy7dIucH-vmO24Kt-Rs_ITpqC7M_jnABXs10brDizOhT-VZwd--1HZqxc6gqJhP7T"
     },
 	{
       "id":53,
-      "nama_skin":"Naruto Pain",
+      "name_skin":"Naruto Pain",
       "skin_url":"https://lh3.googleusercontent.com/xGyPt8CEDlFRpNvs46I7gn8bkLhh9huJWJtXNw26i-nUpi0HOzIANB0pW6jrYsRubB2lvjcTZRC-TJ7AZk4P",
       "view_skin":"https://lh3.googleusercontent.com/RCV3zgvJAj11HJcVOe32J7_35Fuoa8tQlhf1FBXj6Zd0YPtIDO6s0SWwVXjpbpKFNcicEQw4Id8c-Vr-ZBv8"
     },
 	{
       "id":54,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/3wJIkjQnMROeNEhBVgqOlXDG0idsFx4IUbmqum0aIwq-618KDQ2uq8JuhNo_9Ok-GZ0TtaOOgUJqHn2dbetrFBc",
       "view_skin":"https://lh3.googleusercontent.com/SV5NyYKSQVagdsS-G02SWtyBbbudznvCz4NEHdd_2bbS4SiwNmgnDKISddp9yB6Cu9kVXgM6G7Vr60rRFu9llQ"
     },
 	{
       "id":55,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/mzyZ7Sc1VGxD4ms1GWCHGVUZamDaDBSIAsyjkRllH3rYCJSBsrm1pr6r5pI1sQV3HtxuOPRoFcgB0B3ufBlf4QY",
       "view_skin":"https://lh3.googleusercontent.com/Ldlkujm9wB6LXottouCO13vOVhr3MswQydrrtexBj5K-3wI2L9Uxb_-Mm8_ZaF5vrSAgWM_Ps4dyP9hMsLZkzQA"
     },
 	{
       "id":56,
-      "nama_skin":"Naruto Sennin",
+      "name_skin":"Naruto Sennin",
       "skin_url":"https://lh3.googleusercontent.com/K_LWBYqc0p4rXt5XZAXcc_kprgoYAJn3JdU14y-NWjjgC0Rgbu5VRE1YXegPcz33N8p7y6-5lRlTLofVq9PrTG4",
       "view_skin":"https://lh3.googleusercontent.com/wThtQiWW3NNT-myqjwnmmv-OL1GQs9X6mYjigCT0NOqUVxQ8CwjNY6PLMcVyH-CutCRwfC_vsGbtcUjM_9CR9A"
     },
 	{
       "id":57,
-      "nama_skin":"Naruto Modo Zorro",
+      "name_skin":"Naruto Modo Zorro",
       "skin_url":"https://lh3.googleusercontent.com/REbqF5RuC1DJSXBsQJDOhQijuBQP0Tov9alNA9UYkvF-OY04NaTPGaSyoghoyAII1ptOUEbdy_d-yySvp9JyNQ",
       "view_skin":"https://lh3.googleusercontent.com/X7KfeVcEeVNr-YlRRJljIoFXJlb_ejAzE6zTOU51_a6vD0PcbhRqzuDgPVGWLt4asp39SNUPSMODJr9uXxuOHQ"
     },
 	{
       "id":58,
-      "nama_skin":"Naruto Minato Papa",
+      "name_skin":"Naruto Minato Papa",
       "skin_url":"https://lh3.googleusercontent.com/ojUqp-L0r6aYZN8NlW8JNMmsPpeDjmxcKaZ5oIuHOjSFvaIjFv_Xiq2484b0Hw1ZkVcEvtkiL_kTYu7mmCQ5Ypb_Tp9uGdkFP_g",
       "view_skin":"https://lh3.googleusercontent.com/DpBl2m2aXsykN4by9PxcyQeqYKdlgAa6qaNR3O7hk_jMHeq7tpwkmo2i8yLaTje-xWHPOO27AqYvtHv8miQv2xqj4qsdxJROFA"
     },
 	{
       "id":59,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/R3g9ln60a_ehAKaGBnkhBACxXwLs5VJkcTpkMadg_lGjtj0e69wkEXqKI9tZe7ytHBfTRqZyXvOjYQ2aZNpTS5s",
       "view_skin":"https://lh3.googleusercontent.com/7ROIXcixgsYqVEM3wOgY_fJfWi4G2zkFKKm60fdlKRL0wAmoNEjlzIOmaUXeqStwR4_5D6XBbLbmwDLiaWNhp7s"
     },
 	{
       "id":60,
-      "nama_skin":"Naruto Pato",
+      "name_skin":"Naruto Pato",
       "skin_url":"https://lh3.googleusercontent.com/mNoEPlDxLQEZ72lH6ebk-awDVEkGntiQvQgT7lDG-fzFqbcHqYOo5rWHrIM7RsgLnDzrG_8WHUlh5sV1Se_R",
       "view_skin":"https://lh3.googleusercontent.com/v3qC4o2xhveNG0wqfjzznLVdUSoycbHa5U6_nWzXsWzYSHqlfs6BefQKg8iINHRYKa0hi3twkcZbQx5fi91o"
     },
 	{
       "id":61,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/F_aJOuw2rtOgHqwGvCYZPUS41si5KMVhAAdbUxGzqzeUKti4fYwAbk-LuUniFSLwBiyn0k2_I7fC8Xm0M1ll",
       "view_skin":"https://lh3.googleusercontent.com/-uqOkt77ZL5fYymPVHNICyQa1QU7Ln3bSvbIBQ2pDBO9r8FRWGCTpQ0Ccphr6CEs8Rp86dXaZpy1l4b2D50E"
     },
 	{
       "id":62,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/BGDsfvD04bFG2K9d_iLr13RqtW7Bi70ys2UUDGxXiicB7ZuyNFU9kNNenFgY3xlfTywK2xYigIdJw_3B9tMoTg",
       "view_skin":"https://lh3.googleusercontent.com/CjLO4N5AmE7KueeJe506FO6TLSUXxxXJaf2IOetu3BGkpKlAiclRzmfVHtaBpQj59lVKPU6uS5yX5Elvvfpn3g"
     },
 	{
       "id":63,
-      "nama_skin":"Naruto Sasuke Uchiha",
+      "name_skin":"Naruto Sasuke Uchiha",
       "skin_url":"https://lh3.googleusercontent.com/I9UEB6OoPF0cS4k74CN1reH_GhxhwV-Ay0hCBkPXglhlHmq2f3Lu0T_HvNotQgd1K52WRmjpyf3gXZJE4Fg3I_U7aLcLIY3BJkg",
       "view_skin":"https://lh3.googleusercontent.com/kbml34Fhxvfza-a7_EMaoE1ku_EPZ5pNCT0ys3vGTjAMTUPUdf0XDJkHA5wN9NU4oePJ-0tfLa7P0OiXCJF_8W3cA8MnH9RXhjM"
     },
 	{
       "id":64,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/e4IG10W0411ztSRjltlcTxMNqsdt66iLHraOkvD2xRLbvzH3BePSCerYilZ6S1P4uO9WQZ9e2jWiH1UxGdOnmYQ",
       "view_skin":"https://lh3.googleusercontent.com/tePJfILfo2eDfmVcN_Jk1PcdVGCcO4lzxerWV_uvxIK07n7cOB1irgx0x018vkmgDKgkJ5OkyOGuT8qH-98OCsg"
     },
 	{
       "id":65,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/ehOm7ei2hsvrGOhCYQBs8t_G_pCT219BZOiiazUgT4NbKz99Mx5pjaI-7-OyXt0qc5g5eJ-2N4ifB76Qfyd9iOM",
       "view_skin":"https://lh3.googleusercontent.com/GOEbUiSksvaPpe_rFLn-deRKLgqtTZcDpBL9zVyb0MCOyx236V5ocdGCfRXdqH8SvfnIn8CR42Joc0jT-cGoFg"
     },
 	{
       "id":66,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/EoOSQBZ6k8ldXjYuux7Rp6obgE-yWc6wxAgDl_5O6GAreZsFZzXyOeMQQu15kASFL4VIRVCvDpthB0c_6qeQaxo",
       "view_skin":"https://lh3.googleusercontent.com/LTDpA6Iz6htAWsjkdAY9n1IpRGSgFmH2I0o7zSri3Ukl46M1iNpk_yOO49YUrhsyyderIJcj0J_Kdu5uSZDWMQ"
     },
 	{
       "id":67,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/Y26F-luvqc1csOZbpInnU7SeIVnVUQne0R9-DvYN81ileYmv78VL25tF4GZDBerKcgxeluq56m-jNcKnF2DI",
       "view_skin":"https://lh3.googleusercontent.com/74NFFxzu4hYZoviBgPvuLCpRMPaj1gl8buoxAMRKK0AXSpuFMRfiagvfR7q4hT8J0guqnMI1_0V30RnEewvojA"
     },
 	{
       "id":68,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/LY018RL2wM72oV2iJ4lhZtR3mluvdktpcczylnu_l-ozZwj0lhcsLPIQnL0NuKoO-lvDva17aewGt8-Eg4kueW0",
       "view_skin":"https://lh3.googleusercontent.com/Y2qjh8KJpDJFnpxhxWLBZMGSw4Eqw7NNApenY3yHbPrlF2tB4LNrnHZJtgfAkBJs-FWQ40ZPtCMIWiyQGCU7"
     },
 	{
       "id":69,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/1prSrTSrW5jzb2PurmK2TPyrGByGUZQA767dNf7jaQwj-jjZu8c2BrBazC_Q9E0qBf1P2bW0XsEdIIml1WdkW330tQQlSGuHw8s",
       "view_skin":"https://lh3.googleusercontent.com/A3KZYw_dMRxuUWY17suCn1WP-O3HKNwSR7htBbNjCMtuEYLQ8ARK0X0hEtv4TdypCidPvncpCwlkKa-SKb-7E6CLSyE0FLpNAUFs"
     },
 	{
       "id":70,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/QrMTWXQW6M5_-Cnzrh0qklERXFlleUHWevrq0BT3mG8CvlvLVUPJGbqS0Ak8b2_34PRLb91H8HSTj0dlRfGBXg",
       "view_skin":"https://lh3.googleusercontent.com/FrMimpsB5FFajuPWIX1OpfaDC8q6pi8mNLdI0Kcu2wrM0_lF7XMjh1ccJcyjW73mKiLLqg-zIsQuEq-dUIPKhQ"
     },
 	{
       "id":71,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/ko-JcOL-fqdg6pPVo7eXxqoh8lxLu_jnC2ZmY_qcOLCjhEbhc1h2AQP_oqWZBBtt0xrEOQgLI6LslfWIM5dR2w",
       "view_skin":"https://lh3.googleusercontent.com/c_vgLz7qPBbrreoXQmEceKwQ86tQcc9Csa1KZA_2as1kKRg_SiPhvVrny-uHzVyDwAJ_QfMUs5QymFyYwrC87A"
     },
 	{
       "id":72,
-      "nama_skin":"Naruto",
+      "name_skin":"Naruto",
       "skin_url":"https://lh3.googleusercontent.com/mBrDCW_7Pw6u--IZJbO6OHB1J_fu81iPPuVhpdov9_CrQqrwqPa1GxIl1Oml8eYqYRH54DkZayHxArgpw8S4mxbhq1FQLIu4oOI",
       "view_skin":"https://lh3.googleusercontent.com/5Mf0RHOGBNF0ijLKCDb9dJldUbSLPfSY00nvKY9foxVXjYkd-uqd5bAFY7LjsrSjoQ77dMEn403hGtHeVyNKvZLJlPVEhikrnOg"
-    }
-	
+    } 
   ],
   "Addons":
   [
     {
       "id":1,
-      "nama_add":"Cat Plush",
-      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
-      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
-      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
-      "view_add":"https://aliendro.id/wp-content/addon/catplus.png",
-      "des_add":"file:///android_asset/cats.html"
+      "name_add":"Addon Naruto MCPE",
+      "add_url":"https://wedosmp3.github.io/imagecreative/naruto/naruto1.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/naruto/naruto1(b).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/naruto/naruto1(r).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/naruto/naruto1.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/naruto/instructionnaruto.html"
     }
   ],
   "Maps":
   [
-    {
+	{
       "id":1,
-      "nama_map":"Hello Neighbor2",
-      "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
-      "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
-      "des_map":"https://aliendro.id/wp-content/map/hello.html"
+      "name_map":"Maps Naruto",
+      "map_url":"https://wedosmp3.github.io/imagecreative/naruto/Map.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/naruto/maps.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/naruto/instructionmaps.html"
     }
   ]
 }
