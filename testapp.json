@@ -308,22 +308,22 @@
   [
     {
       "id":1,
-      "name_add":"Cat Plush",
-      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
-      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
-      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
-      "view_add":"https://aliendro.id/wp-content/addon/catplus.png",
-      "des_add":"file:///android_asset/cats.html"
+      "name_add":"Addon Naruto MCPE",
+      "add_url":"https://wedosmp3.github.io/imagecreative/naruto/naruto1.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/naruto/naruto1(b).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/naruto/naruto1(r).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/naruto/naruto1.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/naruto/instructionnaruto.html"
     }
   ],
   "Maps":
   [
-    {
+	{
       "id":1,
-      "name_map":"Hello Neighbor2",
-      "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
-      "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
-      "des_map":"https://aliendro.id/wp-content/map/hello.html"
+      "name_map":"Maps Naruto",
+      "map_url":"https://wedosmp3.github.io/imagecreative/naruto/Map.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/naruto/maps.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/naruto/instructionmaps.html"
     }
   ]
 }
