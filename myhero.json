@@ -2,418 +2,448 @@
   "Ads":
   [
     {
-      "status":"0",
-      "link":"http://",
-      "pengaturan_iklan":"1",
-      "admob_open_ads":"ca-app-pub-2521648737251856/6030822854",
-      "admob_banner":"ca-app-pub-2521648737251856/9928693506",
-      "admob_inter":"ca-app-pub-2521648737251856/7302530167",
-      "admob_native":"ca-app-pub-2521648737251856/8932318366",
-      "interval":4,
-      "fan_inter":"",
-      "fan_banner":"",
-      "fan_native":"",
-      "startappid":"",
-      "mopub_banner":"",
-      "mopub_inter":"",
-      "unityID":"",
-      "unity_inter":"",
-      "unity_banner":""
+     "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
     }
   ],
+  
   "More":
   [
     {
       "id":1,
-      "judul":"more app",
-      "image":"https://1.bp.blogspot.com/-GRF5s0x9sDg/YTzScDzfg5I/AAAAAAAAAu4/AuZxF5arRP0KDhXEPpsu4f-QQjrYiG8lwCLcBGAsYHQ/s450/1.png",
+      "title":"More App",
+      "image":"https://wedosmp3.github.io/goldencreativeskin/playstore.png",
       "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
     }
   ],
-   "Skin":
+  "Skin":
   [
     {
       "id":1,
-      "nama_skin":"Himiko Toga",
+      "name_skin":"Himiko Toga",
       "skin_url":"https://lh3.googleusercontent.com/JHG1jkYs1oNwkeJNaLJCMExGyLrjqLphmzAsDq-r4p0mn_pt0u-U24QIVzE0m4vRY1ukyTQk6XjhZ-AONIpQ8Q07near57LGSdw",
       "view_skin":"https://lh3.googleusercontent.com/R9tK0oisMeRTfY3TEQ3J2EZD5s8x96QCIguMVW9hKJ5ytZUnlMa97Nhf3sjY5dNzNi2OBf49jnGBt0iSGwL8vFcCYK8oRb2OuyY"
     },
 	{
       "id":2,
-      "nama_skin":"My Hero Academia",
+      "name_skin":"My Hero Academia",
       "skin_url":"https://lh3.googleusercontent.com/3g8eAi7_RdO3T8jr3FEbjbp5hzDJZUo67ohyB7H2768CQ-n3Skzj5mP71HKl4iHWcpXdR-xizESv9CnWFbdD27U",
       "view_skin":"https://lh3.googleusercontent.com/hZbRzaRLAK14AY6h8NR4OydcE8FQQZ8NgJjwUcJ6OObe2yunoAU5XM7X48kpgEm0RWd_E4ucmWxUSQEGOAogjA"
     },
 	{
       "id":3,
-      "nama_skin":"Tsuyu Asui",
+      "name_skin":"Tsuyu Asui",
       "skin_url":"https://lh3.googleusercontent.com/jFQ5HGGdnsEkIETEBlHhLuWJC9NIMs_494g1OQ2UT0yvHoyltDKRiyoI-MjICEycFLZKCKszKPCehHVyoXUlz0UZy8OS2tGkdrZU",
       "view_skin":"https://lh3.googleusercontent.com/5TPBqTjx7Rihwxechukz9XbJa2Kw7QVqU3XoC9GITtdVqlbrF2quidW-F4bMfNBzGs9tfpJYYNAPUcuUAYAkiRQ8vZklWqLHkAc"
     },
 	{
       "id":4,
-      "nama_skin":"Bakugou Hero Academia",
+      "name_skin":"Bakugou Hero Academia",
       "skin_url":"https://lh3.googleusercontent.com/f2LAfitg3BWHCVzsp3PDOdCuQsKB2m3oPbt-EOgGFBxjrxk307DRR8gz-rIDxWB-ehHF2zZ8nryArLeYc1PNqA",
       "view_skin":"https://lh3.googleusercontent.com/ta2V7gHsmFM_1aee2MinVa1AsTFHsTDfKeHpbkh_eLyN9V0VvDwJkL6dFzPnFJuFvamB2lr4RAAOLIdlyXomWl0"
     },
 	{
       "id":5,
-      "nama_skin":"My Hero Academia",
+      "name_skin":"My Hero Academia",
       "skin_url":"https://lh3.googleusercontent.com/v_ec9rk6nAE-cigXxe7mHVLdNzJIt3GEbJtwxu1csUtS8nLDx-ukdp3lFIWR4Gd97o4zoeG7ZveQZmuVmjlwEg",
       "view_skin":"https://lh3.googleusercontent.com/QBrJiQ_WnIW8MhlL1ULpauKanIGy3_Ojx2RUGpaq0qWAzMXRVo_6zR9OtLWDPXiKukG3LznRi4q1DTszEp2O5w"
     },
 	{
       "id":6,
-      "nama_skin":"All Might",
+      "name_skin":"All Might",
       "skin_url":"https://lh3.googleusercontent.com/pXNj7HM_Kgsjb9ofMrgcHauLVbOhU9AKRgC7qdgPa5iNfquF00B3QGqUS2X1bZestruMjUgY1VrHOxEp3JN2vhA",
       "view_skin":"https://lh3.googleusercontent.com/j6njHW9DYG2-VxHyI_nUDaoTpTmFoTGGsxye-v0dUJu8kizxjOLKSB7g7-uPudKke3BNczSinlYbMSrd9P3w"
     },
 	{
       "id":7,
-      "nama_skin":"Deku My Hero Academia",
+      "name_skin":"Deku My Hero Academia",
       "skin_url":"https://lh3.googleusercontent.com/z8kriwqlHE7yjKFJROH2UPQqEUoIR_jaYT_ZtoRldJnJr8rkfNYz6eAyL0u-u34GD1EHyTe72gdQWdB1KIk3WLQ",
       "view_skin":"https://lh3.googleusercontent.com/2M8dRGnPdHNcRD90ZR3xbNKlD45W_xqSj3r5zjy4nbbJjFL-uquLt7NFgxyh2PYLDET4KviiBKJcwH3yqgJzlQ"
     },
 	{
       "id":8,
-      "nama_skin":"Shoto Girl My Hero Academia",
+      "name_skin":"Shoto Girl My Hero Academia",
       "skin_url":"https://lh3.googleusercontent.com/fE_ZBMh6Ja5dki8ZKzsqufqfZpfsq_0AiiE4LTtVGi7Bnh_4SM-PQEr6vs3P_GwdsX3FPvVA5DoZIUdJFQjwahCEdGmYoyu3TQ",
       "view_skin":"https://lh3.googleusercontent.com/AhROmVbBY-LuDYFFfsO2klARwi2vowdvkiElNu47hYw1fXHOZfMDVu2F0TchilZOC5iHmrwXvj2WPealcyJacHbAGxLtn9HYrkc"
     },
 	{
       "id":9,
-      "nama_skin":"Dabi My Hero Academia",
+      "name_skin":"Dabi My Hero Academia",
       "skin_url":"https://lh3.googleusercontent.com/3-1dYhtbsY7ThNcrZAeGOOMppWl2u05HR_8rA9uE38iZypMgSRQOCYKyR8JyJpESpQbf-Zx70411c0kCUj1u0OfyGpzf9jMouSXF",
       "view_skin":"https://lh3.googleusercontent.com/e-FrtAlmoqLt7GFPKn21my4p4p6Idlp6CpVPGZRV9hWyQpWOMZ8XA_WDmkyKsWTU6ERHiL6-p3D3fIWULM41MMCahddkhLc8IBA"
     },
 	{
       "id":10,
-      "nama_skin":"My Hero Academia",
+      "name_skin":"My Hero Academia",
       "skin_url":"https://lh3.googleusercontent.com/kzv0tQrAWJsfVFyGC50WK-Hw3QhXHtAhNlx4QjGnegcotI2A0l35dpcJ1tSpnBETYECcI3qoj_e47W-XZTTj",
       "view_skin":"https://lh3.googleusercontent.com/xpt2lyMeg4kpD1grtp57OWk4KFpLWu46yJ9MwxgDW1uuApUXsBg2oEjqSR6R-2Pa-sclrXK2sfAt4jBdwggUcQ"
     },
 	{
       "id":11,
-      "nama_skin":"My Hero Academia",
+      "name_skin":"My Hero Academia",
       "skin_url":"https://lh3.googleusercontent.com/OfzLwIJ5FpXuHKW1HhT5MHl_wwfrkzU80WXB7JoJrqlfeEircsC-w88BVGmIJhZ2-adNXovLmo_5YkUbqJcUdYE",
       "view_skin":"https://lh3.googleusercontent.com/0MvFNZuH0vttbyOqIWjrMh354mxlaMBlj5zckkcla4SQXAXhbVBZa1vRuXgBle05IBnFpDx__yzVpeEKuFVPf_wiU_zNr7bEhg"
     },
 	{
       "id":12,
-      "nama_skin":"Uraraka My Hero Academia",
+      "name_skin":"Uraraka My Hero Academia",
       "skin_url":"https://lh3.googleusercontent.com/yWkMRMP_0qH9clX0hDdRJqGYdm0mQVE8azCQ_UaX0_Br-SEH-ztSaLW-eJzyqhL9kHrqQQiAQMtbYZuFvlYzjho",
       "view_skin":"https://lh3.googleusercontent.com/KRwosTV_aiobk80Mb2Rw5nMX3gsVTNRx867-7aNcsvKOXri2hgN5--9YE6R6QR92Pe0dEwnG4aqYS0rVvH4kTkmGm11eWfvo8qQ"
     },
 	{
       "id":13,
-      "nama_skin":"Katarina My Hero Academia",
+      "name_skin":"Katarina My Hero Academia",
       "skin_url":"https://lh3.googleusercontent.com/Yn-518DfwbNRSRxDOcKxrqwX9xLQIK4OPWB5vDWwsXs7nLa9Gww9L10vpDKtem8z82eykJZ3j5tyfgy348rY66w",
       "view_skin":"https://lh3.googleusercontent.com/aHHC04wl4EbHI4wsFTmsT4p5GPeaaOs5j8fPfzbbLLp_uK9zyPvUziGbubBRE_TSgfxuogQ0SiXVDKR7q026tCgP2odIS3tcJEM"
     },
 	{
       "id":14,
-      "nama_skin":"Tsuyu Asui My Hero Academia",
+      "name_skin":"Tsuyu Asui My Hero Academia",
       "skin_url":"https://lh3.googleusercontent.com/kiCgCWM-dpcbSRauOPgLuBTqzHqyg7y6ucZID2Dh75ceQL25I8NULOqMZlMGpQ761zwHJ_sITelgoSGnMKK-zw",
       "view_skin":"https://lh3.googleusercontent.com/xBTKHyDuEWdTS6DVxvBSK2FrcrYq2q5hbLl4jdLc-YzKTVmlKRKmXQcGbwQ-aEGCeK6eMgC8ikDVuTLUn0uI"
     },
 	{
       "id":15,
-      "nama_skin":"Ochako My Hero Academia",
+      "name_skin":"Ochako My Hero Academia",
       "skin_url":"https://lh3.googleusercontent.com/nPW-qb5gL_ajIvTzMGxpVY_bDYekMGBSM3tcTVtjALgVG0LmNoGx4Omaty5iUmlnlsF2CxCpohpcN8kSpIq1dg",
       "view_skin":"https://lh3.googleusercontent.com/4Lf9EcQfNUx7oxBxzMZUOHzr0a4x72LvcUZjN3E1HPGdoQ7XkDZB-6BboB1pKGEckbjxNK_EQvxIriXXRxDUdA"
     },
 	{
       "id":16,
-      "nama_skin":"Yu Takeyama My Hero Academia",
+      "name_skin":"Yu Takeyama My Hero Academia",
       "skin_url":"https://lh3.googleusercontent.com/frUCzGrRDunToP88FrzOnhTHqxcxprgfqjuVZnzpsAiaH07niH5k-P-44Eb2tLx58Wrwfg__766Fa3d_TOvXY4aFM43c3YznKqg",
       "view_skin":"https://lh3.googleusercontent.com/Q_eq_uluoraaJF0YuqtiBglAWjj6z7Y7ZQRlge2UNfEUUKUy9xwVdUM93Y8ZZbQ55G57hdbMMRnlE9tvSrbeHtib6LqxxtWO20k"
     },
 	{
       "id":17,
-      "nama_skin":"Dude In My Hero Academia",
+      "name_skin":"Dude In My Hero Academia",
       "skin_url":"https://lh3.googleusercontent.com/EJI5NNigMMBWyRTz4Ba4e7r15EK4-SI-zLKjJNx6kvpdcM_eUKfzBc0WYPBmRqs_CmOfPx6znGQO4HSUyfp6oyY",
       "view_skin":"https://lh3.googleusercontent.com/S7sHMaeqbI--97aCDOholqe0Gh9JsNGC_KnWgu2UP0xtGE_zPD-Um6xLZtnBr_fRloYAv9yfL82ijUJMbaAoOw"
     },
 	{
       "id":18,
-      "nama_skin":"My Hero Academia",
+      "name_skin":"My Hero Academia",
       "skin_url":"https://lh3.googleusercontent.com/bl29H5mRV5IUGm5tFLR7RkoGDkBWFuFLVb79ppJK192GKGt8PgpIo5rNfK9EoWgeY3_y0u9_Qb9d96Bgzj1okA",
       "view_skin":"https://lh3.googleusercontent.com/R570KY0DuST6hlwn3wDJhdm2ExgvyeCx-UyeMR4ygg0MRwn3aEeb8dokgzr7c8lhF3sXy8-diqFiNbkOzVfnPg"
     },
 	{
       "id":19,
-      "nama_skin":"Mina Ashido My Hero Academia",
+      "name_skin":"Mina Ashido My Hero Academia",
       "skin_url":"https://lh3.googleusercontent.com/tWAkbkne0Vlcu-RwANd8WgB3wFc9KOyujOMW-yRyGmhYtN2b_ftAu-2FAtQsmppk5b2jNWod2_l7LQ2G6LIHMg",
       "view_skin":"https://lh3.googleusercontent.com/9pSMOLOT85fFa3SaQEH43DOBJ28frpb6LOkU7gKcgusDAJ6T_U2FDSygA81z73SCtosuXMAvCO_aWUJ34gd7dA"
     },
 	{
       "id":20,
-      "nama_skin":"Kyouka Jirou My Hero Academia",
+      "name_skin":"Kyouka Jirou My Hero Academia",
       "skin_url":"https://lh3.googleusercontent.com/Z4H4uUbQGQA0ARL_glT6iE5m-ii1-MsDL_q7YalF8rPRM3mWFqTvQ13gwW9SCQ1mXqFpoXYwXEmf6Ag5DfZW1H4",
       "view_skin":"https://lh3.googleusercontent.com/2i0Q6HWhwun7C2YLQpeNmtj5YDYNwUgO9wsjEOKK95XBDVFSCU38ClA9MslbKw3CLxKf8vcTCxPPQXsYLarut6Y"
     },
 	{
       "id":21,
-      "nama_skin":"Dark Academia Casual",
+      "name_skin":"Dark Academia Casual",
       "skin_url":"https://lh3.googleusercontent.com/J6Bc2K6Nkkg-jdPxI3g9gj6-zL3Sus59EXYmPN1XcN9JWmYXEuSZK6Lf_b0p376JUL7jXYAlhbNR4zYDzZ9SdnckVXpF-0WPo37C",
       "view_skin":"https://lh3.googleusercontent.com/8jSH88u7INgY_GMsRVUQy6tsOACP2s5kzsptvb3urXEI9A1SWr6HXX3KMC_lhREtpxah2ys1N0Smlg0O3oM3ydEdVYcwT42j5hqv"
     },
 	{
       "id":22,
-      "nama_skin":"Izuku Midoriya My Hero Academia",
+      "name_skin":"Izuku Midoriya My Hero Academia",
       "skin_url":"https://lh3.googleusercontent.com/oG9YkdxKI0IT1UJ7FgsZN6N8b_qMChroD7VwAeu8QouwXhs_8zMjTamamRuAjtq3Y5nIPuA06yuChco1IpqndQ",
       "view_skin":"https://lh3.googleusercontent.com/kFqJnbFLZC09iYD-v0Bo7i23c6D171DZLZd_kNtiB7-j8pehCz41xS90FpVtEdhqSWcsSAf9XLtWuy-vza9z"
     },
 	{
       "id":23,
-      "nama_skin":"Black My Hero Academia",
+      "name_skin":"Black My Hero Academia",
       "skin_url":"https://lh3.googleusercontent.com/E7be95KYPX1fNGlTSB29snYWpS-5i5BdxhPtaRCXacOUYWzI4jHOYyZQ9bt_DcOho44o9De07Fq_3pR_Ie1QNg8",
       "view_skin":"https://lh3.googleusercontent.com/xICli1TrtgEnKdGWsNbmdcoXbNYrDhiOusYewX94i3onCbufxzKpurVuCJm5FQp_ZbubAHYYS7B8rJKTFBv8"
     },
 	{
       "id":24,
-      "nama_skin":"Himiko Toga My Hero Academia",
+      "name_skin":"Himiko Toga My Hero Academia",
       "skin_url":"https://lh3.googleusercontent.com/TyQnWA5XjLnb1D-Bp7yk-QopNsn0PgsudUnJVCLtVCNPKBW2Okxpuu7-k5AnFTx5CpF-Pj4h7OZDtBBw8YmD",
       "view_skin":"https://lh3.googleusercontent.com/uUHBOTVsgfzOM-F3fH4AWVWsEnrbUB9Hmvi3cHPxjZVE_IKFr2shwsE57wv3zi4DC0NHjj75m8YF-dgfWriNk9w"
     },
 	{
       "id":25,
-      "nama_skin":"Himiko Toga My Hero Academia",
+      "name_skin":"Himiko Toga My Hero Academia",
       "skin_url":"https://lh3.googleusercontent.com/2Qh8h80Sba0Mrr1FLI4P4B5UpODo8w-OO2Jeu5vAnOT_TbUBQBw9WyqNBQ5C4dfNPUWeAMMmVHlgif5YX-FRVrUUl4CBkgWxow",
       "view_skin":"https://lh3.googleusercontent.com/r7RV92Q8tLonxadyFZiS7Nt2ozFK_CuVNDGsxEEX7Sy43nY1m32ioQcsmgw0bx5hJmmgbydx3fOrd4wf9Ve7thRKMVtHg-eQZQlk"
     },
 	{
       "id":26,
-      "nama_skin":"My Hero Academia Caixn",
+      "name_skin":"My Hero Academia Caixn",
       "skin_url":"https://lh3.googleusercontent.com/qELFshotuicM0Lxnce09nRrZ4M3gjAUxlqlrglf0UvRSmE1lSGbPsLlcLK4Vks0izLMOdtLRtPQLjQNnHAOFFL-I11nDC4eTgD0",
       "view_skin":"https://lh3.googleusercontent.com/tgvN1DgPrf4bNDV4YslPA3vFaDWIYdcpOOaVEvelKP29mbWXiuvYRBZ85K7MTDpOnOPrurNG7pVtl1Ew0OyfZFe_Y5cSOqK3iec"
     },
 	{
       "id":27,
-      "nama_skin":"Director De La Academia",
+      "name_skin":"Director De La Academia",
       "skin_url":"https://lh3.googleusercontent.com/Q-g6cKytwYJ2PvCZg_DOposUz8tdtLuexV6uOYFuffR-SYeWdHuylDn-dqfuMrSO4vx89AwxCaQjqLhyhRvGqzVRkvOQDH1pevI",
       "view_skin":"https://lh3.googleusercontent.com/Bk4H_N3fXkKVXSkZ18n2BAMmLWH8kWXd91rOmvnCxT1WW42wky4cF6yfxqKY1qTqCVwQkvSkLzrVynYpBcbdxyW2UrzpRSV1oQ8"
     },
 	{
       "id":28,
-      "nama_skin":"My Hero Academia",
+      "name_skin":"My Hero Academia",
       "skin_url":"https://lh3.googleusercontent.com/bEJ9E1FoRWYB5NxetrxJ5TvkVIA-UynzGDky6JVDzlij1jsqUTxt-Z0vNEUIhrhGoyU4vn0U8qlYUhyj6B_wvb4i-jI8gRh3yts",
       "view_skin":"https://lh3.googleusercontent.com/H6J8cEeTFSKCucVsmz6hwN2xuyrWPVq-eUBDALnN39vw8f7bXvXiC26bnv8WfgxBScCWwlBTD4agmmpqLGxkOB2eda5_7Kj2Z-8K"
     },
 	{
       "id":29,
-      "nama_skin":"Academia Mundurek",
+      "name_skin":"Academia Mundurek",
       "skin_url":"https://lh3.googleusercontent.com/mJXwXpLoXJ5YXWKEMOYd_VgKSxijjJ4WDEjdabB4Dj7tWht6To4vwxU70CcIHzJL3mrAyl_WM-fvnWFL7QEJKLyuj8oA63pmNgE",
       "view_skin":"https://lh3.googleusercontent.com/M1Ex4zcf0-h1CPtljIAewo0Ajrc292E02_GVHZ5KunpC8FS9m-p79SXEhFGU4M7U4na5exKNmQVxk-Vytt6z8Ntrvxm-zcp9Zgkd"
     },
 	{
       "id":30,
-      "nama_skin":"Arix Boku No Hero Academia",
+      "name_skin":"Arix Boku No Hero Academia",
       "skin_url":"https://lh3.googleusercontent.com/WYgeDCtLpF3KJg1YfKTYf2J7JS2Bft9c0PCs2d9UrYF_gIZPiogjHI4qr8PZZQKCjOSE8ztNSFcarN7VJ2ZbpwTI9aYL_E-Tog",
       "view_skin":"https://lh3.googleusercontent.com/_S4K50JnXBuXQ1ikI1S8ZR8jsqvq8Cdt8s802TtPdvx6WvzAXHsN85eAP-ec-_3Oe9pyLSgt_GrNRK083amZAj41eA6_pfJaxGU"
     },
 	{
       "id":31,
-      "nama_skin":"Academia Spodnie",
+      "name_skin":"Academia Spodnie",
       "skin_url":"https://lh3.googleusercontent.com/BMyNsYYjX7qoKgTYc8L7vR3-Q9C8yr-S6uOupL53kSgQ19hJ55qWyIuxL5zb-BATrqCI2ebZwGUBDk6Rwphngvw-EZ5WjdmKnA",
       "view_skin":"https://lh3.googleusercontent.com/PVjDjBzxkgRP6YrZ-13VQcdTQ6ctR1NyLgLJBEhlNZi7w_H6AJ9qlm-8-Jut7n7dBkfZSJ9lMWpADIMy5ouvmICPA573K5GdlgE"
     },
 	{
       "id":32,
-      "nama_skin":"Kyoka Jiro Academia",
+      "name_skin":"Kyoka Jiro Academia",
       "skin_url":"https://lh3.googleusercontent.com/nB2LcTatYf-KymOI7KsHhckL27qHw8W6xhXQdu8slRqi88YWVN18641bJKbWcZPNMfuKBK_g0oKB0pkhypOY6-NkiK1aN2Q48dCC",
       "view_skin":"https://lh3.googleusercontent.com/WrXMjiDTi6RFCeFKpbEGvCWYraCJzQdeMFXw8rrHrxdFTFFZJGfaeJue5BTV441kHTymKtc5X-h8nHMfi5zk_FhiGqPlse4CDn0"
     },
 	{
       "id":33,
-      "nama_skin":"Me Academia Fix",
+      "name_skin":"Me Academia Fix",
       "skin_url":"https://lh3.googleusercontent.com/FVyl3TpNpJ_sOf5niyYDBCdGIhgn1QRMPkg-6WWLZ1ol9cvvUSPPCow1SXc-7qc9fwuK4ejgHg0UDPnespaPmgaiAVerp1JTnvRE",
       "view_skin":"https://lh3.googleusercontent.com/ttw9JzLUOx6phe7aVSPsuGBWHlJcFYYQPC6x8reTsD2IXgS2-OwcZLfZ3CMsucZLSIsOmCe26fUkxpCZ0mrJiik-rfDEtxqewbE"
     },
 	{
       "id":34,
-      "nama_skin":"Toga My Hero Academia",
+      "name_skin":"Toga My Hero Academia",
       "skin_url":"https://lh3.googleusercontent.com/gZ8ibaNFoVBUUz6GiCBFsnaGSTs8NFEQxDwf6IVMFhIPKF4CsH5FYeQw4xils3kxv6tx9l4yMzA6EA5dsKiozElBq8_3tfThI6hw",
       "view_skin":"https://lh3.googleusercontent.com/oOOHl6BiZkhX5u0L4rkTqLyPLUuxiW8jKqQOP2M8KPErOed_RyIIe4WDoUPXBxDIQ710qYgnbPr3k-EJ5pqdosodwigs4BSCMG0"
     },
 	{
       "id":35,
-      "nama_skin":"Iva Dark Academia",
+      "name_skin":"Iva Dark Academia",
       "skin_url":"https://lh3.googleusercontent.com/ZDXcZIG95k8pGpHvagYt7_tbtkAF6Sql4bjfJXPtCDgQogyaAdXg5ggQ7XY2SCYVHwOjBBmY03_u88Y3wMHzQj0ZXmwsQ4XY0KQ",
       "view_skin":"https://lh3.googleusercontent.com/iXgsuPsilL2ts5BDDnI9uobVil-nHXMTgAD3lAj4GYJpsWMA9y92BWxR9JSXYvFydrN4NtLgvs7Wg6LoKcYZJ-rUjWXYOG6xLjk"
     },
 	{
       "id":36,
-      "nama_skin":"Froppy Tsuyu Academia",
+      "name_skin":"Froppy Tsuyu Academia",
       "skin_url":"https://lh3.googleusercontent.com/zi1pX-oJ5pr4Ws2vi6vWZVRq1Bd3UZvBJNAN4L6I62onzVPyfjXHRxeicb0E6Y039hBGdtTlRjKRZBYl_Zi06Qq2H7CxpxwDKF4",
       "view_skin":"https://lh3.googleusercontent.com/HKrKpkdcIg_XONEMxfDNtpOom3ydzenlP5VPEIubivSJfDZkSDuWCBsVQkua1UJ2na2CDTxNMzyJI4CA7aCA-k3DSfDr_FZIAQU-"
     },
 	{
       "id":37,
-      "nama_skin":"Dark Academia",
+      "name_skin":"Dark Academia",
       "skin_url":"https://lh3.googleusercontent.com/jVVeLNpnMNxsYyH7n_ruzZc6SicAuU6lOryCZHYIBA2JjLrmtukmeHk7trU1__TX6fGOg_ZU9GUx-28o9XPu4OTsP8Gq2GRAJXHH",
       "view_skin":"https://lh3.googleusercontent.com/cyIUWeJJVBEPDhqF85SMh9RHKFC777StdpIDelcXLWY9VQpI-mS83lPY9_vP5nGMeaoNcEAvyRhDb0NE5Fj-Sx8n956_Yx6T6g"
     },
 	{
       "id":38,
-      "nama_skin":"Insan Aran Academia",
+      "name_skin":"Insan Aran Academia",
       "skin_url":"https://lh3.googleusercontent.com/9Qe0acnjhxePAJA6Adlxb0YmH0l_2tk1k3uWbrL5zPu5yZoNMIzKe2mWECwHpseqycKW8Sg3zUBsYXkhNx-YTvgxXvRmtIU0zQ",
       "view_skin":"https://lh3.googleusercontent.com/LyjM5YS-ia0tkVBq_SfuoMkAp6zluWAoRLFdKEPofrPICMSNuyAIM_ol1mRJRvBKxY84OsHD41UaDi2JgUX7zKJCn1UYTMbWJA"
     },
 	{
       "id":39,
-      "nama_skin":"Sorriso My Hero Academia",
+      "name_skin":"Sorriso My Hero Academia",
       "skin_url":"https://lh3.googleusercontent.com/f9hKhHR1Iez6oJrP6ZzBmzQaqP6wA97DD8BzCZFmqsvg9EQG480CdNOgbNwdfjL43tYXoEd9iYD1fFwfjrFo_aKHUUjfzXj3YvM",
       "view_skin":"https://lh3.googleusercontent.com/NWctopfBUytT98_WzrUp6oMf8BtIrSmYrb2JFFzDhN_iBvnk38mSFsDCAVSHzkwssiUSrYaCaPqJJuNcUDGHebak0lu9n_8Ifw"
     },
 	{
       "id":40,
-      "nama_skin":"Alvaro My Hero Academia",
+      "name_skin":"Alvaro My Hero Academia",
       "skin_url":"https://lh3.googleusercontent.com/ZSb5OcZ44aDBDEK2Ghev58U67PSxYv4nFhoHWAdeHTSgB_Ef56ku3rZaYUfwm5IpJnfJ9dfjyTuyIz997zbzYFy4TvfdFzxblg",
       "view_skin":"https://lh3.googleusercontent.com/_9CHbULq0e0lDL8YohalefB9WHLs61-eb31ZZ3hu4gOtwr5oRe3UsNmGPhKgGHSmAV4WI3FgcuHicNKi8MOFArLUhACBf8ZnCA"
     },
 	{
       "id":41,
-      "nama_skin":"Estudiante De La Academia",
+      "name_skin":"Estudiante De La Academia",
       "skin_url":"https://lh3.googleusercontent.com/82V7dzBsfbI5OEMippFk740OvxJyGW5AwMHN16jSiuYHFCblcsHKOLQH0XruQztAgzKcW1D2ndTBq3ajt6wT9CvAvNGiO4yttw",
       "view_skin":"https://lh3.googleusercontent.com/Lk2KTjGTwUaiTzJFxFSCrv4iTGeeF8hQNO1ZF4hp9OC935OxdV2A-muMxV_Md8noZQ-qViIIng75fy6kolfUrBN5B3XksstFCj8"
     },
 	{
       "id":42,
-      "nama_skin":"Dark Academia Boy",
+      "name_skin":"Dark Academia Boy",
       "skin_url":"https://lh3.googleusercontent.com/R5HIaSGfjC7kPoDNHnE5TmUdVJtLsYpSr-iDun3iB1LFfIyly7cAWMHwx7rPDwmtx7yi2hrI2ZFMIp9jJM9yYmxWi1SsPnBmKw",
       "view_skin":"https://lh3.googleusercontent.com/tG2fNNMDltZczx6HbLD81jHPYcSRTvOreov2ZM2CqA97taylHY0qBlMtx-YgI3mi5hERsHgvuqGDrSqPqDHaIeT9j4ccZFqoIA"
     },
 	{
       "id":43,
-      "nama_skin":"Denki Kaminari Academia",
+      "name_skin":"Denki Kaminari Academia",
       "skin_url":"https://lh3.googleusercontent.com/KmgnGwnLikaOXTwPP1H_eeDx8nUg16LDqLDG4Z1REPJ7UvFmv2H3OKI7wKNFqA7sI5_-tXQXSnZUPQ7gwWRzL9RiqlaalZitLt0",
       "view_skin":"https://lh3.googleusercontent.com/mJTHfa8JOX37eTXdAFJ_KV2M62rPJOgZaNW8tnXWtkvY0q_cw6a41iTg9H8blFlTsF2BlI8_JsR-4SedauoPdGihbfUO7AL4kWW3"
     },
 	{
       "id":44,
-      "nama_skin":"Mais Forte Academia",
+      "name_skin":"Mais Forte Academia",
       "skin_url":"https://lh3.googleusercontent.com/vtVSln8oonhasuzUUTHIUZHCOX83VE7yFaP5CumC-fhEOhB75fxj_pece-8GTAv6gVEpUQedD7e3-EMHOVb64sXs82TLUW515g",
       "view_skin":"https://lh3.googleusercontent.com/YbM4ziMGBtEmlhMY26wjpGkuIUmJ9D03k-sHkL0jyhc5TFCsCMryq-VnbeO941OZNlOTi1I0SkuLULPZijj1pEpz90rn9z4xOFY"
     },
 	{
       "id":45,
-      "nama_skin":"My Hero Academia",
+      "name_skin":"My Hero Academia",
       "skin_url":"https://lh3.googleusercontent.com/hJQ-hB0WTFDHMJQa8-TPXAcrh7uGRtLa97YvN95co10bsx03_GkzDY0SUw4TNZmkW_LaZxP2IbaaWo7_5gC3relK6xYqpEDoYFs",
       "view_skin":"https://lh3.googleusercontent.com/EtIDcFTdcjyN-X70hI51McdCgRpX9EB836Ch9JygrA0_5Z6BV8tNPgnDmgyWNvJcMnIVdwlAIA3Sdpa3gElIZpYTSdItZHjo8Q"
     },
 	{
       "id":46,
-      "nama_skin":"My Hero Academia",
+      "name_skin":"My Hero Academia",
       "skin_url":"https://lh3.googleusercontent.com/6Gg0vdpaYimZEKIFC7ypA476dm_KGXBI-OGgkIxbWjQFI7wPRE7bh_fK-yiT6TEp5lmjeosHP_CwT8zzHypXEECUbogyNQsH3A",
       "view_skin":"https://lh3.googleusercontent.com/6SU1w-SP1cpoHZ6QLucoplybicmTQcE_myvRzDCuciR6_X4T7Ivj80xXtffy-nQiMgQr0sfPAeOYGEvnS-p1YFJN-Mclsvuw6WI"
     },
 	{
       "id":47,
-      "nama_skin":"Academia Asui",
+      "name_skin":"Academia Asui",
       "skin_url":"https://lh3.googleusercontent.com/UT_XMs7iS_0mDT4XZAJqQMxpY25mDHRnrv8fAHeATs0tXqubO_AmxsNS0S027C_6sfsgvnKrCuplIasp3olBiIDt6B8csJaX6Q",
       "view_skin":"https://lh3.googleusercontent.com/wfi0xQGtkWhD2JWBMGhLPPMfQprRQOSONPYc6jPxJrAfsvqGIzg_lXcwTCSApW9TBmVSCAbzU9SZWKTWZjokcnDtnOOYRkvjR5w"
     },
 	{
       "id":48,
-      "nama_skin":"Izuku Midoriya Academia",
+      "name_skin":"Izuku Midoriya Academia",
       "skin_url":"https://lh3.googleusercontent.com/cYpX-5ikAJ_7VDze-SFMh68Pr6H7llL_wFTp4QiXm_kQxzi6Wrx6hxVKwni4wyi25jRHsLzVGRj-nt_G71Qmd1oF8ynpva3hcfk",
       "view_skin":"https://lh3.googleusercontent.com/aHyl6Zuh9fwfeqwLH6owcdN7LWmMYKFq4_hYEANjkQ7m2GqbtkHYMqkf9iAgISDNL1qC66mmG9BHDtlMoEXR2NPhmH11CWiBoEqH"
     },
 	{
       "id":49,
-      "nama_skin":"Katsuki Bakugou Academia",
+      "name_skin":"Katsuki Bakugou Academia",
       "skin_url":"https://lh3.googleusercontent.com/nuDgJapRGWD6lpoJR2SA7D3YUQJmpp1C_sVTDhRDrbJNfkUoSppPq5v0Ku1muFA30hqUam7gYWgvX1cnHD_X40LBxUcmnak5Gnk",
       "view_skin":"https://lh3.googleusercontent.com/aEE1vLCp1Ps-dak1TZ4zGEA5865dECYBhg02GEOFiNXiLTZysvQ5P5wrocSZSQ5301ISdkONBFD2FQAxkXWQ-PYp0NcMZIuQxZM"
     },
 	{
       "id":50,
-      "nama_skin":"Momo Yaoyorozu Academia",
+      "name_skin":"Momo Yaoyorozu Academia",
       "skin_url":"https://lh3.googleusercontent.com/JdhnKvmuOLoLEXMjRqlWobn7ZVCoRWZJdHtcD8QXU5Guq9uoRX-eJB2wiMvA_RaWdCeh-tXY4I7htFa3TS1x6fxmlUEb2W0gHLo",
       "view_skin":"https://lh3.googleusercontent.com/pGOamEuVuA3g--c2eZO3qF0zCopAJOtkI7Nxwe1U06W98WgzDYD_VPPLOmv2RHUocmz3Zh8gRUXRnfO61WlI1YGLgsIQojmSetA"
     },
 	{
       "id":51,
-      "nama_skin":"Kyoka Jirou Academia",
+      "name_skin":"Kyoka Jirou Academia",
       "skin_url":"https://lh3.googleusercontent.com/qBbNnZzkSv1d10extlL0PMktEAvCXIMOafb6OHUQh00iDY7MNvSjWIO4c2rOETDG98m-kKzjqsOzegNxwMZeg5s6zFuQZuagpOMG",
       "view_skin":"https://lh3.googleusercontent.com/Tktf5vnfIP3gY3ssnlgMCsVHxy--AGt7FGp6sk2K6nPZqUBI2cUkPeMREs-8_flIIa8l2NX2POg9m1crtLjsD3Op4FLBD6A1b4kL"
     },
 	{
       "id":52,
-      "nama_skin":"Ochaco Academia",
+      "name_skin":"Ochaco Academia",
       "skin_url":"https://lh3.googleusercontent.com/zrLUI45OSuja32zat6XuD5oe904hs3h_p2p-PNmivl0UZADmh2KAzQs-y1gaz5GNsr9kdHE_-5xnITbWICvZkqVTy96UFF6bY8xE",
       "view_skin":"https://lh3.googleusercontent.com/vNPCB_ymotcZ8ZDkp3Rr5fkA48Spsq3Zxy3HLg1ACgBk77I4ds4mmCvE3RBYuPuoE0f669z4pJv2tat8-uGAeNtd4iMm-zDIiiYw"
     },
 	{
       "id":53,
-      "nama_skin":"Tsuyu Asui Academia",
+      "name_skin":"Tsuyu Asui Academia",
       "skin_url":"https://lh3.googleusercontent.com/SZsYKgKnWJUDbb3k4MfyPjnH0epe23aI4G5PqfZfZu1k7L0FBPaj1shaqW8yu-sP-RAhvC2YlTXhE2BapN-oQZjejr7bEP4VCypq",
       "view_skin":"https://lh3.googleusercontent.com/5a-VIINvfLf6R7agwH3W_cjwPRnaxFbGjiJ1W1OsTNvpgkmFVLwvPwP8mDBqD4AqaSgICojTbviQtb1upbKPJxDx-_KOenTkjpI"
     },
 	{
       "id":54,
-      "nama_skin":"Shoto Todoroki Academia",
+      "name_skin":"Shoto Todoroki Academia",
       "skin_url":"https://lh3.googleusercontent.com/ErRnqU8Frzgz_VuW-rYgnYwP8tmqhLonS5J6pb6dDquc_i-EEGsEMtjhW8cKm5fSA9k1NvVthvla1KLYv7awaC8UFn6nvheZTgo",
       "view_skin":"https://lh3.googleusercontent.com/gj_97b17GDgF5bu_ZNHXyoq7YDk8Du4tKFxGMnpm0rlrviG0TsKo0lLJtxYtLjr1oh2QcA9FqXxT8wMPwVUQvb-DFZDA99pu1Xg"
     },
 	{
       "id":55,
-      "nama_skin":"Todoroki Academia",
+      "name_skin":"Todoroki Academia",
       "skin_url":"https://lh3.googleusercontent.com/y0tEuaHvdptgfgP9UV-tnNafG1VzJZhQjtu_bKUKOsnT_xp14ao6SjfzPOzYRYhwZBl5x8WUKw_pOSC7L6LueA",
       "view_skin":"https://lh3.googleusercontent.com/FwrlBdL7FPj6e-tPKu52ZDvC_6ueNlxLrxnGqDYnaGac2EJL6e23I6qnoQEBVeBDt0hHi_CIVFe65jA_pYVO"
     },
 	{
       "id":56,
-      "nama_skin":"Mina Ashido Academia",
+      "name_skin":"Mina Ashido Academia",
       "skin_url":"https://lh3.googleusercontent.com/h0CxUVVELla6iUjHPPvETbZ-DzdAU6pKcqHtKV5SylSzIZlBPVviYsScgtjm4fZ3O05l5o3jMweaU1iXmcoEJ6bYeXapJs5rDYM",
       "view_skin":"https://lh3.googleusercontent.com/7-fOubGWNxD6RXQp2Bf62qcURN8fOKf8HPv186o0vCTYg8Oi8NLq29RGuHjgeRBlM9KMyXoZ9f0i6P_od_97y3SnUIlHQXgRPN0"
     },
 	{
       "id":57,
-      "nama_skin":"Dark Academia",
+      "name_skin":"Dark Academia",
       "skin_url":"https://lh3.googleusercontent.com/igqmbXzr704U0H_9g7m4-nBvytUYUiHo0v2TX9Wt8JxOP0Upy4s4PPJdBbC1s6EaoYIY2xRgVnHby1pB4dakALb-z9-gyvXQ86jH",
       "view_skin":"https://lh3.googleusercontent.com/6zyOngsHlMj5z4o6bPUX5XUx-cQP5o3lRb1OfCjBJjtjBqOxijCMkcrt_O8OL6vYCVh-ZHnGQkQvUP5UVSBqN9B-HWAI0EaTogkF"
     },
 	{
       "id":58,
-      "nama_skin":"Shoto Academia",
+      "name_skin":"Shoto Academia",
       "skin_url":"https://lh3.googleusercontent.com/bpMMaqe_2q7hZp8qivijO8MaqIKZYRrrHQCuprkMyBgFiXu4QliNsNsqVNB6hltX2aqtYSJXxCSIUgbcEsi_Q8JnaI-WbaZ1sGQ",
       "view_skin":"https://lh3.googleusercontent.com/Nrgezh46scZxa4nGjrHCoY4H71p8o8Ux9xLlhFUF6oWb8EPWM_9tn3rymIDcF5dDqUIVzpeJTcBtjnuhXVMR4xiEpWepdoyT6dmo"
     },
 	{
       "id":59,
-      "nama_skin":"Battle Academia Cait",
+      "name_skin":"Battle Academia Cait",
       "skin_url":"https://lh3.googleusercontent.com/Ck-zC2z6EJ5OfY-wdvjDQuJDI80t9prZXtsWOzhZBKIXbC5EzVL1pCmnwk8CfOFzlVb2cSnbf1g0xVm7YvV921QeaajcvZ8ACg",
       "view_skin":"https://lh3.googleusercontent.com/eqfYBHFwihLkVmbus-Cq6LJm3w2O9PrVi78tAo5y6mda75zfCWQ1nVEwyvZQ2XyrvDXK8odQNrWozAMS0qI700o-4kyNWhf3gg"
     },
 	{
       "id":60,
-      "nama_skin":"Battle Academia Lux",
+      "name_skin":"Battle Academia Lux",
       "skin_url":"https://lh3.googleusercontent.com/Pu2yxrYrky77tRq8OLL-bMC5qd8xTYkPJ2B93mufcws0KJjnutPKeLIuJFN9IPpU8jEd879uCaayDsOBEmKzLyfTAB1Xw-fhjoHF",
       "view_skin":"https://lh3.googleusercontent.com/Mbma31IFlRvOaCgYfEQkw_lnNoB8nJ_adYfzF-s-bxxghGMMrdCmceIBDX5EG7j9KbB4FuOWR7d02w5AYBiiGrCTZWS3-jZ58gi1"
     }
-	
   ],
   "Addons":
   [
     {
       "id":1,
-      "nama_add":"Cat Plush",
-      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
-      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
-      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
-      "view_add":"https://aliendro.id/wp-content/addon/catplus.png",
-      "des_add":"file:///android_asset/cats.html"
+      "name_add":"Addon My Hero Academia",
+      "add_url":"https://wedosmp3.github.io/imagecreative/myheros/Addon1.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/myheros/addon1(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/myheros/addon1(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/myheros/addon1.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/myheros/installationadd.html"
+    },
+	{
+      "id":2,
+      "name_add":"Addon My Hero Academia",
+      "add_url":"https://wedosmp3.github.io/imagecreative/myheros/Addon2.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/myheros/addon2(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/myheros/addon2(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/myheros/addon2.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/myheros/installationadd.html"
+    },
+	{
+      "id":3,
+      "name_add":"Addon My Hero Academia",
+      "add_url":"https://wedosmp3.github.io/imagecreative/myheros/Addon3.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/myheros/addon3(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/myheros/addon3(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/myheros/addon3.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/myheros/installationadd.html"
+    },
+	{
+      "id":4,
+      "name_add":"Addon My Hero Academia",
+      "add_url":"https://wedosmp3.github.io/imagecreative/myheros/Addon4.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/myheros/addon4(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/myheros/addon4(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/myheros/addon4.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/myheros/installationadd.html"
+    },
+	{
+      "id":5,
+      "name_add":"Addon My Hero Academia",
+      "add_url":"https://wedosmp3.github.io/imagecreative/myheros/Addon5.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/myheros/addon5(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/myheros/addon5(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/myheros/addon5.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/myheros/installationadd.html"
     }
   ],
   "Maps":
   [
-    {
-      "id":1,
-      "nama_map":"Hello Neighbor2",
-      "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
-      "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
-      "des_map":"https://aliendro.id/wp-content/map/hello.html"
-    }
+	
   ]
 }
