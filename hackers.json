@@ -2,418 +2,425 @@
   "Ads":
   [
     {
-      "status":"0",
-      "link":"http://",
-      "pengaturan_iklan":"1",
-      "admob_open_ads":"ca-app-pub-2521648737251856/2466643057",
-      "admob_banner":"ca-app-pub-2521648737251856/7718969738",
-      "admob_inter":"ca-app-pub-2521648737251856/8345639781",
-      "admob_native":"ca-app-pub-2521648737251856/3779724728",
-      "interval":4,
-      "fan_inter":"",
-      "fan_banner":"",
-      "fan_native":"",
-      "startappid":"",
-      "mopub_banner":"",
-      "mopub_inter":"",
-      "unityID":"",
-      "unity_inter":"",
-      "unity_banner":""
+     "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
     }
   ],
+  
   "More":
   [
     {
       "id":1,
-      "judul":"more app",
-      "image":"https://1.bp.blogspot.com/-GRF5s0x9sDg/YTzScDzfg5I/AAAAAAAAAu4/AuZxF5arRP0KDhXEPpsu4f-QQjrYiG8lwCLcBGAsYHQ/s450/1.png",
+      "title":"More App",
+      "image":"https://wedosmp3.github.io/goldencreativeskin/playstore.png",
       "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
     }
   ],
-   "Skin":
+  "Skin":
   [
     {
       "id":1,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/LTLkaeAvKjLZMOL5yYAO7yWuto9nyg8OW0ucVGfvtl0iwxiuwH2BxfKsdqbIuKCobuRhPsNpZTdL1kuAox42MA",
       "view_skin":"https://lh3.googleusercontent.com/r9wYx-5gFVN-u4wYfHFhRU-rgVQxRfswXm_PadpWHdQBbZPpIp2av4Wt75L_F61Mk6MylI16NfBmWkdnwOhS3os"
     },
 	{
       "id":2,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/MlIsPL9YmHOrl9CgkQUdESNu8FiX-iu25AyTIXW_pcPIPqin7OAo-IK_dDDgqJNZG7DInGyI-r-bXnV_Z9ANJjfKQicfVVOwIRE",
       "view_skin":"https://lh3.googleusercontent.com/PFl51EcGqn_E2SH9O-ImB6C6SNgz1WrRl0BrFXZkUk7dsg4mGb4VYJCVMf_aFx30YSSic9BVuGjTwQJoXBcZkA4qbmlSd-DwY_A"
     },
 	{
       "id":3,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/JaGwvTT6NHOPg28HuJ17_cfh3fgqQliZ3jaZFsRgtcwmd2UdaTROz_oWCSLhIobygcj-3Ln-2KWpyQegCouB9Fg",
       "view_skin":"https://lh3.googleusercontent.com/4LY2o8rfwpT1P34kSJLJWkXgaMVeXW1W8xSXQTB9iEFoD5TVovZZJAWz0uhMyDxbm2fHe_hDiDewgDHamoie-I_ei3EhIDHXMps"
     },
 	{
       "id":4,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/QZSXYnbDmIQrWHXoEuS_43Uow-acivB9Eybhrv03gqMxuDG04Qen_xZP6nkQwhovAGU5j-xT-fswt2t7IMEJzAWWgqBZPaGjozg",
       "view_skin":"https://lh3.googleusercontent.com/6mbGeF5YCZaitOjU5hOCvpgJ_C0Fxqcx3_AzAPaZOyZ2ra4qgVltb-y-_hXHug9o-gy1T_08TcPQ5LsdYXZc_XdhFtU_z7cgzZ3t"
     },
 	{
       "id":5,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/9Gs2R1ExUXJqkWCaxatQsuRgkE29K8ywpepGiMnFeoDBGKwDILpnqBjkO-pFi640eOPXNyY0Ian10tY4RmimOg",
       "view_skin":"https://lh3.googleusercontent.com/6WnZrfPFGrR51kXviYS04SQEZX8Mf6aALTGKtqBwA5xZVuO6o8Hg2JlVwANl6asAG8gnyLdleTSHcH2OmcfTmw"
     },
 	{
       "id":6,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/MdfID7iLxapUlSm2JPYDS-glZwsE6LUOhjfAMztDLmaH23zdF-9v4hwDZK4yQ_aojWdvZxr7f3tgcatzGqv2uYu0jUgoaxu5CD5X",
       "view_skin":"https://lh3.googleusercontent.com/saTS_-HvdWMGAtWCpX7NauefEj8-d2g6V8Exg_7E1cN1MO63Q9o2vlymfDtZ8BrDUP8FP6GvhvC0qD0IihGC3OxDjuFm_jPeAdc"
     },
 	{
       "id":7,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/MsUWstFVOASrapz3gqfY1MVwb77zp-ObTUIu779VvOE_0TfzZN_sfBZByTa6oPj5OaPtgOQyNkvcZGRfvS1Nr-7HjdICK1jFzg",
       "view_skin":"https://lh3.googleusercontent.com/YUoCxWUNPEk9Q_mILDg_TmZiQ6xAkKsO_Dnv5UWtgz3eFhDhPMxvwqMgBDRzmdj-MUNCPXbI4LsVfjxP53o2aAfmUP6akTYIc0I"
     },
 	{
       "id":8,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/tjztzIwkpLjc_ywfs1lefHyADb7a-F8UDFNAwnSuq8Lq7DXqDUde5brZ_1yhbVynsy74j3AclQMvn4fmze77O3RHAoC1wHx-lrsc",
       "view_skin":"https://lh3.googleusercontent.com/av2cjY4XqNl2Y_NxXfhAMq6o1c-cJ2D9vmKcTFq-MhX-3xns48YtgGuRqIKU5acgQ91Lb5NHxODmN1CAbPyW0_hYfc9OlSfGVVg"
     },
 	{
       "id":9,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/5OKAUq0aBUJK_YgptYtJMquabDFCkCP8h4id7y-3vYwDmJeKvWgVzvn8rnKdqzCad4ajTEBLJDVKADFCqz1TCTv7_9n4e8xOWlM",
       "view_skin":"https://lh3.googleusercontent.com/il-IW_DwUElOs5jkfDAuRE4l2JTCvPOhe8TZz158i8xzvjFZ1h1wCwhenW9a5FW83Y10vC2vWHRIlvNjdgA57ZgNO3F-jrMoBRw"
     },
 	{
       "id":10,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/fK8r4RKeFyjryTfb7I7189Xv1CSQxd86Qtvtbxpuy_fugf97jZW_ageQJV0k_RKI_kOe7UI_K2hZO6YQTaz0M_uVrwhgWsF8jejp",
       "view_skin":"https://lh3.googleusercontent.com/aoDUkx62F7MOgkiHoRsZWG_mWm6gi-DZOANHUs7UBJ7T6hq7wZMIK9wh1eRobRtSQ5fDJ59EfQBDCoG1t0qbPUTKjnKtmagKBkh2"
     },
 	{
       "id":11,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/YQcTPpHU5hNJLYvjuyURPXATpCrfW7xGr1XtbGMvc8unc9kyQ_RDEIy0A4CfdxhyYoJoAMw-XijVDDV24cOx2uDJOOwkqOqmwmc",
       "view_skin":"https://lh3.googleusercontent.com/cD6aGKJAtW9wu5aC4koo0BGZFpYk4yH6MZmQ5mZlileV6tai5Bp1BAaquqFANMVWKgcGay3MY2RZWPs9sNwHMVqVLtJWYHnfxgI"
     },
 	{
       "id":12,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/EiUrRXd5TaUnP_xtgpjkRIVhoaq6293DMqH67B8EgV-496hQ3JvSUUDgszZCypHfweT_01sbAnmDPVAlU0hy",
       "view_skin":"https://lh3.googleusercontent.com/feToT4OHakYnckli0DoY5W5CVaYDCd9ETXnP26EAvi9h8VhpsN_-Xs7AZU8unqoVSlWUUA1hiqRavatm0gIQ"
     },
 	{
       "id":13,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/PeR67BHQLTp1MrCzn92IAOh-CRwnO5sg9SOBrJtsU6WDMqLtZg9Xhk60KahUN5TIySbS-CRkTJHvsNUPUtHmPj75cbyNxfAMY0Ps",
       "view_skin":"https://lh3.googleusercontent.com/YY8wJrGL2DijTvQi9FrocwXb1bv0HSooePZoBrKqyGrmonYR3p0NCERRnl6Fp7EF7eppQm3l7fYJXRhPeGv62ygRytN1MOnPAVr3"
     },
 	{
       "id":14,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/ynQttkX6N1x5pXM9knxIJFVOW5_SxMFwlHClA_drMU0ike1rJ-vwDVqhnUyWr7dXc7TWjbip-NrndMpnwu-E-Cx0_Iun39vzA7o",
       "view_skin":"https://lh3.googleusercontent.com/8nTFXm_M_D_F8S7baCIs-wr6g9recioWzY1sJGvV6_b78537N2vT2tcaj97WH0wMeIcAa28dfxTjEw2ewEs0VI4O0XARa9qJN4Mb"
     },
 	{
       "id":15,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/hdVXEWYAHgQwa5xYf_xmpU_Q3sEVA2nAPKP2Bre8qfWuri8BMLXj3LdYhZ7mhJXh3WvKzBIPhuzCEv4lHUsz45hvXish6Y5kHeU",
       "view_skin":"https://lh3.googleusercontent.com/l9gHOB03bInue_PjlXExo9qX_kwebJDZIgMMlO93Zz2ZuNw7JMJ4u-ww8dU1Id3PzK7qFMTsEK1FzS6503eboPmcVLlbPe-VdAWw"
     },
 	{
       "id":16,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/mZ0fjfRgOHjkoWOtoPxGAiqTad_PgZQ2XHgyWERVSW4ascO1DTZj_nLRxe_va5KNbjNREzBLD3TiNbKSglI5emXJhUsZQ37_Ug",
       "view_skin":"https://lh3.googleusercontent.com/y_sAql9zOsd3UUtnHY0BFvwhzl9ZwON9FX4iGerFArlxR2HRcDaGZP4PmDphQOAE1a0pdfnGaOYxQmRIA3dSjTD5B9YtJeuAag"
     },
 	{
       "id":17,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/g7mzA3Nl9f9Bpa9l5dlYqcy14dIbm8Ze-KYoWYkvaHxmfOrxxsC7XRLjGoI48-R8dLNJqfxhFm7768z4fZ7risBqanF46t9rYSw",
       "view_skin":"https://lh3.googleusercontent.com/4l_uenWecP8nSg0_8YJDZmcklDoEb-JUC7iac9hpydFiqiG7NFRXyDYyG8rfqROd-eZMv4vgtf3Pjqd9U4BRlTgwQBGL5n8qz8OA"
     },
 	{
       "id":18,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/nfkg9Ajc-daJVa29WA25UCG49GEMQaZr5Y6zlTDNwfe_HbbgU-YWwC9TVIGzL1pW7fLnQQfXelYArsKGTWWp6d2f0PSVqezMhL0",
       "view_skin":"https://lh3.googleusercontent.com/_8vhn8y0hA6ViEHon2sNHdqFaofYr2L345PTpd4XQodAsYQzdGxtpvJzbDBlg1ASr57MhkIo3frNbAQB6ywCpjRCjdH-AFbHHA"
     },
 	{
       "id":19,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/sNfKmoNOLP47Sasu4ARt8mIJGMgx1P6vhOtXOV5B0qmmLpApdsz5W42Q1VR3T8ESkYm-iP6_SJylL-hTN_zDPc3E_PKP_Rfj0Tw",
       "view_skin":"https://lh3.googleusercontent.com/qbKwlrY8J8OLk0QQeyc0ludoSz46j8I-XLcBwrZhz-NZlr6weEYZod7U5DqMvIA_B6Uu-2HcstCpnucb8qtCTb65szNWrSWNTps"
     },
 	{
       "id":20,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/lVB7C7pVZidgwPgT66XnsIKaDrGoetLcBXWdxUquwEre5ykXQMFtQkIHwdyJic12nkKD_WVgfZUFsRztYycikmv0QY1tZaIdQ_U",
       "view_skin":"https://lh3.googleusercontent.com/nrRqF91t461fiH82nElvUaXgfDL_VNpVnpCjMkiXe6sOCOilN5iX8cGP-yU9vSxdXWk_K5kMaU6gn7czJv646QrJLKsyDbMwywI"
     },
 	{
       "id":21,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/jH8Rv0hUJa8DUIUrxUYi7ptaBSVjtfJRvaGqWSeVE9REWN5qtr9AKxjU3v6QCDuf9CJqwV9rThc8KghklFi40dXCyQ3h6mlSKKsA",
       "view_skin":"https://lh3.googleusercontent.com/Getx3nTr1w2boW6opPycvNWfD8t9SjsfhxN3mJMlCtWQi3uuUIKi6dtOYXl1dcZQ9p_kI-6naG6Q4r6aXMOOLT7dSUgA7fOx_Cw"
     },
 	{
       "id":22,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/g9IJwoOaen5vmvkfLJcHft6nOL9FmL09h1YpXl0RqURxC7vtgRYGuZFurlkxOqKlBQ8klufgvnqHW7lkbZPH",
       "view_skin":"https://lh3.googleusercontent.com/heY748xiJGnfFECw_T8Qal9XOqxNH5oO0IjRQMUmJqwlYBGcnNLWh8wQm8wkwUUTJ6kUBVDsIvHTu1LhvLme3w"
     },
 	{
       "id":23,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/nAdrMUJnnbJFll6M3a57-AiYUbeQB1IGALCt-zCq-AgJ4RqHxGFuexr94dTBOYsubOEdYam67apTgiweGDYM",
       "view_skin":"https://lh3.googleusercontent.com/5E5VzBrE03xSnz3_eSiw3Wg2jktJhH11MXI4_UYKuyUdI4l-fzPRtqggXMy7OVtBTc0GI3a46fpnW_IwOlAFJQ"
     },
 	{
       "id":24,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/3jXcFadB_8M77nTikwUeMYgAXdlZZn6wi1u4n4l4vj0MdWYSI7TqV2Ed096g9cNRliJb22aaiVpF0FSBiuaVKQ",
       "view_skin":"https://lh3.googleusercontent.com/y2PqNfHq4PxDcPEWZNQ4aXeBXW2J3p8ERKJsfE_RU2GlCHj4o_xRgUpMojaLOni8bWg_v07QZBtexsi0rb5m"
     },
 	{
       "id":25,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/bjxbCsiXnIUW1v5slQINwtuvbcQO6Ip_1banY50xzR5kznyRdnEfUle00W80qkAbcI9HLcFCww7HY--lx4v7yb8",
       "view_skin":"https://lh3.googleusercontent.com/WwXyoI-bZXam90-9CsdjDk7_ncx7GiiPjII-skGxUgdRjf2lbN0mvWzZmEO29tmx8Gy3ZvNe-v29OchmckjVXA"
     },
 	{
       "id":26,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/CPcXlfYaH36FPfoeDYsNpUAIAdaVOu9FZYZgQqEVOyoqwJoekAXpqTH3QBkDBBeEKQiQ3iMMqfd4iEFPFAM2Vw",
       "view_skin":"https://lh3.googleusercontent.com/npC8OzJbD6fQ9ZwIxgVtdqfWEAtFMEEHAQRJyxEZrD4nxxPZip0qst5HMkBH445dPXrdHyN0KFmcv8fgvD4CeGA"
     },
 	{
       "id":27,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/4D8G_QAliQgWmxPUDFBDogf33fRKKbG_ZZGrAxIQPvRJnsg2dJ7Qq70Pp-_1aH3oSO9KKEZJYYEzSL-bp75ZbNo",
       "view_skin":"https://lh3.googleusercontent.com/wGpMztvND_XQwCO20lu8nlx8ghEsR8buE-gMKE4UjTAM3tqbGGoZ1gzHWxabSlqKO8iJ0YandN1-7nu9vgwl"
     },
 	{
       "id":28,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/YXe3lRH2cfHuthjWBlih1pG6dAvZv5MDFafaDdjOInBDt5j9TQ8g9AU6N75Ol_-hNzKjXqr0yPe0Upp0fgOCxc0",
       "view_skin":"https://lh3.googleusercontent.com/T8eGq_7iwJm0byjSrSu0RsLEwGmtEr8n9fJXifCRjxmqZErHqt46eB6Qo9Pl7djMUUwsGn2GhKbQCri1XiOuqA"
     },
 	{
       "id":29,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/H7Tw3vys5uC7W4h3mt5T3TLy8mtFVrW31l9f4O-IW4oH7NinuMeyrQCYo9vFSXFplojZsDV5-DKA5tFUxEPhKg",
       "view_skin":"https://lh3.googleusercontent.com/5CdbiIIKdFw9byNVotkYOWimkDMUl0KdwRluezlbxbd5zqp5wHq3mmU5uMQJiqtucyxw-U1aeBNarbj-wZi8bw"
     },
 	{
       "id":30,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/ILjo-1M48Jnq0ubETSb7UW57yaGjINornwB52TnG14m_KHr0exeMAghUCl69-S89ZuYqTtP_V28ZinBVw5oY",
       "view_skin":"https://lh3.googleusercontent.com/LkLHONkXWN_IlmoHCLFj-s5D1u5ILaMcdq2ymqqhvGdl7gZNqlh1prF8Y5OOip-fMWu248uNklfR4Yi3uQ3s"
     },
 	{
       "id":31,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/HnPV20Kh8gA1LTv_SMOLGyyjjJalH7pqO719VNMBSGspxxzZE70zp-gxt0USs4ceksGLCryZr7CB5XBkPe-vDLg",
       "view_skin":"https://lh3.googleusercontent.com/WCZERXsXMvYGn292Rsv4u-XgM6-3GzXtl6ypgpkPU0gR8tsj12Mgf5o6o8jCTdV_o-_F4q_phoeC6uGP1BBzpSk"
     },
 	{
       "id":32,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/YXTyPI_0agUtjAxfIv7EMtwBJckBEpa9GSYaxsVyYNzquydNGZQ7k9yV--Og9Ah5OYHV35OwBdkmg8Rk4Ldc",
       "view_skin":"https://lh3.googleusercontent.com/EeUmEadm4NLhUgC7GMMwE3SNoQdvrU7FfBRLs-GtDknP7-IJxKryk7YXVUMCWOvXtSpX1e0Uo0wMPg32iWoH"
     },
 	{
       "id":33,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/_B-LKWax8v55EAHYo_8Ey61kVKg8oHxEEEry_0mhoix4cPlwgraVmEdqQH6zvULa7Y1AKEm3AE_NS5ghoynMg18",
       "view_skin":"https://lh3.googleusercontent.com/6TQJUgBEkRP8xrPNoYu0lrb0qOYpGDNrUP2rHOfudMPaotIgtQcTjoQQEwF7qa3VE3YQfmMWn6KGjMTB1oRdZA"
     },
 	{
       "id":34,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/R5wyADXMhc78TiK0jWVZKCqB02W-vKEdTvCawbuMu0vexpMb-DYJY2yNZ-Ui4V4Okl8QQOmdYUH0WFYH3mC4",
       "view_skin":"https://lh3.googleusercontent.com/uW6hXlwefAGkVHp11qBEQRnLGcV_2Ik-MyeBqHRwDzggFGV0MxrdazAaPw1lEqCQhPsur-TW_0r7kTHO1Q0ElWU"
     },
 	{
       "id":35,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/8VDrlFsmAJ1dm3Raf5R0JkJXx6MqzBP_tXhOWxmQtrPlm8NW15R2Iz0vM2Y2Ap9hYrEG9L_ksujO-fH2cc6afA",
       "view_skin":"https://lh3.googleusercontent.com/O-vT20r4pxz1XEqL3qTZAUg8L_4DezbLFVfpUrZsQxehBMh2he0C72Haof2IYr_c4WPubzLHVJsx8JTjpFt-"
     },
 	{
       "id":36,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/LDZBkzbyKXI_yPERsuMYUjujDyQ1yGVTdITZ0ytrsZOQCCNwYggx1Yfwdc-mnc9NYIPE5c2PNRmMztc2HhbEqw",
       "view_skin":"https://lh3.googleusercontent.com/DmnlNv0aqW1ToyuJ2gSEFLYRbc0TnWVTMxxdWxGWVVNqBIjFhLrcGczAl7h2c18adl4OuhZV5hnDNEI1ZQl8xA"
     },
 	{
       "id":37,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/wwxlKW0envnEz2Ua1amwekyoFSbOFPDAViR9ZpaQThoeYmmaATyMkcM323VzEA_oHodtCI0YvIJckkYTvAGT",
       "view_skin":"https://lh3.googleusercontent.com/qbTGxaqP5lEYm_iuhr3tzH7Tj_cbIkhuDWg7ttjuuJimlWbwBVf0E8TyL8xTMS2cHnY17po_pjV4WHkqtpwgIo8"
     },
 	{
       "id":38,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/JRUiqPLtolKWSGeaoAcElWR-pIKdvde5CzBQ6cMTf_FtWtH52datseTTzF-pILJDvkU4tkzLd_fbBR_V9JUwaA",
       "view_skin":"https://lh3.googleusercontent.com/RgZmBOUTO3XrMQ41Xuwtez8-TSlYC2dcYwRFwpHlD-AJhnf2xCo5QTCk9HMIFDIzhTknmOr7pQNYRPEtJJj0fcQ"
     },
 	{
       "id":39,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/zKA6OzyJrJt24qCYA_JM8XLhqtcswy5HmY89qnTzyIWqZjMwBF5XkmUH_tqWn4oKsi1JqtWZBmv6pxg2MPvoww",
       "view_skin":"https://lh3.googleusercontent.com/B2ogNXrwVcMYKC2-Ix8ecA8hFUhp8o0Knq9wGRlLG-0bPd0Zp4SUzDPRor9Yty_9rNLIwcQuP15Gz1klvsr40Js"
     },
 	{
       "id":40,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/PHioEQJFQReUfNYVb2GBlLOR7FmtzkoSQoYXEQpmXQhAs79kWsGeA9M90Fay0sw33NBL9V31t5beBdu1DkO7VTY",
       "view_skin":"https://lh3.googleusercontent.com/GLEO5OINBE-yy0yFYwwf2ABXySu5K2WoCqAHldGJ-HqsFjIPWo-smIfDzDC7Oan2XRmcaLjl9Q8KlB-TP2KDhQ"
     },
 	{
       "id":41,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/p6YUfWhyZs4IfBdAyaJhRgGABGsujHMyzuO1KP2AyAtBzkbGLXWVhTWIfkt5MDUUIUNgoeTjRTm4LLQLSy7_Sw",
       "view_skin":"https://lh3.googleusercontent.com/1VUfaD2zzdzVpGiDBE9n2kPXQtpXm2kj4pYRPQQMEAsWqza0YxoTVHpenCWEgvZ5uDgAcgP4V_VBxrfwHbvAAA"
     },
 	{
       "id":42,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/BSuPZ5YF4bSImjpCiXIwvSzRvfGGScnvUZF46VfedXzQ4ddUPZisvrSD7Gg5UhlhCV3STZSmdSDNwQ_NT-RcPHM",
       "view_skin":"https://lh3.googleusercontent.com/0YLOykosVIyWjp1u2GU1ZCYfjOb7KkDvPtlv7DVZrNJT4jAuf3DxaYZhQU87gPmWrVajhE_SDjgt5LwUmuNPLg"
     },
 	{
       "id":43,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/yv6oeCYjpqzj0mrhLC4s-mLTDm990DUa5GKVJoURsBO99ZHrssJ5ALiKIDZiviUDC87S0k1Y-cm1fQxv3W5dNA",
       "view_skin":"https://lh3.googleusercontent.com/qDJqWSIrx6_JfWtq9EDuo8f1TEqLDzYsW2QIUDEEy7Z3EeUg2S0lmuoF0ieFfLjwEQ8ljwfYnFm8299o1EslqQ"
     },
 	{
       "id":44,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/o-OP1sYXEJpgvHRWzKIekSbOLmu_tJcvNZzNXMpphgSKx9wGlGrSJroMkkgpDxhgEKdBI5c8JS7rNsSU-d0paxs",
       "view_skin":"https://lh3.googleusercontent.com/a3TUtU4WUmXgWGRY9cQpfwvUB7HkJ0EZZes1aoQtFWSfLP00aG0IREQ2r_lnR8rrwwfdwIxOXyhYKofLyAVUeU8"
     },
 	{
       "id":45,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/ToDrdKLQhXHSNBZ86keXVERLC5k_i5m4f-2QBFvj4GkA0vw2p_2zShf5snjDuR8SWNbJ-mJAIbpt4Av4DUDuCA",
       "view_skin":"https://lh3.googleusercontent.com/gWc_YfFLInQin84Z3mjaNrJt4A--9gLLdjnvUpLmveZK2Vf5OKlcysadJjFlAS3OGd5_G5sQ9vW4m0nC3ooJ"
     },
 	{
       "id":46,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/-slsYHQy66Ih-WrZapf9NFDKvqjRSzRRWUgTbA6WmoCS8lTVHWUkz7quRTzhjdE-OqASU1G-aWep0AevOtkF",
       "view_skin":"https://lh3.googleusercontent.com/9PosFnWjCHHFAqM2x0A71xbQGm1hhWCcRw8GbE7WeM7PpvZeZrJt_T9dAKFmNMjZQ5HI0-M4j_DtZ604yoPM"
     },
 	{
       "id":47,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/i009JE-NubiqpfBUPOj9u7r2y2iFwu65zvh5h3TTp_GhyHWXFWxOSWVvSPUrx-qkDF-LTezjP-rJ9eGSgRdMfw",
       "view_skin":"https://lh3.googleusercontent.com/pfuNYdUYIKNdFbmYjr0qZ4u3LYwWm_PgJiNVoWwGVfKdpcv9x0v1dwODAJdXr7NT2odie3cBxhe6mLeAVV41pw"
     },
 	{
       "id":48,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/7w3mHHayDZJAH_qhCDJegAiIKp-9AF6u3Xi_1r1-TLIMJfH3GN7YzJaYPIyTTSYlnANZCFGz6lusWGWEboOSSA",
       "view_skin":"https://lh3.googleusercontent.com/EvKx-p5r8r6XA8EPh80D4CROhg2mDD0ZuEcg6uYrg6S-qEFwmwRGtkRGWFuPS9rEf_o7_B17b85cz2xQ4ACIkg"
     },
 	{
       "id":49,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/pvn-pALLXIV3aLXwJfr1s0gYz0fI-QvacKCMIn-iC380Bo5QAhGv-G_aw0KdDFgo64B3J7yvnQDMndNIRh9ZmRs",
       "view_skin":"https://lh3.googleusercontent.com/xgFU1DWamWXMTME5HahwqxDIdQPL_1nwouB968uqSvAxVaoJbRqecNfofNqJ7MSKl_NBRva1ja3mWocF7jM8SQ"
     },
 	{
       "id":50,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/wi6r3SHpjRX2muMC3EegecmIpPEMvKoXQQLJ94KoQJv0zjLYJn_gF0mMNpf8Fe6dBdiOOWMtCSfg6ut1FXRE",
       "view_skin":"https://lh3.googleusercontent.com/t3VpKCnahGEzrIwHQQnVNZ22bkB8CnfHGoj8z-g6jqVbtlkIPA4jMRsae2wuG3HOyoMwskHojJ-qTmV9anWh"
     },
 	{
       "id":51,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/bjaLlwxD4vm-HbKM1dAQHM9oxP3eZfurCWZ4FKdU-GzbbTUMIgBAJs2pLM7eDYeY19sSHr5PwCmFB2wPsY0VNw",
       "view_skin":"https://lh3.googleusercontent.com/L8DcuUlfiBx-MfSrSJBS23FHxsjVdoRVpnJVMtJoYP7TDmh8stgZi87pTTC05KDQ1MJdx99Yrnj5-ZwhBXXt"
     },
 	{
       "id":52,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/MOINVfA1RBqoWdjcYoisYKzdHyqHWYm70-i1PIo-UvdRvwQOWIA9mXqt91KYWUx_lKmvXfMHm4ovMpFhrjl0",
       "view_skin":"https://lh3.googleusercontent.com/dbep49w2efZD_xvt7v-uHVRjPDmI9jrbbQai1shJZgO_hOLh32tqG2gK-uBhQ_9oNZ1wYKWxMQXKUoqZyk7o8fs"
     },
 	{
       "id":53,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/IQrVKbxDcq5cSXBsDwEHLvNSPOe4VmezCveGp-oAUmT1MsBswXKjXeMUYcn_YQCsnt0k11DtxkUjjnnyoUl1",
       "view_skin":"https://lh3.googleusercontent.com/qqGbCAsOFcd-8HhjZ77snHXbQs7oCXrj3JL44fI0K_jzxLFWBY9G7GIDLm6NJycWjmUlqR36YJKaOvsDKYO8"
     },
 	{
       "id":54,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/q8Rmtntr1i3P5t6N9IpR3S_Cuf5gKn5Rn3o7kiWfZPfafGuzwSS_YZRuziHBLJXysYXRaq3bnhafqqjfn0g29w",
       "view_skin":"https://lh3.googleusercontent.com/lcMW7r6b-IXB9r_z7npbV6mwi6KlE1ACKPTq0yK6gbyDN6XyC6JFP8Sm1Gn_Ag4gLdC6Ahni14yZukB2Ya7UI8w"
     },
 	{
       "id":55,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/X3I3cn6SHuf7OmdyOKNQeJGygvDkBdG1mny5MztMsNE6uVViE3N8ygIPXgTS7_DRnJz1GlWYbvtCvX6U0KDe3A",
       "view_skin":"https://lh3.googleusercontent.com/uIRQ5MAIhsHWXnQBoEXyhCBuPdWj1dGmq1iS_9jYFGZIvYdqjGYVdRXPds7_01DEzlo5VM_1m0L9OdIuGkm8"
     },
 	{
       "id":56,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/eIEYEXpUY1ePngIGPH-2vcfaJIrQ-wYWiTqqaw9H4vbsSmMkig_PxiCRkss8bD3z5VAos0FKnGJfJLoz6MzAdg",
       "view_skin":"https://lh3.googleusercontent.com/aN-X1WIPpg4nNClgN5jLCZ9lLYLLpIpxtFZlrZaX2nX6DLsgxJcdkWGnruW5qMArD4kHVP-GXaACGteZHHp-HGc"
     },
 	{
       "id":57,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/D0woe6pycj1ofMHbSc6ATym3HagQKDqHAIIOM9SHcUu_62ZZetkJZkB5XF-X24nx2-QhHeYgADgxuOG7nhS_HA",
       "view_skin":"https://lh3.googleusercontent.com/zRR48YabE61iNSRCDvxwnJmMZzbnaTCgDI2hjo3GvX2aXumuYQ_Mkw_9WIB6z3PPcKo379hTEeSU12_Twoij"
     },
 	{
       "id":58,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/Lu2EuI6VyNzAbHuAPo6n0r2OH2FphcWxrBoW7dNbpa2meSGAQ8wUu3b6HqkJNNfC_-OHSPGG80UtJaNZkWwp",
       "view_skin":"https://lh3.googleusercontent.com/13tSQ7KQLVuxCePWzL5Z-9ZlpYakKqV7DTi57qE-HHN68_W_cFKQamVLYWjlh-2YTbZ8apV390lLsVF4JkwROA"
     },
 	{
       "id":59,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/xfaOX9C_1Jdn24wAgKO3jGiSwyAw3_kbNngyfWF6aFFBccFZCk8SW_LNSdYtakvTsZQqWOqs5Cq0_Xz4d1wBcw",
       "view_skin":"https://lh3.googleusercontent.com/Wl065hFQBai7b7rKxjR_VXsmClFO_h41RNmBszbN0rq5UTdSJ4jteLnuCMUNli8Rk5FcclvaH9AL8YUL1-VO"
     },
 	{
       "id":60,
-      "nama_skin":"Hackers",
+      "name_skin":"Hackers",
       "skin_url":"https://lh3.googleusercontent.com/YVLwP1soZHrRk6pbZpPpc1tDDxmQapdJW50hS0-8zn9qKqgmrhYHbJ51JeKmh1eMPTHilC5Z_HM01l4RX6UNjQ",
       "view_skin":"https://lh3.googleusercontent.com/Lv6h8YsMhQvXI_oTLX-Cnyo_cehQFbIUSECnyzmntf-MiYo3ZyVwMK0BdDbN5FNq2G7jkbgz4G0uIMmtR_LSU1g"
     }
-	
   ],
   "Addons":
   [
     {
       "id":1,
-      "nama_add":"Cat Plush",
-      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
-      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
-      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
-      "view_add":"https://aliendro.id/wp-content/addon/catplus.png",
-      "des_add":"file:///android_asset/cats.html"
+      "name_add":"Addon Hackers",
+      "add_url":"https://wedosmp3.github.io/imagecreative/hacker/addon1.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/hacker/addon1(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/hacker/addon1(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/hacker/addon1.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/hacker/instruction.html"
     }
   ],
   "Maps":
   [
-    {
+	{
       "id":1,
-      "nama_map":"Hello Neighbor2",
-      "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
-      "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
-      "des_map":"https://aliendro.id/wp-content/map/hello.html"
+      "name_map":"Maps 1 Hackers",
+      "map_url":"https://wedosmp3.github.io/imagecreative/hacker/map1.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/hacker/maps1.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/hacker/instructionmaps.html"
+    },
+	{
+      "id":2,
+      "name_map":"Maps 2 Hackers",
+      "map_url":"https://wedosmp3.github.io/imagecreative/hacker/map2.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/hacker/maps2.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/hacker/instructionmaps.html"
     }
   ]
 }
