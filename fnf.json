@@ -2,478 +2,487 @@
   "Ads":
   [
     {
-      "status":"0",
-      "link":"http://",
-      "pengaturan_iklan":"1",
-      "admob_open_ads":"ca-app-pub-2521648737251856/7524257568",
-      "admob_banner":"ca-app-pub-2521648737251856/4511081417",
-      "admob_inter":"ca-app-pub-2521648737251856/3006428059",
-      "admob_native":"ca-app-pub-2521648737251856/3936366347",
-      "interval":4,
-      "fan_inter":"",
-      "fan_banner":"",
-      "fan_native":"",
-      "startappid":"",
-      "mopub_banner":"",
-      "mopub_inter":"",
-      "unityID":"",
-      "unity_inter":"",
-      "unity_banner":""
+     "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
     }
   ],
+  
   "More":
   [
     {
       "id":1,
-      "judul":"more app",
-      "image":"https://1.bp.blogspot.com/-GRF5s0x9sDg/YTzScDzfg5I/AAAAAAAAAu4/AuZxF5arRP0KDhXEPpsu4f-QQjrYiG8lwCLcBGAsYHQ/s450/1.png",
+      "title":"More App",
+      "image":"https://wedosmp3.github.io/goldencreativeskin/playstore.png",
       "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
     }
   ],
-   "Skin":
+  "Skin":
   [
     {
       "id":1,
-      "nama_skin":"Friday night funkin",
+      "name_skin":"Friday night funkin",
       "skin_url":"https://lh3.googleusercontent.com/_yviqkHEsINM81l8xanhmGh_oQZqdDkb-YvtTFIUG4sWnTnAPKXGj9M9tYvmeYynID2qhneD0pON8De64QtCbLoQ-lPdU5v1eyo",
       "view_skin":"https://lh3.googleusercontent.com/ltmTbmvi_RzRBXoIDqGEUq312-tzaTaoEVk29unAzbGsXfM8sWndDFufRmu5vktlSRLtMtIywVDzZnhlMnWj6vQqD8-vSCq9ZA"
     },
 	{
       "id":2,
-      "nama_skin":"Tricky The Clown",
+      "name_skin":"Tricky The Clown",
       "skin_url":"https://lh3.googleusercontent.com/bPb_0s-3LRQXoD0fla6aOH6caWYd2lKKdMDjbf1TY3h7kjs2tA4HX08k5teyNcHmoPBUgYKajZpLfhYMSV0K7jWIDm5_RpFo_w",
       "view_skin":"https://lh3.googleusercontent.com/pg98fRHC_bcyRsKu874adfQE6f5AMFsPHP7clyM9uBCNMYx27uprdCRVrABXogd3i3skpiGvZjQes0n2ozKqLrR2XeHi2G3toQ"
     },
 	{
       "id":3,
-      "nama_skin":"BoyFriend",
+      "name_skin":"BoyFriend",
       "skin_url":"https://lh3.googleusercontent.com/lP0n0XNq-PqTwS_Nb6i7OmsvVrAorEzRRO6FuMU9cWry5s2mPBuMp3sTzEvrlLVI5KjaoqBZ05zqQw-B28PYQaTG1pKGOS9PC2BM",
       "view_skin":"https://lh3.googleusercontent.com/Ve1BAbNWqlno7YoZczKDdpY-3jRv8n7MVaU8oi3dIGcsqukluXXtgudBpzwlTsIFtN6icC3wn87yhvOq25WLw5xfFLgqTBgr8A"
     },
 	{
       "id":4,
-      "nama_skin":"Girl Friend",
+      "name_skin":"Girl Friend",
       "skin_url":"https://lh3.googleusercontent.com/vShPujE4MvddOc5pEihzYlW6n4Ygi2OrrCV1tbVkKuwcoK5-JVtmMQsBujcGoJAizZCPMM93TBgYIFHSgsbfHthczQ6eLqNYji4",
       "view_skin":"https://lh3.googleusercontent.com/BbVrll5_xfTR36DJ1K_epIMhXbeg97b4iSe9dEUlFcmVPXNoyGQg0A2kOg9e9Rx8jVmp_erL7WeYR4-gHftcELOomFXMp-8_5-A"
     },
 	{
       "id":5,
-      "nama_skin":"friday night funkin whitty",
+      "name_skin":"friday night funkin whitty",
       "skin_url":"https://lh3.googleusercontent.com/liSVqsZPeBpuTJ0zJxwwlQXgir8woIit8A3V3rnwJSnVOMfgkBHtolS5kJjwSr-iICBU4MQZKE7JAQgFtE4I08W4fpDUuQQo4lvS",
       "view_skin":"https://lh3.googleusercontent.com/84DSTec4doGmMWZHdCKz3k_lB6ft7GUGN-rP-tDIPcznrRr-AbpT96EUk6j9AAt1naBV3sIa3KJFfRa_X1mXzBMDP01NAIwbyhNM"
     },
 	{
       "id":6,
-      "nama_skin":"Villain",
+      "name_skin":"Villain",
       "skin_url":"https://lh3.googleusercontent.com/iJev4Ry2QV6JUqDBVKsLjLFmqARj0wjUJPQPV4mcTgQEYMgJr9Wdh1HIndWphK4Iqlr7tZVx-8ZIyTwY_1cVFXJs8QYPeB5bIrs",
       "view_skin":"https://lh3.googleusercontent.com/LdMekZvcqknPDymbixJMEHfCk76hBQ9hqBG4p6IRt5z5kMV5IwS5rF76_3zEBB3c97pGtEEo0OgncA54J_rVsZyyghhVA71VQlc"
     },
 	{
       "id":7,
-      "nama_skin":"Demon Sarvente Sarv",
+      "name_skin":"Demon Sarvente Sarv",
       "skin_url":"https://lh3.googleusercontent.com/1ICrzDXs9UT8zt6KbQKsMRsgF1SeOfC0ARvOdkkfjszia-gZFb49TgOgNR2AqnKAIlbWWsW6pp16D6T4uO0vjowmP9VwqLYV5A",
       "view_skin":"https://lh3.googleusercontent.com/guORpRYMQqXGkMmsM8NMzBFlpFNgC84wD4fb50K1_oGri4VgAbrcYOy71XMqZhARUl_dOBnr2hJvTBnKLIWBnIVMQMn1xZnn3AI"
     },
 	{
       "id":8,
-      "nama_skin":"whitty Friday Night Funkin",
+      "name_skin":"whitty Friday Night Funkin",
       "skin_url":"https://lh3.googleusercontent.com/5hEUO3T7ip7H3BJM7x1WPRq_1qFYt6dYUNpPMzb9MyuAc6UPJBeI-O9Ju7YjiVKe0opJ1SyeS6XL1RgHJMeGvPJhydpDPs9z0g",
       "view_skin":"https://lh3.googleusercontent.com/Qw3v3lo_KJdUjdXWcnyrCk_hKkf31uP-v17_PeY3GEWET9zl9GB7Lv_c-qryWh9Jy9pBR6QSaWyez95_TIC0UsMFgzCPEBoqmXo"
     },
 	{
       "id":9,
-      "nama_skin":"Pico",
+      "name_skin":"Pico",
       "skin_url":"https://lh3.googleusercontent.com/C7e_gXtbQxuACKvDGkziOvQQyWvArFAPQtKb8yeSQ_wc19UPSKC5BiME8N5t1OaIyYLu_2wDzE01XdNaGiuNA_I98hl2e_lEVbk",
       "view_skin":"https://lh3.googleusercontent.com/U9X-PgV72NSwKsUd2BBm468IvmdamY4HKldBIiqn8HAkQ7OpNMVMtm4pUWtBUCcT6UORwcDhb8Z8FcgyDHQRcLP6mCQ4ojZJHA"
     },
 	{
       "id":10,
-      "nama_skin":"FNF Enderman",
+      "name_skin":"FNF Enderman",
       "skin_url":"https://lh3.googleusercontent.com/k39498qRkMoekkVajVTnhndXSc5j_h4J1nuV1qV3lsOVKblX4HDbHBBdyb3D569HJ9rmPkZhkKm3JnQYYWOpb900NXLOVGxAp9TQ",
       "view_skin":"https://lh3.googleusercontent.com/Ftqm3aI4wt60SK8Hsb3fYITYEu395s96errebl0XcxAHup75gyf1WVj4lb_7-LiEdfSsdELUztQsZkqzV2JiurKA3o2kARz7k18"
     },
 	{
       "id":11,
-      "nama_skin":"Tricky The Clown",
+      "name_skin":"Tricky The Clown",
       "skin_url":"https://lh3.googleusercontent.com/kD-60s8p9Q7tyNlyu7oHvhGQRep1OFtlEptEKn5UDqArrvUFaZ2qtW3m7Y1sTYc1Epi0IftmDjgyDdwDnuT7z3oqIokAEfwDSvA",
       "view_skin":"https://lh3.googleusercontent.com/Q165aGnp61mTIC-DZskdwO-819GJW-B00KPhSgskfzTqo5QEzPpe_EGP4QWTDe_-74MyC_ddNTUo4J5imYka1trlqRobviUX47c"
     },
 	{
       "id":12,
-      "nama_skin":"Friday Night Funkin Monster",
+      "name_skin":"Friday Night Funkin Monster",
       "skin_url":"https://lh3.googleusercontent.com/n8rV_I_i81exJhxY8d_eSXjHLDtMa7iFMFzfrjtZ-v0ZIwAFd6-jhveab_zcA0QNL8lJk8zPIrnOykEOrUSGPhoLv0pjUW_TI9s",
       "view_skin":"https://lh3.googleusercontent.com/mRHiGHnAN3ypknDFwnTpcp-qM16l99K29QuU6YD2WtSi_nMbkjlTpj_xpYr2U-JcB2un_r7R6Z1KEKHXVNDnaU3CMmK7NePY88c"
     },
 	{
       "id":13,
-      "nama_skin":"friday night funkin mouth",
+      "name_skin":"friday night funkin mouth",
       "skin_url":"https://lh3.googleusercontent.com/K5pw9SHhL7U4HhujyMCr81-yfuzc3OQeKIv286DBC12b-kB45mOIaSPAZzDCKkiIDyu5d8cLKhd-VnHrMc_kRXRXHsq3JMVMPnHo",
       "view_skin":"https://lh3.googleusercontent.com/wMy4aTFn_Pqe1NW4XkvXX0GO-uGRmx6MWltZgKUrdwCsHpr24XdzY5ZDzd5D8ut9oOfpH0C69GxwU06UFzQnxqSLDLyR6mFfWtw"
     },
 	{
       "id":14,
-      "nama_skin":"Friday night funkin Skid",
+      "name_skin":"Friday night funkin Skid",
       "skin_url":"https://lh3.googleusercontent.com/coXCQvSc1W9qHmrHY1o2WDd4hm3w39nrXDYVTLBFKCIJFPAIWxMTIVLN2Z8jseiR0rEB5AsxdkyEFANID7yLZUOQESwOSuG86Zo",
       "view_skin":"https://lh3.googleusercontent.com/0EPtvNfY3O7C757oe1JddzXseB0rLER3w4VE3B3kI9kejZE8yzPemoHeXLBm6JK5G57UPcJ4FOyTk2_7sq6Q03zXBM_UXp8fSwc"
     },
 	{
       "id":15,
-      "nama_skin":"Boyfriend Friday Night Funkin",
+      "name_skin":"Boyfriend Friday Night Funkin",
       "skin_url":"https://lh3.googleusercontent.com/nAO975-H4255XFB2HoxWbAEiDdPRC8vuUrZEQPJXqIbC4efll-44jsm2zTi6sjEF9YFhppntXJIthwLHN0hUISYFoye-GGEATA",
       "view_skin":"https://lh3.googleusercontent.com/5m09gv1Mh7D3fmVYgVZs-pL8PPgMb10JMu6ZB6htM2sH6GIV_FyMGlkXNQ-N8xRVgvCCW-iRDNsMeoMP4mDIkXCrWc8KFKjhog"
     },
 	{
       "id":16,
-      "nama_skin":"Whitty Friday Night Funkin 4",
+      "name_skin":"Whitty Friday Night Funkin 4",
       "skin_url":"https://lh3.googleusercontent.com/RRf-ZYA5p7QysMfij3B6w4ov7Y3MEe4pvAMmGY6pfLIMYQ1aveZaQzGjhKJ_h9IWzo07DyqS7tsDMKbe826Qc69oir3ffrfCJQ",
       "view_skin":"https://lh3.googleusercontent.com/lSiIXprGgji_AxSo1eU7qXdZq7Gl3zu5EHhHh-LWsM_XHbj4JYkdknORtvDvjAawOM6xJ4oWkcInHsBg-1CnK0_oEbIhnXdN-w"
     },
 	{
       "id":17,
-      "nama_skin":"Friday Night Funkin Miku",
+      "name_skin":"Friday Night Funkin Miku",
       "skin_url":"https://lh3.googleusercontent.com/-346_FlCX_9yfQb5lNzn-vx5AGrtms1q5lfbzcC4dH0N5TjMj2a3ztfMonk_tCw_Ld5ee33g_gmcR3tJe9d8H5pZE0yGWR9EN2s",
       "view_skin":"https://lh3.googleusercontent.com/3YmUMSBRq4IYrOud7giauHJSeiDUtmoQK1dqX0tGluqnXhBxaS-iYO5usHF82OjfGkK0PC8cQfC2AvFItuT25WO1Kh0vqDkB_SY"
     },
 	{
       "id":18,
-      "nama_skin":"Friday Night Funkin",
+      "name_skin":"Friday Night Funkin",
       "skin_url":"https://lh3.googleusercontent.com/Gmou0ul2QRGV_D5Q1eb-uf9mmtHFwAJme2uxjSbsnWecmKkffIvBlZTkAmc7GCTsWKZC4zbeCzpvAG8I3FoCKgWYIGz3-j4UCb0N",
       "view_skin":"https://lh3.googleusercontent.com/otrc2cueniP5jYIvDVpJ8EyFJT98IGd0PrXcG75rIPPi-8UECyUhSXnLwlLzAZb0Y5k87VofjP-qaILHOyShe_Z9yVRwzAPtuVk"
     },
 	{
       "id":19,
-      "nama_skin":"Ruv Friday Night Funkin",
+      "name_skin":"Ruv Friday Night Funkin",
       "skin_url":"https://lh3.googleusercontent.com/Y8blR1l-zUp97Nj7x0kxfjsFx4HH8fboAnaRFcwQhbKMaoMKSDcE9dIeZlfvepT_5-UFyZyUMbEytMR39l5klB7NPNW-j-IfflM",
       "view_skin":"https://lh3.googleusercontent.com/gP8LqYRHkMOFXA0wfjk9PO-iESdMkwK4AGiV15UYwCgNa9JkfMhQLOOghcuiRHmqU7RU7ZBB0qlsIg65vZgY5CSAZ0rxzmfeMQ"
     },
 	{
       "id":20,
-      "nama_skin":"Friday Night Funkin Senpai",
+      "name_skin":"Friday Night Funkin Senpai",
       "skin_url":"https://lh3.googleusercontent.com/OhUfxNu7UkyArh8Xk4GHQVP8B5NDJdIg1xgmMpJCBkzZ-gF9sQZRLezj3HdCL7I6DDSjq6-cTIZ3n4gxg7-PJeB-ab-H0NkZ1eY",
       "view_skin":"https://lh3.googleusercontent.com/uT6socNrIy2Rs6Sl_NjvcAvJVwQXKd0zp2fqQ5Rv1_H-F15BaK1OY-tS0mIxkfdUOXmR0GR20frPV7E1yuvzH27M3XrqTuMiAQA"
     },
 	{
       "id":21,
-      "nama_skin":"FNF Monster Lemon Demon",
+      "name_skin":"FNF Monster Lemon Demon",
       "skin_url":"https://lh3.googleusercontent.com/n2562E5HY8iGa9zTI4ISDDxHYLqcCGC4hYgnzttoxO8wrVJYpm34Y1LAt2kF9OzNwJMpKYHBs-xAZGk183AKb_mZqP9lYGkp4wc",
       "view_skin":"https://lh3.googleusercontent.com/n-hbazxr63C7tGk-nBbeZFyS6Ak4u5krPpKR8dMswGI244b8QQCkGQ9m8-zPBJ7feBamAcoR2ej66azLNKcIZwzPyJsMkDMoack"
     },
 	{
       "id":22,
-      "nama_skin":"Friday Night Funkin Sky",
+      "name_skin":"Friday Night Funkin Sky",
       "skin_url":"https://lh3.googleusercontent.com/ZOe-eXdoeIM-eag-XZtiJWPIcGh1DZ80Nyeody-2m8AOwa4SqCJFrHEFiVCTSEonx5AGxF9q7MA618sJ5tRadof2YMfIUYvIqP4",
       "view_skin":"https://lh3.googleusercontent.com/TkuCYalJo3m3tiIi1qwGZeKPQHNIKBa5EYOv2-UQuppGHJpOETHZWaUHSe_xmtYkYgdU8_a0MzZ5mYMcY630kDRMsWNKv2kvhA"
     },
 	{
       "id":23,
-      "nama_skin":"FNF Mid-Fight Masses",
+      "name_skin":"FNF Mid-Fight Masses",
       "skin_url":"https://lh3.googleusercontent.com/webxr6C8KeZcbQf8XdzKlLzgl9FuYstiJ7ubRdbjiUqcj335js1jYgYVwIVKmJz9E7jzoNPkwsmxd1f5ko0b9dIhwpRyJdpIwPs",
       "view_skin":"https://lh3.googleusercontent.com/LWzSl19m9vYDCDZRv-o9IzTEGMryU4sV8rXdgh-EjHsMJxQtXDwF2ltrOaqpErmP__ixWyShCZCdvsSMboyghneiRJ8C2yCNDA"
     },
 	{
       "id":24,
-      "nama_skin":"Whitty Friday Night Funkin 2",
+      "name_skin":"Whitty Friday Night Funkin 2",
       "skin_url":"https://lh3.googleusercontent.com/u_5JtM1xOY3_eMlqAoI2BK7DflgxLVatYw1nqut3yRBSgi9sJEhqAL_5kfOLYDoiLoO8DxjQbdukitCIib1ixxY4O3N8BWUg8Vg",
       "view_skin":"https://lh3.googleusercontent.com/iP3NhCR2lYY5tCUWogTZhKE2-Hn5gt1KM-jF7gNONNbdsU7yeUfhfSDp5Hn84kjcU6Kw4-M-aWbBksVeJzEEq79iTefWYCoRtA"
     },
 	{
       "id":25,
-      "nama_skin":"FNF Mommy Must Murder",
+      "name_skin":"FNF Mommy Must Murder",
       "skin_url":"https://lh3.googleusercontent.com/I7fgE0Xh88GB1mX-SdhR_dtGt2EEtG11EWiCfUUBJDgmKeYdWIKZJM2kw1QqDhap_m9Bkuh6ZAyrzuTu-Dckbg8fVJK2fEMbG2cc",
       "view_skin":"https://lh3.googleusercontent.com/ya7kZLslwnZBLnlJSsK0oCHXPf_aeQg6KuCAZVDLinS-d7sFGbMIGxZ7eHiY4XA9owEYA9dDtjzzs4onCC7wclCcn64-s_Go4mE"
     },
 	{
       "id":26,
-      "nama_skin":"Friday Night Funkin",
+      "name_skin":"Friday Night Funkin",
       "skin_url":"https://lh3.googleusercontent.com/Y7iZOfxUT4lAAA_0b-1yGVBaYBNe0lCVupXgi8Bsdhux1lqkbS_kZQAI6HK2aC5CvGaWRhoqhM3mbCU07eRLK7YV5LaaEiFKSU0",
       "view_skin":"https://lh3.googleusercontent.com/_IxfIdsSRgNCpjwpdefA5tui-IQ7_l1gKOYAeDHPA5Bfu8xocYSgX1F3LHbAkWQhdA5Bkb26_hQM-Hmzk93VtI9D5XgusLT4APk"
     },
 	{
       "id":27,
-      "nama_skin":"Friday Night Funkin Carol",
+      "name_skin":"Friday Night Funkin Carol",
       "skin_url":"https://lh3.googleusercontent.com/0y0TDYb4VU_xM7NOM38nwvSXXziXMu_ZRiuUNq-P4WehIgwb0S_pgWRT1XHRWPj-rWNkX4HFZXgF6_xL1LI-Jxa-8T5teVQwDKA",
       "view_skin":"https://lh3.googleusercontent.com/kv0xGtK9IjDwTionQEwRiYI75ldIUGolpd7Fuud7AEfumXZWt-qCPIr9008956J0pOaoRagWk8OaaLvjXxRY1SXvWlaRJeHyTIM"
     },
 	{
       "id":28,
-      "nama_skin":"FNF Mid-Fight Masses",
+      "name_skin":"FNF Mid-Fight Masses",
       "skin_url":"https://lh3.googleusercontent.com/XeYp-mH1uMF60t7YW9LlhKq4qedYgWD3OusC4p5o8aeZ07tmT4KM3jDMQlmqnKH4ojpWRGIGqN3aRGMGJ3_KI3NLf9aCnfoeBY25",
       "view_skin":"https://lh3.googleusercontent.com/Wq1cTU3oH4O-UiJ07nVmH2ahiwfzyuGG9OnUn-eB8eqjeTxuYorWlQnzX09YObE46ipAsGe4OEgcj1M7WVWcQ15whRtbQ6uXKcJe"
     },
 	{
       "id":29,
-      "nama_skin":"FNF Soo Very cutie",
+      "name_skin":"FNF Soo Very cutie",
       "skin_url":"https://lh3.googleusercontent.com/QHNbdSmajeY9yiGkYtLe9psAeFdLS4dVbVT1_QPUC_axJ1TU8j29CatfGCOz0FbePx9fFAnE8jM1vJu9aLqPsXzWhfXZnOxnx7H_",
       "view_skin":"https://lh3.googleusercontent.com/7rEH9nZXIZctSPRax_ZeuvXAcT1LdBvJbNizfean5FPhD21pszoeOhJvZTRsNOd-UTgCUDo9ISxoyDmw4lZk2PXVjrR8x03rCfY"
     },
 	{
       "id":30,
-      "nama_skin":"Keith Friday Night Funkin",
+      "name_skin":"Keith Friday Night Funkin",
       "skin_url":"https://lh3.googleusercontent.com/PeYTiA6-MtuVe1Pzjr6HaAzfnm4aTrpLGBvA48Lhr7FumlF6lEl5E0S8bvC9ZeUK5h0ub-EfUYxJSBByEOA6MoaY7KEILJjxsg",
       "view_skin":"https://lh3.googleusercontent.com/heYUVgxo5Cu4Atdods0D_6YxazXOJise3QuGdtVI2MuEOOREh7tkj7X2wPXnZgKuQQnJzna9MgngTo-3FZY38fMr-wwNFGKbv_3W"
     },
 	{
       "id":31,
-      "nama_skin":"Cassandra Friday Night Funkin",
+      "name_skin":"Cassandra Friday Night Funkin",
       "skin_url":"https://lh3.googleusercontent.com/ay777ytaxV30-JzFM_w25IyhW8-KPC9bVZDdF-fvIv0RkxXGSnRvk08I-WacSDaRFrmCFun9GRvLbCQ9aMzmRzx-2dSI17qjrVk",
       "view_skin":"https://lh3.googleusercontent.com/v4SOrWE8PGmy7HcQl-kgohJVOBZ6dB5U_cM1TmrU74RxZeDfIvtd8xYMXm479adbtoJ0JWQY6S8IpqnEJfRlClNLDfDRoNOV7_Q"
     },
 	{
       "id":32,
-      "nama_skin":"Tord Friday Night Funkin",
+      "name_skin":"Tord Friday Night Funkin",
       "skin_url":"https://lh3.googleusercontent.com/m8ZxdTrKYEzszSbkns0ZAQ9xOaA1-sDjvzg9_1jYBap0HTq86neVvIhWC6nTgF72jcUPkNhNC5SxvRsWJ3Px4YS60y3UaqTFkQU5",
       "view_skin":"https://lh3.googleusercontent.com/fdxT7L4XDFFj7edJog2HC9IhINl3Uj9wSeWswmmREAXbdzYQesQT_CCz8Fl63RgUGe9YAfSQC1xET8G-ZH_o1nFFptJsnxndI5U"
     },
 	{
       "id":33,
-      "nama_skin":"Friday Night Funkin Sky Week",
+      "name_skin":"Friday Night Funkin Sky Week",
       "skin_url":"https://lh3.googleusercontent.com/z2Ll0l-Qp-hUnOvcojvveHdCSiorKvky3ihs2i3t4vrs75oR2Epbmu4_YoUyCNdn_qaEbRpkwOrLraicVe36OqVZdXQIGA0F7a8",
       "view_skin":"https://lh3.googleusercontent.com/SyRu8BZ1oR4WTOu0XKDsUGsaBKI_A3z09bh-Cjr-OPAWjSdshx1hSiZQ0gg3D7_nLYJZv_xxSQSuQKoPNGSfnQaRERIvQ3i72xY"
     },
 	{
       "id":34,
-      "nama_skin":"Tabi Friday Night Funkin",
+      "name_skin":"Tabi Friday Night Funkin",
       "skin_url":"https://lh3.googleusercontent.com/p4f3Q6FFzimhF3xH-IfoDsBoyUk2rTbRZ1uDF-gbLLUj5yavt_clmqKpt2DrTh7nkZfiBEHImqLT3fgt0gEoDgLfIgk1qRDdMgw",
       "view_skin":"https://lh3.googleusercontent.com/5FdOtl7mrVODCzKkIko-FlC9Vof81YZ6nNlMd0QFltHfGINSZtQM591ftwmWPqeC2d1zOb3uuCiS0sNpRAdHM_5pOwpgLSusuA"
     },
 	{
       "id":35,
-      "nama_skin":"Nonsense Friday Night Funkin",
+      "name_skin":"Nonsense Friday Night Funkin",
       "skin_url":"https://lh3.googleusercontent.com/7f3AbzBhaP2OMyVJ6ZnPlUH8a16he743NLacS2j-T5Bf7wErAEWYhfrIeUPDlqx5dlK065lWCcoHXquVSCW6uTcLPPbQT7KI4i8",
       "view_skin":"https://lh3.googleusercontent.com/JG9rTw4KsEtdqmjz9D16gQeJCKwMqooqXelacRKkrXsFW0ph8W_sxxmDPOM4ZbOEmLhCf975kkQtEKr3EFqYJ3oNW2LAiO__vQ"
     },
 	{
       "id":36,
-      "nama_skin":"Friday Night Funkin Sky Nightmare",
+      "name_skin":"Friday Night Funkin Sky Nightmare",
       "skin_url":"https://lh3.googleusercontent.com/LUiFvhTGCbkp5fPAtxE7t2glXpZnGXwmyAiDjtDfoRS4rd362rWDg2m8cN1juV2yl6Qjx5j1JSaV-7tjMe5M_yKbs2xAmqoUvvPG",
       "view_skin":"https://lh3.googleusercontent.com/OdpfVj_1pfRhp6Y9V57oChrs_MoY33oBIoTjJMqHpVXrWHYamqUn7xVv1krRe4EQbjuoXThJgn0J6BFTwjgf02XeEXFX6ysA7p31"
     },
 	{
       "id":37,
-      "nama_skin":"FNF Tabi EX",
+      "name_skin":"FNF Tabi EX",
       "skin_url":"https://lh3.googleusercontent.com/zAVvNbT1wwlIO5GS5BR2PBmWZ4FPiUaO7E_AV-dKZo51l7kElXU8qH9dXqmBvrLDL86U9VEksWoj-8Bu7hhno8xDtWKX1WAPjQ",
       "view_skin":"https://lh3.googleusercontent.com/d4IlhG2gX0HkSTUNDPsdoQ1yYemTr_Nl7Jev2zDm1vlYypwrJ7N0ghCR-RcYwbKqiOmjD-aHjHW7a_R18qFznLuV-fORu_Flrd66"
     },
 	{
       "id":38,
-      "nama_skin":"Friday Night Funkin Ruv Mode",
+      "name_skin":"Friday Night Funkin Ruv Mode",
       "skin_url":"https://lh3.googleusercontent.com/oKYGoEgJa-11D25bQZdpQ5PJDtWkFRory4j7SIcZYnLREzGhz1WB5nd9SSac7ZImEnP0K8g8VXvJ40DnHEG5Rwcu3zKwEHccwZxv",
       "view_skin":"https://lh3.googleusercontent.com/88_5-6BnStq1TF1hWY6JF6wq4j4grJNHkG04_TP-1dwPiimsRMIO5kJOkAW8e-egzkbcvapP7h5AGGroNaPr8Wp7QPJDQ1eF-xs"
     },
 	{
       "id":39,
-      "nama_skin":"Taki friday night funkin",
+      "name_skin":"Taki friday night funkin",
       "skin_url":"https://lh3.googleusercontent.com/h52Qd36ORQccDGAswXqXoB9nhFQ4Mm6DZGjXSVuCIB8RR7kMq7rvtVWh54DkYJ2Tamf3K4dRlPUTmSWtx_XOcl0V7IGgciFsdlgF",
       "view_skin":"https://lh3.googleusercontent.com/aZUE727FHMdnDLZD0LKm19pTird-uSlIX3ZONbEQJxiue9IX8IL_BstorvuJa6e-kDfNk7JL1qtLGMnQfT9LEEacnL44SbRZzLbA"
     },
 	{
       "id":40,
-      "nama_skin":"Senpai Friday Night Funkin",
+      "name_skin":"Senpai Friday Night Funkin",
       "skin_url":"https://lh3.googleusercontent.com/W-1GvNZMrPTqCWIV_kp3K5GdjETtISa4wftl6o3CLuEG-J4Gr_EPI4OgaX4QdM8vRAceugoHrNhw8RyaMWZEoRmufL4G7srdIFbe",
       "view_skin":"https://lh3.googleusercontent.com/hfRcu9_dWEHMn1U6IQcugdUexsLBQM4uneoSd5k7UlqVW-wXG7OZ2hhj9gSH3eP3tLxXBrEtNoJDnoRhSje70SEsYyRbyP0lpzw"
     },
 	{
       "id":41,
-      "nama_skin":"Friday Night Funkin week 2",
+      "name_skin":"Friday Night Funkin week 2",
       "skin_url":"https://lh3.googleusercontent.com/JHt_RNW0W-Xn9AYEEEs0_FR3-NdKNIdQnwa-jMF9lK5dBLR_RmYHKWEAJicrkDIux96p37jB5Q0EFYjZ_BVb1bwKAjJ1kkNp1w",
       "view_skin":"https://lh3.googleusercontent.com/Z_ZhvubW5k7MoyHEdw-wQbcu6qfwbPFoMLgvOT8ZEy5twFBYKPsicz7ITI0l_GitJ9jsGupQAaI9MaeGgRrxQppbdcakkgTfzg"
     },
 	{
       "id":42,
-      "nama_skin":"Hex Friday Night Funkin",
+      "name_skin":"Hex Friday Night Funkin",
       "skin_url":"https://lh3.googleusercontent.com/STX_0-3dLvyCiBGw-lIB4SFRJ9ClrEEY60LrBtt6m_Q4SamARQINCNVmTwDm4B00lDTkk-XP_66h64Fs0rHyVPwOta3BN5Y53gfC",
       "view_skin":"https://lh3.googleusercontent.com/Veho8C-ZHegxvhxWYmSQfYeltza1hMGNbJ7diZFHMAFV-RV-BdCfxU6PxbX9jA1nhbX1OXP84UpydLS4A74PKfYJ27URPsHAX2E"
     },
 	{
       "id":43,
-      "nama_skin":"Friday Night Funkin Tabi",
+      "name_skin":"Friday Night Funkin Tabi",
       "skin_url":"https://lh3.googleusercontent.com/eeTstAm_iS9ksInv3o_0IKDER466GBdKjA95ErBYAFQWpcl_3oUgiHj9Z9AdMWUlzOu9Rk2u_Qsg_6mymGaWHGuhafGGpJNWHA",
       "view_skin":"https://lh3.googleusercontent.com/mcaN1RoggS9lP0DnIHlkOvlcRPFMwEoVGpl-yXfUNV-wUq2rtaCSWw-pNcLGZpD4b7Vk1dHGilayc72IPywZWivan_di_lccog"
     },
 	{
       "id":44,
-      "nama_skin":"Friday Night Funkin Razzy Sarvente",
+      "name_skin":"Friday Night Funkin Razzy Sarvente",
       "skin_url":"https://lh3.googleusercontent.com/LBhmFqlC_pI_x5UA_GRmr2cp2_wbzzHxLGWkjekZh4nQ6ZCJPKfJFP9AF-z_sDYGdBQnBupdaYSKiwMbDKBxBsjGB44SV9kgUMis",
       "view_skin":"https://lh3.googleusercontent.com/p6jdHhWy_daqFc11cxeh6wz7jAuru09l2GMULwiTFZjClvtRoaimxdwQ1AbVHddzJbQAqnK1-qSIhV8L0wFcOkOdGLpt0UIpX4ot"
     },
 	{
       "id":45,
-      "nama_skin":"Friday night funkin Whitty",
+      "name_skin":"Friday night funkin Whitty",
       "skin_url":"https://lh3.googleusercontent.com/QE3h8W0q5396C7vdZECr3_Z-QG3aKwGjkHj4DrXeGwLlA9LeOc6rV7x8k32liyI-c0oKvOFNbAMw2VyB8jrxkRNSocu7az1ejho",
       "view_skin":"https://lh3.googleusercontent.com/n-YTYDPa5XkMLDKAgs0liDdcj85tW1jPIlnwqofa8k-nER5oyRUdzNBWM8ddH3L6x_o0It_cnmSFyYBlWOQmqIie3D806kSaFIo"
     },
 	{
       "id":46,
-      "nama_skin":"Friday night funkin Sky But Blue Sadako",
+      "name_skin":"Friday night funkin Sky But Blue Sadako",
       "skin_url":"https://lh3.googleusercontent.com/XCWIwaWMhogWkbEBlS73EIKzEKgu66SqSpZl_NrjY5q51mHnMGWXNIFkPOfqQF3XvPmgnPCxd1aIQcTWOdqRxP_opxXG5jfF6EQ",
       "view_skin":"https://lh3.googleusercontent.com/drF4cFOkAnaH-3CbrG_dnCUeRRQA3h6xlv7Il3QUePGxlOQ4mkyXz69Hv_N_BgmcbFW7y4_QU09rSXqISuOqDQYXNMediKOjLg"
     },
 	{
       "id":47,
-      "nama_skin":"Sky Friday Night Funkin",
+      "name_skin":"Sky Friday Night Funkin",
       "skin_url":"https://lh3.googleusercontent.com/ixK-2R2TbtwSLXlTpQY_wQ3J3MawU3juzWNstDjMmQiJc18T81096KcbgEV2IZirgO-id_mK3_wksQcN3XRbbhJzpVGuMrbH_A",
       "view_skin":"https://lh3.googleusercontent.com/TNMatplEr130Jez8b2qeaVhYRvv8NPs_oYWTtaCUT9Okr2dNigKQmrPeZcnYIEhLPbi-Zcv-tUXP1vJqihiBXJfbZW_-c64g0w"
     },
 	{
       "id":48,
-      "nama_skin":"Friday Night Funkin Girlfriend GF Soft",
+      "name_skin":"Friday Night Funkin Girlfriend GF Soft",
       "skin_url":"https://lh3.googleusercontent.com/ewAcA9p2g7P4Vq5kmFXymApUs5KIVySsqf1MudDFjODWm2UeS0V4G7Ncrv0cFbl9xoG2ShJMb1c7MOlHILbwPHr04Y7hrKfgoA",
       "view_skin":"https://lh3.googleusercontent.com/nhU7dgiMfoRM2rPJx-d1Sie5ywpFZFyFcI5BUbomMu2Za3ZRIGgVA8M1DraWQFCwO0qCNpPAQNv-WXLpGdiusHobKaMFEnyZ7g"
     },
 	{
       "id":49,
-      "nama_skin":"Como Jogar Friday Night Funkin",
+      "name_skin":"Como Jogar Friday Night Funkin",
       "skin_url":"https://lh3.googleusercontent.com/FwgM65YSMhehdxjYFb7XFRbWdvsRxG9q5QgKnuSfJP-6j_nHWVtpB76uJtwLkPv1dNMJsPz10ssnhXVA4h9vqlI8_aKjbz28frE",
       "view_skin":"https://lh3.googleusercontent.com/oE3yoi7aV61g4FtLAdP0Yl03FIwMu5TgBdKDr-fvGzohWLvACR7TWbnSeHvuBbN2IvaEroDwSOTxOsyPRpkL1HvHH0KlABJDgg"
     },
 	{
       "id":50,
-      "nama_skin":"Friday Night Funkin Doki Doki Monika",
+      "name_skin":"Friday Night Funkin Doki Doki Monika",
       "skin_url":"https://lh3.googleusercontent.com/-vM-9HUp9Vlv_TsNh_pd98hbgkFzALwwkr8qqNn4-see0I8RfdaQvgmqbwKBoX-8WqokohNN7ezwqpgO2ceDX2n2t8uo2pE7-Q",
       "view_skin":"https://lh3.googleusercontent.com/wpwyTzhKGIa1C98r_4mCaH58ut91Xk82Hvgl2k2nieBgaLEl1QIqJdX4Lz_g3MQ-rkr4KadHnI5znMLrGOaWZ8kPC1Td1wndxGY"
     },
 	{
       "id":51,
-      "nama_skin":"Friday Night Funkin Whitty 3",
+      "name_skin":"Friday Night Funkin Whitty 3",
       "skin_url":"https://lh3.googleusercontent.com/Jw4MkBypvB1-TWPJSw5h8UVgPh7T6laXdiHKtCd9KaIvaOqnJegvTDvP8OnQgVph0Myp9hCPIzu7EaqjQD2r7Q17ilShiT2_xg",
       "view_skin":"https://lh3.googleusercontent.com/Ls0aq0P7NyZ7HP9JBHAAFhbCx7KWIyJyq1bDh45noRWOYCYaY796jLdPaCZg9T51gW-jmMocAKD20PZkTt0sXL8wA0AAZGHSVw"
     },
 	{
       "id":52,
-      "nama_skin":"Friday Night Funkin Girl",
+      "name_skin":"Friday Night Funkin Girl",
       "skin_url":"https://lh3.googleusercontent.com/qt0nb1OIk0JV7zh0hFDzosLYRsV-tRAvhWWWmh7gnRnzg_jI2ymsIjdeQKemzRSbwGZu_W71T_Y-azdQA8EqzWCpst1CYPnTlg",
       "view_skin":"https://lh3.googleusercontent.com/EeHftZaBm6Gt11S78sQr0a-opWDqyCXgAco8APpgfquA-0T8qWUfET6P-bJJ9ZR0FtFL3x_AQBYaDrQfGyXTouUdzZakKYKzbzY"
     },
 	{
       "id":53,
-      "nama_skin":"Sky Manifest Friday Night Funkin",
+      "name_skin":"Sky Manifest Friday Night Funkin",
       "skin_url":"https://lh3.googleusercontent.com/-nHfQJgIug2Q6owB7xHEFwAQUXRmWgo-DZ5RSvmgD33G0DCUjPkl4wQQETNv6I4JQ3hvKi3ghLWArwq6PdRccrdVj1iA8rjwKNk",
       "view_skin":"https://lh3.googleusercontent.com/yK6ffdstRUUbkuRfD5554OQzyOCjQsB-Xc4O7jTwHd-zaVi14cwSjkpSuPI19WgHt6hJuhHW4RoZgf794YCHLSIKlNncYJlR1C0"
     },
 	{
       "id":54,
-      "nama_skin":"Friday Night Funkin Carol Golf",
+      "name_skin":"Friday Night Funkin Carol Golf",
       "skin_url":"https://lh3.googleusercontent.com/lhjX3kSGgQlfEpVmoYFxdWkR0ENz52oifuz--hoqbeuC4TBHSJJpnJ8ZvM2w5FcUSWUeDn_eu1v2hDLCaeEJIDIEqxK3jAvydw",
       "view_skin":"https://lh3.googleusercontent.com/683NJqz26iewVL00YFrQpDtzbR5PO_pJdSbaMaGTSrhtoT1dTBYpeeBaV8c50UKK53hrO4WJ5OOjr2Shpf1sRtXHhBUv1r9LhQ"
     },
 	{
       "id":55,
-      "nama_skin":"Friday Night Funkin Pump Corrupted",
+      "name_skin":"Friday Night Funkin Pump Corrupted",
       "skin_url":"https://lh3.googleusercontent.com/DOED75HoaNLbLcsawMHJTr41U89ds70zmg8Mz57qUsIoy-ExJEsiXYp5f7ELWI5qTKb6hlE5VOmYzVILmgFakJqIc7JyAZl7YC8",
       "view_skin":"https://lh3.googleusercontent.com/CWqKxErmyccZ2_Ar-mt297wrTUT85dvmBYVPY464O7xa3fqYe3M4HlbpQbwFfrdMacorCuoyZDmqqwuOzg5P46VIse3SPCxojw"
     },
 	{
       "id":56,
-      "nama_skin":"Friday Night Funkin Smoke Gosht",
+      "name_skin":"Friday Night Funkin Smoke Gosht",
       "skin_url":"https://lh3.googleusercontent.com/REv6zSZqb2wyQlOWoK_wlUtyqqCWX27yIHXzQrezIgdLsI4TO5gnRq-ObaRHizHuVVnsE26OBhbTU-XuNa8IjUeUWkW0ZpEa8GY",
       "view_skin":"https://lh3.googleusercontent.com/-8QRE0N8QKMjL9IkqSH2kmSwwFRcmdJG4kRWx9CIrH0FvyDAhoJbRTbdg5IaKe01z6b4mgbAVxJOu84GdhlYL1eAgqPjnwB19Hs"
     },
 	{
       "id":57,
-      "nama_skin":"Friday Night Funkin Tricky",
+      "name_skin":"Friday Night Funkin Tricky",
       "skin_url":"https://lh3.googleusercontent.com/Ei_mGiByRi9GOP77zc6sP1kyladsQCbMjqboKn9nNi7KJ_12haN_SLzk7EO9sq5RmRvewGMR2H1SAkfaJu08Fw1RTvYnqeMEoGA",
       "view_skin":"https://lh3.googleusercontent.com/5oYsdwGfMMd6GTNhuC7GwZGgswMN3x8Oo630UARBKYAMa83LfncXqNtPHJFWCzXt37heKLfoOsoB3HWcjyPL6aaZlJlyhZI035U"
     },
 	{
       "id":58,
-      "nama_skin":"Kapi Friday Night Funkin",
+      "name_skin":"Kapi Friday Night Funkin",
       "skin_url":"https://lh3.googleusercontent.com/ucT_lAqvxR0UYQxXZufIQfp3Jjh43vs-iGWwHBQebxnVGZ4GVMSSMUd4joEy69kIk30150J-qavbK5Oi_GMugKxTXxcbgLgSPg",
       "view_skin":"https://lh3.googleusercontent.com/EqB1PKOwlyDRAMa8fk-BwIPAMQIj-zMbrldUhUEci-dDAIDJKa00wS7Be-MoThCUr01VYstt5LTJHlNNadEuIx1M9LPFOXcKz7A"
     },
 	{
       "id":59,
-      "nama_skin":"B.B.friday night funkin",
+      "name_skin":"B.B.friday night funkin",
       "skin_url":"https://lh3.googleusercontent.com/Li4HBUq-TEx0hfOTikVUQQaeFZ6K083n_DYNt8AhpEk0NqVMpUoXAfZxuHCDAfxvjlTQqcHJr5mVawI3Pw3SCIw3IRWArojGVEw",
       "view_skin":"https://lh3.googleusercontent.com/C85S7P1BNAnwOYCUbYyuMUAdley-R_CtqoYdrWOIbwKK-pe8XrzDAhxf9mZQ2zfkGqw6jD2zh_veEOiaRV1olr6TtI5lJFtADUI"
     },
 	{
       "id":60,
-      "nama_skin":"Friday Night Funkin Sonic",
+      "name_skin":"Friday Night Funkin Sonic",
       "skin_url":"https://lh3.googleusercontent.com/vSw7OjS8XgeNgOGzf-abWZfX__SpcWSKrTRXR4d8ZQDz6d3pEOykbAeHS9G0LM6Maamte1v2ld8YflEfLusnpisF2nhIzshPEQ",
       "view_skin":"https://lh3.googleusercontent.com/A1unmiunxpWyyig6EtqAnESQLlQYEtsFZr9xpI2B2_njPsQXNJDYOOFFDUnKYXCvg-0C6AZKPznKHldi9fYVBRCcqoGCexQ42s91"
     },
 	{
       "id":61,
-      "nama_skin":"Shaggy From FNF",
+      "name_skin":"Shaggy From FNF",
       "skin_url":"https://lh3.googleusercontent.com/XcOklp7Hwe6JdOHNhPP6XUIgm9kfzZnC2EYSOD0IxHN7vZZN3Njk1fc4EAaRc_ezTw0zaHQjqGPKwVtqmZvrhowIaJEO8M_4Zg",
       "view_skin":"https://lh3.googleusercontent.com/uc_VYMsqhvqEpXvG-XXlIEpd1UGvbjJpCE66WwUGRo8diokIZIXYFGGZbVTk6WRPgD19DcPsjF-A5JebPwFdkRPWLV7Ql8sB9es_"
     },
 	{
       "id":62,
-      "nama_skin":"Evil Boyfriend",
+      "name_skin":"Evil Boyfriend",
       "skin_url":"https://lh3.googleusercontent.com/4ZY_3LnHBRkd7psrQrz8CuXhtjgW0huJHmO1s61HOga3jimIw_7-gzKLMN9dkuDTh85YXeoLFfkyq9dLgiIp7PBPUENxyE_1L4Y",
       "view_skin":"https://lh3.googleusercontent.com/HiTgzTkFsQkGHxfO8VA1VfNDrZlrqwPUC9s02-Sf0PmKPkYpOMtP7RucxI6QM38FXZeSmVnSHYu0anV2SLW_RoJN7ezgYLOzVg"
     },
 	{
       "id":63,
-      "nama_skin":"Lorens",
+      "name_skin":"Lorens",
       "skin_url":"https://lh3.googleusercontent.com/YmrYrh1L62sTzAYuSer3C5w7x9HmmfAkLUWyp_GnaGicKX7Z-FtE_WzIoQ2VrWK-jxmaXxXa1xaciyAL7dJTVL65YzdP1WEXsXI4",
       "view_skin":"https://lh3.googleusercontent.com/3ZZi-CdjKoj-bm2Tk13EnRBF-kKfVOhANkWXTsawsFuU4Rx3CcDn8f46LrvwzYZdHWiASDpq_utRVPbLc0-KqYGig_Sdn1nSnBX4"
     },
 	{
       "id":64,
-      "nama_skin":"Me In Friday Night Funkin",
+      "name_skin":"Me In Friday Night Funkin",
       "skin_url":"https://lh3.googleusercontent.com/ORTQSWr8Yom_Co88UzcvEaStiaJXw75aUs2JWH6nqwef7pucEg6xFXgAJsrBLPgJs70ikQOmAj-Bhnjx3S7ghwA5ArM7GMR5HAJh",
       "view_skin":"https://lh3.googleusercontent.com/UjNaEi4Fl8MLed4BIloSkcgTUyt6Oe6sv6DMgxXbmcotljXUevQFWUQ_RClkT8QkHpIBCEmfCZmjGuKOflaeVZmJISYR9HWiGVg"
     },
 	{
       "id":65,
-      "nama_skin":"Bob White Friday Night Funkin",
+      "name_skin":"Bob White Friday Night Funkin",
       "skin_url":"https://lh3.googleusercontent.com/pwWT6PhzfXyvw1uCkylvA0Kk0vBTK9Xd8cVvdq9ufZgYAgwo0mMMNRpTZa0H5adMfdakSMYVPWTp4OGHw6uvLznVPv9PZfKhph4",
       "view_skin":"https://lh3.googleusercontent.com/ZiGKDyqYF3rBP1V236rQEmZRMiSRajruAC24_TMnnf50yvEPNzHan_EyUFjThQlAIKhl87v91dvmMqMkd3u0eGMIA75XHB_G7_I"
     },
 	{
       "id":66,
-      "nama_skin":"Bob friday night funkin",
+      "name_skin":"Bob friday night funkin",
       "skin_url":"https://lh3.googleusercontent.com/b7h8EhKKsQktS7qq28mHkhFjV4P1TkRL1bX4aZif8UPSlT5m9Z0fhPypGj7hR5OfikmbZJTNHuiiLGb-KpYjLVK-DSwO-CpOLAc",
       "view_skin":"https://lh3.googleusercontent.com/c89xg7TEWgxqlafryIY_lM9yo5_KS_1sIpjj85FOutMQ6Jo80r88peZx3-i5XAYKN7M6zg0AMO1ofqcZj7AfGwHdheltL-IX3x8w"
     },
 	{
       "id":67,
-      "nama_skin":"New Sky Friday Night Funkin",
+      "name_skin":"Sky Friday Night Funkin",
       "skin_url":"https://lh3.googleusercontent.com/4fALolGCUm6O5q625UHHz3RGKNQp5uG6211ESft8FIk2paku0ryDNoppDOisNRuQ0DNZb9OcFSVOGCZdHmR9taddjl5VphwBIpk",
       "view_skin":"https://lh3.googleusercontent.com/58tI3eO4aBPqsKMnsJxvAdGCAwQQFFqijgAqtiB_ft4_OrFmxkMmh5tbWLxNo1hVLsRF6vd7a_vVUjdIe_ReNi9UwKAdaEEpLO-D"
     },
 	{
       "id":68,
-      "nama_skin":"friday night funkin mod 2",
+      "name_skin":"friday night funkin mod 2",
       "skin_url":"https://lh3.googleusercontent.com/g1scbbt-uttzHaq7ajz4Gjf6j9W3hDaDNcH3ybPSw0KNS3nSu4tF7PTI70ExbVkN6ijHSKePa8F8Rd2xgWYFM1_1kudvDwLgXA",
       "view_skin":"https://lh3.googleusercontent.com/1yqO_58vMxVa3raTkT-Vgoe1q4BXMexy-eJC1I9gXt5o1Io_uNwbf_Lu-ohf8sq4JPNKCxA9Kn8x7hDFg1YusG8t3iNK7OH33g"
     },
 	{
       "id":69,
-      "nama_skin":"Bob Friday Night Funkin",
+      "name_skin":"Bob Friday Night Funkin",
       "skin_url":"https://lh3.googleusercontent.com/BMiDaP_apWTeB3IQA6Sa5tErAFnND2mszo56nmieXPhMwnGWG2V0rb6NqpSCor-s_KZOPGQEz9t1Q_QlOJQ3SSFdzw8Fx1asWH0",
       "view_skin":"https://lh3.googleusercontent.com/21YX8mFTopxiEh2GELGq5G1mlUiyNGqkgTCcxWLW7Zn9shKwz9BmpFo08XKHtAoRuK3aHAhlILu3B-Pfgu5Yb6_ulFs3xgRaSubC"
     },
 	{
       "id":70,
-      "nama_skin":"Tihonsyah Evil Friday Night Funkin",
+      "name_skin":"Tihonsyah Evil Friday Night Funkin",
       "skin_url":"https://lh3.googleusercontent.com/yuAWMvBhVP19vBE5i4jUw8Sl_jMqaJZFaPctuV--3taSbeWPFcn4cY-wo9QESY1vho91nCrMf-NP3p-m-n2uxn8BmQYOtoEqMg",
       "view_skin":"https://lh3.googleusercontent.com/_p72GHwGQb4FmwmWUh75fQIbcgkHojkIYBbZ9nItcYLzxrPAftgKaNGpSAz9y31tPhGQx5MLMUzldtTExvnNNEdWn3uPA_Sg5k1j"
     }
-	
   ],
   "Addons":
   [
     {
       "id":1,
-      "nama_add":"Cat Plush",
-      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
-      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
-      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
-      "view_add":"https://aliendro.id/wp-content/addon/catplus.png",
-      "des_add":"file:///android_asset/cats.html"
+      "name_add":"Addon FnF",
+      "add_url":"https://wedosmp3.github.io/imagecreative/Fnf/addon1.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/Fnf/addon1(B).mcpack",
+      "addR_url":"",
+      "view_add":"https://wedosmp3.github.io/imagecreative/Fnf/addon1.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/Fnf/instruction.html"
+    },
+	{
+      "id":2,
+      "name_add":"Addon FnF",
+      "add_url":"https://wedosmp3.github.io/imagecreative/Fnf/addon2.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/Fnf/addon2(B).mcpack",
+      "addR_url":"",
+      "view_add":"https://wedosmp3.github.io/imagecreative/Fnf/addon2.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/Fnf/instruction.html"
     }
   ],
   "Maps":
   [
-    {
+	{
       "id":1,
-      "nama_map":"Hello Neighbor2",
-      "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
-      "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
-      "des_map":"https://aliendro.id/wp-content/map/hello.html"
+      "name_map":"Maps FnF",
+      "map_url":"https://wedosmp3.github.io/imagecreative/Fnf/map1.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/Fnf/maps.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/Fnf/instructionmaps.html"
     }
   ]
 }
