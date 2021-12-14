@@ -3,12 +3,12 @@
   [
     {
      "select_main_ads": "",
-      "select_backup_ads":"",
+      "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "",
       "main_ads_intertitial":"",
       "native_for_admob":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
+      "backup_ads_banner":"acfd93fe438e6297",
+      "backup_ads_intertitial":"2b95b2e1fe1c024a",
       "interval_intertitial": 5,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
