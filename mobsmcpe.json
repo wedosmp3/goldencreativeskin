@@ -426,6 +426,19 @@
   ],
   "Maps":
   [
-	
+	{
+      "id":1,
+      "name_map":"Maps Mobs Vote",
+      "map_url":"https://wedosmp3.github.io/imagecreative/mobs/map1.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/mobs/maps1.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/mobs/mapsvote.html"
+    },
+	{
+      "id":21,
+      "name_map":"Maps Mobs Vote",
+      "map_url":"https://wedosmp3.github.io/imagecreative/mobs/map2.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/mobs/maps2.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/mobs/mapsvote.html"
+    }
   ]
 }
