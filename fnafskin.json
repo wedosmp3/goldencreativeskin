@@ -2,418 +2,443 @@
   "Ads":
   [
     {
-      "status":"0",
-      "link":"http://",
-      "pengaturan_iklan":"1",
-      "admob_open_ads":"ca-app-pub-2521648737251856/7528070496",
-      "admob_banner":"ca-app-pub-2521648737251856/7719642185",
-      "admob_inter":"ca-app-pub-2521648737251856/2467315502",
-      "admob_native":"ca-app-pub-2521648737251856/8841152162",
-      "interval":5,
-      "fan_inter":"",
-      "fan_banner":"",
-      "fan_native":"",
-      "startappid":"",
-      "mopub_banner":"",
-      "mopub_inter":"",
-      "unityID":"",
-      "unity_inter":"",
-      "unity_banner":""
+     "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
     }
   ],
+  
   "More":
   [
     {
       "id":1,
-      "judul":"more app",
-      "image":"https://1.bp.blogspot.com/-GRF5s0x9sDg/YTzScDzfg5I/AAAAAAAAAu4/AuZxF5arRP0KDhXEPpsu4f-QQjrYiG8lwCLcBGAsYHQ/s450/1.png",
+      "title":"More App",
+      "image":"https://wedosmp3.github.io/goldencreativeskin/playstore.png",
       "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
     }
   ],
-   "Skin":
+  "Skin":
   [
     {
       "id":1,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/lMXOnLvKxjSzqBzSimVnsZ7h4-jJDDoj7Kv4LqAkoi1P5vOhDmUU4f6-A4wT2TqlWhmZZfyd6ET-1RytjfgmfA",
       "view_skin":"https://lh3.googleusercontent.com/q1S8BSSw_hDVGYSGOygccaOf0POcWE0X8nm4sZEvwkAKB8HZwXD_1bXjvAUR3lBAqTbay_QII6LKT3ZiipPZ"
     },
 	{
       "id":2,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/EAhuA4n1mvHfC670ruTZmidIN5PFQKuCrZX5dXSeeANG_FfdK2AFTAb1c_dn5pnpWXEnerBAMzQAPlVBbHnm",
       "view_skin":"https://lh3.googleusercontent.com/7VbsbJqUjY-YkNKJoEEVJ8CW1VrEHVMVFufWflR5CeZBW0w98B__XBCAA5Y_j5rjqu_CxROYmVTZjjM2weAiPw"
     },
 	{
       "id":3,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/_FdMs3m2AtVBDZFHgq0WXdC9BhYk8lLjxmTlxJ6tD26w958YpQg167OzET2UWSGqZqICjjtFk-g59DWRAVRH",
       "view_skin":"https://lh3.googleusercontent.com/RsxIbL-gtvd-oe6X3OfdzYTbipVLOr4te9oWZAUDtYHdo_KwRqNlOAARH2OCqW8U2QqV_3NBEHTVb-52T8cH1g"
     },
 	{
       "id":4,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/cZ5ItW2E5_d50RLOOrRoBEKDf5fbb60mEM8u_cWWAUAR6QWziw2asM_r4BifgHY2DNMwU_b43A_EsbgRQxvZaQ",
       "view_skin":"https://lh3.googleusercontent.com/xrnaGVTcSU4iwsc00NQuYpMTolv4J6NaKwXzrt-VXL6waURDI6WRH21Qj0ybvBl8qAEvBR5nrXlUsi5jZ_n2"
     },
 	{
       "id":5,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/Exs5O4z4grRNzCkxaARcFBQqhRyipfGciLy2yQsrbZ-81xVVmZcZD6mpAC5eR4E89GFbUMFvz6Ypl4RfALKPbA",
       "view_skin":"https://lh3.googleusercontent.com/k7_PgtLHkuaEh8V1JR-mp3_EDZqhb3KZuo31FjFNXJsP86qiS2GY2IcHj0rU1eJhV0LOVCSoKGtyAMPEQMq8"
     },
 	{
       "id":6,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/kZI2D_n1eXDsfAa-gvW8tZZEh8WvgSBs-bnDMBPjSeYTn9fcTgWJnEvN5QxZmfhZ_lRPhlSCBMojlg3T0pSH",
       "view_skin":"https://lh3.googleusercontent.com/JvyGCbsV4G3idrGWNurVt7VqUYtfetDB769SHfB7kykgbdZ0tarVHH-ON-9xLTqti4o3swJLlooSJOaz3YEIVw"
     },
 	{
       "id":7,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/TYURMLAT62ZoWCQRWHu4NnYw0EMBtJmVSrR4BHA2xVQie7Qaw8hpR__Cm9Lu38XOY8Hu7qJcsq7_y0as4U0RPQ",
       "view_skin":"https://lh3.googleusercontent.com/jC9piTepw-eikxMSNOvjkwCco8jiOnKs0km0YMpnt2UmXoDtDYiSOdoPrqAEKesJC1ED3_xOdo1BTtMjEVoF"
     },
 	{
       "id":8,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/HUvidO-X5DZWPonCDwAlV6bs-9va3M3zIRQZ2N8PlI_R1lPmamGBambdtx8idqYhk9aCyW-4Ed6vMhIctmdf",
       "view_skin":"https://lh3.googleusercontent.com/5x3l9olBQz43kI_5wOdji6l7U_G_QQyBgiirL3JDJyz8WlnuHZ1rpEIhDHC2pvYSG5Wk8POmDrg5Z4MxoMZUqQ"
     },
 	{
       "id":9,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/00XdEl2bB4fKnlO8Z7mXMOfX4L-cgXYr1jwpM84X3yZuo2YcxJTRhwOObhe9v_ygEMcjkOBzG25HiBEmf88q",
       "view_skin":"https://lh3.googleusercontent.com/ofhVG5pgbJpiovqHWwuwOuWtAmyx8d6jYs_y7d_DFVjxUUXqbdwEXz8JknKZp8iiKPczRK_dB9wXpkkK7o4W3cM"
     },
 	{
       "id":10,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/_4jmEACMtnGPczRuThLipdgEW1M63d4BBnEWr71qDQt7HJrADo16Yjc2h5fB7MLwljDU2htvPi2M93rUO2sd",
       "view_skin":"https://lh3.googleusercontent.com/EVVYuTjfJiBC_jq0Ng6VxK5wvZm9fSizpCqjX1B5RkYNm13yDRWSRaSjyEO5agEkRsY84qAHJ37NDxrZ9_IU3Q"
     },
 	{
       "id":11,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/PfHkfwDkjbjkzwimKo_ILl18NEkENVzP8VAcwvjLG4q8r7tFs-mdap3MRj3QCjUD5W8n-MqElSm9M1c2rApP",
       "view_skin":"https://lh3.googleusercontent.com/cAZ1pY-5_gEMU4uvIrpu4YrhMKsyMw-U6ofdzQNAx8Jggn4wxJXQ5AmlAuTfvvNLsPQk6GIS2UnTCOUjEHlhtg"
     },
 	{
       "id":12,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/EDHvX1FpUpzKDAdGLzaBFGoFrt2ymLFSvYWqVcgz-71XPR--aFpY21b3WCaozcsCIzRqO_UHlh4nlir5pWeZZI0",
       "view_skin":"https://lh3.googleusercontent.com/NkqCfSJ0aBexihwnkbEjK3xGg_RI7lItOhbLWNfAEOg1t9ePJEV6QbhnINOF4swJr9PJ0BCsSckv18i8fegYeQ"
     },
 	{
       "id":13,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/YzucpEPnjq439jNvgUwLWoBzh8hmh3Ri37PUh_s_f7NMSEzi9KBy5PYJEIpwGJ_HjzJSdWtdFI6eqF0N2THJWg",
       "view_skin":"https://lh3.googleusercontent.com/9KPtakoJWCWjNpXB0gaCzUJDx82GBuDR5JkgPhFsM3P3MNXsj8LNyxwsNpuOLjJq3kJezuYgA6n6CoY8-r-v-A"
     },
 	{
       "id":14,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/3HCUTJtHrM8bZN1PcSAX1pEbE7lZjVF7iqd1RhuHvMbH16mDbHsolrjhPLJCD09TT05i4wBHbv6X82BqG5gVpg",
       "view_skin":"https://lh3.googleusercontent.com/UgSuLAaeNwYBvdN9quhRgwOIFEuKOP0ssj0fTufAtb1N1PNUb9rxC7rLs1Z3TYzB4_YBHlV1KV-Mm_KXufM5"
     },
 	{
       "id":15,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/ITqTYMVcwTFnuexBOGC-8l6cjV0bLq8sXWuZV_esSqzuQd92xCHDjWPZRFWB-9evK13rHZRF0r8ruDUygNTvJQ",
       "view_skin":"https://lh3.googleusercontent.com/HJxCEKXCsP_3uxI49J-MSvj0PP5bdV7C0C2gG-S66Hd3uiTJPg5z8v72wU2D9n9nCnYec5bNCWIZhJ1rj_64"
     },
 	{
       "id":16,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/o1JpDlAWsWP7CXd2dp_10bzffG70FjCjtdwWMNx9t3V68EQmz6-uMhbGwe4tY1AoXq6v8ukGkc01bOis7Oa51w",
       "view_skin":"https://lh3.googleusercontent.com/1MiroIf6Iw4pkkcoHneDuRzYxpCZIsPJvcAvrAFoDEWlnQMTor6EL_bG42fW3gQqvKvxKu26yTt_mmqeTA9Q"
     },
 	{
       "id":17,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/kWm3an6vJQH2BX0iG2kwKsJ4ZWJ4etxZSqHThGhm2bd-nGB2H4u7ycA5qPmR-QGA_AIOBemg0-pChJK_UJv4aQ",
       "view_skin":"https://lh3.googleusercontent.com/IFOldh_jFtM2Up8ewqLnfNPP4ulGDV_5H18xAxUGpnNfmv7dwJkrIcUjc9nB5mrMOIa-OmnwyqITSUz4ytjafw4"
     },
 	{
       "id":18,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/QNfaJq_teLYe5e8ABCSpHdMfNMpozSanOuK4-c60nZVuwDSbufBnGrtspM3fR-mwXy15TNzSlOUY5rzitWQoWQ",
       "view_skin":"https://lh3.googleusercontent.com/nN_-6aiVMpS789GRG_qkt-a09knkLRoLgYage7JJPsJdPnDNQ4Djpc43oCX71Yz228URZJM9SYcSNkEOjnKgEQ"
     },
 	{
       "id":19,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/Ss5GkkzTJI0gUBdQlyYKpeyr09s55pnvLHbY6caI-LBXdT5vJZlXRJdk-HRoC0PAuYH0-MTOeevYik2sKG8KGQ",
       "view_skin":"https://lh3.googleusercontent.com/egOUXjm4TEY6zI3nV2-qN43TOAH6-c3ZehRZnmPmRqNtKQ__QVFMBJRBKJV2FbyIhoHU3KfmhzbfNw6weIfFlIw"
     },
 	{
       "id":20,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/dAByf_mp4lgdUOxOdGQwWp8yeJYFpIGZcJ8UrGmG3EKqc6OIdxsLBgUrAtPx3hAzci9_eHWeOfsu7LqP6sq2UA",
       "view_skin":"https://lh3.googleusercontent.com/QrWmItadF59Hp4Tl0lmMK8Gz5B1qN5r0C5KBSoLvc0L7Zt8xdkZk6aYwUu_JNGCd3tysb61jXqfHZia6LHx-Xjs"
     },
 	{
       "id":21,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/n220--jUjvr75qBdtCXsxy99h3lxFqIMBpLa25p7j5EwOzPYEiJ9knAMkbCppWlwNsUoJyStkW0FzaR3ehb6h3A",
       "view_skin":"https://lh3.googleusercontent.com/W776ZPzCi7QqJxO3RdhwkJQ60gwWQ8Z1LP-YcFi0cAnjqbdU-9gmCilQ14M__utpPuQnrKmKrLsYWhwr81AFHw"
     },
 	{
       "id":22,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/yJBlTrXXn1m3k6usel8C6lgij9g7SYxQe9QcsRQUOoagAh4sgfxKiPSA0ic53b1kg4mR_o7mY08sQnHMRf9F7Q",
       "view_skin":"https://lh3.googleusercontent.com/fL_PKpOXi6Aqb2JVLJ4kIFMT4UpiT3_4bCxn8sbjkqL9Gx1tda5LOXKiE3hCCxCUjYrkuW3JwBkLHst_tEkY"
     },
 	{
       "id":23,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/N9mVJoSL4DAu6c9z9WFCYvvOWm9l8N0D_aRHH7ACxf04uqURbNCJdgVAXP00GnbIVeXbmVeVmgc0wc1LD3S0kw",
       "view_skin":"https://lh3.googleusercontent.com/eQCSc_RbByTNQodvxMiDE4WXqfiGkkX95pQ80XlysNIt3kVb25fZ0fnIeQi72SbMTPMrYjR0RxXjl9tSDzPrEA"
     },
 	{
       "id":24,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/7dBOhNHsXKO9NPvktHk8RPX7bwn2jFXTpv8zccQb5cgswdXqhy6-xnAbyMUWs5RDN8zVwFXGByKl_CehNfdBqu0",
       "view_skin":"https://lh3.googleusercontent.com/uUtmYHZoBSmHM-XkNrYyVjoe_a1u0Kz-c9P25KVVJ7nbNzfVayiY-R4-Ab6bNZm3bsbouIrxvoamMnQXIYhAbQ"
     },
 	{
       "id":25,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/dDorqu5vGqBUDx5jR3I2vgvIez37YvrSCjOy5Q90HtzD4Mq7A9MmAakMCHmqlESGDdIg_rik5MJ-tuOlaR92",
       "view_skin":"https://lh3.googleusercontent.com/F5rpYN4cTTWZqRBAcccrekqv24e_iJJliFqxxSolcdThM5OejdIY3mXyUYPgCsfJkneqajpXn7mKXHAms1rMDA"
     },
 	{
       "id":26,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/ZvPIXcqDV3lCfRiBsswAfVKZtd_gzzXvpyn5GPpPTqLAAZAf2xtxjcYxPD2JCLtluU50jriRblZVLASM7b08",
       "view_skin":"https://lh3.googleusercontent.com/zlZ72M-blFgoPA6B1JBcZ8MAVAliVujOVCO0a1MXQ51H59fPLg9_aR3dVKiUV1VYkgzYlZ4BoR4Tkdv_lCK7"
     },
 	{
       "id":27,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/cZx5LalYtMAaK24X1uX2lk81WjIYFRzWrMWlrEJLr_e7emR8DRGThjspkHOSsnxqooouVufUZE2P2paeUj7_",
       "view_skin":"https://lh3.googleusercontent.com/woieiLcOP6rfL11XPs_Omq3xs0jj3xcC0M1kvDDel2KN9vDAdafN_mc05zmgAgjc1N38rU6o6h88QkiGg7ic1Tc"
     },
 	{
       "id":28,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/E8Ww8lwBTbczL-bEMhNinkeX_UvA45o07uEgY9wtPM8uV7RVRYvOLGUyqnLd1rDyAnawqZ9O1VBPrZyE61K-",
       "view_skin":"https://lh3.googleusercontent.com/zZbiR3P4XardBL7Lq9zDUcvx8B3FZtLLKOXrmYVZrlHf-g_c8XzdyeVnoMGZitTff6kHrcGGrCZNtASwP12rOw"
     },
 	{
       "id":29,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh5.ggpht.com/p07k2B9Lu33JBsuDsysAAmldiZbtr783QQaITdjcBSQHgJ6l-G8gQkyuBcgla-ZOAGCMbOObVlsMs1CZR0VUag",
       "view_skin":"https://lh3.googleusercontent.com/Z2KefoveassTKUYKU8Bg7M-JkfINYh4pIreo_wjHl2Zl-7YoKGvFFDsQJj3b5hImz95qYA-alqvohZLqRJrafA"
     },
 	{
       "id":30,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/cS3FsqHeu4yOXldW93oo6wiheL_MsiOe7r_bN52MtfM_ToKVHcYYTXVh6u3Dfbn52RbNkJ2MFn3kQJdESreA",
       "view_skin":"https://lh3.googleusercontent.com/S2Au6tEqA6xBBffa-J0FjN5ACLyk5D4uHov4jKtmpYuKdSIyATKEa8a-XhMIe6hVWmJCM2ATxhGm_I3oZwaw58E"
     },
 	{
       "id":31,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/n1ZbWlohu12LdLNdBz9LZZQU7G6ZP7y8-20NMY-Qis2ssxG3YObHscpX9BQb8x3pUFqIzGtNcvFK-MHc04MIZA",
       "view_skin":"https://lh3.googleusercontent.com/9L-Jm1Yv9VyWZT44I4qA-PGbh5tVcl270RU1nYZHjQt1BaEWG3oqAZRIfsSHJg-P2dBuxbvRd0NxQaTy5OfCBw"
     },
 	{
       "id":32,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/sweKEUO3wiFb4zCGHwGF72pDwM5kB999kfIaWkpv6Q1OjOdLMTpKg8FK5DDs3WaHHiMoA5CXJpA7SBH2y6vO8Q",
       "view_skin":"https://lh3.googleusercontent.com/7KexCOzgnINhYpey3en2rdhXB9FNf7IlDYt8aNasQ1RtpJ3Qr-DbX8Jo5Vobpk1vElZm17Ycco4km8UB-Bi_dA"
     },
 	{
       "id":33,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/ER__DySqKK_9LCytxp4SEwXyC7PUP0YWI4uN95EFRh2rz6JTSwhsa5yAWhcJAYoAdP2MIurgozY47mPD8kfnK_904uua1cSrvpAq",
       "view_skin":"https://lh3.googleusercontent.com/BfibLtxdiMkppAZcvt8lPNxOdLk6RLvWH-batAIVEaNyWisM4v9lnW8NtEzcdzxs1ieqg_glBAOMufBGfAhlPVQCX1OJt75N5V4"
     },
 	{
       "id":34,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/q3mTBgoswpkTa_HWZj18CJFgrj5C8lHoPpC3-cVwJACvD973A-zIHnFDIV0DgCCokHI2-h9bdGKfWy-cHWrLPA",
       "view_skin":"https://lh3.googleusercontent.com/-sAn0u_toM2vFUTShmpJbhugZsaF1QmrCSNQ-QVxprwMilEACJs6AFaX7gGf34p1tSYQL1SrxMj_P46TUw-ZqO3EuJ6ZAfZPLQ"
     },
 	{
       "id":35,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/5JyQtyLGF_vqsOXlg0Owaqqcy9KwmrT2pTmAd_qVgqssBUuux0-GbLjYpZ3DE_yKjAcHZYwDVXazsQpU_2Xwod8",
       "view_skin":"https://lh3.googleusercontent.com/nN72p_2difByZAPaiA9myfkbByQboD8CJRBPySEa0KFB6mFmT0gi45FBWGzjSr6JkIH4haftar4RszhzbnRzNo4"
     },
 	{
       "id":36,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/CCYdjGL3_-0Eo5-sQkQKE863jo3RzzHvBFUga0eriw31-I4m1lltySITBTpcRzx2orDLmLQRCQ7v3lEazMq0rw",
       "view_skin":"https://lh3.googleusercontent.com/KHJts1MNtXJztiBCoZ83_zfIXzO62WI1ByuxYcaBUsDkd2MYd9jliljnx3BmPIp9Rfle-HYxDvMWd66FHNEc"
     },
 	{
       "id":37,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/P1-HkStv7ZrO5vOMjo83T544VkPsaPMVKoMeQ3p3gWw5CiibE2JbUIOfgdTZ-2qNAp0Mdgs04Z7LNS3_Bao2G4w",
       "view_skin":"https://lh3.googleusercontent.com/jhKZ8AOKa1vwu4hzInoNtCl_rp9PqqVDODIHfM0xV2r27UB1-eGGDbGhoJu-TEuADPYmjEC9aTnVbki_-Hn8CR0"
     },
 	{
       "id":38,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/RQSyRgGOVMJbqPboQTUml5cbxrahaSoehWmIjuvSZMD7e8QbHzclnyxo4Q0g0-1JzmK6P0sl7t6dDCh2Zk6RQQ",
       "view_skin":"https://lh3.googleusercontent.com/bSz-oJOUnOkE0DkU3MgvAbkVCgKn1elEyZoOn9NbeBFyBb8zFbxu-fQBL9Trlezgg-OX0nx36Gl9knYCjX5H-w"
     },
 	{
       "id":39,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/MLWZgSO8VxiZODVSFbE3SkBxXfYK_kGxTuBfYY5uCMaUL9hsEkGXso7pjkCfEcEMbTzLYPXyEpT0rclkU_ugQg",
       "view_skin":"https://lh3.googleusercontent.com/peqACJ_lKEQvnkQLLHVuA7q2LhjnL8qvxhPQtixXL8uYSTWpiAOoDYzyP670xPauvXZYRn_CufKdm2Gv0ne71lk"
     },
 	{
       "id":40,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.ggpht.com/8O3oND6hX3WPMOxQg14zGT19tl89snleoio4_o7Ehz2CrioYoLdJyq83B3jCblgObpIg3dKwzIa1auUWbXT1",
       "view_skin":"https://lh3.googleusercontent.com/NpeZ76Qxap6QqcXnpsAg2dyeItN69CD6uqXzEWr2rCFs19QEFu_WmXchKVV3LMww2r5aAzoQOdNZA4aT00CZ"
     },
 	{
       "id":41,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/THOqL4LhzYzR05L6hzIxYl71qHRvcJUQ6M1QoLMlZuuILpFBquzyo0HGGFBEq1m-wC2m_ylAC_JXONnffxXlrA",
       "view_skin":"https://lh3.googleusercontent.com/w1Bae0ZdQL4Q4tT0lgHtAgJv2rTLSLb2RoCwz66_za-gy5naLSFhmFIWJYB6rWVZm5y87WUyxduUwGLv0OKmW9A"
     },
 	{
       "id":42,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/zn9L1A8mgfM3WJFqZJr56NcgH9uXhjhK6rPrjVFk51GIGW-fI_iGGCtVoZhKtZQ3A61f8MnRcxYaCNAeRmOufp841KGH3IAN2A",
       "view_skin":"https://lh3.googleusercontent.com/mA5tSK9QZHt5AlFHit_tfNk6wXyXqejoE5GTz5Kf-k-2NIsSqx280QDMROUZw3GqkDhHMzDNp69SBjtkrB8XzewMx1WSvU0glw"
     },
 	{
       "id":43,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/z5EnJiCxbEJ1hcOWVWI9l8JZGdVwNODMItstVdhrmV9CEjI7MGekdHBYqnCHR_RZ1u3aJjwsdxFHZzx6W8ARM0Y",
       "view_skin":"https://lh3.googleusercontent.com/kNSfGd0JwPSLyAtNppoImaA_6h38nBt11Y3iOJZD6Pd9mWyCXvEerrPsxtsYTiCtF30b9p3VQ9kEZGlG_a-K"
     },
 	{
       "id":44,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/0-Ss-MP1-2am4dgYoY0pzqHSx2dVN4m_Lp_01GIEnMxWS7iy8Wr5aHB_1ULe6yoKZ8EVNC3Chg9vpnX9HxCe",
       "view_skin":"https://lh3.googleusercontent.com/DMvjc-2_hw5H88OkT3yZa1Z4pKbF-YEOvNKnEDHK0Ir_Jns6jABASumwtWBCAt6cGynxRxlghDgqAVDuvUQ4"
     },
 	{
       "id":45,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh4.ggpht.com/ZM7LovmUPLXZRbDT0QkWXaosuETJdP-Hjsr7S1iPMCWQRNQotzGicHLy6MoGtZdbgQrRNdXH4LwDmrqVbDtqdkg",
       "view_skin":"https://lh3.googleusercontent.com/g0xc5TfZ9gwTk6BGODlJZn1ErtJaLE4jaZQ9E03Hciz7A282FKg0yqN9Lk-PNUIPxrZgle2nFbOw8_iS_TO0sB0"
     },
 	{
       "id":46,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/dz5RnNFfREPxl4XPbTx3FEUZM_gr5T7UtiVEZp-Z2sPFBR0kScfpdXXfAGJqTTc7WBDNmSyFCqJwcl7U0SsV",
       "view_skin":"https://lh3.googleusercontent.com/IVdY6sCapAmkrLFNT11TpGmp7q9oB8VMDUYfo5H-eqm1wmuW0l-bJFobZ6ZMDy9O8bNu5Cymz2qU3C0UkNh74ArnU5moVwA9kg"
     },
 	{
       "id":47,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/lY-pWhu9KjliDz3oF_Hos9VvWm16fh4vQhqIXVVjPWBc6ETn3RrmjF65oa7BKPqU2MimDhf6iB7LmL6qydhkYw",
       "view_skin":"https://lh3.googleusercontent.com/qSWAn2QPI6IcmkIJRLp5xKMHOAcFocBh4CR4E9duGFPPVHTE5EohAxlfiYYLVb_H6y63AQ60X2fxYjfbp_DDqA"
     },
 	{
       "id":48,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/Vy7FPsIR6QtJBhkPQAnglAfv-sWrr5DqIwfKlXhHAMt-ooARi2UYyuxiHRW8GdKr9PWI2COLxKnzPlEAr_orKA",
       "view_skin":"https://lh3.googleusercontent.com/-a3_46GQMcetoBS-5XDQPH8ejLFPPJJmgJQm6z5JLAP4ttVF1PV6_oaYRd7Bl5WXkzYUFuE6cBSMXzE1cE2J6A"
     },
 	{
       "id":49,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/IlQ75x4zBZrdV1tMzW_DqRyuNW9PuZM3fpC2qiGX5BajnyqRmScgMwzt7_KP8wn9WZMuew_nxeNKuRllq4bJCA",
       "view_skin":"https://lh3.googleusercontent.com/uzfJdI_z5FrpdJ1xE5UTpsGgfyGrj1ebEkJUdu8D5jr4zsvqpMDBdWFFdpF-D9e1NoC60E9OjSxinKB4vjlkwF8"
     },
 	{
       "id":50,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/MqSKmon28kzSwMzq8xfIzjeVRw1VUe5U674b4oaGskxixuUEteuLklsUVSLUgEWMePb5ThoY27ATB-JMvpw4W7o",
       "view_skin":"https://lh3.googleusercontent.com/_MHtZuHWcDTg9IcMvZxd9OunhLcaXxohCSBy4-P44axMAWXnqwC5C8vv8lUmx_ZLiqP-JmbR-d7KEXS0a_7sy_Y"
     },
 	{
       "id":51,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/Ke6iH5E-RjoIifcZTkn5b4RneikXsa3K7BbmVumUvmMlszQiEgiBAHhb0qPUM8OLLYwnjn8APh8x1ULNiehej4M",
       "view_skin":"https://lh3.googleusercontent.com/DJvk68s8Ib-DOH_kH8AGCMGDnf6ZX-BVuEMbnNU6c-aFMpUl8zaxNz8IIZFf2dtd9eWXOHZpKvb8xOse3Zjzng"
     },
 	{
       "id":52,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/DC2B8Jyag7Oqju-t9dm6RfAq-fbnrUzLkSyXgAA229Uxotr-47d6j76dtCBSQcdUxk5SMsYQrjrUXD79x5CqBA",
       "view_skin":"https://lh3.googleusercontent.com/qbum6yvrCmhkioEUMWT941cZk0tQbnDCLcUgDfz1F3V6b4A3nXW0Ok9DdTjZs9CDAkO_QRhNAj4H-BUwOH4ZAH8"
     },
 	{
       "id":53,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/2xybeWkhencKSS-ny6GZtmPnaUohfb6ktIqkmjIr4DZ9wptxtcuGV_3UjTrN6riZf8zVJpYDopON0AkV64Unoz8",
       "view_skin":"https://lh3.googleusercontent.com/ROmXtHX_UHvFUcwkfecTyV_KOWB55uLZkdAzJHZRfGNv6QrDf_7qpHnDDGbqtPICSVJONQ9tduOO2LW1LBYWRJ4"
     },
 	{
       "id":54,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/LRVKHaL2ShODEHX_VewErUkk5acLdMB4qum__vOLwOxJJHmVjB7R3uDbuSCfDLqps9_tJTyJwQwLTCDAic-_9g",
       "view_skin":"https://lh3.googleusercontent.com/D_u9_EprTbTwDTzwx7b-VUrkM8_WPN7u9PV0c0bajnapl8WY5pVYCvRwavxIC5SID87JWWDtLf9wOqwFBBHvFTM"
     },
 	{
       "id":55,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/_EIFyoDo7KdDGiqEW_sl_wplUZ9ZFNJNe-P-IfgmYAxhGF7MiR87dns3N46t6ovd86_AdYci6B2VvSFPUWkv6wg",
       "view_skin":"https://lh3.googleusercontent.com/kmsM4FgTO8cMRPRrAIZ9TlJ1AG90OgBWrNtKbXmAFY7j3cMxwikNBs3g9q_QQ5rJqT_kM68xszkjCJ8F2mNGJw"
     },
 	{
       "id":56,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/kndGA6HgCRwgWb3nMmw2f9905ctNASDyPch00h8Sl6UYVdu3xpjXke8vx3CsoPb4NRk7U_antQtwQ-CRX9M55kQ",
       "view_skin":"https://lh3.googleusercontent.com/M6DFCDLuwQfVkDJu01bm6kkEXcj0h1B4eVEZiHbPSNLlZw4q9YIayepM2S4LXCVnrk22wXpKHGF-nmLm3skm1T7dbSBNIGt6-msy"
     },
 	{
       "id":57,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/6V1IQK93ZZAy9QZnn0MMnDcG-8TSr3jzcqMgsIzdvGbf_wVGMzKeSBjfyBGeoTOhVb70akJ-RyZck6UwbofiRA",
       "view_skin":"https://lh3.googleusercontent.com/N1vk8eP5B4LEofujV6wv1kSHClWmUShycdwmHGuIgMejfJNn4TbgnG77fsC-kwhcxfqy_etkEk2imQFy8JUG3A"
     },
 	{
       "id":58,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/KYh0qO2wdAq9K-XYPsHJhc_4zLW2Gxd-SHK6vMrra7Va-e4d6KznQulDTGtxfuVMWpvquLl-J_gYM-XkGVnKrA",
       "view_skin":"https://lh3.googleusercontent.com/vSiFHU5FJJ0LVPYghUutRexIdA75_SZLdo0CwSZJGp92bzl4z7HMfrNQETL3G8o7RaNLuhvvAL9BiyxaMW_-3w"
     },
 	{
       "id":59,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/mFwfH1yrnP-TEzNtPclTYidmqqHMIr2l5-PPvgOeD-wi_E_Sou5rp3iDea7gE5sfpuCSRsot6zwTJ_Rb4KVYTco",
       "view_skin":"https://lh3.googleusercontent.com/bg_1XBs1uEw__pI1tFgD2_VgOJUcjrFEsV9i-OCAqmaOuOnpsKhZv7y1mdx9W2B0dqum3-6CK2KiBKz8a_Fu"
     },
 	{
       "id":60,
-      "nama_skin":"FNAF Skins MCPE",
+      "name_skin":"FNAF Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/Z4UlGInsFPJKifzhI7ixm1VEcLhTkLvUUuNZXphYAbLzh-lH-ovLVvyACgq9RHiE5QqZ6pDhwDGGyk2yWMNemUS7HNDQwnh7-w",
       "view_skin":"https://lh3.googleusercontent.com/0Nu7XHwa43PmJH3b8NwVRxnZjNzvi08HHNqq3MyEUhnX-njWwh0_iYECndV-gG1maAIOvFqtJ_OPFT57xKAXopC1dJZaQAgQZ-w"
     }
-	
   ],
   "Addons":
   [
     {
       "id":1,
-      "nama_add":"Cat Plush",
-      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
-      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
-      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
-      "view_add":"https://aliendro.id/wp-content/addon/catplus.png",
-      "des_add":"file:///android_asset/cats.html"
+      "name_add":"Addon FnaF",
+      "add_url":"https://archive.org/download/addonnmapsfnaf/addon1.zip",
+      "addB_url":"https://archive.org/download/addonnmapsfnaf/addon1%28B%29.mcpack",
+      "addR_url":"https://archive.org/download/addonnmapsfnaf/addon1%28R%29.mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/fnaf/add1.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/fnaf/instruction.html"
+    },
+	{
+      "id":2,
+      "name_add":"Addon FnaF",
+      "add_url":"https://archive.org/download/addonnmapsfnaf/addon2.zip",
+      "addB_url":"https://archive.org/download/addonnmapsfnaf/addon2%28B%29.mcpack",
+      "addR_url":"https://archive.org/download/addonnmapsfnaf/addon2%28R%29.mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/fnaf/add2.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/fnaf/instruction.html"
+    },
+	{
+      "id":3,
+      "name_add":"Addon FnaF",
+      "add_url":"https://archive.org/download/addonnmapsfnaf/addon3.zip",
+      "addB_url":"https://archive.org/download/addonnmapsfnaf/addon3%28B%29.mcpack",
+      "addR_url":"https://archive.org/download/addonnmapsfnaf/addon3%28R%29.mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/fnaf/add3.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/fnaf/instruction.html"
     }
   ],
   "Maps":
   [
-    {
+	{
       "id":1,
-      "nama_map":"Hello Neighbor2",
-      "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
-      "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
-      "des_map":"https://aliendro.id/wp-content/map/hello.html"
+      "name_map":"Maps FnaF",
+      "map_url":"https://archive.org/download/addonnmapsfnaf/maps1.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/fnaf/map1.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/fnaf/instructionmaps.html"
+    },
+	{
+      "id":2,
+      "name_map":"Maps FnaF",
+      "map_url":"https://archive.org/download/addonnmapsfnaf/maps2.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/fnaf/map2.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/fnaf/instructionmaps.html"
     }
   ]
 }
