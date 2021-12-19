@@ -2,418 +2,445 @@
   "Ads":
   [
     {
-      "status":"0",
-      "link":"http://",
-      "pengaturan_iklan":"1",
-      "admob_open_ads":"ca-app-pub-2521648737251856/6780001584",
-      "admob_banner":"ca-app-pub-2521648737251856/7163144962",
-      "admob_inter":"ca-app-pub-2521648737251856/4536981627",
-      "admob_native":"ca-app-pub-2521648737251856/5658491602",
-      "interval":4,
-      "fan_inter":"",
-      "fan_banner":"",
-      "fan_native":"",
-      "startappid":"",
-      "mopub_banner":"",
-      "mopub_inter":"",
-      "unityID":"",
-      "unity_inter":"",
-      "unity_banner":""
+     "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
     }
   ],
+  
   "More":
   [
     {
       "id":1,
-      "judul":"more app",
-      "image":"https://1.bp.blogspot.com/-GRF5s0x9sDg/YTzScDzfg5I/AAAAAAAAAu4/AuZxF5arRP0KDhXEPpsu4f-QQjrYiG8lwCLcBGAsYHQ/s450/1.png",
+      "title":"More App",
+      "image":"https://wedosmp3.github.io/goldencreativeskin/playstore.png",
       "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
     }
   ],
-   "Skin":
+  "Skin":
   [
     {
       "id":1,
-      "nama_skin":"Skin Kamen Rider",
+      "name_skin":"Skin Kamen Rider",
       "skin_url":"https://lh3.googleusercontent.com/JaS8VKPAI0CM7GvAf-qHwvYUKNGHC_c-i6MC3DGz1H5Ad6laPzH1zipiSMj4dB5m2ki180XKZLlcH9fva_L8BA",
       "view_skin":"https://lh3.googleusercontent.com/hg0376BNsShpjntkuRkKVvv-Z66nFsETnXuPy_q-CNaGvKPUQ6mYJHl3dM4142E8_y3JudLw6JFHHRDeDai07A"
     },
 	{
       "id":2,
-      "nama_skin":"Skin Ghost Rider",
+      "name_skin":"Skin Ghost Rider",
       "skin_url":"https://lh3.googleusercontent.com/SEhmHqjTcDBb8EvZLiL-KNbfDZdXcEFTJ3ObDSx0ksxOgVw6jHZUiLiCm6cctiXUtoKsP9RHhpEpOXLjglDYb-A",
       "view_skin":"https://lh3.googleusercontent.com/eO1ohAjnWx_Ctw_Xt3nddrGoUEshj4DBKQZEP-mkgOivdHyKfSjjXcKHSCB7g_46RL6jBTtIJAjAHYoRR5PDMg"
     },
 	{
       "id":3,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/8TMIYDw73UKVEH1eVR0kulq09cW8acqMJwRQlWczE4CQQ9Qy-bEUHbJUGkQWm4zHwmcCh4VleUtPXmhp2Hsp1_lBCLFlS12JQsU",
       "view_skin":"https://lh3.googleusercontent.com/EuYZYxuP-jmN4rQ2k23zTwEuXOERtAB5CjfDtjg_aqORc_1-pJ6CKWw3PhweGhMJN7w584d-eTf1fUTmxRs-CiwwJ3EWvICR7AQ"
     },
 	{
       "id":4,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/GvkgMw6_Z3mMRIe2k_7ujKMnkp-wC_ESz2wvHjb6xIudmOWc4dVa83erbA4hlYgav5pYGexCqxKLcRbaTB-1kVo",
       "view_skin":"https://lh3.googleusercontent.com/4EX_aVPF-10Pa6ao92fu2tv8rwl2QSbycxTQEdRH1PBWkGUAfa3853_zgEHKSivA0tTTTcwHCG4Z-eAfI4ATU2M"
     },
 	{
       "id":5,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/5oMrruVzcsPn2B2YFxiiIeV6O5_n2oecOzLN4-2bj3qDlCzQj2KQrCIOQxn69z-2JHQUgyw8tKg38aciLUyu",
       "view_skin":"https://lh3.googleusercontent.com/yUVdcxzb5NZOsXioKDoljwUYtd9OksrkbW5MBd8VQkn5iLxanY3gL6QKP6spTOglrtNpeFZ-rg-dad5iUxLk"
     },
 	{
       "id":6,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/2IRbl2fpQWFumxSCgglW3uA8ZVtQKrMsj_1yeueb00W4LNuON6KNdjG71TsFssrOt9YG-qmFEmGX377CkjSxSg46Lc2_gRR3Poo",
       "view_skin":"https://lh3.googleusercontent.com/sbyV3Rvf2_tduFgd-juHCZquFHH5M_ACK1sEnL3uO4ztMB3E3eIwpm0OsW5NpOOAJXUHI4x47regWucBPAoo6NR7nY33qQ7zWmY"
     },
 	{
       "id":7,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/bKqcNK6CI87TGWU5-DeTP7NX5gu8foc4Woq8m9PADbYpd5tWbPZ5nE_opaFuTTUERgXzF7FmlkfXaDr4kQuugg",
       "view_skin":"https://lh3.googleusercontent.com/VcoR6cl7gNqCbeq2YoXbq663-fGxvI9n-47A_frqBz4E-x6-E_Am1d_Zr4nTqDiqfkmkRbKPlaXLWazccVpjSBAZbzcCMuIkBA"
     },
 	{
       "id":8,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/l_Ti52E4gWJTKbC4QzFac7j5BiO8LSuIOOtKiMqSX1FYB3dRiwoGV9Mtgg_jiaSpAZJXhqU_KsnDNTKLsPbdOgo",
       "view_skin":"https://lh3.googleusercontent.com/Wde09AnFGZTTwEcq07imRIBLwjMq7rQ0o5KgvLzodyx1-68tGviT-79if_YkyjxbgqR0i5MzzsTVkYkLkuT5"
     },
 	{
       "id":9,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/jYBazyJgQ-AgtJFV09CmBUwOE-_dceeSUdXFPtKf7WjhQJrl_whRFaLOmLfYZPEAfEjxBvPbH8c4Jj6YiFuVmQ",
       "view_skin":"https://lh3.googleusercontent.com/nQrkhvkyyADZ7Z7XRbwOuw5SNmgSyiQdQ9qcDGcbueJf9ppOvKPiTwp6hFwy_6HwTIsLL77n5lqu8laj3T2r6A"
     },
 	{
       "id":10,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/3rBIqSfs45S1jc93AQEPaKi8Z38XVrP7zarvAxnyW9ySXsivPXDHD9L2pnat0cKM-H8P-qJNpPNJ4ngxvpO-9ClkiXTOKzdKC2o",
       "view_skin":"https://lh3.googleusercontent.com/SGxm3_BIwvKkXnZiC-RuB72MdbpyxRGzMEwmT9wldi7wnMltz2kxGDSWY5VfcDXxdY3xN80cp7WqlJt2ycaUpfrfzd7NcsM7ZGQ"
     },
 	{
       "id":11,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/0MFQNXfvc1Y-WM5lhBQFe6WwG5YZiMEirsVCDofPf1aU5D9lXmTxD6aEQaq6othu_uJ7t57i4iUoKWbvK2wVAn4",
       "view_skin":"https://lh3.googleusercontent.com/FGfl9Xb6777bBhSamjtQiA_mCnTNWH8pSH5k1Io4rVC1zrndDkvQ9JRO9P4D8FBCBP5QkS_uj2JqckgAWW03iA"
     },
 	{
       "id":12,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/aPRts-aieV52YisqBekci5KybdzL0GnpmcdlZIfIQMSNmbNHK21OaYlKiO83de-6830Ejsmi6wzPxbN3ApRfbas",
       "view_skin":"https://lh3.googleusercontent.com/s3P4s1sK9jDaEoa5FFdtc-Q_NpVptQEv4Ir1AamUU1myylzWddT3MUptA9-XnTuwLGe0KIoO2Ssio9YZuhou"
     },
 	{
       "id":13,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/r1y9GShrSmFcrnvFIMvOhHEE6jTecpxuIRWm1CVfw5K654PsRoblFc4mIptjTRGwA-CoD_rpaQPFvkUvvXViwg",
       "view_skin":"https://lh3.googleusercontent.com/VaW1-xzeIGzenEn4H-w1OY2Gr8TpChVsgmAFODt0yKtN814aU1pRzFkn00qteFYZPPjEnDwxUuGtw6QX-Lrn"
     },
 	{
       "id":14,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/oTKPqBsCqGsdjWXRTeJq8V3ObeW8sZGVdGp2zgWoczSPKRSawL-TDhmV-IQxz8RnZ5nb7QxvNfQ64_ipJyBNVA",
       "view_skin":"https://lh3.googleusercontent.com/SWxuEJCZNsgGv2U6EeM_EsYPv_OxaaHEOQrD1MV5QOYZlSGMdzFdyER7NVV9LeTJbNaEbijvVeizKYNbJWXK"
     },
 	{
       "id":15,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/LezQSX4GZDZjgPSjdqLqVI7-51HIeCig-ugqT5p8mDS1QDPzIgqz1ToGdK4-wo-5RKMy1hYCe8Nph3t6nASBTrg",
       "view_skin":"https://lh3.googleusercontent.com/OiRiKiYnS4NRklXXDnCOnzGNIZbyLb8LhvQ3e_J54TjfqIvg-8Jz1XtOrULI2zzgbtToLXYeeR1HjaHFw6CK6g"
     },
 	{
       "id":16,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/SDB4MVII7q-MVTKHNiHWl5Pw3p96ainJN-DcPluO76UaMgrcrRx-87F3OCspw4iTENjaVYbd0_blVcEV6XH4Rw",
       "view_skin":"https://lh3.googleusercontent.com/3gmYPBzgqUkyYsJBsfozJrgfX-F0debCJ4is3p9oJyalvD5bNZwOJPo28U-Vo7_OieDcqYClQHtsetLN0czFtb0"
     },
 	{
       "id":17,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/Cxh2Shlt_HVSGTVzcX_COcScgUlViEjhRTxqmRfb5Shdq1VR6A5otJRhP8ZnbbJuDRYaywhFoPc2H9avc0Zy5Q",
       "view_skin":"https://lh3.googleusercontent.com/t9BpuxHaZCFvYbbNoXvPAMzmrF_DJaoeJmXSqcP14oKbRDhP6H1opagORwZk1LUvM_phE1OGJsK9NNLkUODh6vw"
     },
 	{
       "id":18,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/pgc2KcK2iinQBNLAJ3GXmiXjy8AXCP4ox09UsJiBOXS77dxpqgPFbfRnlCjyZvFu_bf7OlGwpyZTR_z2f_Z7dw",
       "view_skin":"https://lh3.googleusercontent.com/vQiH8KCcwZ-lx66wimyCASdjm6IBDr2C2Y_Q5TTbbY2Q7Ar35zRLuB_enq6tkk_LP8d1Uqs2rGm11fsA-Ex1"
     },
 	{
       "id":19,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/Zrs7wTeBhZ5VjNmH6LJFjvWIqGd9Cc_aCmFsgH9GIzn4-s-V1D9q4JPz1Bavk4pAAD3i1HtF5vJSZTsoaXuMBmk",
       "view_skin":"https://lh3.googleusercontent.com/Js0F3c7AB8bD1ZObf4Um5ASP4jIRNhdytSIamu4qn-caN0_N1-LosVfKMFmR5KLHi3hVVHhyL8I5iHjviTWiLQ"
     },
 	{
       "id":20,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/z3q9FXcZAjCd5gFSoo81Rh3SmV2zSOKyn8PRM9QyhfgSR20B_mBciSJ05sqp9x9KKrL4CBJ91uORdY6i2712",
       "view_skin":"https://lh3.googleusercontent.com/z1_GTdBVPg0ffgoW8X1GIhzrnDt2TJnM5IyiN8FWMg_AYj_vFo209t6tozpX-_XmaiSgam1AJlHqRLCSmM2omQ"
     },
 	{
       "id":21,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/w4-VpjT8gKrM12a8GsDEiDsjl2WPFuOAnD4P05aUttywph6cImHZ9j9coPwVqhxXuAC91Hf92C_Jd_WtLiky9Q",
       "view_skin":"https://lh3.googleusercontent.com/jfZh4_8MGiqp8tq3bsqVwbWgLtTjz3VXZWqA1PFQ_fzAK_xthOOz4zVi7QVOxV0KF8xrjrZ67hlCc5C1pXNMCg"
     },
 	{
       "id":22,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/VIvGh3o_DDTd5PpC9ayOIx5S8p37q2WN9OyjkEhKvfCx9W0vU8WwKh3vQlVGLPFe_jMxbP0mWlIbqVQw5odKfw",
       "view_skin":"https://lh3.googleusercontent.com/xyUad5r4Eg6Q-jLbZNKD8ZAaF493cD8fbOTShNDmBoRkNZ9viTzqL-nf0Adwao2v94IT_PoLEf5b9YNjZ1lBNb0"
     },
 	{
       "id":23,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/0ltULHA_pWrIjo7HebN81Jct-_RhKpkykqMOre_dt64MXYsdvK0cMuKdOwHjCxESazhZAhW9VhNjT8XKoMi4L2ZjeUQZNJQawkM",
       "view_skin":"https://lh3.googleusercontent.com/25mmhjqK0xyPuswhjSsJMCjvXS4MANohaENPYtQRqEzehIifctj181LtSV5jODx5_G9SM1-p8mal7x5rYATMX7ls-VHmIDqbAw"
     },
 	{
       "id":24,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/1uzGt5USmV8zGxNIf4gzHC-xpbj-nkhd8pdVAj5s76T5xFkpCioEiXzV8onGvUBtqPN2yOeKDD12wICaAVd3Ig",
       "view_skin":"https://lh3.googleusercontent.com/__1tqQ06doT1Gn2AVImU__LSI3yNtCeSYzquls9SU4QHR9rx2O5Flh_6CNQJM25SvsJaQDLncKnVTFSEPqLAqQ"
     },
 	{
       "id":25,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/BHUS-mkjFJKLfQn5uDqeY5gnZSZa1kXZAEe3VhLxibeOIkBsenGlRgr6Td_Leojgnr_hooYu1O8USZbqFOPE",
       "view_skin":"https://lh3.googleusercontent.com/2gQSnHioxmUu7y-YdupsP4Drze7Tp7l0Qz1yESy7RyYb-Atkd6DjClcEVpy6ysSZftkwbRN-DChk5vH6UpAb_g"
     },
 	{
       "id":26,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/ZZMC8-kRbg5EmHgeDLezQ_Y_LN2efIHd_896iAom8y8ZIrc8I1Yn31GB7glKFCuGw0CH00uTmRMq-mpzdnqqtrd4iECabBsdWV4k",
       "view_skin":"https://lh3.googleusercontent.com/2bBUYcTbuHlPwkX430j0AxzCj40Gg4rc90DhuHo_U1PGIYRr0M-tnlp7aWaar_P8Yk8GEiEoGBnQ6KP2slzRMhw5khUj4IKXzQ"
     },
 	{
       "id":27,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/MxtxfVeumalGbSBPsGUbhkDDMNXf4NuV9Bk3KNntcamhYLLJ9GwUs-FAGOqrsKtJTpXqIntKtpTX-UFbqJXfsw",
       "view_skin":"https://lh3.googleusercontent.com/8l79lDDJTk4h9-rgnGg9C77FH6Hlr8mcH4mI2AKbp4kdEXNdtr90zQYwqdbB5ZtVoFrhFGw4gdAeOCXIguHQ"
     },
 	{
       "id":28,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/UkXHuU6N6NphQu27eJx-ihxNPsXhBEGwsDUbv04Fl7xyOaELsxqeIA_BSG6G8bBaFp0aQrPwcZ3sZuf42b7MmFjsvjYSJAtgt5Y",
       "view_skin":"https://lh3.googleusercontent.com/iM9ytbvAaTUcrAwbI0ie5N_R0RaCVfF89nHzXV4w_9jaQuwLF3Cqp-k3tYWodXAJOtRl2NIQCMqlrHERrsRMOWyp5tDY8r_tv_E"
     },
 	{
       "id":29,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/WCSQbgrMxwPcSlvUuT-QUU_GnUG4xTKr9Hv_JG0-SUyW0S5TmBaHtdpiuAeLRB-1SnOnOCjLzTR65xSm102JVI4BRcYCkBadCoi4",
       "view_skin":"https://lh3.googleusercontent.com/PvQGc6BjqVhKFx8jF7QXtakSi7QAzAaj02fpPt6AsC5j5BFzdbkzV91Mz1MGfrAWB859pKaUQRQwrsHVoa6OC1T21EhW2heoTg"
     },
 	{
       "id":30,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/9AtR8svD8k7_6Y7HHEnr5vTEHKcrpM1ucKHt7A4KByqjQyM5uw6RK_xTl7GpAlSZyam0dn899ChkKhJY1Q3Skj16Kz_Pcaf627E",
       "view_skin":"https://lh3.googleusercontent.com/9frWofGllkNx_opyER5WWrD_-3p85DI_6BLxciV9NlLw7K0ElGrB5YKtHMCaYQvsoxjCd8FkKxBcRfm5rGHfHTNastXUuduemlM"
     },
 	{
       "id":31,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/re96eRtLLHBvR3Kxk9h0M8o4DOz4aAdnsklJvW5FPU4Kz25qNJs-6seMs_idKkf4fYNeN9ZJwmMKaXnG1kh8mA",
       "view_skin":"https://lh3.googleusercontent.com/aIi3mIvpAAaGKnJ6NT63ayv7-JgjAhJIzM-QUFL1xKG9VjnWFdXI6YcITsHfGbiGDVEmOHFELZyc7iyUScszm3k"
     },
 	{
       "id":32,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/BeVr07VvRzyJcavaHTjut5Y0umVpjGILALnM2n5APXn16I1UA-p6FUF4tkAVOoRVXOdfkiSHbG1Tkv2ETEL4QDU",
       "view_skin":"https://lh3.googleusercontent.com/iIEU9X66zqqIjXOVwEjZwWgjj3qBxAjgFrlYtQ3r7y7-cWxvukbnASAp4Qv0N171ni-My5F0SfZOOTMcd54cqQ"
     },
 	{
       "id":33,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/RjixB6IA6BYONXcvSNFiwYZwkmjTCKZn6egi4CGEN-dc75MDsDbLHIqrt5xP89JohgvWkAfeZ9NZTrElAWNNRz4",
       "view_skin":"https://lh3.googleusercontent.com/e73J0G_PP3tAi5MK9yvtQzJu8uyxa-DLdviv6ltE9BjLQn7IDwMocQ7zjWQnsOweTMPSWd4CfNermU2FRL4Dkw"
     },
 	{
       "id":34,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/7CCm_6QkG4i4IWrpQM_RDEirGL2-5C8HAAww7H3uiQkvYwGelp1vOmoWp1RW6yenxgd0dLkqIA7YO5MWjfD3dQ",
       "view_skin":"https://lh3.googleusercontent.com/UuWMtnf7pCn2u_1HNGAeUUojwZ9yc2Bv2W0vbx_juTbvqu0oNA-qU9mXMzFwYFhZ-OwlOSunwaobd0Reo0mz"
     },
 	{
       "id":35,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/CXSkzf_RlPoCxOsUo3XgJv0GD8Nd0LUY4ruHi8GEr4iPc46VooFXUK4por7RlF-rkeIjZ_IECD-rSarBmnqy2g",
       "view_skin":"https://lh3.googleusercontent.com/ZcCHVVjIg4k9U1SSKxJv5ij3DX61q4sbqtO10UX_nhnX01PojX7d_WsVjQuKLMQGzIrOMakmdBGDn8X67qbR63INXdG2QqF1fQ"
     },
 	{
       "id":36,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/jf951KJ-dcO2mQFDBLMySBy46CjA73_2Jk3VFLz1fNlUz6hL1gw2cA7SsjJQvnM42tKsT9EZTDHQMxmrt9N2mw",
       "view_skin":"https://lh3.googleusercontent.com/jxwuHOk0-qTGKi364xclMc1ydoz5G5igfWdhbv2W00ZpXXYRU40F56MGgBOlrAVyuqDmxACLnW2Wdv1S9IU7"
     },
 	{
       "id":37,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/wtHTbKrqke4FqKu1wkOJYuKVV6Qeo6w0058E4fsM_p28M6PrUOv6MUQMvi5Xd_Jevr-ld4zrcxsNyHGwvqJWbEBRx4f-EvaHIYc",
       "view_skin":"https://lh3.googleusercontent.com/Rzj6fMLKfDGq-7rWh9rlUD1iSNXedtAOZu_tM0ErldCrzT-g5YTqhztNV3HTu8KUxB_bnfanz6eWsHO54hPQSLrLXnZ5DpOKECU"
     },
 	{
       "id":38,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/_7Vru9MN8dfsDh0q4Mtl2Op0xqLo3tUCf21yIpg1ncoC88GSXmr7-HD-BGYVIWlYiUtk414pVVOxqIWeuM1q",
       "view_skin":"https://lh3.googleusercontent.com/-C31dwratC5Nko2zegQKTDtizOi1EwFQ330G4L_yBi0PqeN3yUF5FGozrRAC_zypuDyaP5bLifChoEmNpBMCaQ"
     },
 	{
       "id":39,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/ufOT8dBFG8wmsx9F1_bGZkUKm50s_rwbiMcUMn6jT33vVDneT-KGuEivYEWYnhdN7Vs58PMQyzyXOoq_G5yD_rA0AgI7ShRtGvE",
       "view_skin":"https://lh3.googleusercontent.com/rKUs_HLJdM8I9oNBZW7wJe_dmwqTgAWVTuhYU2MXESoiCaHh7Po_lhDnWuwTVIe9EjkwxCUT32DLPMtKis7LE8NUiTzOWL6r2iw"
     },
 	{
       "id":40,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/W9Es02UEQyOiSkg2_QNYMBuZdUvnEvmc9k9RnM3EnEb2wmJfBlyTgZ0bRTz4FW4lsUuM_BIIqSeR78uj0ldb3w",
       "view_skin":"https://lh3.googleusercontent.com/OTZWXDUrp7SfsPA7PYTorM8V14ce9GZ07pRhg7PvppSoBjNyVXLscXwzXQiRuD0FM688UEWa3hGz-KVuGuo6sL8"
     },
 	{
       "id":41,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/nLexG64zKQXxy4mLOd01lz57nPb8HjwES2i99amw77g4-3i8w6eKk_udHU4r-ZGORoI9CXbb9w2jGIa7e7FbBuvbXHXIPVZxBKIE",
       "view_skin":"https://lh3.googleusercontent.com/wO7COiwBj3A6kVIhoPJYXBW0kV9SdIiHAOcCq_YiPsXO9xOPOK3uO43aVmKHLhXtwwP5wVSpTqNSjflIdXyXG-01bkXj6ucSCA"
     },
 	{
       "id":42,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/cBnEHGz0_DlshnUyJ0lMTRxpC-2bqMSGkW_FaJ8LL8lh8KoRyffSrB6zyj075SacuOA86_lKgbfVXAFM580mfGk",
       "view_skin":"https://lh3.googleusercontent.com/7Xpa8HtuCMi2PpWslipfSEudL8NPPxtVlDOXoWQMMmaVCCgYJnB9itxzsNwmVfgkNL6dxn0oQ24OY4b-G3E50w"
     },
 	{
       "id":43,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/ebSpMknYq7UFvmztOXHROoTBMG5bp3_nbNAsrNqDBsFJqU09UFeo3iJ-jvXj51FSJsXzNPekE7wPKkC_C-gwkQ",
       "view_skin":"https://lh3.googleusercontent.com/KM7Z969CwIG_LOsqi1KuH3VRuzVv_ZYd9HiJATbxKcnbgFG1nTCE-eReG77nefW8w4c7O7Onp3p60UhakwSe6F0"
     },
 	{
       "id":44,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/WSy6Zv9KCFWtJSr9JqoJ3NOSO7Ce7KsHwco2NsKXQbgBUHdZdUQgTnnEpefppzRl3YEPKkYgqNofQMT-wlKmpKhB2wfKAuWlY3Y",
       "view_skin":"https://lh3.googleusercontent.com/iINPVBKk-ZO2g5G4eCTd5KQJcNnYxp2Rj7t7ny-Xgev3bNQoHh2DwK94qRI10PKzr_lFGZ2pYCfSdf0MVqbtDwE1OZ_YXRPijfM"
     },
 	{
       "id":45,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/mca2XVqYpAdHXMtXd8ahpnavxOWpZkiAMfP3bdOoS90yC3Oz4d23T2QWqFE-Ap4CHGJ3ek9nJBTkel2aFEm5",
       "view_skin":"https://lh3.googleusercontent.com/emCmFHW8w9_xZ07wqATC0zaLEUzvcnPRPk97yeKdIY10wLbOO65DMlZXpen03yHY-T7MAnCBK7L6lGrCh_DCPw"
     },
 	{
       "id":46,
-      "nama_skin":"Skin Black Rider",
+      "name_skin":"Skin Black Rider",
       "skin_url":"https://lh3.googleusercontent.com/sb7t36oZi0EJDkxZfxLlzDAjDb_HXEqMY8MNACTKJif8b_fzopio3w3rS732S3rF9wRH8ucU7eupYl7XHM8z2A",
       "view_skin":"https://lh3.googleusercontent.com/bfqEVIfKABGO17gqgeBk_TbohV61GuuodF9-7W4mUtmMH50baUloACETj0CuALcXJjchb40lAlCwhcOFEe8c"
     },
 	{
       "id":47,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/rnmZR1vebPa7AOqX3hJfmUT1JZKvJtWRNY9nwrYJxfulU6Qt23YiyjeZnMdLgw3S6RZinmCltiNIL_EYPH9OgQ",
       "view_skin":"https://lh3.googleusercontent.com/33oldj_XWFV-McLv6Cpy5iF7ACwBAm5dUvaXZ4_ciKeDjZr__lw87w53OVwF5I8Pkk7yVRhLWQUBXU4olBBmU7Q"
     },
 	{
       "id":48,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/BrHiSzRXXh7o_NC7xWee4iGqfuh66ORgt8fBh1y5josp-OdMjyIH3IN3U8UdvOB7HCP6NPR-0Kc9Khxg_sg_yQ",
       "view_skin":"https://lh3.googleusercontent.com/d1U8NJQVnlqkqaWph1fHp8-q6P5DOLz47RR-niElIqOGRv1GdGAD7hNccmaFcGLGv7I1XsZcRs-Ur8Jf4wP4UzKdcAISbQjXvg"
     },
 	{
       "id":49,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/Z2SsX-EExthuNjWJ9B3VxRR6IgKIE6RqBjjTHzaEnr68gXnubE-X4Wiz9h_gqC6uay6kpMwo9fQiWp295Oka",
       "view_skin":"https://lh3.googleusercontent.com/byO6I4dgmL1OYH0eLIP6RKoR_dv24kFhPv8ElhlkE-V8J-MHAFyIL9nXtztMsMQAGnr92piaejQeuM0e1eYXZA"
     },
 	{
       "id":50,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/qAn0jkOPHlWCJDrpDYf5bd-NVUrMwGK6J89yW9jtzCALLAtJpT-3R_XxgtILgSTFpblxwGLtwbt5PDYoxRRytCw",
       "view_skin":"https://lh3.googleusercontent.com/Oq-vY9IVU-4zCOsDHJ8m4nT14mHqojF7hfTJTBe37rRM6sjt0KoztcnBJ_gYLss7mMH5l8fw_VeZ0RZNApD1nw"
     },
 	{
       "id":51,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/4y31V9RjCUlRKZQINHFM3yQ-wNEgAJWpps967GubLM-13S3wSaf11AxQsH2NKIwVUejC-pGVSe09hfFg4zCAYg",
       "view_skin":"https://lh3.googleusercontent.com/PtgmRQbJ4ui0J0f0nKWvQQVQ2MiijxJAEd8M1xSxiE6Gk_McgTkantLeBtNW3qkxjM5QJSDmlcbRo8Rx80UMag"
     },
 	{
       "id":52,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/HuyKZc8kf1cPo34FbBZREApIRze1Nljm1JwVzPhD3FmBpoKQ7kouGQElo0PW2erPmyn7TuzV0YJ-HVSYrdSK_7dfe4QyMJPBcPk",
       "view_skin":"https://lh3.googleusercontent.com/ic95jfKul8s5-qoiFCA1R6vU79DJDAsbr-VRU3-f5rWKwRQ-vc909MFXVQ8PULWz3EEMIo5R0okfXB0lz-Gv3ATcvHlXMCqA8Yc"
     },
 	{
       "id":53,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/fwIA9XMq6EQ8vyhNwUJJyzWows9CoZHKZUKvX7jt3ByURvHrxqUPRsxXhJrzGmpXI-24rSAtSH6UH8hh1NdcRveG96QLynDDrw",
       "view_skin":"https://lh3.googleusercontent.com/tfQKBqWIc7C-Yj_JzbNEU0STGEuWusJF4g9tHzoapBbPWXLvLJT7Om5lExzCKVY5UVNIFOvZVp0N2xIhUlMZgSNd5KxDijkoEr4"
     },
 	{
       "id":54,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/DcV2o-i4CdmcHmnq-SL79UmfBY6oh5nS74BYLjoX-0ieeXaOsasHkDFGME9--H13FxSbLygd5x1x2RuvGqq5c1EagCvPGopI8yc",
       "view_skin":"https://lh3.googleusercontent.com/-ZP6l4EYmaj_GhdlPDNpNpAcfk3VO11rikHqMsH6_luTDvCDv3JEF3Ee46JKSwjo-X4YZW3QUNzJ4w7409OPpNsPrAkeLstVQ091"
     },
 	{
       "id":55,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/QuEZoYhQIIZYywtZq-wcIB94vtIyKIYYVrMBm4ahQmTc9rnk_0eYKppPPLlO37Y8aE7NqmfgwT5yq02TqggsD3IlI2h9kFrxdkxF",
       "view_skin":"https://lh3.googleusercontent.com/ODfipVSf7iI8CoLUbZE7MLcKhfzwdRMoL8lbhwNAmu58PH1DkXnV1dinz1YIP-mVrWhn2KPM8RvBBT4_SDRaSSI7w7MSpcJ_yoI"
     },
 	{
       "id":56,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/yAgBGBIP61X-fFGHS3VZv-Zt3gZkY7vCjTI0T2jLbmbWbaAlLNYVB0qJ9o174GxiL9MGRXRXWwR2BDdulK5GN6Y4rL7qa34wfM8",
       "view_skin":"https://lh3.googleusercontent.com/NvDtcJaoDctkLjUclnZKiaX6wIIuSwCV8XEfFH3Bmf0z59jgHezZKyTSc9en48VJ6d79n2KzHdK4Yd20o7sdfT0bjEB0CI7IpQ"
     },
 	{
       "id":57,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/VBFE7-FGGHMRZrse3gHHbWpgLSMvvota9HA7GJuixyHywKfrgxjJmhNXwoQ54AIiLD7onsYHYLNqI6yirnReb4FDPDQUfIhHpc8",
       "view_skin":"https://lh3.googleusercontent.com/d0yIZLJ6UX36yRzfd60dgNtY0S2rR0FSkCqphl-fzY9RydJc-3K0hGyc_rMnrKfI6OxvoBXXScjmgYztukoyJMIvvf412pRCsjY"
     },
 	{
       "id":58,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/9VCOWeWWmKTpgHUKqAqVfgtBzC3d44jSNpfMEIw8cxzMpjjdII1dtdt8ZGo3SYEMJe_L6LcSUCHXvg4z4jpjYRPVnT7tZ4T-lK0",
       "view_skin":"https://lh3.googleusercontent.com/_qRIu_eXbNbAeZYMUatehf-usr3sVorIteg_DoYaEc4OfZ-aKr92XodHh7klCJG5DH2KX0rWTmKg44ZcHOG6zvZ_yki4twzE9cKL"
     },
 	{
       "id":59,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/MEiYhFYSo_R-0azxzIZ4iYDsonnTdwH7ZhstlfQg5Oh-7YVyZU-L7ITP3U6R51491vweWBCMeU1D7BSdaJ2ZcasnCZx2NQ-0MNM7",
       "view_skin":"https://lh3.googleusercontent.com/6JSPCiKirDJEsfqH3AVolddKnSqBqX3GmTcjaFpTibKY_rXYnMP0fDSnpOTtrKpAOTUdEvHiXC38HvQQBXGR_q-34s7tCgrAmATT"
     },
 	{
       "id":60,
-      "nama_skin":"Skin Rider",
+      "name_skin":"Skin Rider",
       "skin_url":"https://lh3.googleusercontent.com/__sCgS51j9vl4km3PDtpsqnfrxkLbiWFdCcibtoPgpb1hMV32f7Tb-hQViQnKGy4MTa72NCpvSI9fxiP4Fmchx-N04jLw-G52lFd",
       "view_skin":"https://lh3.googleusercontent.com/52sXnVWBXMxD4WegoDNlDw6-o0Hb3v2veS4iTkXkXF9u1tnbLWbPKCjdZh4slE_pPZmZztKPO2mGNzOH-OEqsSjfOA9XN2bqrvs"
     }
-	
   ],
   "Addons":
   [
     {
       "id":1,
-      "nama_add":"Cat Plush",
-      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
-      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
-      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
-      "view_add":"https://aliendro.id/wp-content/addon/catplus.png",
-      "des_add":"file:///android_asset/cats.html"
+      "name_add":"Addon Rider MCPE",
+      "add_url":"https://archive.org/download/addonriders/addon1.zip",
+      "addB_url":"https://archive.org/download/addonriders/addon1%28B%29.mcpack",
+      "addR_url":"https://archive.org/download/addonriders/addon1%28B%29.mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/rider/addon1.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/rider/instruction.html"
+    },
+	{
+      "id":2,
+      "name_add":"Addon Rider MCPE",
+      "add_url":"https://archive.org/download/addonriders/addon2.zip",
+      "addB_url":"https://archive.org/download/addonriders/addon2%28B%29.mcpack",
+      "addR_url":"https://archive.org/download/addonriders/addon2%28B%29.mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/rider/addon2.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/rider/instruction.html"
+    },
+	{
+      "id":3,
+      "name_add":"Addon Rider MCPE",
+      "add_url":"https://archive.org/download/addonriders/addon3.zip",
+      "addB_url":"https://archive.org/download/addonriders/addonghost3%28B%29.mcpack",
+      "addR_url":"https://archive.org/download/addonriders/addonghost3%28B%29.mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/rider/addon3.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/rider/instruction.html"
+    },
+	{
+      "id":4,
+      "name_add":"Addon Rider MCPE",
+      "add_url":"https://archive.org/download/addonriders/addon4.zip",
+      "addB_url":"https://archive.org/download/addonriders/addonghost4%28B%29.mcpack",
+      "addR_url":"https://archive.org/download/addonriders/addonghost4%28B%29.mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/rider/addon4.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/rider/instruction.html"
     }
   ],
   "Maps":
   [
-    {
+	{
       "id":1,
-      "nama_map":"Hello Neighbor2",
-      "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
-      "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
-      "des_map":"https://aliendro.id/wp-content/map/hello.html"
+      "name_map":"Maps Rider MCPE",
+      "map_url":"https://archive.org/download/addonriders/Map.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/rider/maps.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/rider/instructionmaps.html"
     }
   ]
 }
