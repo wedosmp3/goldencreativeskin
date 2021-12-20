@@ -2,418 +2,452 @@
   "Ads":
   [
     {
-      "status":"0",
-      "link":"http://",
-      "pengaturan_iklan":"1",
-      "admob_open_ads":"ca-app-pub-2521648737251856/9798338162",
-      "admob_banner":"ca-app-pub-2521648737251856/3616073192",
-      "admob_inter":"ca-app-pub-2521648737251856/8676828182",
-      "admob_native":"ca-app-pub-2521648737251856/6050664847",
-      "interval":5,
-      "fan_inter":"",
-      "fan_banner":"",
-      "fan_native":"",
-      "startappid":"",
-      "mopub_banner":"",
-      "mopub_inter":"",
-      "unityID":"",
-      "unity_inter":"",
-      "unity_banner":""
+     "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
     }
   ],
+  
   "More":
   [
     {
       "id":1,
-      "judul":"more app",
-      "image":"https://1.bp.blogspot.com/-GRF5s0x9sDg/YTzScDzfg5I/AAAAAAAAAu4/AuZxF5arRP0KDhXEPpsu4f-QQjrYiG8lwCLcBGAsYHQ/s450/1.png",
+      "title":"More App",
+      "image":"https://wedosmp3.github.io/goldencreativeskin/playstore.png",
       "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
     }
   ],
-   "Skin":
+  "Skin":
   [
     {
       "id":1,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/8YrMa1gyEcltt_ZG1xegw6-UkJi2-udbieB3eefHPeX0uQPWlh4sCT95BBpVB0rOo4mlLa-q4Vz9zXe93IrENg",
       "view_skin":"https://lh3.googleusercontent.com/dVeqbiC17iHhv2VkI5PCBfjn8b-1O0PzQodoaxC7hhd8ba_M7o17l9U5mrtLSz2ZLfH28p3Id1FpibaLDcMSnw"
     },
 	{
       "id":2,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/dR2YPFOiDAKY9U3UKwKopH4J4Fb3x4lOXjO_RXNXhIN2QqqoXhLn2aB3Kb3a0If7-tLW6iH2Cux3i1V4lkyO",
       "view_skin":"https://lh3.googleusercontent.com/QO1IUfeFwXoluP1nktpSC1APGOGUqgU62ZvC9-8temd4ziySQ4KrB_zbLBhaZhtXFhcv12vLdiAYh1LfpXMMKXg"
     },
 	{
       "id":3,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/NzqNkhKfp_Bwnm05iumCQvVhHzCKrtkUI_KZpltIljG2iuKBvFny21oFNTBU5peUSXj6SEZAWo2XoiS6RUkGmA",
       "view_skin":"https://lh3.googleusercontent.com/knsOJ24xg64_QIngajvt__U0qeakJemrQH3I93q5Zhe-gDcV1SFPmLFmihN6e_yxjLTwre7udMC1n2EQYN01dfwmvQGzy461_N9O"
     },
 	{
       "id":4,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/v49_tsqWDs8DidE4-OMlQXsGVCeTuemoBDsYWn8XB6qclzOwxG6BqHxGWmlWfcgA75C_S8kv3DtDMJh6n-xaOro",
       "view_skin":"https://lh3.googleusercontent.com/OPxpsrluLMKGKlK1V5wZTJcyOkQvkmW_CMb48wZJr9fQ0hPPW553pozm20z7Kjzho-UXyseynmk8p7FHLBH8GQ"
     },
 	{
       "id":5,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/7edH8__ZwnSp9_V2AAEri-OKBBn36TAnoM_i6f5P59LxNrn-H1qYGqmWR1biI1rpDmlHZLlUv_hVECc5k1V7",
       "view_skin":"https://lh3.googleusercontent.com/VZ4UcIoDxvVkw-NvY7_23hC9PJiIcwR_vpnZBpkWrpFO3dP4ypazUhYcRbR1j7h-SsR8piFoXRb2oNJXITG-"
     },
 	{
       "id":6,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/5LpedHhUKX6J9MiR4MLnnwyh-8AYNI___OgbkUO43LOqia8r9Kg820rpwXJdXmsyqcm_70Pxq3yb7mk2zRyYDw",
       "view_skin":"https://lh3.googleusercontent.com/VtBb_WgQ8OSQLt_Yr4XS228X3RvTEnIVrs3lyEqYHT7mlKC7lxdyfJR15pYZxZW_0VGnp0ApgvL2gFWCkNqxng"
     },
 	{
       "id":7,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/6CZpC0PmG__NSA5-VX1h_OrDSK1yHIHcBjE1BnbhfrNA7hLRWqKRLee4qaazWy6d34LucO74m2ask1_em6DijKY",
       "view_skin":"https://lh3.googleusercontent.com/G3rKdT4mybdQkrxlE_pItsS4xuKqerDiqGeb2KfuBK9q35fABHltF0Izm12nbLipemp9DUbdAh2Bbx5NYWxWxL4"
     },
 	{
       "id":8,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/2jdW6HJeGTJtFpf3wwvfUfxuq21NOVQCHqQPJk2AtU4EScpbCm0FX1lc7IwBK05l69qYMswwP1gwJIGXHDI8Ofw",
       "view_skin":"https://lh3.googleusercontent.com/x2j0OGw0UlDZLsHsCoPXlp2Of4annn1bk0PxwDgCKQezJr5U3xLUBf4Px_6oLQLfake_qjWH6QMzUZD3367yMg"
     },
 	{
       "id":9,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/ELKmiWtapFPyCVMhHFmOj7BV8db7N_gNsOB1cDZGUDhJPKvW42A0hJ5Pf046lu5rszswi9GkUsgd7esBNzk9xw",
       "view_skin":"https://lh3.googleusercontent.com/mglj5to9OVmR8D93x1KzBfNKFNUGA2tL_LwQnDjsnnojzJzdnYK7eswfHvzNB3Dr06cGem8sVsb2xH8FA93eDCk"
     },
 	{
       "id":10,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/HqCM6pjftYICQIvqmNjQ3PzTBDXxqEK5qKSaMASTh0snejLafPTw3tKcmTYCs5opO8syDImpxfqTM-ghWHLlAGU",
       "view_skin":"https://lh3.googleusercontent.com/SPWrV-gnItlzxbRNdDjVEXy2IFPVz1tCaYcf_6MbSBCBOfIxY7ruo1OFYZfycbhXFwdz9kI5V2ankouKn_6i0Ls"
     },
 	{
       "id":11,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/WAYAinkaBRAzQk74Lwe5qpb9SeVtt0JcVRpIJG_bfOicpATjrEz-UNq-E4U_T-2p5emGjLPmU0-X8viIYk9wmyA",
       "view_skin":"https://lh3.googleusercontent.com/iji0-wUrOMid8q_KGB_Jdk4auLOmQ8IA7gdgNSI8d9-AoUOXdxekNroUm4T4yE5Mb4v8QH13VoTxR80inPxaVQ"
     },
 	{
       "id":12,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/HRUywPPYtuZ7ipHkAPNg3e7edxkLiEDC0tmGwYje5ns2Rsvs8NdJrgfXGgYuHKQLJvovMP1Jla5F0pMSG6GPiPkdJHBC5yCUcKE",
       "view_skin":"https://lh3.googleusercontent.com/MPm7JZq9zr7OdgJkcE8hkIK6cIsvITfhkllbQYSPBnqWoxVhwq5zM-moG0Qb4pzK9gI8396HRppDY8X3iOTN4mN-3BlIphYcvg"
     },
 	{
       "id":13,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/EDialGjRGNGKXTGnZ4MV1AYik44sOvE_PzRj6vvMBwVVlc9JzZYLCQD2GILHajLco0h7BfG1twD5yI1RkATQ0Q",
       "view_skin":"https://lh3.googleusercontent.com/dAKnbKbqzUVXgCahkAhkls6hnoZnIdzquJGX6BH46-6b7BpxrlKGo7eDRSjKhT4RucrbS0_AAEcAbaqIaonq5Q"
     },
 	{
       "id":14,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/Z2a60TV0Mqpxvcpq4yyqXUX4J1KlBRpDCitAJhFtGD_PKr8W4NWRA18IPxdNA3n-cypARVvFDbTPtKLv0tkmnbk",
       "view_skin":"https://lh3.googleusercontent.com/0vgBXZbHrfEagkehIjnOezcxuy0odNggaoA9qqAvJdutRljkaEQSzUOWD8B-0Zu0LLRq57ShNC2ddkj0NU9p"
     },
 	{
       "id":15,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/T2fC1VjMRNkQbvZdAw7XE4qQMlJgd4rzcVH_sP-vyxXf8Z67nXqcQXhwhifjcTYu2hIg15Nvfkg1-3_uwK1OGtvvKfNU9a1pqg",
       "view_skin":"https://lh3.googleusercontent.com/wD7YUNzgpB4K1Z53JXvz6V-kKyEDjQ2OZXYFIkl7vqXPCbai5QuK2R73vIP7cqJ6LAehBYhW93mSJ1ezDLDCorIGD5g8ylKE_AEQ"
     },
 	{
       "id":16,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/XDkrT9ID0vZirDJ1m0YS9T8LRTPQ8kwW4_KqxW5ZfwG5x0BLoPJnCxpnk9uuKBI7NundN46IMdpMHNimm0P-Zx8RvTxcph7jfoo",
       "view_skin":"https://lh3.googleusercontent.com/tcx3cWjCXRgxS9RRnFZuge4fj_J0_AF_eOwYYEVDsLWngIXZxOfcLy5B-WvQn88hIW9e7qQ7s6dDw_Z1blsyH5kE6tow86yyBqhF"
     },
 	{
       "id":17,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/oXsrnzWydoGFP3m8H7Gvhd3Ln9OsEIIfuhyf-3Hv-KIOnUHntfV45VFqys8ncBWZTTq4tLF-QvVdvODK05np",
       "view_skin":"https://lh3.googleusercontent.com/jtiZkuM1ZAiV9_Ddc_NBtzOLKBaFgHXCVPgN2OsV2LCJmTlCDACy6eOyf0O7yZ8RrzRFysrsPnwcMSxuH6-YcQ"
     },
 	{
       "id":18,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/wB26vTr0TbBqf5_LB391Iibp9yddo3Rel_9neVZBbVGa8RGDqR96Z7zpDC0yR-6TKtaJ-H-JsdPHcFtBtRmvnhRaEjVBbrNEYfhH",
       "view_skin":"https://lh3.googleusercontent.com/iJ1-KQ2JW1qHn7uZwx4e0fOSfHnEjfxghaJd7kGngm6KblFgNf0j_L9olgYcYI6GBDnbBDg4mawCDYMxvUwCWrJq1XuQHZ7XANo"
     },
 	{
       "id":19,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/Z-UyTv1vMBlNUE2K5EJ3Xgsa-p4LHAXMW9ALsOcMZrh91rMItq--0c8P6H4WT4cf_p4aVdhyDvvevypWRP1pfA",
       "view_skin":"https://lh3.googleusercontent.com/8z8xVPDgjXamOrwumhEPNfReEiCDovTUTUTKlsOAmOZOkLvRZzbo2OZMzzqNQxBRl32KqvGba1eJCuIfH4CXew"
     },
 	{
       "id":20,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/SiIZfgQHdPF2RkGACH-ruiNf2gU_lU_FkHH0pgrAxDDAjg-Kokzc61GFMpSWXRTHTO4sAyU5cHTBaH5Y2HYuIss9vMvDF_bXSQs",
       "view_skin":"https://lh3.googleusercontent.com/yO4yxaIymiiKiOjkCydjmuhatZKD0EJfAva91qt6xDabKXyj5a9HfAWIdw2Yy2gq7bMhAZrdAHClzpqmZgPGule2mGgeODgwBVPw"
     },
 	{
       "id":21,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/Mm3W3yKfHZTAIiIhLnA3cPrBFIHauTGUeCScv4pUzYMqhpyPx9XLee9v6MlvbtG-W9yutIezclPQUCBthiR5",
       "view_skin":"https://lh3.googleusercontent.com/fSJxYjLZjGobOqJQMOGiRtV9ct-jYP7IEjM4e0s-NMHAFqjVJWkWFZCKErJVwi8RK6eLLT3Ql23x8dD63zHA1g"
     },
 	{
       "id":22,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/VLRaR_5Lp_rgKtJQ-bW5Mk7VW8ShGyQuIpG5VGJGbfAQMBeSHV1KltfPajshr8BLpOx7e-BLyynf5txyI4BDAQ",
       "view_skin":"https://lh3.googleusercontent.com/SQ4IwnUHG-0MFtlylGmGgfoRsGxc7ZW7f6esSuGr4xNKyS5B7wCNe670GOVd8FlUPPTuyZo9sq7xEcdekZ8tt7U"
     },
 	{
       "id":23,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/qr6nOIHqqMR2q0Mrr_sFRZy7qLtFlEMiqjl-m0cZlUtxBzHKqKVUzJ8xFcDtx1Yg2E_jHKRXNjyVQlSyxUit",
       "view_skin":"https://lh3.googleusercontent.com/PUcu9YWNf3IWUeX9KSYv3Sescm6N-pI4lIEgIU_DoSfoq6L784Mr8tWdVxGwsLw-DxpMIxsAAx6S-30l8YhZng"
     },
 	{
       "id":24,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/H3ZlsakAIFNe3KsrOOv-BQf8Dvy7MQ1cOa0RcM3Um_lhiM6if-EiFeZkCIIWGqRZdEKcerynFotFQnwKAN6K_Oc",
       "view_skin":"https://lh3.googleusercontent.com/ijW6sdF7mtPm_K4EA9jdMKVTKPQOLbbA_Ut9oc_kT-lsHaCeSTUtWDvzUYosBLCJpEv6hD1oRBJxLPP_mMBBZg"
     },
 	{
       "id":25,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/tsjgl9gqBkTYB3nUPmoQlzdAE2_u7A_bKQZebWUbpCkY4K0hjVF8E9tlFyalcYx4O2DtgR4vbvy12cWKHjYI5sXw_BvDOjbfH7x5",
       "view_skin":"https://lh3.googleusercontent.com/aF7YpMWGCZZGpHuIlziT7ZR9c8q46QRFfvFPjJyKY8gXlrMBvsQb54Yt5UZ_34roWbyygTUDpIsOiSNhtCr08w3NjATwbJ16KROr"
     },
 	{
       "id":26,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/TFygXcKrmIzUMdt_AwDOpeji--II-b85hwfpYhPvAvADiWH4ZCx3MbVgnBT0s1FtOImAdlbnAyK9OgpatQTO4g",
       "view_skin":"https://lh3.googleusercontent.com/W3F56diO0wrSMG4alw_eF9fMtXI9kUYx19-u99GqIq_tM4rCxEsN9KyBIGZdZzXcFLJmuxOBVDmJkFPwT5gC"
     },
 	{
       "id":27,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/Z65QEYAOLGP4ahzqlICLxvwa_6jVf0I2aV7KtmtGiHB9mvl2sj6hX1xfbKnZcA7zLgg41na6y36YZJ9AoMDOUoM",
       "view_skin":"https://lh3.googleusercontent.com/SYc3RxdQYNyyuFj_KRBrFmFanY3mSChaBIqvuMEX7VgVvvTB7xQZkZkgA_t6oN6rAL8QBnw0T5HzNgZ9Sx5MDeo"
     },
 	{
       "id":28,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/dkfNZvT0SOIJKWbtBUpV3nobnL495KRKesFikLnMmxAwwiatySRuvn4oQjnMAOPMPumey9EShnB9oEl4jlL7z8E",
       "view_skin":"https://lh3.googleusercontent.com/I1D9wAtPYdT6N_2CCDmr5UV18GOxNmgPW8O0DqB0ETV_0RQQ5sqt9c8UVTOdhwoYXgkbXXfaAN_OPJoTbtSwsw"
     },
 	{
       "id":29,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/KU8VfgPdL1ciW2jkw3pikIHsxA0c0wpYBBq3N4Fre8PkIXQzVUgl1cyn-6VjKwF_SULvTcexxcS7a4Iw1XUz298",
       "view_skin":"https://lh3.googleusercontent.com/oT5rxIVowhGPRlkRs-SQV9v5jnru4JCGdUquUIJVeo8SEYbPWLW9Z2Q1O9S8IM_849KZeXXsUFl747IyAD0_"
     },
 	{
       "id":30,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/PfZPljLA0mvyw2Iu7y_iqQhavNFoxv-SJYK6IcAvqZi3BmEzg6X1uCZvA25RvTvX2MwiZjMd9s-SYi3ij_bOEA",
       "view_skin":"https://lh3.googleusercontent.com/2OpdFEXBb9nzQAQnTmsbK-4nCqZNVJS4pqN0l-VhSLz_6Q3XkkdGhmFPvpMTIEv-bjrR6Z0qlPJ8B2KTQpIwOAiAnJPV6NBJCO0"
     },
 	{
       "id":31,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/gQBCprg0eKN4gsgXp1l2rIOs7r88JG9TTXJQ11iFDLjasDeqKgTrtSF6N-Zkd-psdMKvql_8pf1NF6Fezk2gmTcO2Wh4EoBLCw",
       "view_skin":"https://lh3.googleusercontent.com/X9hJvaPPsLijOD8qlXJ7vomFZTEDljXVFle7OQFTKES4o7W3yyfs8SY9qFHg8B_RAuTZ8hziFkj3eRp-MB6OG7wA-b0Ya1seV7I"
     },
 	{
       "id":32,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/dRLvMBehFN07b_44gc1wRnxW40SNskt-7XKz5QPxgEzuDxg3PNc2XXApyl5BviBbn_ugw9oQH_sa8ESwUbRiig",
       "view_skin":"https://lh3.googleusercontent.com/bqUUoBh3Xa80TarmGWDmKrv2tCIF2oRIakjgHK_95oXOf_swMMqjIos6sSyY3lYPexsakhPbTYwnF_HNt_JL9DArJi4LvfgcZC4"
     },
 	{
       "id":33,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/-d3qcW56_Q3uAz4zm87gBZhONoVR1ULjuwqyx-mySiEgfo3grGGKNJ7AVL2NySLvuPbtYnKhtu0mr8y-0pJ30Q",
       "view_skin":"https://lh3.googleusercontent.com/PapiFFdmc1TxNrAAQo8IMh3PeVlkDHi2KdPK7TMvVv7mLToDmybXt-qns4M15DB2Air1Udpev4_DdqL5Tj3ZaQ"
     },
 	{
       "id":34,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/7EUZQlPrJudY0EtjKx2d7zWSclZYmN3rGIDIs-HGPAWkytsuDj9T-Qk-i_sevDuouYpXhLifBS0LBI-h3uqahOfNvw0vrzTohr4",
       "view_skin":"https://lh3.googleusercontent.com/8U4fmpho2DN9C2IE3m2vcHhBur85ed8ahd17dt5pEirtavux__KzFjzcfpAB1OAdsxbFRsqBFQEL4XJGKnEK1WXxumlITkunKQ"
     },
 	{
       "id":35,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/VKPQaxLvuR46DcVyF62KR3KqKVa9GpMqol-TAJQSkLpvEQaavx7nR0meNWCeDe3GbBsh2yR_sLIyyTgYRj1Q_ws",
       "view_skin":"https://lh3.googleusercontent.com/11RtQ5TEveRsIr3iFPehETxPcR5bQ92bL1-gZAWZRWOXxFF0jaH0eJlKt2aZtADc7bgLlAt2UF4GtUD1pXotYw"
     },
 	{
       "id":36,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/w8RpuA-B-z9hY5JuaOyxCIVr5wpIHkfO7oP_xHUDqHzzXKZkUIUrclBGRr1GyuCEvI9WnuHQB5nWmvsKBqb96Hwie5XQi5bqcpds",
       "view_skin":"https://lh3.googleusercontent.com/UE0LkVEqrg8U1n1SsIVOHVxqUKBgh30KUJUpdIWKHCgTL0uDHaUkCiWiC2H6loPqd6qyY7O_81Ht0kqwUX2Y8K-RM49CVX5bhY_6"
     },
 	{
       "id":37,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/6iW7JZGxn3txLOl72dPCOxSOkeTMaIcCUVCCw7MzQ-2TbDxumXI0_97aRQsToAwA6KYHC2BZznoENdDE72oC",
       "view_skin":"https://lh3.googleusercontent.com/Um0v_kktJZ-TfWZcCHGMqjAUXu3AqA5qYfa7cctleRSDgPFsSBcQPfvp4H8yzPu5jnbM_U-FmL9PEjPGSx2Ahw"
     },
 	{
       "id":38,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/07noohhvJeg8zUBlDgktdoKPiZA5a8jMQ2zWVMQMX479k8oEwYbq-GVOv-9HwcMq9YNxv66IOmGS7UgT7jwJ0KgVd8oDuM3F470",
       "view_skin":"https://lh3.googleusercontent.com/1jJ30RrIpfAHXRblfD42m2ZanHyRhk72qcnmbNv6Yo9krAKHIiZY9jFmm9s4iOGSFPNzy0in2IEj1P9xp-95yep0-uWRCpNoJSU"
     },
 	{
       "id":39,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/odHpFnnmDBs-KWyo5DupMzxUMYfTCXVlbilwbes7qtIwvXbmauq0pW7jSnr2fYq0Ep3uXNBBL0pauLQeLloLhg",
       "view_skin":"https://lh3.googleusercontent.com/eufXvwDouT5jB5ckc1yFPkSVQvT44wjq8wOHLDEiDd3SEf-GodAgYcwo5jooFQtHYGomddUfAb94cHPGzIH93g"
     },
 	{
       "id":40,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/b5TdAEqa9Pa9rB4KDkPYD32UdG3oRpdt820qgMRVlfhCB070CZQucHkvdrtp2vLb4gD7UJn-PJEE1nqwluMqEw",
       "view_skin":"https://lh3.googleusercontent.com/FMHreOPHr_T6WAtbphZvBgo9Piy129mR5CaH77PO_PuumWOThwe7AS-_tLi5xk5c2PPpqwJzVywcaO2qbfrOQBE"
     },
 	{
       "id":41,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/vAVdtuhbHFSswh_hIJkSWMJMfELJE6WqbN4ZqT4KxNfT2AOw9yNRfYfdaAfZF2uaIRRopItEkN-BpzCbmJLZbg",
       "view_skin":"https://lh3.googleusercontent.com/rVArOK4dnMLL3g2VNT2-6FJngCNyvdSy2DcJltGlVkybPAWoGgKlCxkt9nuPEEQCK5_znLOxuFNluLSGSSerP8IaojoyAHXIP7I"
     },
 	{
       "id":42,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/IHVVgQ61kA1KiJa4HY_fWnpmusjMAxvGuqxkUHWxWKArRnMOG9EsSb5fD1WwwJ97hkBTG2iUVLoS4xUCBM48aw",
       "view_skin":"https://lh3.googleusercontent.com/XQxjBgoLTLqSihSNw_-4aanrQShGfC0OkaaB3E22ZlIOjU3lQ0l-jdjNhwaK-eKd3mrOkgCbn4qFuHDA39vUOQ"
     },
 	{
       "id":43,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/cHPl3aUANxjzyTit0RQEbMh1Wr5L0WvdUtu10AcrUifrUYxNi1XNnVm5mViJD56hQvRxBfdyjejeBsHfCt-yiA",
       "view_skin":"https://lh3.googleusercontent.com/0T5kwyHKkOt2xRX0yzAT14Vvk80TgDwgpLnL095uUep-t5QsMqbvLajo9ZXvPwvSAkbfCM7svp0Ozux0AmM7B1c"
     },
 	{
       "id":44,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/VKNQL-sY1sXvW1ie0m_nqYJ88L52hqxD5QIGeWGpwq6EZlu-t84vsCwXhirJyVbg550oDGHFFCllFt4icVDnmw",
       "view_skin":"https://lh3.googleusercontent.com/QyyRjxKfOPMgXqDHY65T3Izh9R7tSDMGzJZjTMijnEnRv33KXShI2rl21tSKoKp9EDZknINSIhVUTrCIpw2A"
     },
 	{
       "id":45,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/xDRDD8Q4frYsijKCE2qpYWTx5RMOvnGZm5RInB65MXi9Ce2SPRjAUEPIyZU5EpmtzhE_9mi308M940HtVWEGD9Ws7PsPf1I2mg",
       "view_skin":"https://lh3.googleusercontent.com/2hyPEdT47NoJxS5EWl7JjjdlA-ISsWlju9c_hgvWMT0ku7C_0bTZZ2Rf9XVQzcsyCNrtWJRmL3Qe85OcKTvsTM1pqsneQlM52-o"
     },
 	{
       "id":46,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/10rNij1ccYWaV_Q09dSC7M5iirmP04y4PvnJt_AVdhvTv1134gKLFB058-nInfmKIP1cZS4RNOvEVuCKjSk8cks",
       "view_skin":"https://lh3.googleusercontent.com/b4wyifde1PaamcYc5V8tha4GOQ1QWWCES9JU7Qpq6YeSULqNYlfOwtegnY_qAzgCw3x4JjM3A6KIoE7D8OBM"
     },
 	{
       "id":47,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/qtkLM1L8fcFADDeseX4-SBvNKAy6PqsqRIbL_aRLZyf8Vgl1uqdwtqBB1zAI7rAwzt7HsABxmrwQVhcAZfMCYuc-9DU-eREZ2SI-",
       "view_skin":"https://lh3.googleusercontent.com/T9QaJ1uw9Sa86nenXIM98nFsPH6wsRbgRWHlSaAAlJ23mS3PPrkQLJ6KpZi6yq7I5iOw1hei42LMzwmnobk0N8aEJNMroybDi-zq"
     },
 	{
       "id":48,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/IdUT3ujAgLPYpemY3B-4OHx1PA2xuBoZjZUcTHCUVjqo3EX65QgLjFOeHpTRZaLPcGzrMGjWHWXYgHLUxqXpZTs",
       "view_skin":"https://lh3.googleusercontent.com/sY46W2zaYbrL7sLyjPc0y-tlvDCAvoGES8FvI1fC3sDVorRqeP-BaMgwuarh2GhrtzBD_52EkPhT6gmY9OUgXOI"
     },
 	{
       "id":49,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/ErZUwdfgW1wVThKP3_w82gnvOMGnDksCN9KoXjztriHnAzH05_RJQ4mJO1yJ91q28eWbB77lRo-CHPIHu1QLRA",
       "view_skin":"https://lh3.googleusercontent.com/t8FicsMPdO02y4GwlY3-EP2YaV1ixnweGwDgqJjM_PTH53MG6Bht5VrXDMWJUJln9NoCdqGTXz4qmFZWv52Y8A"
     },
 	{
       "id":50,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/N6LOCeBRFrBD7hOM98RcZXJeofwfdB2AMHoXFJDLZRqIGOw3XPJ7nAS3Nzr-fB_ER0B_4zyso_t1cd_YDjJAug",
       "view_skin":"https://lh3.googleusercontent.com/NmIiu539OOuRgfLvQvZwdXyopKWOJAnBsCQ79EfoPNyORBBpfST5pO3FIhkSY9e_QRK1-300tn_hzitlQSJ8PO8piQIhbzhbROHz"
     },
 	{
       "id":51,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/cw2CImV6CeI88D_bP2GXQ6gALhjTaoofz2f13n4WDnxU1o5d4crrgfmfCCFcsOz1VvfX1gonNViwVTLDXbfQYQ",
       "view_skin":"https://lh3.googleusercontent.com/_7mJXTcmcezhJb8z53JLKp9kMq2E-s2MyC-y4UKC24p9sTR1WQmSQcBgSYuxoIXdunYQ2atIK0IQAo-vWpEf7Q"
     },
 	{
       "id":52,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/GLP7iOBwW-7BE9zC6yTYWs6qWrhSZclli2qnvU9Wqr_fylzUxpxMdDykueqorNU-yysnjpz9159CBCGJYn2T",
       "view_skin":"https://lh3.googleusercontent.com/INRld8UXOOgz0NXLlDttgwxJJd6MkJ6MPRmyfMbJRfTgk_WlS2TaYXE4OADk22H3gnvYyZdkriwiB2hPyapbLA"
     },
 	{
       "id":53,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/0D6pOfJwK4CeAzhmrqCZQldm-GPF02_AeJ-p_z-6WSNkwGL3MvXOdPmhdMQTsQP3MoxG3RVIohP0kc554mRJag",
       "view_skin":"https://lh3.googleusercontent.com/rlykMoBDwtf8vI1uhL646EQyoxcnKh6UTvyc1_pNiUYoVHs3q1fwxIbtFKgCA7iWJe171D6qesw7eR8h2EBWWw"
     },
 	{
       "id":54,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/145bq8naaOhMO_vXJgIiH5_58iWKc6kIUZEscADH-lRn39Qrj9bP6Z_cgSzkMYsHc4V1-pVIWaUJWjzP6JWH3Xo",
       "view_skin":"https://lh3.googleusercontent.com/yRwqSo4F44H5mneLpG_sTfzfreML6Nh7a0xLVmBo2-ckMBVIfgPkroLeFYtJTrjBgOcTAwEdR6k_cR2YzXZuWwD3oh2S__Xj_A"
     },
 	{
       "id":55,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/DpeI59GO_dRWn1wcuIzmO3sT3ejeBljXQWbUO_Dr67ny4vtiR-D7wdI6UJ-znvy77uRFe-zuJdO5KrbF0RyUjq1v5v03c4SrsSY",
       "view_skin":"https://lh3.googleusercontent.com/0B44cdPyLcBokB7LPRvo98ar0toOLk4-ofLj4neHJDY_BP5qEpt-LBa_NDjYaAw467kHD6LIWXbBthXAJhEaOaGjMR9iyTZ0YHw"
     },
 	{
       "id":56,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/ehzL-ykdaLCINwM1rBesCWBk08lwlNgIg8Kpd8pyOwOvTze5fvO7DMS4BUB7U-MI4Y2xfMqVcxLNB19pHW8Ytg",
       "view_skin":"https://lh3.googleusercontent.com/IqZDBajTY_Th8xMjgrqkX9_Ve2w1KTkLFXWPB6S6pVsmEzfURd0xMS8YTaRU8wsfYdJgGbMjd-_YhpHbSvzIUA"
     },
 	{
       "id":57,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/F_mW16H12LbSuYoGkXEp4qix24AHwc0sY-EYy_rGenAfXM0p8x7ln-zNQv4mbFMlCBsHDsZDhUNviPBQO3YT",
       "view_skin":"https://lh3.googleusercontent.com/3ynzfXUvFY-vNk46itVomvHaSBeABAAIUqO9-IeJ_WmOr3ymIEj9JvDOzy2NtDjzp8tBuHanzMuT8G9iQhKH"
     },
 	{
       "id":58,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/ulSmbz2rxiyXw_JVIa3TXXhJyrNyxEVdO_Vq8GSzamZxsV-u-kwDt-itgMN1m5Or75wZU69Sr1_8ADLIqmSOKg",
       "view_skin":"https://lh3.googleusercontent.com/EMHB9shOnBwSvcmSaT70kXpI2w4fETZYZjJ1jJMYl-68_l67z5BNiZb1RCBW6E25vKhf-4t_w3nmL8Rrr2hOew"
     },
 	{
       "id":59,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/GL0eDVQZXbNXfcRrH58CeoLOwtcYdNwTHn-rQfJsyYoUVmbxQMd3aFDbsliAvv8PCw_sPB4phzdpLvSw9uE2Pg",
       "view_skin":"https://lh3.googleusercontent.com/5q8-JUHEVKDi75GCzy0s16j8jaCQBkRgdj0T-ZTWkCg46ipmkoSkk62VH1ZNNUm6Yv8EDBZO4sitGJhgY9GF"
     },
 	{
       "id":60,
-      "nama_skin":"Aesthetic Skin MCPE",
+      "name_skin":"Aesthetic Skin MCPE",
       "skin_url":"https://lh3.googleusercontent.com/HciEzE_szIGHUf_F4WKjcmdv569sRe3I_NALxtkxUse_rxIGusWKKJAVVYEoDpEJ8VGU32XKSKxwlM6KBe-tzmwD0dyxPdUYC3k",
       "view_skin":"https://lh3.googleusercontent.com/Bb5qVnMpvbaJS0ng_hg5Efol70nguUVGIPQQVnpQidTrnCrsK6KH4qFqumGcrJTKIKVTFDRnCDn4NnoEeLF0IVQpYhba7Gg4cUE"
     }
-	
   ],
   "Addons":
   [
     {
       "id":1,
-      "nama_add":"Cat Plush",
-      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
-      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
-      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
-      "view_add":"https://aliendro.id/wp-content/addon/catplus.png",
-      "des_add":"file:///android_asset/cats.html"
+      "name_add":"Addon Aesthetic MCPE",
+      "add_url":"https://archive.org/download/addonzip_202112/addon1.zip",
+      "addB_url":"https://archive.org/download/addonaestheticmcpe/addon1%28B%29.mcpack",
+      "addR_url":"https://archive.org/download/addonaestheticmcpe/addon1%28R%29.mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/aesthetic/addon1.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/aesthetic/instruction.html"
+    },
+	{
+      "id":2,
+      "name_add":"Addon Aesthetic MCPE",
+      "add_url":"https://archive.org/download/addonzip_202112/addon2.zip",
+      "addB_url":"https://archive.org/download/addonaestheticmcpe/addon2%28B%29.mcpack",
+      "addR_url":"https://archive.org/download/addonaestheticmcpe/addon2%28R%29.mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/aesthetic/addon2.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/aesthetic/instruction.html"
+    },
+	{
+      "id":3,
+      "name_add":"Addon Aesthetic MCPE",
+      "add_url":"https://archive.org/download/addonzip_202112/addon3.zip",
+      "addB_url":"https://archive.org/download/addonaestheticmcpe/addon3%28B%29.mcpack",
+      "addR_url":"https://archive.org/download/addonaestheticmcpe/addon3%28R%29.mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/aesthetic/addon3.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/aesthetic/instruction.html"
+    },
+	{
+      "id":4,
+      "name_add":"Addon Aesthetic MCPE",
+      "add_url":"https://archive.org/download/addonzip_202112/addon4.zip",
+      "addB_url":"https://archive.org/download/addonaestheticmcpe/addon4%28B%29.mcpack",
+      "addR_url":"https://archive.org/download/addonaestheticmcpe/addon4%28R%29.mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/aesthetic/addon4.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/aesthetic/instruction.html"
     }
   ],
   "Maps":
   [
-    {
+	{
       "id":1,
-      "nama_map":"Hello Neighbor2",
-      "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
-      "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
-      "des_map":"https://aliendro.id/wp-content/map/hello.html"
+      "name_map":"Maps Aesthetic MCPE",
+      "map_url":"https://archive.org/download/addonaestheticmcpe/maps1.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/aesthetic/instructionmaps.html",
+      "des_map":"https://wedosmp3.github.io/imagecreative/aesthetic/instructionmaps.html"
+    },
+	{
+      "id":2,
+      "name_map":"Maps Aesthetic MCPE",
+      "map_url":"https://archive.org/download/addonaestheticmcpe/maps2.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/aesthetic/instructionmaps.html",
+      "des_map":"https://wedosmp3.github.io/imagecreative/aesthetic/instructionmaps.html"
     }
   ]
 }
