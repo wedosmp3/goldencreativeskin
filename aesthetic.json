@@ -439,14 +439,14 @@
       "id":1,
       "name_map":"Maps Aesthetic MCPE",
       "map_url":"https://archive.org/download/addonaestheticmcpe/maps1.zip",
-      "view_map":"https://wedosmp3.github.io/imagecreative/aesthetic/instructionmaps.html",
+      "view_map":"https://wedosmp3.github.io/imagecreative/aesthetic/maps1.png",
       "des_map":"https://wedosmp3.github.io/imagecreative/aesthetic/instructionmaps.html"
     },
 	{
       "id":2,
       "name_map":"Maps Aesthetic MCPE",
       "map_url":"https://archive.org/download/addonaestheticmcpe/maps2.zip",
-      "view_map":"https://wedosmp3.github.io/imagecreative/aesthetic/instructionmaps.html",
+      "view_map":"https://wedosmp3.github.io/imagecreative/aesthetic/maps2.png",
       "des_map":"https://wedosmp3.github.io/imagecreative/aesthetic/instructionmaps.html"
     }
   ]
