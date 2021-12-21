@@ -2,490 +2,522 @@
   "Ads":
   [
     {
-      "status":"0",
-      "link":"http://",
-      "pengaturan_iklan":"1",
-      "admob_open_ads":"ca-app-pub-2521648737251856/7935029525",
-      "admob_banner":"ca-app-pub-2521648737251856/1561192867",
-      "admob_inter":"ca-app-pub-2521648737251856/5478233057",
-      "admob_native":"ca-app-pub-2521648737251856/1538988049",
-      "interval":4,
-      "fan_inter":"",
-      "fan_banner":"",
-      "fan_native":"",
-      "startappid":"",
-      "mopub_banner":"",
-      "mopub_inter":"",
-      "unityID":"",
-      "unity_inter":"",
-      "unity_banner":""
+     "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
     }
   ],
+  
   "More":
   [
     {
       "id":1,
-      "judul":"more app",
-      "image":"https://1.bp.blogspot.com/-GRF5s0x9sDg/YTzScDzfg5I/AAAAAAAAAu4/AuZxF5arRP0KDhXEPpsu4f-QQjrYiG8lwCLcBGAsYHQ/s450/1.png",
+      "title":"More App",
+      "image":"https://wedosmp3.github.io/goldencreativeskin/playstore.png",
       "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
     }
   ],
-   "Skin":
+  "Skin":
   [
     {
       "id":1,
-      "nama_skin":"Savitar",
+      "name_skin":"Savitar",
       "skin_url":"https://lh3.googleusercontent.com/kQBu-BgW_ckfgcyggJbVG3z0rNRLHra7-5G_Kyzj5-mcYr92uug9C2Ldzf_4JDwaf7NeyMyhWLImf2WB-mllJBQ0lGmvUph9G_FV",
       "view_skin":"https://lh3.googleusercontent.com/xROS_3nCrZdvn5Tc9dzNng7QFBMqQtjUVJxPBYzECJyuFWnX_Jgx_URj8qtcPDQgtY7qYWkOFZACo6tk_IKj2uC45Lr6SblzTyQ"
     },
 	{
       "id":2,
-      "nama_skin":"The Flash",
+      "name_skin":"The Flash",
       "skin_url":"https://lh3.googleusercontent.com/Zs28VhLbVUBzlnyB1tXnVmASg4BkZTQAhIB6Hb-gXboiUp8aWyJsgGvgSb6kXoJVR1tdQ0D7hysf9VqxiuWsLkI",
       "view_skin":"https://lh3.googleusercontent.com/X7rJ6YLl3iEc_vqxkFDo6-TX4PHhHwQWWvi_BwMYCnKheJI1w8V6YSpo7Q83CTy6t2NY8ZnuYhQsXleLEmRHlA"
     },
 	{
       "id":3,
-      "nama_skin":"Hunter Zolomon",
+      "name_skin":"Hunter Zolomon",
       "skin_url":"https://lh3.googleusercontent.com/gz8c75iXj0eo2_5ZGZ7CXKU77jH7sbrf0Os9gXceeDPldc86z0zjLY79-t7ajcTteLpTt2XzV0g2B5tN12QU_kBGc5yP6dO-vxE",
       "view_skin":"https://lh3.googleusercontent.com/foNTWqmF9U3jb13bU2PQsr9V0l5D-IrouDlcOfYilACfJbz1SozXIZApDka9vem7Ecn1sZBkI0Q5LxMVDDNYHVoCpwX2RLEP-PDk"
     },
 	{
       "id":4,
-      "nama_skin":"Reverse Flash",
+      "name_skin":"Reverse Flash",
       "skin_url":"https://lh3.googleusercontent.com/ERIRMmfH7wiRbX_ePX_vFOIHNYOfa0NExLOxFaiuLIZu-p9aNa2iOE_G6ViKr128gzN--mEexfrIPnLVwYF1y3zP7u_q9azuJPHo",
       "view_skin":"https://lh3.googleusercontent.com/H1gYzn80n2u10RmcR1y4zFyJfsMuYKiseHdf-R7-tRKa27IbI8PLVqOK9r6Tx53B9fEcttrCgsKPHt7j3YsAwUxGJh-7zZr5hNk"
     },
 	{
       "id":5,
-      "nama_skin":"Flash",
+      "name_skin":"Flash",
       "skin_url":"https://lh3.googleusercontent.com/jLLQjC5ueQv-xw6D5e0lGa_m7boDx1dDYHo1SLFdHWbld5wvjeF7RrEtElBtCwk7HXaZ-BEY5-bhKR9_XOMF66Y",
       "view_skin":"https://lh3.googleusercontent.com/n8yYXguVlVnTmJf_c9cjCh5YlGWkoEmlaqS_rooSOkg-xPgp9Hf1tIeHwlAFWHO0BoZqOz4svRq9RWBIBcC99A"
     },
 	{
       "id":6,
-      "nama_skin":"FLASH HD 2",
+      "name_skin":"FLASH HD 2",
       "skin_url":"https://lh3.googleusercontent.com/rL7xHigo5_GGLgowqviLJF3xYVdT_nrtG3hMR0e3p9CpkHFYsUWncmJ-Z1LeWHmZh0zOusgZRg5DvjX3vudmi5A",
       "view_skin":"https://lh3.googleusercontent.com/vZBkmUsDa-6JCennch0dm1ORlpP-T-aAFcnMyfpWC60wS_cNGvcanQvsHB0emjY_WxlzDBqqqj3MfeeM4rugNw"
     },
 	{
       "id":7,
-      "nama_skin":"Godspeed",
+      "name_skin":"Godspeed",
       "skin_url":"https://lh3.googleusercontent.com/SEOEs0VYEmW1LJPJ2fKWuvRwyn9KzHmdZzDta4wDYDra9-olju9y30LGWC0VZnpfsBOX_8H441gb-iW6S_ixV7Q",
       "view_skin":"https://lh3.googleusercontent.com/0CfikaK4vp0lEnAb4nzkqn5u6IK-jOgXfIRBuOjla5yGKFUVoaa_HCAHu7HyEjCNf5h_YRIizlO7bQljFIRUUzk"
     },
 	{
       "id":8,
-      "nama_skin":"The Flash Barry Allen",
+      "name_skin":"The Flash Barry Allen",
       "skin_url":"https://lh3.googleusercontent.com/jc4XXMjmXNEf15D314s1yczbYx7HUliypCnJPk1d6ksYO9QvAWp0v_TAjrdPwvWlaFKBpbQk6qlnwNYm3acrKTBI3etY-AVLZjg",
       "view_skin":"https://lh3.googleusercontent.com/duWdlsHtqjEtcAO-Id_Brswouhn4CqXhwQU1KKVSqTsNYNdlBbyEJhoIAMkeRBoUJuxtnRju77b0FG00YwxST0qAMyQj3Xa47Q"
     },
 	{
       "id":9,
-      "nama_skin":"Batman The Red Flash",
+      "name_skin":"Batman The Red Flash",
       "skin_url":"https://lh3.googleusercontent.com/rpPq4bAh955EbJGi5j8v1uGsCCr5ECRf04tOtCjSbiO5iopJVH_Z-7LFIZg-_b0FvXkprbtnENytVgApXD0TX9Gq_cPVgt94fYFS",
       "view_skin":"https://lh3.googleusercontent.com/mXug9YjiW9DFLcnt20rEJz1BQBGwvisY_pCCNp1CLD4Yr7RM4Kez-89XuNCXA0HAMbQPuxSkJvljif8hF-nBgFq-c2KiLIIFOci7"
     },
 	{
       "id":10,
-      "nama_skin":"The Flash",
+      "name_skin":"The Flash",
       "skin_url":"https://lh3.googleusercontent.com/8gFTpNWjCZZVH-mTh_YtWPx9h3hgdKh6jvlHWoUkLr5KJXCqs37pJDCNaX8Iexsqma0VKb27VEM6xNEIGowOgA",
       "view_skin":"https://lh3.googleusercontent.com/sQ0RjY3onSCPEythb-cLJGgdud2m780PKw22t2vwwPU5cfxreg7-bMY9A0ts6oIzVpyCN09rijZ-ExEmg3C_"
     },
 	{
       "id":11,
-      "nama_skin":"Yellow Flash",
+      "name_skin":"Yellow Flash",
       "skin_url":"https://lh3.googleusercontent.com/YgNy6kLSNugcJRHLodXx-UwlqqpZIaVw2pbMO4MMsGlj8YN6aWA9VWKzI0owIL6UqOOjWOgeGxeASTJy00WRtu4qEe_9QF7zfGk",
       "view_skin":"https://lh3.googleusercontent.com/tT5ZaD-RWBG37vqaW73G3NL6SGwX_t9v0N9lhYiFgRXS2RXK_cIOuHvNiwQVnSwlvAdILDRaGfszuzQwqDnCRmVt2b92sHvafIU"
     },
 	{
       "id":12,
-      "nama_skin":"Godspeed",
+      "name_skin":"Godspeed",
       "skin_url":"https://lh3.googleusercontent.com/NSy-Hx1HsG-mwqOdCXMS9GlitxUaARw8_prB1hbVv2KOwNI8eGg47swi7UIqQ6eRcgQ1U3M62vVZNBbpx0cMvW_QwKvBXrVMj0w",
       "view_skin":"https://lh3.googleusercontent.com/gpKhTJ8pxfQQFViAQ_TC1hA59i3PTbNOJxlFg-TUkrqfY-evKO2Ma3csQNAdwuVG5dOmNhRUoIZu-fixmcC35Rs24hfBBpC_2gA"
     },
 	{
       "id":13,
-      "nama_skin":"Barry Allen",
+      "name_skin":"Barry Allen",
       "skin_url":"https://lh3.googleusercontent.com/q2lOs3GYeemlO7uMVj9Bw98oPDXsFJEaLyMWSFKUCz2slKmYfFsgep804nMMybouDuT3wM1Biok0IgS1WhNt",
       "view_skin":"https://lh3.googleusercontent.com/xCuLnt3F72XLXdgNXCQuVVS9XOme5FuQ47Doqhqnn6tvyM7pD5rZMq3N9Gh6Litg5e3IhXYQ5s12pbd2R8ckZg"
     },
 	{
       "id":14,
-      "nama_skin":"Reverse Flash",
+      "name_skin":"Reverse Flash",
       "skin_url":"https://lh3.googleusercontent.com/O-EDUDt7BCvepLI4ziuu5xaM8LnCfH6iSpGYdTSePUNUix01OjOhlqL6wCdCY03a6ZGsET4UO6Zn9XKh6ZocpQ",
       "view_skin":"https://lh3.googleusercontent.com/D2zUfTTL12a4LUdxQKZPVf7_R-hxUl0OK-GXzNLdZk-Oa5V3FqstvX_YjZlvaDOd0OX13eCQIx0WTia76BRE0w"
     },
 	{
       "id":15,
-      "nama_skin":"Flash Menino",
+      "name_skin":"Flash Menino",
       "skin_url":"https://lh3.googleusercontent.com/1g-P2jf3wQC7U0_YhftOS32DjkZ9IQctDuUiHgLWlIEs8BXhYiBDrqngJfdH8_gvgxURM33RYxoqMKXiGRPq",
       "view_skin":"https://lh3.googleusercontent.com/ny0RgP59Z3fgiGJmPPlu5sMGbf50zLtSEC68d8jLFRrbtjamtvyeUD8b5XsHbkvvg4AkepWyhJISM0wMkDpGP_hB5jN1cvRMZRs"
     },
 	{
       "id":16,
-      "nama_skin":"The Flash Black",
+      "name_skin":"The Flash Black",
       "skin_url":"https://lh3.googleusercontent.com/wDZebJwM23mIiT8_p2Y-IH_eBvGaJOEvfk5i3qr1kA7ddyfI4TG3lUASKyVGGEt2asrmKSi19dhD_N73AI-Gqw",
       "view_skin":"https://lh3.googleusercontent.com/FxBqHye84v3XLW_gPT-tJ8cjW8HJ1224jb03caKKVjHEiQWYMTyg_dtty8FWMbid2Pu2Au_gVgSEXUMGxCqf"
     },
 	{
       "id":17,
-      "nama_skin":"the dark flash",
+      "name_skin":"the dark flash",
       "skin_url":"https://lh3.googleusercontent.com/EeHOyh9Dy6p2ZAycg0R3dt2ibiU_DQ2TTmFpuBqXMt2j2Z--iqaFlKQjYGtP90Jl2UlhSeyP5zY085UJc5pw_5qL-X4VwNTfjthG",
       "view_skin":"https://lh3.googleusercontent.com/5c5Mt0acypEcN6ZQ1zgpX_StigcNdBvXWEoWbd_hr1bQy5jXxb7zff-sWrFGl0tE9x6RLTBKu59CwuWmEjgXJdeJUas-xpmcGzN4"
     },
 	{
       "id":18,
-      "nama_skin":"roupa do Flash",
+      "name_skin":"roupa do Flash",
       "skin_url":"https://lh3.googleusercontent.com/0rtXN6zEz4Fe4u3RnR6G91w7m5NeXS1X1i_SLUesZtGhRnumcs_g2E8A6bZwJZC9Q-xHgNu5lb7uVqKSfLBgew",
       "view_skin":"https://lh3.googleusercontent.com/cMzwzFHHy-72U7evLZ7buKX-4Iy4IgzmujSsO_hRUba0ahTJANTnhwAU2kvGzYBW_QXYPl_tx1uvhTWkrKfI9uc"
     },
 	{
       "id":19,
-      "nama_skin":"zoom the flash",
+      "name_skin":"zoom the flash",
       "skin_url":"https://lh3.googleusercontent.com/q4HYS9-9MJywu1ShJSjOTPz7OoovgcUBh3NwaFWJwyII4Y2nQWW4zd89TqFJU7wM08Qsu8HZNOu9bKr4rDXE1g",
       "view_skin":"https://lh3.googleusercontent.com/PbEpIWCR_bYLbgppXGpLvKmUWwJ1TgrbJV0xtoW-bK-arsr2VJ3LGCsJIVHUq-R8PwNmmHKvGMcAAumcLMDNWgI"
     },
 	{
       "id":20,
-      "nama_skin":"Reverse-Flash",
+      "name_skin":"Reverse-Flash",
       "skin_url":"https://lh3.googleusercontent.com/QYumC8mxSWmehl-NIRjPGg5-CQIKVcssehT_3F46C_37J1M8S6yp-HpRq4nX6MyufQ6KpKMzRr1r5PcQe4yU",
       "view_skin":"https://lh3.googleusercontent.com/U_kS4lZemhJsfDuVu6xLy08Vj8tQXQBNjNLfuvgzFm9FamWWGvJonBEc-0CVLz9D9E8ORcug4nwt8QNF59up"
     },
 	{
       "id":21,
-      "nama_skin":"the flash",
+      "name_skin":"the flash",
       "skin_url":"https://lh3.googleusercontent.com/sdYgnbiGvlpQ8vrjizV-YntU6HCy4yL7YgedExwYO82GCsaOqZzvvnsUpkdEplQvypbdnO-NUKfm0FY_eMip9Q",
       "view_skin":"https://lh3.googleusercontent.com/br1o8ye-3fFsiPMLZ0KuPmYwqk1m0JRxl8a7TMpSnVcRwikwDGubiHGAtCWXWUeom9_Jtmt_7ErJ25P0DxkIc9w"
     },
 	{
       "id":22,
-      "nama_skin":"blue flash",
+      "name_skin":"blue flash",
       "skin_url":"https://lh3.googleusercontent.com/NCKwBY_4XQcU1ojPKrJU8CNDUato84mCsk8ij1qyNvi-tt4K4HTwm746xKWUGd04gJ_Pi6U8Rk-jA6p_lynR7Eg",
       "view_skin":"https://lh3.googleusercontent.com/nifyD2y3SgzNYVV9_QbliEiGUXuhYZByrRp3vWmTQ6E3Hfx8-nc83ur7814plHG16nuSN5vCv7MjiqOKHZ4wYg"
     },
 	{
       "id":23,
-      "nama_skin":"The Flash Cw",
+      "name_skin":"The Flash Cw",
       "skin_url":"https://lh3.googleusercontent.com/lRUuZVsRl75XOcMdzF12CiCPjoYvrhclotyfLbxlR39s7smvsZEorw0D1Sh1n1KwUENV6b42xISUt1mDWAuUoGFbk9ACAGg7NQ",
       "view_skin":"https://lh3.googleusercontent.com/APvexR5lyyfdl4eO2xjtKgFboVGX17nzYWVqvvr6GSU6jV5A9HOHmYWlUgsKAI_bbakS-NS2VL2lUctCaMAT6s6o8N5NrN6CIQ"
     },
 	{
       "id":24,
-      "nama_skin":"The Devil Flash",
+      "name_skin":"The Devil Flash",
       "skin_url":"https://lh3.googleusercontent.com/zL9SdktyIZfenvBVQh8czuvsaZU9sGvBBefhs7EC54H40AkX97wiLxpo3Up7s6NvhzKOHoRs2k_UcFt_Ck5RbrU",
       "view_skin":"https://lh3.googleusercontent.com/M22LTqLLWqQ6ijeyzwLvQLryRq4YmvSGcApys8v3lTBeJ7ry68ctRluAf-6oAEUhCyl2okgJxkqg6Vd7VfX7WQ"
     },
 	{
       "id":25,
-      "nama_skin":"The Flash Unmasked",
+      "name_skin":"The Flash Unmasked",
       "skin_url":"https://lh3.googleusercontent.com/U0AFf7j6_7rCd-MEjLZ0lXGEyNB7eIb7seDqr3eWI4uBSGjj-79ZHav0TDpeDoxDhgoEQKOwEB-9Amgy-8kc",
       "view_skin":"https://lh3.googleusercontent.com/50pTccR2FVfdJq-CpeJ9LoJ1YU-kuVD7j-SmP33dCBbbXosPWW1aYd3240EnnT5LE0OJ81ukQvGMOQujMsh4cQ"
     },
 	{
       "id":26,
-      "nama_skin":"Kid Flash Skin",
+      "name_skin":"Kid Flash Skin",
       "skin_url":"https://lh3.googleusercontent.com/dQCA8fuLYFkWuEmDW57p5qHlRHd4yAxodz7Gd--7YQckBjKrWWShjX5Xwauc4xkckCmwKUbJ8nb7SNfbGMKb0A",
       "view_skin":"https://lh3.googleusercontent.com/qWuRayPLkMLXt_O9p47bT0ublkqXDfQq_pvhG7YulIF-fPYPLD7nDvk3pySsfQNdWk-FvIUbc5qGVokDkUPE-w"
     },
 	{
       "id":27,
-      "nama_skin":"Savitar",
+      "name_skin":"Savitar",
       "skin_url":"https://lh3.googleusercontent.com/xTFL4XlcXQ10kkIH-34Q2B8dBo7uG3Vz0qqcLJqSjD7BjTxv6Ke9Inp_gX3CCY8Bq30OAwp-pw1VO3mBNkijjyuh74z69y699g",
       "view_skin":"https://lh3.googleusercontent.com/duE5vHwi_6nYjpKv9gCn1Si980_wArXYXt6jOc39z7zRyq-iDhiYAjZ4tF5Q0762qLli7_doT1-8MrE4lNmZbufh3Tpwd_2JZz3R"
     },
 	{
       "id":28,
-      "nama_skin":"The Flash",
+      "name_skin":"The Flash",
       "skin_url":"https://lh3.googleusercontent.com/qHW2hZBgNm-nyuZw4Sr1NWWTrYw3bp0eY3d15ROm-PXg309-nUM58Ewrn4DAgTlWd3B_mzEBv7LDOL7D8hbCKBW3XigS7rBhR2o",
       "view_skin":"https://lh3.googleusercontent.com/fcWsoC5tIxckKKj-Rlzn8-BSpg2n7WDnBcWMvwHw5QH8sKOCpSO4YuembdWB49FWdN8k9gXD1MHaCyMqMRUeTPJ0xOmtPND-Dw"
     },
 	{
       "id":29,
-      "nama_skin":"skin spesial the flash",
+      "name_skin":"skin spesial the flash",
       "skin_url":"https://lh3.googleusercontent.com/K0eL0i7Kse9npntlnIcx5etQycSLpSgEGT8rik2GsNPLa2tTS51C4TMmlKM8OtC02tyRHijGYOv2jf7YJU7Q",
       "view_skin":"https://lh3.googleusercontent.com/MMVELZ5LRMERm_8mrqrxNLauzIikOLpDWxdpif_sUpf_lUU13E0idv0hLU1EJA5IDmY5_nWO38NppIo5Waxx"
     },
 	{
       "id":30,
-      "nama_skin":"Menino Flash",
+      "name_skin":"Menino Flash",
       "skin_url":"https://lh3.googleusercontent.com/9zFIf_HHH5qL85fjN0Kfg7chDrKHm2W6_blbsadZPy0MAtLeDvJWT2sbAp8N-EMQqPBD7ODVoSHu25sqg_wW",
       "view_skin":"https://lh3.googleusercontent.com/j8r9vS898sSA4p305frSNRzwvkfdeE3JsINFb-MIfO0IjWSoNeE0h2UQvX-wELgDWs48c_GNXnXuEINSN5ey"
     },
 	{
       "id":31,
-      "nama_skin":"THE PANCHO",
+      "name_skin":"THE PANCHO",
       "skin_url":"https://lh3.googleusercontent.com/nsMrkIBgHTWByzm4GdeVdfleXZo4KVXlykD5mghveZTcJL52Kk1HYgwc1VM3L5QvZGsF_Vo5vwvfrhoGdJWZ",
       "view_skin":"https://lh3.googleusercontent.com/NXsQuPcJ1vmw3CeUfszvQWcYcfqUxOTt2aXdQY9r8rNlAPkJ5ks_AvJCNWhCenwJOaBdwdfg3uMqL_TWW3Bthk0"
     },
 	{
       "id":32,
-      "nama_skin":"kid flash godspeed",
+      "name_skin":"kid flash godspeed",
       "skin_url":"https://lh3.googleusercontent.com/IQRremJWGKnymPF9PCwA29s6zGuq44atjFIUswhfMSmEqalYOgeFtMDlGH7HAvjmFCrMg-MSkUW3wGurCzCHvw",
       "view_skin":"https://lh3.googleusercontent.com/FgLgEE05mKvcNiaqmDiVQMisoUGABqqeKhtNd9PqN7MeL-vq2nLFoQRzkVYhdFB08QQgEVogOn-undn3KGPf"
     },
 	{
       "id":33,
-      "nama_skin":"Vítor",
+      "name_skin":"Vítor",
       "skin_url":"https://lh3.googleusercontent.com/HVIUVOsXD7XrKhC40JE94NErgCrZ1Ghag86jS4kwJCPJIJxjozilolW-tS1avRlzsFTIfsxXrAm5Rw3joemxoQ",
       "view_skin":"https://lh3.googleusercontent.com/3FNfyixeWQOSsZMybWZ-EaaeyyfCwMSEVg1XkP8p12SVgwIJTD54jOuiUiP5_DQrTpnLIwqZ6n61qS7AqFIuUw"
     },
 	{
       "id":34,
-      "nama_skin":"Nora Allen",
+      "name_skin":"Nora Allen",
       "skin_url":"https://lh3.googleusercontent.com/_hJgUfWOluT_B93Zd6bC4d_NSvcGliLNQPdE-0JXvHC8drIOl7HfzubhD_Ddj2Ww3ceVkiuUl6DyM9lxJpwjOVMON-zCBka90Bo",
       "view_skin":"https://lh3.googleusercontent.com/YMCqyA2Ho6-Y5ElzaDKj-zrcBvESk59FLkEZmuD_e5XoBZ09SUK9WyoDrviCeTlS833lHcjuR4l86OnUBPt3YxR4dM_4Z2xugS8"
     },
 	{
       "id":35,
-      "nama_skin":"Flash Branco",
+      "name_skin":"Flash Branco",
       "skin_url":"https://lh3.googleusercontent.com/gtOk0h69Y3mAWi7BVPNd-svZIOvKCcmwuwcYMzVGB3QivDKvozX-wDVieyN8SDh5pLHHMMPD3wKU1af-oP-16TM",
       "view_skin":"https://lh3.googleusercontent.com/Ibr4RqH0quF-6ig2aufh9R6c819tLcz-NmJFGZDu9rbq1F2D7N4_w1B947sgKQYmNomXKFpeiWKSkBVuu9Q4VrQ"
     },
 	{
       "id":36,
-      "nama_skin":"Zoom CW TV",
+      "name_skin":"Zoom CW TV",
       "skin_url":"https://lh3.googleusercontent.com/9wQDNHlvNzF1t4G6j0SUOCV9kn5xef0y5SugTNzzh-BeJ85GPpqj3bxW9oDff86omCB16UsQSfkGxMJEgpC-9qo",
       "view_skin":"https://lh3.googleusercontent.com/d2Rdi_ITnYx43f2cD6uZ3H3t9CDp_UGtccNLtX7Z1VJHrbH0r37MWVJzUFuaglWHjP5xfLkJ62LCAy_BGW1qYWM"
     },
 	{
       "id":37,
-      "nama_skin":"szyulma flash",
+      "name_skin":"szyulma flash",
       "skin_url":"https://lh3.googleusercontent.com/4As5VkJ-CXbBBafaNDxg498-0x1grz0uS97afRRc_vcm8oRI7a_3isSTsbsrIhxSWKtvDnh1MC_eEAUtLiKOMxOF-Cu5Jk6p60g",
       "view_skin":"https://lh3.googleusercontent.com/Kfq7tjo8u7CBXlvJYwnOb43yAyXfufG2rbl1iPHdkfKJHSRH4P1_-P8E5VO2c8Q57LmiiWEqa7H8TsMdh-eOk6iTsJDs_EOn5SEZ"
     },
 	{
       "id":38,
-      "nama_skin":"K2brine Red Flash",
+      "name_skin":"K2brine Red Flash",
       "skin_url":"https://lh3.googleusercontent.com/PcOHoCjjMAqCIpRHtI0xuTVFlvuF3HtAjZ2uPo35Wkw8s9OaU3WW-rc3z4rpeT_kGvJD9YZJv1XM7koszJYNKy79Rc0roEImSH9N",
       "view_skin":"https://lh3.googleusercontent.com/B61MMbTr5R9841sZrtdMslbBSmj82-xps26Agl8rhgqmZ5OBAOhVVF8i1cdhaurqlxUs11l0P3aE8Rl8c6rFrt_ts7UNehvTnuY"
     },
 	{
       "id":39,
-      "nama_skin":"flash musculoso",
+      "name_skin":"flash musculoso",
       "skin_url":"https://lh3.googleusercontent.com/7sj2pGoW-ANyOt4vB1o0KtDaQ-a5icX9ApHdA7Q16MOgk-L5tcIO8loqscY76hZZfs2IWsUcZZzfPyg-yuvD",
       "view_skin":"https://lh3.googleusercontent.com/B8s0FLNxl3G3YpLQX6l8QVJ2uIE6ISw-6nrlZEJsP-meXvOpqs6WOD54QPbv1xKc64BC-gpcT9ng5Tu1u6y1W9s"
     },
 	{
       "id":40,
-      "nama_skin":"flash red",
+      "name_skin":"flash red",
       "skin_url":"https://lh3.googleusercontent.com/ACdKjitrep20IbbHDXzggFrcjRRh1w8H-Lvfa4eFus6TMqg4Az-IG8xu1WP5cidmbm0MEPHuMgI7I4J_A3-ZaJWPevusAW3wNus",
       "view_skin":"https://lh3.googleusercontent.com/SCzMHIXpBt4zKC6D1UYVGDaSVUeHimmn7_IwyzbsN4CXeH7HGiTBeNY6AO9EWB0ashPyuJbXhS-RWuUC8LlZxohRvJBQGpX5Mio"
     },
 	{
       "id":41,
-      "nama_skin":"Black Flash",
+      "name_skin":"Black Flash",
       "skin_url":"https://lh3.googleusercontent.com/JV03OM-QQSXTZYFW3wDwCAwuYwfFPQs1y-oUK6qcZ87074wtAlKvEGSgeBaj4ft5DZrYzNOLt-kpWlqZAKhuH2cU1gMHAc1slQ",
       "view_skin":"https://lh3.googleusercontent.com/CZz7EIpfZDeg_7jPF33no9buVLTmVkRRJG3f7IWTWzY2i5vJLOPJLcnLTv7MZtn9QzY35fGVcXaZ0goKQD2bU-oS8AKPcqeSHxM"
     },
 	{
       "id":42,
-      "nama_skin":"The Red Future Flash",
+      "name_skin":"The Red Future Flash",
       "skin_url":"https://lh3.googleusercontent.com/Nad2Xs68b3lpmAsMu7C8TEvW0ArWs4t_h5-17bSOtsqGBPXSeqh6y4209_2CU3oUrfxRM4zWlSNNtGkiWMy7NH4",
       "view_skin":"https://lh3.googleusercontent.com/QAC1TbWUwmT_85ep73PDgWt_eCxXR0WU4mt2if29db9AEoB5-9a8SKagx7HTOOy522maP5j6BbCfZcBzJyEDIA"
     },
 	{
       "id":43,
-      "nama_skin":"TheMaster Estillo Flash",
+      "name_skin":"TheMaster Estillo Flash",
       "skin_url":"https://lh3.googleusercontent.com/HeM4n4DgRIjPIeId4oqdfsZm_lUBXoyTV8ae6RjR7_kHy3xYLkedXcrk4zzEhYHRoazy1LCx9P6bpmZSlfLyH3iZ0syNavtLygY",
       "view_skin":"https://lh3.googleusercontent.com/4n8RJLctXhTji90EqoEV3DJvXhOxHRMDfF4TJFNDqRKjV4_W3zY0NgTFodLotql5HYr398qorg2Aw29LhOnsGkOuSL746zSHDggB"
     },
 	{
       "id":44,
-      "nama_skin":"Dyna flash",
+      "name_skin":"Dyna flash",
       "skin_url":"https://lh3.googleusercontent.com/oSCwF_AR3fIpuvutzjhL-3mqKqlhpZOtUc8Kwpn3BxzVwbxdEbKdqiMBIsroa_ui1je-Nwzo0xinu1tCcp0L8w",
       "view_skin":"https://lh3.googleusercontent.com/GLbC33acJ9oHkg4RS1Kl7k0nG_NvTnPc7kdt5e5eEyDW54jr3h5Uwg7km5fZKHLAontj8xY1Kn1pAHz2Za-1QQ"
     },
 	{
       "id":45,
-      "nama_skin":"REVERSE FLASH",
+      "name_skin":"REVERSE FLASH",
       "skin_url":"https://lh3.googleusercontent.com/oE5QeDfJ7D6zGv9o0qkLheVwBPFmgpMg97cUz3wpn5AJ6U-iTd_hKRJEb2yERtuLtmKnsJGzW08qkHc5cpL8Mw",
       "view_skin":"https://lh3.googleusercontent.com/SkGTrXTgnguX132J3jFxhWE3G6Qi3mBrUEJxRvez0N-FsaTgHx1ErwbjIlasrv42iS7SwvQy-AjgzhCG9VHB"
     },
 	{
       "id":46,
-      "nama_skin":"ManoPooldosk Flash",
+      "name_skin":"ManoPooldosk Flash",
       "skin_url":"https://lh3.googleusercontent.com/65ZIT4z7-g9eWmpyyvaYK80SPd-Ecxadg7bnsVnb1zbmSBkYyyIurGCHx4tJt3pRg3NMea0GPOGqJ0xznJj2uQ",
       "view_skin":"https://lh3.googleusercontent.com/IVoAw1ndvGsbbEDmcIwTNThD7eWb42sAvKf71veDBwA0wFDEwAI7HhbSCZuZRnzdAxaN1cN9jeNkwwiBAer8"
     },
 	{
       "id":47,
-      "nama_skin":"Galatasarylı Flash",
+      "name_skin":"Galatasarylı Flash",
       "skin_url":"https://lh3.googleusercontent.com/Kg25TVSEkmlSN1b02QMYwHQCiK7rv5xzPU4kVcOTzV7-jYNNAPVlORznyWVvpZGVhTHMokU8XAL91Wd9YqozJO-HG26p-4qJLgJT",
       "view_skin":"https://lh3.googleusercontent.com/nqryoL1oV4qNbCSgkLKZkQlpHkKrdOp6Y3TX8FizgOmMXZxPzfWx1vg-itw5nP5TiU5ktBWRGbjbLlbyDGW7iX-kw5lni0MTPv8k"
     },
 	{
       "id":48,
-      "nama_skin":"o flash que eu so",
+      "name_skin":"o flash que eu so",
       "skin_url":"https://lh3.googleusercontent.com/1hLg7U-n1Foc2xh2BM_YBLRi8gDNnB5L8BFoL0NT9F_WewlhzweaQnpyGEChFyrmBspDtlxoL8m5TLyyeTD_eRY",
       "view_skin":"https://lh3.googleusercontent.com/vq8EYxM4yfKqVWaehFfuXnqJec3drrwXJ6XAtgb9np5SHBGZbjniYFIY56Hb5yPzgRPBLPiNE316dWXbszjCKw"
     },
 	{
       "id":49,
-      "nama_skin":"flash games",
+      "name_skin":"flash games",
       "skin_url":"https://lh3.googleusercontent.com/B5qmHXIvRrC0BdhQ5ghaQWSpDws7FDzGPhUjmhqFl7QWTBGwMDk3eel_LbUrYuP9evKwvOyKrTa324G0NCbP",
       "view_skin":"https://lh3.googleusercontent.com/_4dVYzWxjPCyxIV76IlX6yo8MlAWEgneCTxJRBUdF4EH-GrBj_uzYAIpQoapoLyiM4vNrX3j0ZEXsgJ1-noy9A"
     },
 	{
       "id":50,
-      "nama_skin":"Flash skin",
+      "name_skin":"Flash skin",
       "skin_url":"https://lh3.googleusercontent.com/YyOu26EKh0XTroki8Uhu4IErA-uW_xTYfqltmpy1rLrexGyne2-XnVJuCMolTKcP7jgM0gd3hEG1hWhRCHBH",
       "view_skin":"https://lh3.googleusercontent.com/HS_sN-RA0JFwX_XjVsFk1sdbgbq-gBzqRZUCOuxdxOYM-8sdlqe7lxg8kxAtaYAKybxVbz1YkMeS7zTUx62B"
     },
 	{
       "id":51,
-      "nama_skin":"flash negro",
+      "name_skin":"flash negro",
       "skin_url":"https://lh3.googleusercontent.com/bnEsUQbJTndSF8kxcldQNCajd_XR0ZqV-cml6TMqw8TygrhfS7zhB91Ns7NvmuoC9efexjReSTGL5pDNzB10nvddeN4cOOcovqk",
       "view_skin":"https://lh3.googleusercontent.com/lTeDEUqyJgmEEX-DRlhSDGG8qpcGgQRA2KmvPtgK8dODa2gwjRTxmjgbWHOI17cdP-J27jMTISgqut2KgBbthHMcfVQ4bteKKBQ"
     },
 	{
       "id":52,
-      "nama_skin":"Flash de la liga",
+      "name_skin":"Flash de la liga",
       "skin_url":"https://lh3.googleusercontent.com/UaUnwHF_-6mnhJlAXHDidO5ydxQ5H_p_SKX7xsGLvSDF11EQbfvXCWw5kMSBmyUKIte1l-N88ACCjEonPnjevTF4mRK4LNH7Z6s",
       "view_skin":"https://lh3.googleusercontent.com/6iiEkPgiJBD1BGiGhxNlgBhRY_8QqsrisjrBCSEVzGv20Cjs_dn30XIbOydRjTSjfdsp1W51NxKFdoKhmG734lZoLv3ifdl8Hd8"
     },
 	{
       "id":53,
-      "nama_skin":"flash Girl",
+      "name_skin":"flash Girl",
       "skin_url":"https://lh3.googleusercontent.com/5V9X51j2a0pgDZZm8v-ZnskWui_xzXdoNXtuTahXOUaMTSG5e5r_6e6Xd-9poLmblFvB0Vwoh_GbpIzw7ZZFjRqLo_bgOHjYnQ",
       "view_skin":"https://lh3.googleusercontent.com/GBCm_KRmAPmyv3Q_UrA5n7hptkwR26jF2MId_GsSv91JdryuDhvbjE1rLVRx5tISvK1OucbTYq-BZlehULLZXVgsR60IXmksdZOT"
     },
 	{
       "id":54,
-      "nama_skin":"zeke flash",
+      "name_skin":"zeke flash",
       "skin_url":"https://lh3.googleusercontent.com/Wo7mk109i6P516TJxzNalriaRYCjGqbxnIJ6oZ8S3hhISSTNeI014PlmWwMmxPRaulX5iS5kwUyspuQErOqRdnhZ9LcigeCLcQJC",
       "view_skin":"https://lh3.googleusercontent.com/JoAtMwNDRtUcKHtKCM-P4uMjmRRPrEL5O1w1sYMFPxD1vjmEUHIdGEPjqVbROJcQEDkZrb1FcxnK2J7XZTxt_zq1stBmh1NUx6c"
     },
 	{
       "id":55,
-      "nama_skin":"Flash",
+      "name_skin":"Flash",
       "skin_url":"https://lh3.googleusercontent.com/9P8BM7b7hpn-SANFYuXzyaBLXjHfParR_0FC0mVAqznSDN44Ds509wBOuv5FrNczMybOg6ZyfqeDt5COjlnvqeRICU3t83JhlC0",
       "view_skin":"https://lh3.googleusercontent.com/-ZsPpkpowkfwnmE1COImCRUxySyvyHfr9SYbpeTTPWsflNV7djHIRW9qtiC-8GclkwupWe8pYnDKv5hC2N6Vt0qXuzCAjxxZGx1W"
     },
 	{
       "id":56,
-      "nama_skin":"flash",
+      "name_skin":"flash",
       "skin_url":"https://lh3.googleusercontent.com/FCs6o_AowOPQDMj1H5_FBdZh9uBi1T1Cjm8efvhmmUEr3Ta3TAl011BNQAKWvC7wFVodnA-fvF_C4dQux2p0Q4Qtwg7yKkRjyQ",
       "view_skin":"https://lh3.googleusercontent.com/iFRAzAp1h-QstnNuFI2njSwpfK8o0E0_9TSdOCNRFcr52J9CPjxbA_ur1BOXYMe6i8pAPhuYNDBDhOH1xueLiNZgutFd9PMIRvM"
     },
 	{
       "id":57,
-      "nama_skin":"Flash Wally West",
+      "name_skin":"Flash Wally West",
       "skin_url":"https://lh3.googleusercontent.com/V9FjgT5yZ8pLRYqvyBE8WScNJnaTxynrGvRKPCwDFn5r-7VsLZ4ZaxqppN3u6npj5b_2Bdd8NFhtN47u9vRQSJNBpY3l72BxdM0",
       "view_skin":"https://lh3.googleusercontent.com/v-zsIh2S_yZLsPiXA8o3ZMgjTdKFwP0aUs_2RC9CsdTtS0gSwOhdOCvWhou3EHYUSpbcoAXIEZ8F0q3PzFFEY6ZZb8SaB3pJ9Dc"
     },
 	{
       "id":58,
-      "nama_skin":"Dorziv is flash man",
+      "name_skin":"Dorziv is flash man",
       "skin_url":"https://lh3.googleusercontent.com/ngvvoL9r_Iwpt6rT5YIHWULvcUXbqW5yZjQZDF6HKTZoC4DhXUDMGrXNUhO-PQDoTGAXKj5IwZgQ9xDolU06A6raUxWMVAtAdl8",
       "view_skin":"https://lh3.googleusercontent.com/_noAmoSJOUzVi2Q5TKDRArWSMA3O0KBX8lSY0EQH6669bmxDTqWGtFxCOD3h5KQqNG2zGYVFk5vaPs1JIj0fZD7KHYhPn7I4lsJY"
     },
 	{
       "id":59,
-      "nama_skin":"flash boy live",
+      "name_skin":"flash boy live",
       "skin_url":"https://lh3.googleusercontent.com/tnfKAzXXrcVcjNBPOILqMB95L2Mrqu9Z-QDIozGVu3BkR2ahwBLQQaH6a5ZAx5x43abRM7umtKp-xKXuzkiSRlLW5Tx3hKKKxR8",
       "view_skin":"https://lh3.googleusercontent.com/2ODkhahwlxVlOPnh-R2sI2KXZ_9HjG2vs9xByuvV8bjNRnvcTAo9ubCviIU3_LP2hmyQzWMUSMFv0fO0DRk0BUqsezHU7Citqdk"
     },
 	{
       "id":60,
-      "nama_skin":"flash boy live",
+      "name_skin":"flash boy live",
       "skin_url":"https://lh3.googleusercontent.com/FoaFB-5faHU4sDPGEsds7bGCi9fZGbmjKl-JSvWq0UXBRDtaAizMss2_-QZESmNA9MtdFqerUmhpcjuaucvpMJEUcNI-jsyuUkGw",
       "view_skin":"https://lh3.googleusercontent.com/vThsTImdbJ2ryT5HqDRpzCpiTC_IiOzkWkmtNr5Nej1ZiQIumOx83pJJzT71qpt1DgUQKt-mBLG4mCTlT3RV-LE7fMRfdEIqqX4"
     },
 	{
       "id":61,
-      "nama_skin":"flash boy live",
+      "name_skin":"flash boy live",
       "skin_url":"https://lh3.googleusercontent.com/oNSUcc8Mj4W1rWrdu-flJ2jr17_91sDuQa-fRCD070nEACDFpw01IMiuoGo7XSkekdP5ddCCd_RXAxWDCkuh1UbnbuTWrz2Fh1M",
       "view_skin":"https://lh3.googleusercontent.com/jlykOSPCFXBb084i50_gBgMREo5ByTLdnfQZVY5z0c4Nd_zm_MxyHYpV9bPq80gFLgIXiMVQxweU-8NKKVgLjlkRpZksHQibYg"
     },
 	{
       "id":62,
-      "nama_skin":"Flash-FBR",
+      "name_skin":"Flash-FBR",
       "skin_url":"https://lh3.googleusercontent.com/ZrbFNl2lpr_7zV3pQTmGumstLrOF4iFC8zEkMzZGsc6y8K1ABvm_i-95p2NJaVonHHwlBolWyoF4xUrGhmPSwp-baZXL26TCEuU",
       "view_skin":"https://lh3.googleusercontent.com/lpWYA1jQ5iRCFYkoJY0KbQWwuqAahOkbGzFsmBXLBp9y4MhO82fG1qmeAb6_fjIfA3hgm_JQ37u0ne_u0TII8w43uIitt2UnEAg"
     },
 	{
       "id":63,
-      "nama_skin":"Water Flash",
+      "name_skin":"Water Flash",
       "skin_url":"https://lh3.googleusercontent.com/bEbLPsiyIAJa03HmOmeHSI1pN2IwNhKEO6lwNPgT3jojStbyZJR7E_6zYtS02IaSDVDScJvPRs8QhwqlZ7UQQ-n8Xby_bEUDc1Go",
       "view_skin":"https://lh3.googleusercontent.com/LojaNZpLa_RXfo96OCcb87gU0D1o62615jT-0Mab6_8j3ofbxS9_OjmoyC1P3Kb3WmqCG9GCqE41vEFwxGd2sFmhOvcHgn66dlIg"
     },
 	{
       "id":64,
-      "nama_skin":"Flash",
+      "name_skin":"Flash",
       "skin_url":"https://lh3.googleusercontent.com/bjkJMBbGIHcTn3iJ3u7_WF7ZqJ0Ezv_R-DiUHuOdNxZufyOSurA7l7OnXD2sAT2B4WtYIDkBLdzIT_Tirrrmd30MgkcGGefmrns",
       "view_skin":"https://lh3.googleusercontent.com/HD9KQkCRRHWWIxAI1FAC61UP7uBOU5gMb_wu7Od2KFfKClfMxsjgmPvxx-76bBTbyjCtbHzsvFHKWnxiX4t2zNad6-BgW2pgoHgS"
     },
 	{
       "id":65,
-      "nama_skin":"flash boy live",
+      "name_skin":"flash boy live",
       "skin_url":"https://lh3.googleusercontent.com/pZ4_bnmIt_LW_nc0d4MVxKMQxQk3DTvVuFSaF4wQDq2xatxSh07OgnFh3aEGQlzckSlyxQiKcc7ayqNvn-TzbBYfSN_3qRLV800_",
       "view_skin":"https://lh3.googleusercontent.com/-8keQ3El71VLR4DfFzdzMQSM2n21AOc0GrzWXuYdVddyVzuvxi6QJzsIZX8ombNkZnKn05ouryC7DevAfGIPlaDMP6_jCTOoPg"
     },
 	{
       "id":66,
-      "nama_skin":"flash boy live",
+      "name_skin":"flash boy live",
       "skin_url":"https://lh3.googleusercontent.com/PyQ3hoVlDVIHVmB3YrKuFppuaWFgLFST-TWc0ZSnuSF_lcpp6CrthJEbYJhSgJm1-5zPwqUkw6zd2r1frfqzoD22EOHrl6BFew",
       "view_skin":"https://lh3.googleusercontent.com/Wu--DZQt5o9IBEzlNHp1HNQqo1bLzKIaPesM6g5V80ofZ3OC3So4iZI_RNfWWDQuvT_a0tnRHYNxdIcBQx6Xnj8g2aZTapQUEQ"
     },
 	{
       "id":67,
-      "nama_skin":"flash boy live",
+      "name_skin":"flash boy live",
       "skin_url":"https://lh3.googleusercontent.com/YpxsigY9BOjJHW71fD_AHu6BwbU-bB1QOC5fdtSX7uCyQc7RqL9FbUSYocbIDtrzc_7itdBlPRUpiCsegDE2KrRLStMYiSr88Q",
       "view_skin":"https://lh3.googleusercontent.com/ZdbEm1wVjehkZ0xGD0khlWzMGRtJBezGoHbDNyMW_RFvSit_1yS52Er1eJommFwMeDWt1zw5qZ4-NGQf14POQzAofLztkbwc2LRZ"
     },
 	{
       "id":68,
-      "nama_skin":"flash boy live",
+      "name_skin":"flash boy live",
       "skin_url":"https://lh3.googleusercontent.com/LzXVlljqhOo2FVYHoz84D5AP719Qennl8g0IBDE7ERw63Lj9YEoBQdvjdQWcrUmAkNW_qKJoSQf5PWChxFAKV_qfDBLh_9lhbNJH",
       "view_skin":"https://lh3.googleusercontent.com/TRxnJ5LFk3zDKwywjuQwkhAaAhqdhYE8MOsvvEpWjl7MS-_gAwY03qJOeFMvsZSb3Kb4CmzF3OXXkoDUB4Tp2dqMIw4O4vjzWn4"
     },
 	{
       "id":69,
-      "nama_skin":"flash boy live",
+      "name_skin":"flash boy live",
       "skin_url":"https://lh3.googleusercontent.com/R-rle68R_-GZQxZ04fuTe1IbkUkIebPo73Vh6LY57DHPtvo-y3kGvJD9659tFagOZNAvy4EsV99AmuN4Xe3SGn9niLjkxa0UoR0",
       "view_skin":"https://lh3.googleusercontent.com/AYKU9XASv4dp-bZjl6DP20hyKuQ3HHx_OjShNE_CPFvCG3pM_h5TCXDfCJxfQ8NTNqByaRL_MB8GwJq_yXpHXAHvBg7AhYnB7IM"
     },
 	{
       "id":70,
-      "nama_skin":"Gabi flash",
+      "name_skin":"Gabi flash",
       "skin_url":"https://lh3.googleusercontent.com/4RxI-jLHRiTyr2Lo5IWo9nfElxsu6oJFMbKracQ8gSY9SX2E9vAVDoMIcAKpjVX4Oz8A6G8SzVddEtmyzfIxA7YXkaAz0bDF6g",
       "view_skin":"https://lh3.googleusercontent.com/7yW0Gz9JM73Mb_g-vOSa9Mks1PvpWi39B-09Ns-QRwI2D2FMTMmdFtW_0duMO7aw_gE5C7HCSzLWOHwXpsFjPkjX0li8gonrvDk"
     },
 	{
       "id":71,
-      "nama_skin":"the flash",
+      "name_skin":"the flash",
       "skin_url":"https://lh3.googleusercontent.com/X9JFBOmTto5KrlcGsz9yPgc4pUrQxIpNZJyKSgR-MuL9CvMbgg_j4U5fLgm0k6ueiyg-_EEoaYeol5TqOU7Qy_is5ZrUG8YHj0M",
       "view_skin":"https://lh3.googleusercontent.com/R087aEyranAsHspPlGaG0lPMlD8RD5Mm8Km8Ect6bbMPhdTDHBCOP8jAnzCEac-evn-7RQGm2JMv-jd3h0yeyKlBYFtc6XSGJ-E"
     },
 	{
       "id":72,
-      "nama_skin":"Lynn Flash",
+      "name_skin":"Lynn Flash",
       "skin_url":"https://lh3.googleusercontent.com/Dv0_cHWTvCQtjOBkTFvdzLXo-H9nWh6F556sfWZxS7pyf9CBdWAMud9EpViC0uqE0dD1PE2itkm7q_ohYi8pDi9FPKK8Vcsl5jE",
       "view_skin":"https://lh3.googleusercontent.com/278X54jmlyGSx2IBpndT8I3qkXTAB5MKNeY_1C-tcSETD6G7291I-o-75dyPt8o1S8UIAjojUsplR0rn8H1DX_95USmqfa6QCQc"
     }
-	
   ],
   "Addons":
   [
     {
       "id":1,
-      "nama_add":"Cat Plush",
-      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
-      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
-      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
-      "view_add":"https://aliendro.id/wp-content/addon/catplus.png",
-      "des_add":"file:///android_asset/cats.html"
+      "name_add":"Addon Flash Minecraft",
+      "add_url":"https://wedosmp3.github.io/imagecreative/flash/addon1.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/flash/addon1(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/flash/addon1(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/flash/addon1.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/flash/instruction.html"
+    },
+	{
+      "id":2,
+      "name_add":"Addon Flash Minecraft",
+      "add_url":"https://wedosmp3.github.io/imagecreative/flash/addon2.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/flash/addon2(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/flash/addon2(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/flash/addon2.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/flash/instruction.html"
+    },
+	{
+      "id":3,
+      "name_add":"Addon Flash Minecraft",
+      "add_url":"https://wedosmp3.github.io/imagecreative/flash/addon3.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/flash/addon3(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/flash/addon3(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/flash/addon3.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/flash/instruction.html"
     }
   ],
   "Maps":
   [
-    {
+	{
       "id":1,
-      "nama_map":"Hello Neighbor2",
-      "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
-      "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
-      "des_map":"https://aliendro.id/wp-content/map/hello.html"
+      "name_map":"Maps Flash Minecraft",
+      "map_url":"https://archive.org/download/mapsflash/maps1.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/flash/maps1.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/flash/instructionmaps.html"
+    },
+	{
+      "id":2,
+      "name_map":"Maps Flash Minecraft",
+      "map_url":"https://archive.org/download/mapsflash/maps2.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/flash/maps2.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/flash/instructionmaps.html"
+    },
+	{
+      "id":3,
+      "name_map":"Maps Flash Minecraft",
+      "map_url":"https://archive.org/download/mapsflash/maps3.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/flash/maps3.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/flash/instructionmaps.html"
     }
   ]
 }
