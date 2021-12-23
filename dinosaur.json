@@ -2,478 +2,508 @@
   "Ads":
   [
     {
-      "status":"0",
-      "link":"http://",
-      "pengaturan_iklan":"1",
-      "admob_open_ads":"ca-app-pub-2521648737251856/3182769446",
-      "admob_banner":"ca-app-pub-2521648737251856/9493876984",
-      "admob_inter":"ca-app-pub-2521648737251856/8827662572",
-      "admob_native":"ca-app-pub-2521648737251856/6201499233",
-      "interval":4,
-      "fan_inter":"",
-      "fan_banner":"",
-      "fan_native":"",
-      "startappid":"",
-      "mopub_banner":"",
-      "mopub_inter":"",
-      "unityID":"",
-      "unity_inter":"",
-      "unity_banner":""
+     "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
     }
   ],
+  
   "More":
   [
     {
       "id":1,
-      "judul":"more app",
-      "image":"https://1.bp.blogspot.com/-GRF5s0x9sDg/YTzScDzfg5I/AAAAAAAAAu4/AuZxF5arRP0KDhXEPpsu4f-QQjrYiG8lwCLcBGAsYHQ/s450/1.png",
+      "title":"More App",
+      "image":"https://wedosmp3.github.io/goldencreativeskin/playstore.png",
       "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
     }
   ],
-   "Skin":
+  "Skin":
   [
     {
       "id":1,
-      "nama_skin":"Dinosaur Skin",
+      "name_skin":"Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/oEbH6bbFu3USC9C2sP3MH1-99m_uggj749zOaFZVzEFY_sGHt4NoYkvLhoBP-XqSsxifkRCMuytw_KuUwVtDS0g",
       "view_skin":"https://lh3.googleusercontent.com/0L-axzcnuHEC8j9ty2OMNqPcDdTclaSnGrWYTkKVgJHhW-pCaOaqiHlq3wi7Y64_OJ9rmX95xFDmeJh6lokS"
     },
 	{
       "id":2,
-      "nama_skin":"Dinosaur Skin Blue",
+      "name_skin":"Dinosaur Skin Blue",
       "skin_url":"https://lh3.googleusercontent.com/SSqnRCCD1d1AXHx0TuqObE_hkVpR4UWwRgTgKthjjUIgahFNSnr4RadGwkJet6yH8S2hbDQVFi_6d-vbXqj8T23hDg71R__Crw",
       "view_skin":"https://lh3.googleusercontent.com/pnRZa_78Kht_lR9XOpMTOPZaKnVamoKoc23TCNJU_QH10Rk-zkUlesYLP0PVEBtVJoYD3oWWiZoP_8Id4SPBYT8M5pi8i8cOhQ"
     },
 	{
       "id":3,
-      "nama_skin":"Rosemary's dinosaur skin",
+      "name_skin":"Rosemary's dinosaur skin",
       "skin_url":"https://lh3.googleusercontent.com/ysBV1C7UEOU2udipGNU8LOXYvztcK5cN9wuA4Ntp3870Pok9-L4DFHqA3-t6s7-UwL5d34WGdh-r8Q5ijlETdHnzmr30rusk_kI",
       "view_skin":"https://lh3.googleusercontent.com/QpAIhdAO9qQYc_WPzioAC_NwC7x0QdBZfnT1t0PoX6xlRwm7qhAX7PzGJ_c1nWz02YnCS1CMNCZ45_u997X6t8Er5gX1UvAJDbTh"
     },
 	{
       "id":4,
-      "nama_skin":"Dinosaur Skin MC",
+      "name_skin":"Dinosaur Skin MC",
       "skin_url":"https://lh3.googleusercontent.com/JJTy8wH-MZlkwzr2RmO-CHQKStiYHdKrddKo3XYYH5gkkQhvKgSV9AmXBD27pIEIuTThEK4In3ff84-ShgDF3Lg-Ga1Ik5UMe-80",
       "view_skin":"https://lh3.googleusercontent.com/a6-rREy_m__RK9l_JersYsHP8hVFCfnyqajPEZLP5y4l510IBAH4dLyMi0HM8GJIt8WtiGawcCHwK87JFE0YjrPEj412k2rGTKA"
     },
 	{
       "id":5,
-      "nama_skin":"Robid Ruzovi Dinosaur Skin",
+      "name_skin":"Robid Ruzovi Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/gWYrkbxNWctqBWFKXnaoPiqykfmz5EZvF8U_mu1D8HfePITngC33W92yNdJ4uMPv708tNaT0UHI5qJC0SCUq__VCS4rSHveARs8Z",
       "view_skin":"https://lh3.googleusercontent.com/EO6IF9klVLtyqzFKF0gDncketNGK-Zm0KqQpGSrYRTwRdRrTEjlOYbQd_pwdjAvBllJMf-d6Zl7FSNe2p3m8rBgjAnpP2YXhb_M"
     },
 	{
       "id":6,
-      "nama_skin":"Dinosaur skin",
+      "name_skin":"Dinosaur skin",
       "skin_url":"https://lh3.googleusercontent.com/UaeaGN9krOv-iaSw4om_ZwdqISZckUXOPAQ9Ejyq5o5sisFe3NYilVuyg25eB6YY3mDwE1z1PhEgpuPINWmG9Ho",
       "view_skin":"https://lh3.googleusercontent.com/A59JbuPfTfUrXqCAZXus5ZToPsTJGqtTx3AeL9K_NAMrx5b6gezi3UicEay8qvBE-CeOJIBgwMQ5DtN2yyGwe-ET50r-NXkdiGA"
     },
 	{
       "id":7,
-      "nama_skin":"Dinosaur Skin Short",
+      "name_skin":"Dinosaur Skin Short",
       "skin_url":"https://lh3.googleusercontent.com/ogUd06IHge46yGpfdoy-7W2dzOab6Ixkt5PhpSUAhsjxQSwJvDRGo77vZbk8UlbEt1laI5BDb5IkgouAO94AwGFem_FnaUnKg6ek",
       "view_skin":"https://lh3.googleusercontent.com/VxJJeNooc74jW6FkqMits55ez7w9ZyTLDvvgBNNvdY2CI1BMLVUFmOkxEhoFcGtKRdMrGhayr9xVGomokDaQjYayld3VfAKXLg"
     },
 	{
       "id":8,
-      "nama_skin":"Cute Dinosaur Skin",
+      "name_skin":"Cute Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/mn3mNIBW-aLieQNzrJrrSbrLlo-x6Y2umLwBNhOjLpAnt9Q3nwGc4wzZa1vXVYFUmJf61tT1vHy3oLQmEf5WCLc",
       "view_skin":"https://lh3.googleusercontent.com/lnk-En1bYgKzVCAoZffrWGRVSNpuKH3Gv81Q91A-HyNty28-PlFvTRn5SaCxakwqWsm02wdG_CIbpGi1BiC_O6n5HMC6YJibrw"
     },
 	{
       "id":9,
-      "nama_skin":"Dinosaur Skin",
+      "name_skin":"Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/eoAxBOhgEtNrQk53kCylUlId3JcdmIzCCKwYJgBztiuS1tK8kszLVi8PxIDOMZpzbGkZVmD2yspKZzXmSxKkTrs",
       "view_skin":"https://lh3.googleusercontent.com/P-xOfoXCvcQtXQVsvvc1FQN4Ei4kNuqaBXM1TjDOGpIq-tSH0q_LJJc8A0OwQu8HAd4yQOv5moOWdMpufD6P1QX_fYw8HA8h-Q"
     },
 	{
       "id":10,
-      "nama_skin":"Dinosaur Skin",
+      "name_skin":"Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/SS33jWTPapVl_BL4doO5RYsLSTzC7LE2wljNKe3LUt5pWX_K8CXp4-Gpx4qxCzzrKTzfVlIaekAcgLVlf2exuA",
       "view_skin":"https://lh3.googleusercontent.com/i-OyOU8zXIQUv0P5igApo4dP4yg8Vi4dR8YslXLWZRrjkrat6Xh0oq97k3ZW668n7LxM8RMSq3Z7EQuORHOIzVugJ9yEVkEf4iA_"
     },
 	{
       "id":11,
-      "nama_skin":"Cute Dinosaur Skin",
+      "name_skin":"Cute Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/HUIiemB_c1a4323TqJ5H3rutlPfz4_J6TLfOdcdQKxsAEb3U_bT1Wu8-gfZjtIVlLG88jrw2mXwAAOMTnjvZdl0",
       "view_skin":"https://lh3.googleusercontent.com/apVBVWg6WcmsW_4hOto5NzfByGGKBMerniejshzxULIwwxBKGX-6TRAY-gQtnrEunLZapc8SvjQQYJlgjJgDEMCav6FTtGCBww"
     },
 	{
       "id":12,
-      "nama_skin":"Sayfura Indo Dinosaur Skin",
+      "name_skin":"Sayfura Indo Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/Vd6l8JyGpx0Gyd1MAMQ-hlflYVKMC5wyQ2njTjFNDoZfdViKfDhJW0xt0uN70hJ_uU-oIZ2baGybsabZcmCo25Wpp4zcda1O4t8",
       "view_skin":"https://lh3.googleusercontent.com/19eIwQTqGIPYaj_4wj2rLvsg23GlW0PmHpVrobvEaJO2vdzopYTKhnyDa1pSDzuwKfh2FbUv23GiS_xDeUWsZ9jIVIS355L-jw"
     },
 	{
       "id":13,
-      "nama_skin":"Dinosaur skin",
+      "name_skin":"Dinosaur skin",
       "skin_url":"https://lh3.googleusercontent.com/gbr7JyfIjUWweXjrgMpH-zVa5TE_j0U7JYRipSa-rtCNzV3h8mlLcxmZd1kYcItsxaGz3-mSZuGf4P_Zd8n2So6nTK-5cIxPFxQ",
       "view_skin":"https://lh3.googleusercontent.com/WiupQw2vNXQxAYW5j_SdnxcZZ-nWf6sK_3EIApw6Py2ImIcc2eN9S5-_n1vo9XwmTCmprTShdxWm4O80Vt_9j1QXZ4NOuqyfpbfA"
     },
 	{
       "id":14,
-      "nama_skin":"Dinosaur Pajama Skin 4",
+      "name_skin":"Dinosaur Pajama Skin 4",
       "skin_url":"https://lh3.googleusercontent.com/I0AxC5-jaYWxFh8WAT_dlfRvb_-VZK64pt6b4kguAt2mXMp5ac8il6-o0x6yzhs7UDbEwFe4ve1JcfylqO6GCbOSkhJHcIReyO0",
       "view_skin":"https://lh3.googleusercontent.com/NHg0oeVofivjzCy6eds1jP4QwYuHtalX0SxVCyOq0sSAG3TGd7iRXC5vosv5QzRG9qEb401w8f4fT8r9wsljjrXYxjW0rRdY2LA"
     },
 	{
       "id":15,
-      "nama_skin":"Skin Dinosaur Pastel",
+      "name_skin":"Skin Dinosaur Pastel",
       "skin_url":"https://lh3.googleusercontent.com/uhB7YTl4_kdD769hv7nMSTzn9p_jTwQvFA-sJQumzp85wox3C-SFQm5Rby6KOnX_bdImLCPYvyT_uWZwfSapvuU9MOAN8r3Iw8k",
       "view_skin":"https://lh3.googleusercontent.com/nYRb2elGDob7R1o-KZpegCJP6UO29DA29UtuQn0EI9RMNTQZDkeVkm3c11iYBsCpl8XrxxRJDPTJH_1uTipwqfKdJHbTKODaEA"
     },
 	{
       "id":16,
-      "nama_skin":"Brighter Dinosaur Skin",
+      "name_skin":"Brighter Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/94dlQYPDyZzrLb-uZBVjisVxiI0bP3jZL-_s7dHxNj7g1UdHDPa8WB_xFcCq7dQT5AFgtXSFpfpYUxKI_NXG1w",
       "view_skin":"https://lh3.googleusercontent.com/qKf-c7ZLkeEi0upMN7fpc62kjIkQzR0zOh9uS2MuQRAhKPoCYUHybF0AMDiiLxdPq7OqdaOckQM4q7qUfsAuRw"
     },
 	{
       "id":17,
-      "nama_skin":"Skin De Kleiton Dinosaur Original",
+      "name_skin":"Skin De Kleiton Dinosaur Original",
       "skin_url":"https://lh3.googleusercontent.com/9wFPJ5PKLBGM9PtLwHMPB_4eLv2mWHDtdDPlujQ7L81PbUEQiPUx1i7Q6yQH_f_itZ3Fcd09_-AQqEeLcsNuxQ",
       "view_skin":"https://lh3.googleusercontent.com/jJNIEbmk_df_wwolEuucg0TTQYZDV1ofjeUNIyggf0omZtQe7RZJNAADyzI_2gbR3QUM5b5TGD6Oz4FNxbLsAg"
     },
 	{
       "id":18,
-      "nama_skin":"Super Futuristic God Dinosaur",
+      "name_skin":"Super Futuristic God Dinosaur",
       "skin_url":"https://lh3.googleusercontent.com/X6VRh9gYtLCUf9F2lZWprXbhRXMKRjAe62wcXbYWjJUFu03LDKjOBx8eFWCUh06kwj-OlBSplcanxl7ZJspzog",
       "view_skin":"https://lh3.googleusercontent.com/ZUVXK2XDtqslAnTyCLlZTViapZ3P51ZwP8FnoyIhhUZTlSU69SjouhN0Hk-EftbGtbJBzKMFMcONvp7HVgWr"
     },
 	{
       "id":19,
-      "nama_skin":"Dino dinosaur skin",
+      "name_skin":"Dino dinosaur skin",
       "skin_url":"https://lh3.googleusercontent.com/glyxifDkFFFbkRpUBOvY96hpePBLCXu2DppEi1KTi_FfMImT8cmH60xga_233SpqacFZGJbUAVn8k6Ke8E0aP_s",
       "view_skin":"https://lh3.googleusercontent.com/qL7ma8UwD3z3_4hhT7ECNCR7p-IR5Ws9xdSBWvLjXbW10kxjauZEK60yNaln_RE3FfIl-zDzcp94Lxd9cNE8"
     },
 	{
       "id":20,
-      "nama_skin":"Green Dinosaur Boy Skin",
+      "name_skin":"Green Dinosaur Boy Skin",
       "skin_url":"https://lh3.googleusercontent.com/lFaiW2bVPbF6rC7htlno5wcd6jc6rLhwtOn3xUo1EdV7WTk9pVjhqePGzhS1GGdN4bEgWLkKMDr_DWK7bAbedIA",
       "view_skin":"https://lh3.googleusercontent.com/VOZqWOYIet_o7LEkDLwtqlx9sq-u9mvroNxm1iNP0R27jv8PB-DZYw84nG1t_ljTL9o6bYTPjm1J5HAxoKI"
     },
 	{
       "id":21,
-      "nama_skin":"Dinosaur Minecraft Skin",
+      "name_skin":"Dinosaur Minecraft Skin",
       "skin_url":"https://lh3.googleusercontent.com/0ATxUW37OyR3p15rmlcAlLbc9YJhHnzFO23agBXAODqTstxr0xOWRJ3SXlLdowkOpKeEcKApZ_-_W2TTS-qn",
       "view_skin":"https://lh3.googleusercontent.com/sx4DDsmyBgvQVV6HM9WQ5O7tUJVAmuTeuNjFpZG40XD0fSlayeVMSjsCtz5rKGqTI_qbZAYcgxuRAMs6C81z"
     },
 	{
       "id":22,
-      "nama_skin":"Dinosaur Skin",
+      "name_skin":"Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/XoRBEJ2HIT02_9PDEhYPkfduM6pEdGp7tYccaE7sTlHE2hhTKwOrLhHd5ar9ttmAQsKVMC01P529QHv0QOkN",
       "view_skin":"https://lh3.googleusercontent.com/9CXhJgi07CpjVQVmnUB9iUAdOsIRplcfrNj0vulFvKm7YoF9LuT8tWCOzw9ErXn_uMsUODNk92XlCfrLeLsmtA"
     },
 	{
       "id":23,
-      "nama_skin":"KCJoannaPlays Dinosaur Skin",
+      "name_skin":"KCJoannaPlays Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/ZMBFkpRgaHxOo7DWMoiALwsVVTmKZhmkvOsYJGBekI8u847nH4zEKEMVqpnB0Wp3ywldOtxJWq1syjwIlXT5jw",
       "view_skin":"https://lh3.googleusercontent.com/Dd7SoOmMY2D0wffeaQc959w9_94290RdeMX4Glu0YnFz3Cs-d_kCWyLlw-oj4Q-eXu7i2VBq24n6HO-D13wbfIQ"
     },
 	{
       "id":24,
-      "nama_skin":"Skin Pastel Dinosaur Glasses Blonde",
+      "name_skin":"Skin Pastel Dinosaur Glasses Blonde",
       "skin_url":"https://lh6.ggpht.com/9ebaiCRKqn5w1Tfnc9556fL_IaWUBaF40t-Ix56nievhrKrjGG6ReZLu4_lMHXQFtiZnv1aNbh7q8Q-KumWntg",
       "view_skin":"https://lh3.googleusercontent.com/4H1l3hjftBObVhZq1s5Uh2bYzNvq36md-aBgdHaXCKzOOz6wNWy94-sXNSADHSsKrM44YoM6zbWW7-GOoszGIw"
     },
 	{
       "id":25,
-      "nama_skin":"Dinosaur MC skin",
+      "name_skin":"Dinosaur MC skin",
       "skin_url":"https://lh3.googleusercontent.com/dQ4lLwZP4WKJ0Mr6Mi9-D_byr1Wkpuqs3TEog3kOBrneQ8cNTq04svo5loXqUYzAmYQCH7zo5UPrrZbNfZTnnZ0",
       "view_skin":"https://lh3.googleusercontent.com/2m1jMER4sXxbiEBDCCJogxOXv1zrsmovb24FaKDT9dfa3D4YnmTD1dEuci_zPM_cut6HkdYATEMR7UKIXZBD"
     },
 	{
       "id":26,
-      "nama_skin":"Dinosaur Skin",
+      "name_skin":"Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/go-ZbWlpscJ2v2mvv9QcIfKPRF9eEJm94AbXU-J0GSZId4d-HGfeIGplmbsb_Hv82Zd13JjOFAQWIPYGWRmQZA",
       "view_skin":"https://lh3.googleusercontent.com/3xYomwehdQX45lY4-J2rHTuI-EEF-qWfoIGFi7Dzc2303HARrsz4DcCgc1B7lBPkpyLMLygR1rU15ygS4FlanQ"
     },
 	{
       "id":27,
-      "nama_skin":"Skin Dinosaur Red Mac Quan Dui",
+      "name_skin":"Skin Dinosaur Red Mac Quan Dui",
       "skin_url":"https://lh3.googleusercontent.com/8WOFr_GHUWTcW6tqGZMEFZxIkZnf6yVhvJQl6BBJzNOOJJ7bKwVaDfkZ20-phC-tngouy96Rlag2dMxvd40mXQ",
       "view_skin":"https://lh3.googleusercontent.com/OsEW_wP7BeiExr_SzPpmL4ECx-FIdp8ryscEykUHKj32cMniBfoj2qkhI5O226XK-wedxrtXDk5jTFv1YbG_VA"
     },
 	{
       "id":28,
-      "nama_skin":"Dinosaur Skin",
+      "name_skin":"Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/HBij9rpipo-H28iBwuHoc6w6uYPn1X-P8toPAUjB0HbeqgBqLjlg6vYp6ddtVVOB92aJ0O5dW2aOSvj2x3rlSew",
       "view_skin":"https://lh3.googleusercontent.com/DPuI7I1-vkpW8C_EEAlb62RE6eFA78iOGFGtJxt9m14uG0e_RX6PkKSjTq9xI2aiDxtCh91pVr4Q23EI_8Ecnz4"
     },
 	{
       "id":29,
-      "nama_skin":"Dinosaur Skin",
+      "name_skin":"Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/9cUpWvn4I5-6HotA5liNg1ugGV9RO6NsOZw8FN0B3HxGQZjlHWeGXwTq7qhN1USUmFF4bgN_BL4yfmxk9s4ZeQ",
       "view_skin":"https://lh3.googleusercontent.com/Lsfgqn3Cldxxdo_xZNkfCuscELGxWt0CBknH4XiUBzXhhiMTR19zd3BKy7WWouKoE2C6rtJ0T79FXHHT4DfI"
     },
 	{
       "id":30,
-      "nama_skin":"Dinosaur Skin",
+      "name_skin":"Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/l5ZbFJUgHDMHWg2VBNrgbkSlSKa-wFTXm1ou8LQxTsmDmUAFUFrzbNPhVMSN6g3X7kA01UU0B4r_RwuWlkDRY4U",
       "view_skin":"https://lh3.googleusercontent.com/SXmKl0gscXk-63w25T0R33RyVRfVPEn3TZAtRgi6D8RmjufDifS7of1Ptjc8aDohw-J_SlXIc_z1YrNNVJaFRQ"
     },
 	{
       "id":31,
-      "nama_skin":"LdShadowlady Dinosaur Skin",
+      "name_skin":"LdShadowlady Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/m1NJTBRjBmoyC6dfExHsdh7Wuvg0n8u9UEW8-Icy4wwpM3gcUzsElaSRHDbK8PWz0yP2l9hRpQ1Fp9_dFjTDT6A",
       "view_skin":"https://lh3.googleusercontent.com/XN0l6LTqDEjLyXtGgZoeqhPzYqwbK69-98LzZaXWqTlQq5Y9urWUlMNk2s0defLUmj_bsUnNHz4O7-oNdz66"
     },
 	{
       "id":32,
-      "nama_skin":"Doblox dinosaur skin",
+      "name_skin":"Doblox dinosaur skin",
       "skin_url":"https://lh3.googleusercontent.com/xnKz8S_L6H3W3CD4Lofrhkysv-z4IzAy9UEKyxKlu_cMMaoYMjqgbNTd0EDTDYMN0TmY2UGjzE057Lj5o25Mug",
       "view_skin":"https://lh3.googleusercontent.com/2hirBzvx1qFBbyCl6C_efF1UFVvyrEWo2_eirSSsy3S2854C3B2-uxzEEyHa7aITTlAH4DtSvLcCbeeZRD9NaQ"
     },
 	{
       "id":33,
-      "nama_skin":"Dinosaur Skin Template",
+      "name_skin":"Dinosaur Skin Template",
       "skin_url":"https://lh3.googleusercontent.com/dUcj_3jZenkYeqETjMD6-wmK9uPBBUVli0JW4ToZDBgurEcbC803DdU2IrprC6EUEX2MJTbnf2lGci8yUEsaYw",
       "view_skin":"https://lh3.googleusercontent.com/aVFY_Mv_b6lWGqQppK9H4lrHDMMogwQcL_k5u5yap1YJsH-M-TppxW1_Z3S0EDRFABck_KyuvLFuNxMaf4KnfbY"
     },
 	{
       "id":34,
-      "nama_skin":"Dinosaur Skin",
+      "name_skin":"Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/FSEg2bQcAt53GRUBsLJB3UQGRO0Phh3Dm7VCUF_iJLY569pG3h7b2gpbZvH1o6x15iwLYsxdUCLc7tjAU9F3xw",
       "view_skin":"https://lh3.googleusercontent.com/GVdawzcIVKhzOIT5zgPHsPY82Yz-3tZrjyYVVYnp9XcVJQ22EFHuQyAv8s0ZxzQ5zHtkba6RR7guoBi7Qy9omRw"
     },
 	{
       "id":35,
-      "nama_skin":"Dinosaur skin",
+      "name_skin":"Dinosaur skin",
       "skin_url":"https://lh3.googleusercontent.com/LJdi6HBBBLteAHIKK81DjlNMhOXwO8-nwZp3u1I-6ZZxPCwDxNyD-FtsRdmYi8Y9GwF-IEboKVXBA0IZD6p2ZQ",
       "view_skin":"https://lh3.googleusercontent.com/PLWBfrEzBe8bEiuCDIKPirBT0VsID-7H0-wGm_5AzdrSQb8HRBH4qeUr-rXwUejl47B-hYD1xFXAw35iYXlcFQ"
     },
 	{
       "id":36,
-      "nama_skin":"Adorable Dinosaur Skin",
+      "name_skin":"Adorable Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/T6SaIBtVlTdxmUv0dTvAmwx6mOY5I_VhlMNxH5hkeFghRxMzWHaJOhobV-peMtHRDesqUKOlfkoHJTZ1dfd2Kg",
       "view_skin":"https://lh3.googleusercontent.com/lbqYJKIsRYYTOta8CIgnZ33naKsdQ8KXLA4hKh31N41Hcptl2iskfSMG2JbcvwkI4jvyQWIlxsuS_XfZQd3AxWI"
     },
 	{
       "id":37,
-      "nama_skin":"Dinosaur skin",
+      "name_skin":"Dinosaur skin",
       "skin_url":"https://lh3.googleusercontent.com/TgTcvlDgp08V8v7mbwVsy1DXB7lL29-ApnwtnuMoztsiwdy0heN7_bpwdAAPcpeIHGKVniqTBo_MysjOS4ml_A",
       "view_skin":"https://lh3.googleusercontent.com/NRVXjToW4L8Js5sZIcLcwnf9vCqRC4MtlS5X-d9dFOEIrPjgOHyT4nx6vensrw9pccgDyOC4JHbcLc3kBEXnUg"
     },
 	{
       "id":38,
-      "nama_skin":"Dinosaur Skin",
+      "name_skin":"Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/FHQNuGlT1N0nwpkEodlzo2E-Z_0bAU7GXcIDAVbUr3qRihi_hRjZOqYKdHG6FOtF2fDqsaZan-ia-8LC6q65kw",
       "view_skin":"https://lh3.googleusercontent.com/9L4awI5xH0XGORWInIGa4BaOGTKEcREM4EJij1Z3rkCkXVWYypI4kURZWaBAMQpouSXtPZgimnmuu8kkt7ci"
     },
 	{
       "id":39,
-      "nama_skin":"Dinosaur Onesie Skin",
+      "name_skin":"Dinosaur Onesie Skin",
       "skin_url":"https://lh3.googleusercontent.com/p16ZSTxUg0kwebreDMyjojeiCYynhAxYgKflHWufr9zfSdslRE3ECOsMJp6gdOa2Y8fnD0Bpb9jjOwZUpk5BPA",
       "view_skin":"https://lh3.googleusercontent.com/czuBpycV0FvVinvM1uh89S2UHBmfh1yTMmt207tXx3swNlCG9RnSkA-lsRqpZKc26XmGs5uQbpMcYVWcJ9dDGQ"
     },
 	{
       "id":40,
-      "nama_skin":"Dinosaur Skin",
+      "name_skin":"Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/f-n4lhBKeegI76g24JzrL1DvifuZGS58pNiG62Ix7jNrhpFdxwtOoLPfTWBSg31RaqouRoQORJ7-i9r_ZDOgzA",
       "view_skin":"https://lh3.googleusercontent.com/HwI0nq25Ph5rzCjkZ86mSYYDWtvf2ppccZHsUSRWFVf8Y-qJdN6dEXPtVCh-pxAwP_WoutNiCKlIKX6KjBuPvg"
     },
 	{
       "id":41,
-      "nama_skin":"Dinosaur Skin Red",
+      "name_skin":"Dinosaur Skin Red",
       "skin_url":"https://lh3.googleusercontent.com/5EGuyN50NtsFlx5u0OA_BGO9VaUak3nldV9PUIlyzfPwRGKnKAetEbdAuf8olHW0Xs9YT3h2MCMYhgPiLV04iw",
       "view_skin":"https://lh3.googleusercontent.com/Zc8_NdvI0LWsv0znN3wUqXydOuY_lyl-UBoVuYVMBBirebCrUyChcMsvkr5vCqLXe2ARp2bbUaMSuV6xT_9bWE8"
     },
 	{
       "id":42,
-      "nama_skin":"Derp Dinosaur Skin",
+      "name_skin":"Derp Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/L-CtP3y36LZKUMSWTjAWAHWx_aTwsqO0MmPMJHTdnkvKZSvyUe78lu0KTpON2WKA8PCKWG5Dz5bT855c0rmg",
       "view_skin":"https://lh3.googleusercontent.com/_2zRpt6eY0EH3R7sh7r1DxzUB__vyrzvW7yDMBYqFGTAPUvfLPxEFQg653pJXYj9neg7BvJ8VrxwjQCSe3Kt"
     },
 	{
       "id":43,
-      "nama_skin":"Skin Dinosaur",
+      "name_skin":"Skin Dinosaur",
       "skin_url":"https://lh3.googleusercontent.com/O-alhySkf2z6IhH8pH1QTRdmRgP8pq-2jehS7ohBYeGS5ACodQYfsvuvAWI-3dvQ9mGcE2xXz3zY5Hp5wuAodQ",
       "view_skin":"https://lh3.googleusercontent.com/w30ypFfokFaniQFUpXhM_TyON3MI-YNgASL4JKQdm5glFf5GqP1BHYWmA23_OE2cvUuZk26anw64BPZhqoFrvw"
     },
 	{
       "id":44,
-      "nama_skin":"Shae's Dinosaur Skin",
+      "name_skin":"Shae's Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/mrIvhu_Pa3t1AuOckMtVZkKjY7noF3_S-Qx2CLChT4kr7XwTlDFlnNVtoJ5QgvtR-7TZemHvjQaMM9oGDr-0Nw",
       "view_skin":"https://lh3.googleusercontent.com/jsYuZ967glZaI6F9RPCH43NwRb5BMKjrtSgZrHPt3m-uUkxF_suQRM4ie_QVsWrcCha5V71cUWZMfLrni-fW7dk"
     },
 	{
       "id":45,
-      "nama_skin":"Skin V. Dinosaur",
+      "name_skin":"Skin V. Dinosaur",
       "skin_url":"https://lh3.googleusercontent.com/wHnx7AIv9HC6xIhrCkVk23EyhdTjhC-81b8SrfEBFSV85bbqZEFYlXy-xnsUvBW5Qdfw8stSbHFVUxHXg3kJIw",
       "view_skin":"https://lh3.googleusercontent.com/rdSPJh-BUCyqd9Kj5oAmKAF2ONOstasNNn-dq5c6TqSOTbnwnqakmxA7L0dRgbrlUuVFDu6Ald9kgeJz8WCAcA"
     },
 	{
       "id":46,
-      "nama_skin":"Skin Dinosaur",
+      "name_skin":"Skin Dinosaur",
       "skin_url":"https://lh3.googleusercontent.com/sJOBibCl2sxiogiyyOyyLkOnv_0AStmK-EKR4LqZMMuiz3OyzPssF5iJNGAft4F-y3bF6kvNBIeudxNI-WHv3A",
       "view_skin":"https://lh3.googleusercontent.com/L6TeCwpG3l_sH583e5aLFH2v1TVkTTzhaf9u1HqkXKP8H5j35S-JRdi858OL1khNDxUCzDTa3uuPqrC3RKaKeA"
     },
 	{
       "id":47,
-      "nama_skin":"Dinosaur Skin",
+      "name_skin":"Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/dgtEIF79AJy5Rr_CEO7U_fnZ8ceiVgMLOcTyuODOnwNjsl78-s_8xsWT5l1vyVCYE21cXs_Ldh07GIdH8ld-1w",
       "view_skin":"https://lh3.googleusercontent.com/sT5d1N7Slo5gqESTsXtBSj30hw_sM8W_Mc6PXuNfrMjbNKTtg774VWODJ4amj5ZWS7WdVDoBfH9NBCLOkUoX_A"
     },
 	{
       "id":48,
-      "nama_skin":"Dinosaur Skin",
+      "name_skin":"Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/3hsLcunlUrZ5rQZoKEc8FmF_yk2wjHWKFCO70fIUmYMmC-exDagdN6IvPGhmLNVGPGgT23OCwF0gPn6GH-YX4M0",
       "view_skin":"https://lh3.googleusercontent.com/PmAp39qfx-JiPo_V_i6P7EkAzqXIWJNGlagdXyiI9NVUZW1IPGXdJ81A8h7URn7IAjIqhKsjwWS02k3RLWaalQ"
     },
 	{
       "id":49,
-      "nama_skin":"Nirvana_da_Killa Dinosaur skin",
+      "name_skin":"Nirvana_da_Killa Dinosaur skin",
       "skin_url":"https://lh3.googleusercontent.com/yn-tbOgpB5nw_Dsy48k_1-mPo9CQTg40nQduFapdHBJNuCOLr2UJpE57TLWsqceav9iOaLaB10n312WRH_8QdA",
       "view_skin":"https://lh3.googleusercontent.com/O6Q8k8VDAcjCMcMJa_d20npXh5gBCjXml5pnUXeMJ159cII4KJaR6WFXMrlLSyG57S1DNgbbvi_2-uq_BocNRQ"
     },
 	{
       "id":50,
-      "nama_skin":"Dinosaur Skin",
+      "name_skin":"Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/gOVcY1YKho-wmd7xV71B4H--zEjYoPK9d9wdvs2Cg6hLse7MXSYsSWGpc1M4KYqTLEcjs8KFmG0A9GSt0xXJy00",
       "view_skin":"https://lh3.googleusercontent.com/yZyIsoREA06IC_iurNNagvqIyJEzaKObJKb9c7rcnVSBqdD-m9S1GoJ34YOTMRB85IqJ0MydHoBNIHDufqLtQw"
     },
 	{
       "id":51,
-      "nama_skin":"DInosaur Skin",
+      "name_skin":"DInosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/P7L6U3HEXQ0DoktgtjcSq8CHhG4L9W1LxN7jQpdqN0lwTkGDcoW-5euwjmErUi2dNFlftw2CnGx6G9Jjz3xRM5Q",
       "view_skin":"https://lh3.googleusercontent.com/6B8mR5ckfJdFDbzldh6t9dW_4GSFh_WXJusytz9ihQBqFTXD7I_hszFRzWGyZMrZoBtTseYE47FFkII0JUdkayY"
     },
 	{
       "id":52,
-      "nama_skin":"AskFlamePrincess Dinosaur",
+      "name_skin":"AskFlamePrincess Dinosaur",
       "skin_url":"https://lh5.ggpht.com/IqI_ADFzmjcL6wQjeSmjj302Yhedute-2lv2ginYidWoykzu0W59GNnQEmqtz7dUVCcuPcoqNjqC4J5rIvOZCw",
       "view_skin":"https://lh3.googleusercontent.com/gDhcQq4pGf2enfgEJ0R6RBLgXhAVnNWpuXvDu6MampZRdnVOq37v19TP56YdRn7tl7ruZam1oCPTEky_l2JMeA"
     },
 	{
       "id":53,
-      "nama_skin":"DInosaur Skin",
+      "name_skin":"DInosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/ujnSXZ2ej0_E2Tn3e1-Y7QZKlhB-hxsDYmmK8AsFeFQPHquedn26jPfZDPavHX5tRX6MB3OjpX6FDmUP18uZh4o",
       "view_skin":"https://lh3.googleusercontent.com/D_DUuBQeEsJj_6XMeHxWm1EqqpoWbDtVVZonNLl5WXGp1eLh6aoHFiZTAO1OfBSeT63xz6sHw8ON6sC9fEnhICk"
     },
 	{
       "id":54,
-      "nama_skin":"Dinosaur Hat Skin",
+      "name_skin":"Dinosaur Hat Skin",
       "skin_url":"https://lh3.googleusercontent.com/rW3NZ4qfMFyhKt8lG4weZGM0A6OnKD92MNWaol-hBPFWfqYH5gklmO29xBPTWMmJG5zU151bYEQhEdl-fzo5nrc",
       "view_skin":"https://lh3.googleusercontent.com/t_nWuPII_z7Y0v48us_fOn41dafA7Eg-FKKB3jcOjPXwpdbn78ZEdRNPEc40LldDp6GulfsER_NR1D2J92gKxw"
     },
 	{
       "id":55,
-      "nama_skin":"Dinosaur Skin",
+      "name_skin":"Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/MTyTUdfiuW8pv-6doAO8WsGOhi-baW8p3W7NwJixpwN6twEZ6wofpqZOgyxQxd9nO6Fb1H7agsuejqG9UsRMSA",
       "view_skin":"https://lh3.googleusercontent.com/tT4aG-va1bPmKeDFnwCsNMlUWqbN6glyp0phAkvPwgGWqqT1fdvQ6DaVaXoSH9HuzIW8SKYPD2gxVaRjlSnd"
     },
 	{
       "id":56,
-      "nama_skin":"McLady Dinosaur Skin",
+      "name_skin":"McLady Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/XBeWyHsODsoumiOZxzbGCj0pF54wUM8KSfx_l0DqLSnSIVjM8T4pvBXAmOGPX6G5VpB5bCAVbNUj5w5lLHfCRMg",
       "view_skin":"https://lh3.googleusercontent.com/Jq-TP8v-DEBb5pP7kTth-CDheW2SB8OHvFPx0U1x4jGiQiM84xdwRnCMlcqW-N9fwWk1UeDBWsAfkeT2j8ku"
     },
 	{
       "id":57,
-      "nama_skin":"Derpy Dinosaur Skin",
+      "name_skin":"Derpy Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/4uQhPWlQp2IjPiXOaupX9fZzSBG_h4YAwdGZIhOnlnWJFHQQc1FN9ve5Fxe9o7OUtFHxu_FeCZezqXiG_wLwYA",
       "view_skin":"https://lh3.googleusercontent.com/s4jI9mwAa-YHM0GbdXMPHEmxJkLaeam8Q42m-a-gsp6qEdw_n7qe81S6h_nzfkNJTFenW1wIyIfEwswAVCVH1w"
     },
 	{
       "id":58,
-      "nama_skin":"Dinosaur Skin",
+      "name_skin":"Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/vXRPVbgdvrC1eFix2oedq6PvU_3kQwICL68XII94RdXyvXXIbwkdSUzGUuSuhG6rwu3dko_uxwBFc4_PpZpGUw",
       "view_skin":"https://lh3.googleusercontent.com/mk3xorvczrgQ8Klg17Ers4E8znr2T5UkxEWDtVrze9SBB9CTTz77RbKJ2VPl9HOchviNty5ObtiIyFbrpyuqrQ"
     },
 	{
       "id":59,
-      "nama_skin":"Dinosaur Skin donutcat",
+      "name_skin":"Dinosaur Skin donutcat",
       "skin_url":"https://lh3.googleusercontent.com/PRjphltFiA329oOE_nbTHvWLy1jIcaHM1jF7xgilzj2xRDkbUnNic65naLX-BRE6oE0tepxvSCP3wZCghsSh",
       "view_skin":"https://lh3.googleusercontent.com/0f1K23kKrKzWorfkMdXD5PAjZ2dRtEZws30fnzW_yxO3uCaNMjUrFcn7BTM4nLrA3d2JrxUv1YWmgkpt7EkBhNc"
     },
 	{
       "id":60,
-      "nama_skin":"Dinosaur Skin",
+      "name_skin":"Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/20cKkXC7i2jEMBAz6H-LkuprPeES5qR7wgy7F2cLIY8SIU3bJzS5hzjJ9YrKSXZdl6NoB4JGm_1yZDgEL7MK7w",
       "view_skin":"https://lh3.googleusercontent.com/2vYEWao9mHvbBsX-tMQ8N6qVJb9sPFUoK9LtHZ-cIAp0wnXu99YiOMQvav01wW8bzwBeQ05Fi4sI51mJa9tk"
     },
 	{
       "id":61,
-      "nama_skin":"Chibi Girl Dinosaur Skin",
+      "name_skin":"Chibi Girl Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/JixQYhbhxYRUBBr3Tr3phl6znoOgMPPLj29CMM0SyIvGf9CfRpZejuF8Sbrz_uDVaJUpNaKYn9CD5VhHCFDI",
       "view_skin":"https://lh3.googleusercontent.com/nfoap_9wE27wtLE8Gb5JeNHQbVU3VNV4AsdcZ_gy_ijph_7k92e9HPO_sMXMYvjT1LedxQ9VJ-cEt0tvCEgXyg"
     },
 	{
       "id":62,
-      "nama_skin":"Mr_Narwhal Blue Dinosaur Skin",
+      "name_skin":"Mr_Narwhal Blue Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/Uw-XjquMZzsS2T95hHXukgISAlFXm_DCERgs9WlRRuXqZ2Tg98z-tLidF1blSq2sHBA5u99juEaTC4zkIZ0edV0",
       "view_skin":"https://lh3.googleusercontent.com/wUIrZLMN7TmSka4oCsOeMBm--J9RXSup6FQU1-TQFK77oDkxYLB4rchg5Gs1ZuCrPgVMg45oBrMuYdkwCjTABEU"
     },
 	{
       "id":63,
-      "nama_skin":"Dinosaur skin Mushroom",
+      "name_skin":"Dinosaur skin Mushroom",
       "skin_url":"https://lh3.googleusercontent.com/OjdZnED9fuT0BYIkJr8NGcCn_0ocPClKbAjjd2gQGphBOuPcGMHWhz7atjSzCsjSrhopzSUomBZ7IM9WygR8_g",
       "view_skin":"https://lh3.googleusercontent.com/jwLnEnnARYyzpSksoWFhYMT97ZfY73dClwwLD8bU-OFZmWz1b3aGxUZRQCFJdDe3q50K9DsoQ1BZ3KLT6VC8sQ"
     },
 	{
       "id":64,
-      "nama_skin":"Ipiksel Dinosaur Skin",
+      "name_skin":"Ipiksel Dinosaur Skin",
       "skin_url":"https://lh3.googleusercontent.com/H0tLXaY3F72l8msywYoYLlzFEkIVhm9ZaYOirdXq0eglmhdVuZL9717m0DB2aOgY1t0cGoSuBlR2VpzKxIA5Kg",
       "view_skin":"https://lh3.googleusercontent.com/8h6q4KWAxnv5NC1ZUH5FKN-Y-pRm_QALOEgXwl_GjvxRf53oaDqS-3vEK-HxYnWbF88Ky8g-KEu7AcvwH_fsPQ"
     },
 	{
       "id":65,
-      "nama_skin":"Dinosaur Robot Boy",
+      "name_skin":"Dinosaur Robot Boy",
       "skin_url":"https://lh3.googleusercontent.com/KMYmZ8TPd43kiiZ7WBgabvgHPQ16mZaw4Rwp2R8beVYDUDt5rDK0XdpCtRb7mt-Y0dVjQUoOJ7wGRa6eypmJrw",
       "view_skin":"https://lh3.googleusercontent.com/P8IlWBatmMcOr9-CWCdRZ-Zq1vAfqS6Iy4Bh9AQe45vldJ2PI067ETdNU1sym9ERtxURFShHSb0K90aobp9_-w"
     },
 	{
       "id":66,
-      "nama_skin":"Dinosaur Onsie Skin",
+      "name_skin":"Dinosaur Onsie Skin",
       "skin_url":"https://lh6.ggpht.com/DvPyEn4gya0scQl8w_jtuBHNT_Vsb40jCT-z0U9Kh9_jlSBGKeMgAsFUy336whGgQfzimbSzV2_c1q4oXZRBGg",
       "view_skin":"https://lh3.googleusercontent.com/2CRW_G9pEeO4GwacUYM1fhJRDa_rF8O3UAQl-v5GR8_UPiv2G-N9neuuc5kPWCqbntZjOJuZs3zsrn_0_RXPgw"
     },
 	{
       "id":67,
-      "nama_skin":"Dinosaur Skin",
+      "name_skin":"Dinosaur Skin",
       "skin_url":"https://lh4.ggpht.com/QoHWp1bRhspfWjtB6iowFO9QhhQTMCYWR4uX9isZbvw06yGEuhsXMMMoBHlwQt2ibVSI8sgarjeN_Y08PC0",
       "view_skin":"https://lh3.googleusercontent.com/IpTp5MdLiP-sQ4lFbfxbQ9uppiuFm3AI6Dnwmn2kDCTA38pXgKpl9sJZzzmsHsiTsyDhBPraI273KVxexdzq2w"
     },
 	{
       "id":68,
-      "nama_skin":"Dinosaur summer skin",
+      "name_skin":"Dinosaur summer skin",
       "skin_url":"https://lh6.ggpht.com/iAdVmDIoUGtod3C3QutsXh42jmHGf0Z9nkQgpHgvxMnPYzMJiaDNVRJ2lvsluinYRZPeDk5gFaVwl1CAUPnIGyE",
       "view_skin":"https://lh3.googleusercontent.com/r6VYiLOIywJ0XUnCbvewBVCvbvx9KlUgWUV5LDRfA8xprYYFMDF8D4ZhVczAv8M9_5KnWPBn1UTFPPgrGngsfg"
     },
 	{
       "id":69,
-      "nama_skin":"Goddess Dinosaur Skin",
+      "name_skin":"Goddess Dinosaur Skin",
       "skin_url":"https://lh6.ggpht.com/7rsXCMd0wnf_ZPWlB60D5Zg26BUqLzZzfTqdoLRLIwL2k-0e1Rq-CBGcgNP7h2KsBbb0R94GBd-uC874Ea-J",
       "view_skin":"https://lh3.googleusercontent.com/WRsyM8OI73jiC7wzLnzuzJ9GMhT9dO0turHwbh4ezu2-Pz7gxlFzV37aLs7_mAOKdFRF8s6gIdiirqAyA9rWBM4"
     },
 	{
       "id":70,
-      "nama_skin":"Skin Dinosaur",
+      "name_skin":"Skin Dinosaur",
       "skin_url":"https://lh4.ggpht.com/LZVmMZeRAnxmQdbO3ZHb4V4uPmYdJ5UhcXpUcHmA1ejjmG8DYtnefwawRL0N5IOpzff76h0ShC_RckWc5qGm0Q",
       "view_skin":"https://lh3.googleusercontent.com/X9OaE_9OcIUQ--hr93jNYfOwm5mkM8KdoVi-xyF9fNQpFblg1oz1KLHqgOBPPu2hIfOGHL0DtOvX42rB2WMbvUA"
     }
-	
   ],
   "Addons":
   [
     {
       "id":1,
-      "nama_add":"Cat Plush",
-      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
-      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
-      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
-      "view_add":"https://aliendro.id/wp-content/addon/catplus.png",
-      "des_add":"file:///android_asset/cats.html"
+      "name_add":"Addon Dinosaur",
+      "add_url":"https://archive.org/download/adddinosaur/addon1.zip",
+      "addB_url":"https://archive.org/download/adddinosaur/addon1%28B%29.mcpack",
+      "addR_url":"https://archive.org/download/adddinosaur/addon1%28R%29.mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/dino/add1.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/dino/instruction.html"
+    },
+	{
+      "id":2,
+      "name_add":"Addon Dinosaur",
+      "add_url":"https://archive.org/download/adddinosaur/addon2.zip",
+      "addB_url":"https://archive.org/download/adddinosaur/addon2%28B%29.mcpack",
+      "addR_url":"https://archive.org/download/adddinosaur/addon2%28R%29.mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/dino/add2.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/dino/instruction.html"
     }
   ],
   "Maps":
   [
-    {
+	{
       "id":1,
-      "nama_map":"Hello Neighbor2",
-      "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
-      "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
-      "des_map":"https://aliendro.id/wp-content/map/hello.html"
+      "name_map":"Maps Dinosaur MCPE",
+      "map_url":"https://archive.org/download/adddinosaur/maps1.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/dino/maps1.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/dino/instructionmaps.html"
+    },
+	{
+      "id":2,
+      "name_map":"Maps Dinosaur MCPE",
+      "map_url":"https://archive.org/download/adddinosaur/maps2.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/dino/maps2.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/dino/instructionmaps.html"
+    },
+	{
+      "id":3,
+      "name_map":"Maps Dinosaur MCPE",
+      "map_url":"https://archive.org/download/adddinosaur/maps3.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/dino/maps3.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/dino/instructionmaps.html"
+    },
+	{
+      "id":4,
+      "name_map":"Maps Dinosaur MCPE",
+      "map_url":"https://archive.org/download/adddinosaur/maps4.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/dino/maps4.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/dino/instructionmaps.html"
     }
   ]
 }
