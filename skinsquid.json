@@ -2,490 +2,497 @@
   "Ads":
   [
     {
-      "status":"0",
-      "link":"http://",
-      "pengaturan_iklan":"1",
-      "admob_open_ads":"ca-app-pub-2521648737251856/8883087607",
-      "admob_banner":"ca-app-pub-2521648737251856/5135414281",
-      "admob_inter":"ca-app-pub-2521648737251856/3822332618",
-      "admob_native":"ca-app-pub-2521648737251856/2509250946",
-      "interval":5,
-      "fan_inter":"",
-      "fan_banner":"",
-      "fan_native":"",
-      "startappid":"",
-      "mopub_banner":"",
-      "mopub_inter":"",
-      "unityID":"",
-      "unity_inter":"",
-      "unity_banner":""
+     "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
     }
   ],
+  
   "More":
   [
     {
       "id":1,
-      "judul":"more app",
-      "image":"https://1.bp.blogspot.com/-GRF5s0x9sDg/YTzScDzfg5I/AAAAAAAAAu4/AuZxF5arRP0KDhXEPpsu4f-QQjrYiG8lwCLcBGAsYHQ/s450/1.png",
+      "title":"More App",
+      "image":"https://wedosmp3.github.io/goldencreativeskin/playstore.png",
       "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
     }
   ],
-   "Skin":
+  "Skin":
   [
     {
       "id":1,
-      "nama_skin":"Squid Wrist",
+      "name_skin":"Squid Wrist",
       "skin_url":"https://lh3.googleusercontent.com/KdYy0n-vOcGZJzk4LC6QsLWpi9-0-4PreHKgtN1uBgT3g43jOBJybi6rgSkoCz2t9SlqG_lGukvPQW53MQ9Ut2IGng966ABBsAo",
       "view_skin":"https://lh3.googleusercontent.com/e5UaiNddDYUP3k9occikPew1g-rcsu3n8iFV3oyfFU8sW6ZXhtEPcb8TlBETNUBovG4c4ykOs_JNT_5AUQSLH_AJZIlHGlMAOHzE"
     },
 	{
       "id":2,
-      "nama_skin":"Squid Glowin",
+      "name_skin":"Squid Glowin",
       "skin_url":"https://lh3.googleusercontent.com/jxslqFbyP4yLxCIAO7gWthBSAHHRPdqM8Mu6CFRURCzV8RKziFSWn9xoomU-zWSTGzTsMr4fg7VDLkYP7JLt6w",
       "view_skin":"https://lh3.googleusercontent.com/BkaT-iVO1Q92yvhcr0NnuFPLxuGbJ1oZceSnLhSIWURIt6BHh4a8QvUqQNldUconipL5tv2udzsXCBChzeZN"
     },
 	{
       "id":3,
-      "nama_skin":"Squid Red",
+      "name_skin":"Squid Red",
       "skin_url":"https://lh3.googleusercontent.com/l8nZDRYYSZSkJuVIkgcUcTLjVftwJjgYhWhTrV9WtQggtqApGXNF5xF_dNxtmuYgs4OT8DQxrg___WrvFtGGbtBgAeUFuNzddVdB",
       "view_skin":"https://lh3.googleusercontent.com/oGFt1nx8QDnLiW20OggekXgPTv1hRN7BrXwixVA0WsvD7xBgLUyCjXe6mh9AStItZzEjB5TaD-DNxzpd8ixGKbgVtPqqIsX8"
     },
 	{
       "id":4,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/lYYq_zZAb3Pz9NPm8cOi4axzgA2MZWlTAMGQCiqHHVs1gfclp_5hQxiC0NeEdlv9hev46T6oy0ILVe-PARISh2xPkwKx6jMt6w",
       "view_skin":"https://lh3.googleusercontent.com/IWDT4m6BjoXQNGJnm2DX4bDE1NWTJz8EmZaI2FqPK3Zi6rDsr_WytKcwPRzKZGYPn9DHZVbJoxppZ7z5ePR22LQlxa48Gfy2UGI"
     },
 	{
       "id":5,
-      "nama_skin":"Squid Girl",
+      "name_skin":"Squid Girl",
       "skin_url":"https://lh3.googleusercontent.com/WogIwlxThlJjnpO63ulv_xGxUhfAy_c3IlY5m3OZvosbNRFMbsSY6JA3rTZkgltSET_jDwwNeVohIGAvvQadpjyAcm109AyewE0",
       "view_skin":"https://lh3.googleusercontent.com/aVJ6XHDzz_f7-ZKV0wWaSmPBKhrvW4UqI-UDjZQneLg4u0zm1UjWZHe1jnnqHciNO6_PT_kCaA1bNNSPLqKnNE6RtO6g_kFyrEc"
     },
 	{
       "id":6,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/RctckcHeYgvQEZkNkRPmKKf61xLxgJtRFxo9QXpUL9oISc1XiVq8JyGnneG_WFhYv2zzMTgrf5hL-3OBmIKDUMbcBFGuBlHgkRg1",
       "view_skin":"https://lh3.googleusercontent.com/Qrn_N5C9tZZ7_OdO1EH58cP82Po8jw2wo_qzBGR0as8Z1i32XeDlyd7TfEtcVKGtM8przU66vcqpVKhkzV0494V8EIEKH_8idKQ"
     },
 	{
       "id":7,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/MMTWP-W10-zJDHi9qUNCyhhkPiZZS07WQjw7X4aHPb5XzNEXUbgzt5agYa6Conzk0HRVq4fRVRk5jBb_r_WepBJ0Zc3NZ5KJAYPd",
       "view_skin":"https://lh3.googleusercontent.com/J2zvmFSzg8MIW6uSW1en-RmVY6Dn9-RbK3Vk5u7cbCI556jeXL_eWNDDBotYexCfUoY7AedRAibzAsH9_3J2F9_9YGSdFBvedSY"
     },
 	{
       "id":8,
-      "nama_skin":"Squid Cute",
+      "name_skin":"Squid Cute",
       "skin_url":"https://lh3.googleusercontent.com/Fs7eYr-OIzkS6azEpb_OVKEZS7Z7GZbHDeGi9pyZ_urwQ0vDVSKMHRtH8taJB3WceOKI0cSaj0wUs9xj1hXSCw",
       "view_skin":"https://lh3.googleusercontent.com/GTIBqY2D-dHOP2OTBstRw_1bnBgbt7GkEeRvGD1Mc_7zbyFBOm2bfDJbJSTWlMNyFNngjidDFnCJI-q7bsuFmA"
     },
 	{
       "id":9,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/1fKNNir4mntSHavOrpTH2Yb6ik33aBhnwqljwyGNIYEwyyQnG8oVfobfQMsWYivtfsc5tBOsXcOKUnOkzTZWztdiZuXnR-1ISuQ",
       "view_skin":"https://lh3.googleusercontent.com/EN2nWg061LBWS4AuSy4WUNYjPtfOoBLtLkEN6kZFCOUOXCwxr6-JAP3SHvUJHkQYrFZ0CpxpFZOJd6vZ9XQXCmiKr1w4ef6pcrE"
     },
 	{
       "id":10,
-      "nama_skin":"Squid Glow",
+      "name_skin":"Squid Glow",
       "skin_url":"https://lh3.googleusercontent.com/QwTCiNNyfLta-1N5wsZNk7foQMIbFd-k-r3f2dNuMCAQN9WhGbiqbKlciP5uNgnVBSIckBz2DlOXNTSX3cgO",
       "view_skin":"https://lh3.googleusercontent.com/gEXi-nJ3rXDy8tTaFCK6Y4qdFHO412x4Cy0Kai0vkh2diswu2I3ReugjsbK73k1hFZwJOMEBdEe_T-I3cBe9UQU"
     },
 	{
       "id":11,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/tt_OvKK_4Ii8ExSFZVlPrl_Swy1Jg4We4XJvGRxvd5Ry5sBayoqa2hKc96O6_T0__qI5tBvJEDftDDnraN5NiA",
       "view_skin":"https://lh3.googleusercontent.com/iDd1aWE8GDhy9yxJXcmeP9FvwoWiplSdj26hOgTIGl87FfjBpHKiFoGlP2DUInnh_AhXB2kJqcWRTyXvUC345Q"
     },
 	{
       "id":12,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/uI16Cgu64ZfgVhIQjQnYjHYKXV8Njzg88SCjdgIGVb7aROj-jfCjJXb1yMapTo3CqQogohV3EmfSizNuO7fNcSWNUjTEupYZvw8",
       "view_skin":"https://lh3.googleusercontent.com/_DvQusT_Tnvx2tjDuy1nPojPkJ8dZ4pJL-H1zERmHiTiYhlGpQMY45H6gYkpUYc_goJXnYMpVquYsH-8yKcxgGe8jIKvuzjRwyvd"
     },
 	{
       "id":13,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/TwJ83hklwQOZnfwX6X3sgpt0tyAUC5JSLTSMG4TknxVIWlVQMERdb6LVrHBG_noQV71xWNDfeXOv8nfHg21cOgoDt88T7JXz-QY7",
       "view_skin":"https://lh3.googleusercontent.com/n6xlKO28L662KYv3sQ1XLVDQESWtEw6Yc8RTS_WUc5H0FpqpOIETYVO8W1q62t0i1csjQtmH0Vr21n0RZW47Fdr0W_oDjTqm3BY"
     },
 	{
       "id":14,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/Uss9vMGXWHnrTENnWqjpnIP-XbA3zeOgbl5TTWAN794ta5mMTdde9Vt_8sp8gTaOdFDtNFzbWBkWec-kj-k19bGIqnXZBdYPYto",
       "view_skin":"https://lh3.googleusercontent.com/oq_CQpCMXk3BXVbDw0XfRvoeY8DlOnuec9RJVhM6wqLT6VEY__XCQaOBjMivnwJ2qThGv7-_55gEOH1oVGfI7t1C9tTtraOWYck"
     },
 	{
       "id":15,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/Bo8wEv9S5-5jBnAis0lv9lWIdIReBq9iq35n_flHRmYLNMEUvIlDFvfYVOkTy803pXgKAL0q3MnZxBBk6vp9afbIowt0tlGajU4",
       "view_skin":"https://lh3.googleusercontent.com/u1-jTUwe6CP4480Ziqj2BkF7CHeAWAZxcTaMd1B0ZnGb5p6xVNj4gBK5VIHqHl1kbu7YLPxm5RUJnLd5-F5nd82K1qpMnIG7q8A"
     },
 	{
       "id":16,
-      "nama_skin":"Squid Fade",
+      "name_skin":"Squid Fade",
       "skin_url":"https://lh3.googleusercontent.com/1zI7-U6stPlDTL3Ure9SAncmyaQSNqc1zqOeuNgcQGb9MeE1Re7M7tgYR_zR2MpLhSMgUpE-fxBjZxVdKoMqIQ",
       "view_skin":"https://lh3.googleusercontent.com/7bdm3f-bWAV-syHpML7ilOS5FIsEQwUxee4XFAdLbEmeo0nQeA9tTaOO5Gx6ZB3kJ-j8I8E2ZjLOk6kwsaSm"
     },
 	{
       "id":17,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/RLlUVZFOviujaF5HucFVLBE_c977u2KBToovYRCndYG4i2pZkNXRsBaP4awCCzC_d9AUbOG_v1b5vVrRfp8LPhXwhj4G_BuO1oo",
       "view_skin":"https://lh3.googleusercontent.com/yZj273AEShAHp8rY5Nc4bBEm2ViG1clkyvWn3_GykAc3RSFwf_grVB2-ROxlbZAa67Fuf71Ib5RgQBX4qld8D3LpgFNUJ7VkU2c"
     },
 	{
       "id":18,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/1___6BnXfvY2ak7O1NxLnE62ZEhpbcBjGTkQuVmaAj1f_phDZgDTfYXgMv5TmLYfymiuOHA18fxmCONvBOumHxmX12m0AQkF1Q",
       "view_skin":"https://lh3.googleusercontent.com/MduPmQ9q0TzzpgpoN-PjKZvlGXZcvN-vMTPHmJfj-VLs_qGy-kDOgl_6ZTZA_82L2tjXvb1MKSGkR6IsAmyo8zvlCsd1BLAuF9Ns"
     },
 	{
       "id":19,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/bvRAkdbG2zWz_aCjugVbCRYxfs_tNKPCV7DtlU-4fAIER48WvdHk2ZfSptqDKHM98LKT31vETY0iNtunarBEEUDpimRbVT99TaI",
       "view_skin":"https://lh3.googleusercontent.com/PwTw8Ffd5mapGEJLTZal-EwvKUeTC3b4WuSrVyNHBpxtejIBkDkMfHeVqo0VrDNKwdz83I-CUMfLemosvO71lCpXvdm60g1oB0qH"
     },
 	{
       "id":20,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/M8MApn6N5L4_dPBblew7dzZtLDALvWaIfOpMooZ-SO5vRp8umP1exgU5wvqZxS3_Q5hY3uMyVgMpuP5SVJSWludQHr9XVPdunyQ",
       "view_skin":"https://lh3.googleusercontent.com/yjoo9Y7bWCNm8zGb4nV_Swn6pkgJM1PRm6dn8mJsAabVgZtTR0G_uwWr-2gQwKwfBJrZWmUdgIuc1aB1X5hdP7vo7bVwPtc_PMA"
     },
 	{
       "id":21,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/bOj4x1c247ZIsCAA5tQ4039-32e59LPQunO5FTdT23mPgulYHYfJlrcIB0rXjIdwxVdDxGdz9WfKbBDxkZUm0ysG_z687WUqznU",
       "view_skin":"https://lh3.googleusercontent.com/_gKvj1ZsQt9-gWa1JkYPWD9lzJwVKP_oGG2sKB_b9A1BA9rcmD583JghZjB0dvgQISKYpfVpa1PZwF_uJtp30_jaGYTgGWjJTyk"
     },
 	{
       "id":22,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/kIRXBk9nFzqcVGTXgyYv8ni9d6fmd0iKnnew7rm72nf_MUPUvSQkOT3TTrLSdv6bvSJcDZ0j1oX3u7KnCoqFukZ0O_qbeCdQ1uw",
       "view_skin":"https://lh3.googleusercontent.com/yBg_Tvkf8f3E1kTxRRcmzq5C7d8UBFhMLw9mrXyzKsqZskMX15jiLNHzoiQE6CN_VgshTkC9wFApb6faxTMLo_XTc87N1VKMpVCr"
     },
 	{
       "id":23,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/UQXPMADpDVheIY077LUX3uA8qxK6ZOZajV0f7biuHvPDoo1KhPOyBZE6-LArGyv7GKGFf-3UhRnRCIzB6Eaan87l5udvVc3A5Yw",
       "view_skin":"https://lh3.googleusercontent.com/4nG_JPsW-u7Tj67AUmiCVKagKx1vQs2mqiwYdX8va8mnd4klyQAvv29yYW9zYK3jvl-cNMW4n2yPAzyVS3bcqpv9m9IK1tQzfm8"
     },
 	{
       "id":24,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/rgf24kMa0FWjHBMeHS6EEmCFoMLTwmAJMvbchNnqnzF9s3I_rbARe4b3SreDZEARg7TBqPn1ksrPOMKfxkQ-9G1hff3_x4ICvj8",
       "view_skin":"https://lh3.googleusercontent.com/d5rGSJki5d4H-P85ir60b_48oamiY7n2u7cqdKsCVZIZeCtgo1I6gH0c3gdcVwt0J3XifJalzmts-PGXhlo8wP-aMUlJ7wx0sWc"
     },
 	{
       "id":25,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/FZJGy8kLgLwK0j2VtgfFljtsv1e_L5IabpfxUCQsL8do8RarmLufwsGalEbtOX3Jl4aJReNs2KKo3rDwY16q",
       "view_skin":"https://lh3.googleusercontent.com/KDla0zwQuGkjZ_Avo0E5bQhYu151up7GsvA-IhBr2YPOKqxuQClhZOAk4C8eT90ZZ1mBtx3aKfeE--eBp39MgA"
     },
 	{
       "id":26,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/rAaYLLp7CimKtz-xSeTPPG3R8gIYfvIKJ1wdrXJQuaM2TNKzanpGjKhWk9G8GqmwQ1gm-tEZTvzV-msd9zVf1uAmQ6rI0sJdGIQ",
       "view_skin":"https://lh3.googleusercontent.com/2baTCHHjMV4p20w_Og2DdTJXpkU-wKc_kzo3zG9P-n_SvEfvKoj74RIl8RVlfY2_8oZf7-4nHdTCWNtKgGb_9j1ZroXWRpXy2-A"
     },
 	{
       "id":27,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/evRAKk4zZ9F7rKhdI2TWI2pykkZ5XfuVY7z0TDxpw18fQZonEkYj53bZvsKL9enebMB9thG50S0z3yzRNt3_",
       "view_skin":"https://lh3.googleusercontent.com/H7gQCX5MCsLuJRDFgiBaZ3iZbUn_U5GMsX-KK-_Nb3upa-Zktxb_8WKB3-lrPg3bDh4u1U9MUwq0LApL6VwOVg"
     },
 	{
       "id":28,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/-pV35KOPLdznr2Gv5DHXlTG38O0nsmnPZt2l2CUcxjCwQ3MuBl87ATcl7vMgNnpsKuVAQxRalhj-NDfoafrgWh6coX0NmhPMvbI",
       "view_skin":"https://lh3.googleusercontent.com/QuDa5-qzXH2St175XJNN75l4HoD8xZ0oYCcHUiNoCht_hif6ZdAnirQQlpBhd1xdpVZovlwS-ZaV5hAFMIqQXwHtJf7x7LYATMA"
     },
 	{
       "id":29,
-      "nama_skin":"Squid Duck",
+      "name_skin":"Squid Duck",
       "skin_url":"https://lh3.googleusercontent.com/DBIHah6ozvaKtY0xgIgTbhf-Gsi-nUJnf_uXQRjXSuTPWWTTpxRe5azw_o-zxCCh3Iy6Z4DwelrN6M3PzpQhE_I",
       "view_skin":"https://lh3.googleusercontent.com/HPWYAtJmgN8mUniVoXRJZK7NxcvMiDiagK9v7JIDEnUcbvQMjXKFkB2jH-RtNjsc8tFpxMvZTgY9c5dRc33OzWI"
     },
 	{
       "id":30,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/0jNDUBaqH4oOd45HDKI5eguQi9JHsTdjHY-XGm4kfldk20nss4Bxp8Bgi8m_TSJELqFa5MhevTtC0Q4q2p8PTtM",
       "view_skin":"https://lh3.googleusercontent.com/C0LfikAv_-4pV3uDNz-heUZ7Guka0o5-ubJwZEx-3OSR4Be_9trZkBvHMHn7XyglRVo_3XgRjwLGaknMgqgN1A"
     },
 	{
       "id":31,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/wk4-JSet8bUSKfumD7okA98R51DQdlgJtIlmkbqcIpy4eiLDXvuWvbwxrmWzldzVObqK8WQ-URYUTPh_R3r1yaevlfwXbZvpoCc",
       "view_skin":"https://lh3.googleusercontent.com/AaBgWInORCWGIIpxrN0210UMVeC8l11Mys6gEHA1Lo6hrV8ZO91u1b-W7fJUjwBKE2HkRdQrQ_gbFED10qx9dYOQqT6VyZ_1L36l"
     },
 	{
       "id":32,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/eknmUuyMq7X4ps7bX4Z6at6eAj-FwcUBzqqR9M2hUsRZNwgianEdmIxyrI0wJWiuoobPThqgEFbR83LZN4I1UVrSIFo-z9OtfA",
       "view_skin":"https://lh3.googleusercontent.com/0ymAY-W4OsVhyooYDuBE_myT3spH_KU3yGUT5YVyq50vo_AI04ws5fw-C_Qe2xGxe2b-w6gRDf5OFNC_JGMBFwYJL2n3wNqGQPg"
     },
 	{
       "id":33,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/l5vbcQd44TDJ3MkY9G_BKvTW9jikVWljedYOjeK_6QmV66ys0gNNJMENEthIc0uhFAcvs-CQh7iiXFo0gU8rtwo7kirMWiAD6ImI",
       "view_skin":"https://lh3.googleusercontent.com/wGwUyal2oDQI-8nOJh7Hefccqz14XamqjWR7KW8FKetrJzv25obRCGRcuUDyjOjW0vgolPb7Iy04NQVxKKAkyIdMEtlj6KPcqxuz"
     },
 	{
       "id":34,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/SXEPY5x0Bnw-TF99UC4l62KLKs8sjmTv_Ks0Uu3nOsjDKtLqcKPln46dSsetGWcljL4WFIYSeZ8coE9Fj35s8MLFjMHwOlVnF3iz",
       "view_skin":"https://lh3.googleusercontent.com/ai3xGSK3tJcBNr9tc3T-MiHXRn09pQ78CUBYn-IXqRaXCTarqNmStwuJ6vh33oHOtBjFoFy0SJReUkpL9-nVw-Rn301TcYeQEHA"
     },
 	{
       "id":35,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/fXqBSS7FJa3uIQEZE_uo4cLOUGceTEJr-5sDqj7aq_HUiRD0I2DtoTMqhL1I5SfxNPHx8CtJI4HLF4C5KhBTUoR4rt-qVSEsMITx",
       "view_skin":"https://lh3.googleusercontent.com/twlocpSF2hQNRGCnxxaeI9ChsfMhP7maLHEr4_Jd_EzJCgKz7Ht6xLL5Ht6n-X3kC7VFeHuZ1Xv9-GtoQRjlqvUgcaUsTKQzIqk"
     },
 	{
       "id":36,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/TA-tvsfw-JGrB5mTcsbWzCBdMAC1fYA9KXEWecQBfqWGGTrYIh7GR2Wi-pg4mOQLxDjQgCN_sg_X2pAEy2UlzOAMuBwH9MEJOSIC",
       "view_skin":"https://lh3.googleusercontent.com/vjG2nR7RXMt2cMbuWpxt7no1TzK5b2Kpc7upqmk72jZ5UaOP2GTLYsSRGrSaAANwVmdjLdb__NyB5M_xFIxIKgq9Bt_y9uvgovRc"
     },
 	{
       "id":37,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/63i0DohJLGBC4vi0SnGVM6VyLAMrB9PneaI-j3JYC7YYMiW4SBEUBVBscQjWaIQlW0BuL69I8_Cc_czdWEFLMYQ",
       "view_skin":"https://lh3.googleusercontent.com/-Lbzxt2JdYHqY8EOrLzM0dIedZYM8RwNZLkWsJYcAELRmjFj1SKezhD9saBt0MH0CFKTzsepo2JHIfWGpw3-9w"
     },
 	{
       "id":38,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/Zx45byO15SsKj3CsatOehtS1E-Vn4xW4bNeIYOVi8_SGG24ZrLsw9PfCy7S6Ffd3sbOAs7XszCQBAToWmBDzL66wdWrVjW52lt0",
       "view_skin":"https://lh3.googleusercontent.com/VYY0QJICTaNcG4_FNclNVkrgIgwPPP9ct8py_WN6vTzHTPSe_tDGfZY3JDHwdoaG0q4VF87g_7xYrOmlMB8WWRdVqMKocq4PA1Kt"
     },
 	{
       "id":39,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/sVptOCbE3R_RiVwB7H4mIjIzO0sb-7F9NQeWi2hQkS52XTC-fUWsfYK_JGCWeLg1-YTf7HqFVtcB5Sc__kcRhbhRLy2YQ9SzPQ0",
       "view_skin":"https://lh3.googleusercontent.com/qWeyMi-CQPLnwwgq_WS4IXcydM7CLOUh3LNqT2PzGujqTfoCMuv90xTvLI16535tyIsbz4kI3lr97sgVHxzrsf1bT9FBSrjTC7A"
     },
 	{
       "id":40,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/O6Rk1o_4JdY_7ROkMF78MfOKKjY6E1ptKVa8FHV43ABfVC7zZOw_n_SJtp_7ZaRH5JwqOHXohFnih-2hBSjvv9BffTB0MJbYMdA",
       "view_skin":"https://lh3.googleusercontent.com/-TuKx42epyNjVkimJmPOhE6r1ktB6pdWarjOLemO-YFXAhwRFJdXU958YHZY3EBYobqZomdoPyRkQx-c4SY8VNQCuZrRBADTB9s"
     },
 	{
       "id":41,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/swPkI03ijCBfEA4hmznPJCP6m1sQuXhxyBP2lFjTMHGNJa2rO1yOrQOXjDdlL-w7M31Z8eGsqnAKZmEPu6V_97zGvBSoS_EknYqv",
       "view_skin":"https://lh3.googleusercontent.com/bMXBgBbFGz7Y3_Ooet8QOkXy9FY9wZVYikeV5ZNnXZbL4HNxn1xktF4vgIaNfiSGISgPzYeoQwJYCG9h21xzmcUvXRJK7ug3YMw"
     },
 	{
       "id":42,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/Qbl7gSzbcV2C4UXmibXpSq4MHFWHhZO6dood2Pevxt3zG9fYTMxE0EUnEKaAWM5S8-ERRzGQFIpEIKrfFvkCsoi6OVnZ9U8dOt9c",
       "view_skin":"https://lh3.googleusercontent.com/q-HbYOZgG-Aew0roG4HlFnnWCmLPlakpe6KSFPh_6qhGtDtojRqAa-GUCahJbXj0kqIBFSb5s9fq7C-og1bQUtPOY-iz1svpPg"
     },
 	{
       "id":43,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/YyXsF_Bf5zVwZTL8Yt6D95ldMhigSxVGbofbK_rb7FmrXm2qLrALPQaODCB8mR4s5q4zBuIEMq7UwAd31qeXTMZZ8R5-JbUJ5Siv",
       "view_skin":"https://lh3.googleusercontent.com/pmr6guJL8VfuNxJAExw6J4h6stxLPNOSJ2GGcIA4RoY1lCuGosym0y-IBtaH7vADeCv7oYKpAJyzQJwugKCnYOYzkBTRfkxIdMA"
     },
 	{
       "id":44,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/oDHsz-F1uoIStrjPVArU8Ay7L8RO6xkzjXy1U4GSFE6cT1ey4ZOwDbAlqoKziBRaH1cW04STs7LC0Gzl7RpH1YNyvvkIAfDFQeg",
       "view_skin":"https://lh3.googleusercontent.com/HEX5Cwu_SP9zYEmR-ZE8BXq3fbuHZ5d0Uq2_qZDsFHgwbPIY48DuQCn3bkutv5v_NepDYCu_GMuk2_EH4PjEu1ety5gs1hlgzyUP"
     },
 	{
       "id":45,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/20EEWZ_G-JIUBOI-jI6vAl7RFyqkjqNJhHs8kNeYq0sTMOMl1h2tkjsu3T1T2NAVqHVxIU92V8Be7QXq2vTiuW1fHKCqKbigwSYQ",
       "view_skin":"https://lh3.googleusercontent.com/88hCcKFQQACkgMotoB1uE-uqsOsH4QQaZ1FOoC-kaxyQXbIy38dhYSbgXHgtxbXiTgISHxWPIHn3tMu2n4b5m3sEGIH4tcZQTW4"
     },
 	{
       "id":46,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/sqBmRXiMSwm6JLTEJmUfoM6nmd_KC_vDh2C3R6FuEqmn-tBAy4lLup75R4_QgSIakUGXq3ws4gblmuYg1Mvh3AFW0boh-9kRfw",
       "view_skin":"https://lh3.googleusercontent.com/riP9y2skQTtW54pY-OiHyDLGo7DQkYMxreGQcE53p1aY1O1hv13KQ3z14bEN_X6jMHkvcGoBmsDYCBRvcVOFx3he9qNH1qzyxw"
     },
 	{
       "id":47,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/ELS5xLVN7Odzlzz_-syhbolm40YUfPhzcLw6v6sAbk07GjC35kA9muoGZ0RODfkbv9XzjuUiRznH-U8jR7s7ZhmaRiDl1xQ3RHk",
       "view_skin":"https://lh3.googleusercontent.com/C4QBdsa2r6sVb_cFv58gjOcr7UsE5UBQtHmtXxtN3ekycPS_3la6E_PYjuwXINX91CEHzlGMZcjqMKEykHp5EnlrvyX9Z5NNWw"
     },
 	{
       "id":48,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/D0GHeI1MvsTLzJOZ4WXrlTRcgpruEKPd31-2aJII-4bxjoDLe7fvkmqFqhcnGKD00_Ie9xt6xp6yjj1X7Ff6DmDdMbo418iNag",
       "view_skin":"https://lh3.googleusercontent.com/ML7dNBrVglwuNZ8lF_shAZMQGMTmh2rLTXft5eq4-f86Z3wofkk_Y7ZjbtOOBe2xmrTJhcILQf3z_F2Wvs2Hey2Fa4tvvFloWyQ"
     },
 	{
       "id":49,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/L66eLj_4zgRspD4fvSMPKXsQo13mK4uYxpNqP3FQw4K9FLQUkxj9Beeaa5I04YX0lfZSY8gNjCZtDf2QJ7zJqDb296zgT4gv1dk",
       "view_skin":"https://lh3.googleusercontent.com/KwtSUcxLiw2u-9DRq9CVXCQYOyip2CQo6j4YfLCViuN8wWetTFVoLjxIC7LJ1HOiDkVGl1uiBoUqNdmzpzvTnWQx5Sbh_NBbON4"
     },
 	{
       "id":50,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/SO351G4pVndQyqF_NgzlBQyFoSlbiZW16ui1aDlWR0T2-l6O-iUQYFrhC6_xqNPR5PuOn6oY09BerzOJKJYrBdQzKoP7YEdvNQ",
       "view_skin":"https://lh3.googleusercontent.com/jBzufWlBNHimzYvvlUbdiFjqTXd6BeNXvNsiS7sU2pUHl-iyTc6RxX3igUo4JSkKiGrKo2BEDK91Mhpq7dhBTWSl6hVoIqZZMRDf"
     },
 	{
       "id":51,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/0-7BPaN470chCPznPuJ6uPXIdYz372UJimLNUQAkTV93ZOpZ17q8SRcBB3NrfKHi5LYiNJ1KHuEFH3FQzd77Q9WP5zCbJt1jowXF",
       "view_skin":"https://lh3.googleusercontent.com/cX9wNn07cyFt_tfquCSDbhHI2VQDf4nbnkBsuMT379R7XhjtcZY9w9GtkOdssznmiKwiQYbEMZ3rwEvLzQ-vdElfCIwRGPqfJa4"
     },
 	{
       "id":52,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/h8kxo4JrYAkbxIN_cN7CuCn0iKM3oEvlBYM1Uz5r_btGeXOxeWcgfe_aqSws3r2tCJcDQlmYSstgE3GK3oZnRNW1VH1K5lXfLoa8",
       "view_skin":"https://lh3.googleusercontent.com/_7moMIun-94tqjyLImWTzslbrps2ybRPNnWqICmYw7VPI4OfIXToMXUsbPBYWszyFBO6sMkRjX3y64xtBoYfSheh-vY8TAbsu9Px"
     },
 	{
       "id":53,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/A5f2LkeH0Qqws2ECSA4gT0hvIwylLm2VLUQK3frFRSRO5lKRuZ3fh8C8pwvRlfgWVb2f05J3QfxpEChlvt9ClnszCy_J9SkC2Jk6",
       "view_skin":"https://lh3.googleusercontent.com/4Qqvk7GHClZLB19iY7FC8_sJkm6BblpbeT5xcllS2_EOyKeFM5iKugLnAXVO2h3kz7X-CAbvYODl8YvOl08JHp56Z8aC41y3RXY"
     },
 	{
       "id":54,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/bx_TTsQ35AFnXkX01E3qoI5sClebKx04GNvo_J6x3HDH-3v77y-hSyJiMCOGtt3jooCH0nN4sSglT75RzZrG2kg8V6jTDPhRtU0",
       "view_skin":"https://lh3.googleusercontent.com/zC4ERBVhObgJ6Q22MOn8xaoVVsxpPhoG5g40jIMiDLRzKTdLYZY6zQwQNh4cpZfFuBAhOqqwjppGlBT3oImEhez3BiFAmibKdDc2"
     },
 	{
       "id":55,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/p_BwBSVRPIlDIayVPT7GmPfm6DVFR35epC5txDrpJTbuYnd10NE485eIGoBP6JJpACUnQQ6HENlt_0vGrgHhZwTOQym6r-lpFc7c",
       "view_skin":"https://lh3.googleusercontent.com/5hWjEM8Y2xgBvHrIel8F_EnEw-HHaJUXKTH3lXDuKecKAGVu4akzvVNYcEY45atAjk2IUYfSHfn07rJxc8PZaQ1k6zPcVoA5NSY"
     },
 	{
       "id":56,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/GV1i-o01JEpkoDWNxqbbHzF-iZOLEbfDlwdvH-PjRmq12EiJgH3iuI9qs3hrLVnuRVeNYsoAqBtq4V6pdo4I7jWzNwH9MYpwe1s",
       "view_skin":"https://lh3.googleusercontent.com/LpR-qqkRZ0sbAKvLJcrn9eLb9KEgZklxaD5k7RqRDE1Kqs98vAkLH--aF8oce3VcX9H959p04NP3nZA9MSJSwV1jQkk0PW0OzfQ"
     },
 	{
       "id":57,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/IiDV0uHCC6ActC9z1P0JCUYIxobERJQhCBmvFApILwBPA5QnpOi0odJDDKy9A7wa9gU0RB_AWAMpi6tc_zShzWu175wl_Z_NSqg",
       "view_skin":"https://lh3.googleusercontent.com/zC4LFYrRLVY3fScs_7y-RSj-hl3olD8zIesabpq7kltyhf4TDNcDGjFSHTJ2lf8iuNRJbZe_vJ_jYEuaEKBnS_n7k39Obv_zy-8"
     },
 	{
       "id":58,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/cxF3ykaMNuVxQvwOzuEfF-2Bv87pq6PYUI_yipvYaOUHVKguds9GXU8zaKq3LJFCoJvpLeuK-t7VM8UEUNGBJpOjl8EKdjxIR-tz",
       "view_skin":"https://lh3.googleusercontent.com/Sv-Y25UkWOAqRCEWLbk6GewtYbNAZY_x-avkoyWtkMV6ticdkZe5EZYM0OkWDHPsyKy4c1_Tiv5khrlO75OtkaaUBYvkYq2I9HZG"
     },
 	{
       "id":59,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/nziRlHMqf3t3ou3xtXIu0vc1C0-5q288Ac31v5oKrmeRQ8lgN-tnNwLQCDuBmEcKvyBssH6kMgneg5v1xHJ-FkQc819ldF8mIFo",
       "view_skin":"https://lh3.googleusercontent.com/Me0yn0n9iaAqQ-LDuv_Sify_bjqz6UdEfbRI1xzqfQepj279EqDJJKfJ1Uf11bx1jkA66W-ouakiZyAmuovPvU0lJgLlYwapmzk"
     },
 	{
       "id":60,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/0nIPhbwKNcufu-d6lU-bgfGxTcCf_t_aK02IR5GGlriO1UjsQzcCLznJm0L37W-SeP1qiAzXYLTKhFrpaOSyqRulJY6MD_eJoRk",
       "view_skin":"https://lh3.googleusercontent.com/UvqbvAjjMILKqOUt3GZJdL5Jfsq2y7h2ktckxOgCQurUYC96G2bChlrtbwn8DJExmLOawC0xVnPKRvKkoczSMuphuOBVbf5zedg"
     },
 	{
       "id":61,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/P3ErusGAnm6ZRwaW89woBOFvNPmFE2M1_9BPJcaff8aIYKnosT-y59Ld3cEZF9hm9GHSuMnmyOH-g1qOn0Xmr_s0ln1Xm038qfTc",
       "view_skin":"https://lh3.googleusercontent.com/RITXQ2SGKzkK94SUyrKvooc1_VP-2WCDx9x3fUg2vw4MIwcMxchtK-tNcGdwCKIks6ggK3W3l_rwuvwM0GVnGxh9ndFw89-GCug"
     },
 	{
       "id":62,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/uSeLeABRdwSkuDGh6mFgLdoUIeC_IBVR1iJf0uNjXBXunRUTjrc-ZYxn2-dH1arl3T9XGeuyI2k2m7AfAMsviKzyiYQ_-DZ36w",
       "view_skin":"https://lh3.googleusercontent.com/7leJNJwniv_RAwGEs2v-6ld01rUH1ZGJYQqP-PH1uP6UXa89sOkasCm9VW9PJbsRkTg8iNlimVm6P49XHq8dJHdNQBYocwEY68k"
     },
 	{
       "id":63,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/8maNJgdU2OP2YwFC7kb8JjJQUgDliiLzWsAzAV15v8ZUZ-CayJfwTMHmF2dwaMvSac9gyL7BTreVAgOuC_pC-WERs_eD5YMB8X0",
       "view_skin":"https://lh3.googleusercontent.com/3VzbR30BKyDiT3vSobiZkSSPb2jkW-WcoDhm75MOYLJvvRsS-4Q2roj0dg1H4c2f2ffAjMc5HRP5dhRQ3oQf574Iev0pw8UU7Q"
     },
 	{
       "id":64,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/pyPSYMHGpDKsPTDl-za1iG5_XA6hwROVBQQNxypSZ6OTutU9A5lmy9M8P9Ol3-A_YP9XTb381zfabFpn1qLutsKnk4ZzXeEeHA",
       "view_skin":"https://lh3.googleusercontent.com/h3Vpe2Jwu2pQLtvGs7YQpvoRj7kaWqmH03FND-oqqnqlanBKOQB02IhCb_qy8zh9C9cAsOoaNZjbHZpCj3zE6jYqwdFI032Bwvg"
     },
 	{
       "id":65,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/3xk-mJ-Qcdag2Er2LDjiuz6u8tlXeEAmDqnT1-gohiZJhYM33ZKComTPvuXh8GuLt3_u3NT51f7rNj_tOvJ7HgV4_79K68Jt5wo",
       "view_skin":"https://lh3.googleusercontent.com/aCIKYM4UdVQhXVp_lU9oJJ_IUDs0bZk4tbwgLzqCIcGrcxpqwPaELTVBgTCySVwhJ-K3fbI50XkmTUKEkDv16ruS0HqKfa-cOlA"
     },
 	{
       "id":66,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/Qn889qgYGVUkpqstPedaP1EfpsvN6MoM1X4NEVrlwR8rubMuK60pSPJS0Tmn1Y7PexXhkES217jgXfuQP0RFtsk4FS47rYQ-3g",
       "view_skin":"https://lh3.googleusercontent.com/Lob96XgNAgkEXpElUZR8LSyNDrJ_M22hKjwu51s5aJx3c82jkHHUXaa8U6C-LKx9ZgORttx-qUsvs9KEiMEeqdutDBcll8hDx6I"
     },
 	{
       "id":67,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/QEmo0c3Btcak-PfMwmpcn7wjEhNE5VGLvbhezsHPqSsVRVavXG9TZO4yMMWE6X2-OnClD0Sq1PMVg393ocglXxa5N62Br5ge35g",
       "view_skin":"https://lh3.googleusercontent.com/oGoNLPjrogGSUNitULXSyqAnh7kMDrL9gHok6L6n6xl7ykjib7ZqzLCn856anm0HRvXWdaj-fXllcDxEAWI9L4-j0uFnTq8Gnwk"
     },
 	{
       "id":68,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/dqWQkohu3OxVX1acfJQaeEEciNSkXf6kYz0Z-JpHDbUKOEEYqbLGTrhiFWjOCg-nf4qbD1CF6xog24MNVZMT_ojYzURJKMJVzyA",
       "view_skin":"https://lh3.googleusercontent.com/fZPY-1BUSC8E-Rnykg6WV1f6IUY7FBX1wQFylViuL4o3vPD7hsXMksjcukqlGf0tULa4jkI-W2PrhB3vR0pf8Of-Fy0CeiNlRtQ"
     },
 	{
       "id":69,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/QX8rOACZtme1m_rumX2JGQMtPqUTylnUrTdUw8O6nx_HVVx6Xkz6M4UtP2j2k2dN6zCJIjcu0ZiupdnRi-5Jnw2FsScI52RqcPA",
       "view_skin":"https://lh3.googleusercontent.com/Zflb6F_ZIJjlzEzDATR725yd8r7jtfgvbN1RGan8X_1FpB_Q6knEVYYWAXGx1ruD30tv29vrPH-BEZJn5dRKsiy-YP8f088M1DfJ"
     },
 	{
       "id":70,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/P56-z2mxR5HU6XIOjXZO5AuWpgw8wjwelHU0w2IYgIr4wA26rBXBDSZycPDfo-e63tAHjf3FZyGFWaIzp6oDKTxPgou482IxOZ4",
       "view_skin":"https://lh3.googleusercontent.com/rKh4vxUR6HAjz6C9Kh47GvxSlvE8EDupzXbXAcd6MQXaJyPX0yI8LLlgXM0EcA8qhTSB_IapW8SLGcQOFD_ntwyneVX-3cN89PY"
     },
 	{
       "id":71,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/gjHZUDuh2DX37rfVCwmSaaDPSbtnZ_pzibpI_Z6FLuDXTwjPvT1XaUdOeOpvibVTHFnx4cY35xCsZy-Pwq7DMdBzfzizSD8xTQ",
       "view_skin":"https://lh3.googleusercontent.com/0ZV6jc7eKi25W38YSsLbFXon6tTsiy2YP9ysuB0oVmWMVgvgoF1gNhn4-uJQZRmVcjxv0h7KMFOhcl3Jf25QGNTYVyPM6ZQUpvk"
     },
 	{
       "id":72,
-      "nama_skin":"Squid",
+      "name_skin":"Squid",
       "skin_url":"https://lh3.googleusercontent.com/6iy-BzTm_HXRREbTbNP_2s48zik9h4v1y-BqN-JfaWO6jhubFieGmH8YXGQwwBy0ovnRou957nZ_-8PQ-zdbAIGUto67psC5Zw",
       "view_skin":"https://lh3.googleusercontent.com/TO0M1Lgd_6Fo8jyL58nWyK64_ET5d1hEYv10CNZ1cwV2jX4WqxnlSqP7md5bt75vs-uQrRgRmWENw0yw8XbJk60qPZehj1X1tAbx"
     }
-	
   ],
   "Addons":
   [
     {
       "id":1,
-      "nama_add":"Cat Plush",
-      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
-      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
-      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
-      "view_add":"https://aliendro.id/wp-content/addon/catplus.png",
-      "des_add":"file:///android_asset/cats.html"
+      "name_add":"Addon Squid Game MCPE",
+      "add_url":"https://wedosmp3.github.io/imagecreative/squid/add1.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/squid/add1(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/squid/add1(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/squid/add1.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/squid/instruction.html"
     }
   ],
   "Maps":
   [
-    {
+	{
       "id":1,
-      "nama_map":"Hello Neighbor2",
-      "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
-      "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
-      "des_map":"https://aliendro.id/wp-content/map/hello.html"
+      "name_map":"Maps Squid Game MCPE",
+      "map_url":"https://wedosmp3.github.io/imagecreative/squid/map1.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/squid/map1.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/squid/instructionmaps.html"
+    },
+	{
+      "id":2,
+      "name_map":"Maps Squid Game MCPE",
+      "map_url":"https://wedosmp3.github.io/imagecreative/squid/map2.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/squid/map2.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/squid/instructionmaps.html"
     }
   ]
 }
