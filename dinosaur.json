@@ -2,11 +2,11 @@
   "Ads":
   [
     {
-     "select_main_ads": "",
+     "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      "native_for_admob":"",
+      "main_ads_banner": "ca-app-pub-2521648737251856/9493876984",
+      "main_ads_intertitial":"ca-app-pub-2521648737251856/8827662572",
+      "native_for_admob":"ca-app-pub-2521648737251856/6201499233",
       "backup_ads_banner":"24b31a136d8e5f3b",
       "backup_ads_intertitial":"dcf29eefa08c9bc0",
       "interval_intertitial": 5,
