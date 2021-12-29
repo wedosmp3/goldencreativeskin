@@ -2,259 +2,259 @@
   "Ads":
   [
     {
-      "status":"0",
-      "link":"http://",
-      "pengaturan_iklan":"1",
-      "admob_open_ads":"ca-app-pub-2521648737251856/7679574733",
-      "admob_banner":"ca-app-pub-2521648737251856/2688593196",
-      "admob_inter":"ca-app-pub-2521648737251856/8870858168",
-      "admob_native":"ca-app-pub-2521648737251856/1605120975",
-      "interval":5,
-      "fan_inter":"",
-      "fan_banner":"",
-      "fan_native":"",
-      "startappid":"",
-      "mopub_banner":"",
-      "mopub_inter":"",
-      "unityID":"",
-      "unity_inter":"",
-      "unity_banner":""
+     "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
     }
   ],
+  
   "More":
   [
     {
       "id":1,
-      "judul":"more app",
-      "image":"https://1.bp.blogspot.com/-GRF5s0x9sDg/YTzScDzfg5I/AAAAAAAAAu4/AuZxF5arRP0KDhXEPpsu4f-QQjrYiG8lwCLcBGAsYHQ/s450/1.png",
+      "title":"More App",
+      "image":"https://wedosmp3.github.io/goldencreativeskin/playstore.png",
       "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
     }
   ],
-   "Skin":
+  "Skin":
   [
     {
       "id":1,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/y33fk9tgK6nUklA1nIxYArv2xt6dselkJIMDsZunkXOxZWi_PwYcwiL-eRkJLZD2v6-sMubxWUPGRXCFLfgyaAA",
       "view_skin":"https://lh3.googleusercontent.com/ZEjUe2ilW2GnIWP6dMzjVc2mkmvsWksJhG9ZMx7Y2NBDkXVt0L74ijoh-44htWlIRlVCfR8lxtbhTB1Ij9a4CiI"
     },
 	{
       "id":2,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/RlCZfMOgmYoKmWuIssCHGiNuJ4WqWLwhhbUEQgnAygivg6lTJtiDEUJEntlB5vTr2xJFjFfatrXcmg6a2vWB",
       "view_skin":"https://lh3.googleusercontent.com/HUQvTWvnaqO-Ew3VNDZOUoZWqZlgIqEqRFTSwaLOKeKC366tuDANxuTub7QfqQVjguYHj-0HTLKkm50eUwM8LA"
     },
 	{
       "id":3,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/fCokZPgQdTEa7jUrUW2WZrXLNGDayyaMW3Ss2LbPAjlGKTLHaSXDkSIw1sH43ywFyXxsTPSRvM8aAnh7EYxbD20",
       "view_skin":"https://lh3.googleusercontent.com/g_YfYU4fIHk1JFp_JEsUllC5LxLHfUgCu_cqczfEyM9q2u-PXWu5nGvJKQDX7IHIO3daOiWbhk3HTcaYqAsnMo4"
     },
 	{
       "id":4,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/xRNPeLM9giH0YNm6X_4pq8nQBzoGMW7tFKWC5O6R5d1-3MBoiaIgSLBQmu9d80m-_vKbdypuocEcV9HApkjVmg",
       "view_skin":"https://lh3.googleusercontent.com/qrdPyimgy8aGmiCc05p1JEWsvh8-HW8_rAsfxqcjwtXY0F4V1Ui9J8Dhgx5HCiU1MHFzW7Qqriufq0NntWvGBQ"
     },
 	{
       "id":5,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/1JrvSENG8uShYINMPDxx_R1-56qhj9xdr0JEiRQ_du_8dHLWyRxXllFDsD7w2AxpQ3KUCzHUwMSfwAMl96M0Iw",
       "view_skin":"https://lh3.googleusercontent.com/j6keRM62bb95nfDxDmePnvQVBuLAmdLfS7l4fq1VDHlttrLpMG_5YI3IBFB2pUunFslmQGE8gXmeU0equ7fn5Q"
     },
 	{
       "id":6,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/VvESfYmXfGjwkMDWmkg4qgv_ci6P5v3ltxnkHLsaC6mJuUQ0sKKDLkLLrXZ5rZ9845F4XMBqNSeIwegiZU6hyg",
       "view_skin":"https://lh3.googleusercontent.com/fqtmBz-xykC9hYxf7Wps-MpFzjXgSwhIopuaUQC8I-UIry327OeltusO-YD_DjxyHdxwoThpCHz-ae3xiTXGZA"
     },
 	{
       "id":7,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/weFPB_RoZso95L7ovsTnPoQLpezTOn_xq4vBJNMviwItFSjHUjXm_ks8m44p7GqwEizWFDmgngjoTKi9QoC0Sg",
       "view_skin":"https://lh3.googleusercontent.com/DBekIfP0CWmozZTE34TNteSmi49RB1IDeptFvakOEreiDuj14eAzaCU1nnHBvs8pMhw5ozsH0ZLtZ83YJ8FZ8Q"
     },
 	{
       "id":8,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/Xcd0FhWXf5neNT8whE6cLfe02VYeGnFSxj3tiTy_HJrRkGZXIqtnRkdLCOm3VwV4Xbz33n4SeCDlXgTVdlcatA",
       "view_skin":"https://lh3.googleusercontent.com/31_dkiWzXCElCvcQg_j-ePwGU64HqfolQOdxxK5E7uQxtXyp3LmGUT19FiCmkJ17F_nL-eiKd_aqGUpVJXO3aQ"
     },
 	{
       "id":9,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/fZ4OR9LiXRnx_4OEGNpZHEenfp1XKKSAYQqp26yWJgikZjmZhhFWxKjsNtTFkoPcEOAraBNJNqEKMAXJgvft7Q",
       "view_skin":"https://lh3.googleusercontent.com/i1szI9pPJsyCbRxl-ShvzjpQ2gtv96SNh_eonIHrYWB4zMmWHmtKOynPwW4NXlJPOvIEkg70GxT6DNgJ_R-4vQ"
     },
 	{
       "id":10,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/_GigGzJMKTfHd0318GrAPOJErB4uJNVx4AKWsmjPLq_a2mgJst8bccNkCa7FUBOgrDntLtR1sECr2eVKU9ZYPA",
       "view_skin":"https://lh3.googleusercontent.com/Ng8yKgwC86kR2aVUq5vyc-fIw2VmygbQV2_r0n0UklN9nz7rL9S7VpmCpJ-572NjXMEKzSzpJuG12Qd2LZ8jcz8"
     },
 	{
       "id":11,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/4ZDoJb9w6g21CCewcIX0Y12UBBihZ0-Zl_X87QW4fE5p5lNwPDnEiNgenYGHOdfxyTC2Y9QUL2mm7BivSxyyCw",
       "view_skin":"https://lh3.googleusercontent.com/ZHOZ8wfTuQXUzlcgFlASkZ0FUrdbDKflgWAuuPVQudVdi95Ercak9ij6Ymc-j93DLmcVCikBOj24J_cTAICwgA"
     },
 	{
       "id":12,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/RYUQjynGG9Iu0d_fWYd7k7ZdW7qDthtPvUqlrvcU9dlAD0l7x_Xej2TM42FSxaDPQRqyxg3BMuzHBF3SusmX",
       "view_skin":"https://lh3.googleusercontent.com/ZcqO8PlqNSBx4oQDDnV-AyUbCl7o1PV3yC1OJqSaQctulk2EBOHcDs9nEhuC9ioxg-PY4OUkSfrNJFIUiGfH"
     },
 	{
       "id":13,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/-VeR5FzVUm65fEDW1a5oDUgo7qguW2bRHw-DFeGoqE_X0H4ZBijf33nZ4fBZ80TAWooj_3X31cCSkvJAnB62",
       "view_skin":"https://lh3.googleusercontent.com/Yn1bVPMpuLh2QurQ6Q-TQKGltO-kVmxQcFYeR6320Zd6op-2Kbln4JEpxSUF2VJULztzxvCf_iN6MlCaDuZHjfY"
     },
 	{
       "id":14,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/08NGdT6WXpj1VTc1bI9-nRtdj_-OUdLnT60sShfGfQ2tEX6VomuvpFngy7ML7FWLMPW89rFzCrR7KahtIVbUsA",
       "view_skin":"https://lh3.googleusercontent.com/uz4q98dggKksvJgXcc7d3oZdaJGD68gmwtD9Wn_g5qjXV41Oa5zZUUSYCG6t_gwuOHPULEmPnqZTM8ynY90gLQ"
     },
 	{
       "id":15,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/0aY1wGK6h96MAwXmNeNWBOa8VKmreT0GHO5yVsZrSIarrlw1w7AKvqmRF44SIK7upIcnrJTg8ejvCt_7SmKquw",
       "view_skin":"https://lh3.googleusercontent.com/YF1RR9S0oClmk3B9iL4RsjBjzNkRxBy_W47eNSDM_lQhYYiDj8gY-dMS6Ul2-TJsThsammsR9zOX6A-UntNG-A"
     },
 	{
       "id":16,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/Bki646FSs9qfBG7JpPqUYbGPjMyirNDOXvq43YVAma6DT8HEaeaYlYTRAvd9MBhbXuJnGzfpB1b7nCijos7WnA",
       "view_skin":"https://lh3.googleusercontent.com/zXIMuEE58z_xq1QAS4G0s_-ZabnjI8E98XwnPwNvPTkiTzKAJIXoxmZS5EsMXoYC51Dm8ZSrsRgY5fDOaVf_"
     },
 	{
       "id":17,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/uPEy0yUOVV4-KxVzWbznth3OHId7cjs9sizjuI3U5zWx-jK0i1YfRVrehxPrENCqxxsXQdgDcyTKmuNLQ94",
       "view_skin":"https://lh3.googleusercontent.com/WZFgmzh1SRPSjtSQDnUqed6Igtdi3LWnBr4bZdqg-CQmoPXUTSqS6QywHrxqvy0oe7zuovyu2YXajIkiZjGpMQ"
     },
 	{
       "id":18,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/fbqfGbpnB4XWxMMizAMSenpjBDGYpPK6wjS9_s1JpP_nuGAsuIbREsIQ28CpJ5nfmhCXAOWORQAzJGfnGAXYSw",
       "view_skin":"https://lh3.googleusercontent.com/lC6uUaOEan2gDhRnGDHSQ_ii2hPTFs_LI51o82NK5yW178oUnaIU2JQqJQ_0o8xWPBaIf9e-1ibWqc9qcJAF7d8"
     },
 	{
       "id":19,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/ubnL8sCXE6DDXeVZM7v9XXz3AdaQW8OyxSTOpi1gqPOeprzFiXS-HNsDhXawD6G19dzEMIQpbuxBJxjp8_6otSA",
       "view_skin":"https://lh3.googleusercontent.com/PsDAz1oi2OmFYu1ThTTql82r1GRri6frkb35FuCAHyfHRa3LCHjNHcrOvrndKgGHMykovpzup8YyaszAdX4R9Q"
     },
 	{
       "id":20,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/QIYrRxJY95MUUZbNigpQR6mRV3QyQsS-XrSh99-3E1jJmE-yvL0C6ofrHIpPDkfA3kxD7Jdmmg8vH_Z1zujUjA",
       "view_skin":"https://lh3.googleusercontent.com/yWlxgRYTYdC40ZN_lrAYl7wLhT60WlfsJ61zHC8hL-OWeZRX8-dBUGpQwrAWar87whASRrMK0vogBoOUJ44K"
     },
 	{
       "id":21,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/CLkmSftg_GT1p6JqnoOW1kgVLQ29Qj8kZwWaP66miDXGDq49Dqks2zd7kvuZCNmwGGktukjhBRhmXR40-zys9w",
       "view_skin":"https://lh3.googleusercontent.com/ytw881Dwv1tXd4VboYrYIyDx9n0pzZMuGte4ixVXfe3oQUa8-L5nd5PoIdhT96T39bdYn-zPlg1DY9_zPrco"
     },
 	{
       "id":22,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/7xI8vbCqD6xqYMuPvFTVPjEnsDoDm1l9aH5jB8yIVIwby3t5WjEbqwkooWfzAmwf1mILovjdH66n7vDGvNUM400",
       "view_skin":"https://lh3.googleusercontent.com/BtPLq8zwnnYu-ADeQCa0B2JlYqlcjf23s3xPQOyP7fVJbXgUPzGDudzldsInome36-9z1AC_WeM831a8sevWSA"
     },
 	{
       "id":23,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/Psb4tureJ94wmRYMFYnXLsTGDtnU1ExLQvbL8m9TYqujp2rZtlN1OABlxgOyemc_2Ut_h8wPhRwhBfmeUNS5yjI",
       "view_skin":"https://lh3.googleusercontent.com/fA_5Yso0am2eTQsOBSC3OaE6u3PXr-PP_XId681BML-cS1Fv8VYZWfCtbeyt_OFSAa3AlNsBHCTgpCS0oXXWjA"
     },
 	{
       "id":24,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/WZjlrWW5A_JCToX8_1-AW-Wo8E_SzT1OvHxBucFgnrEG9oZKvMm9MaaMIT4BjIrhkEP0DofQLJi8M6OX-MJ3Z0M",
       "view_skin":"https://lh3.googleusercontent.com/LqvmVxGGGKARxNMlP2DYahRmvpWZLH86IyxYv9h6tDlt_GRrZPMIRvr9UTJ6AS04EC8SeTLHHiB0GwNf7-i_9g"
     },
 	{
       "id":25,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/rOe_iwoT-fCxyZtx61BBWIsTL8zl_iYK_cXpYYvIPQVUsnaDFWE2yjmlf0Yz5YV_Fmu7VFB2pBOzPr7yAd8v",
       "view_skin":"https://lh3.googleusercontent.com/vQJ8fZ16RAUmRWoQQrfSZAaZRSbuBcjOS9t___wlf9jw0qSEx1CitvTtuykBsLvs6S0p4UqYoDJ0dKBVGR-U"
     },
 	{
       "id":26,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/AlpUHrFu__Gz7yegfBt0r1afIADEbyiX1dtKchaOChBR1FcmnF5AbeC3vEa5UfzdDNQk4C2RXFae4lbRwLKR",
       "view_skin":"https://lh3.googleusercontent.com/LJwjhnQ9etNjB-ZvKw148DBYW7nxPtbkq4et9WH1f_yWSna77SaohC0OtTr21n3WaOQYTJihzqD68eBpGpUk"
     },
 	{
       "id":27,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/yoyhH7Uk2RTYZeZKWTwN-6c2GRyB2Dq48a5AxcKyzOIfg-F53QTAyDwvUFE17opVVYsgXpM8uxoxUDxg8dyByQ",
       "view_skin":"https://lh3.googleusercontent.com/6nFWY1bYBOVNGmULxlVqU2HCZ_CGKEHpnzZ_6ePL6dGftz2-w165GXhgtlm2MkKuWCndJIoSQxN4MoC1WU3i"
     },
 	{
       "id":28,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/KmDWVT_svpXMd_8RE3eqx-7eumaBtGmvrkdE9my7Ioosp9MVbQN7yhDp3HYHGvngy-InL_r92G-jjwZ1g-B47g",
       "view_skin":"https://lh3.googleusercontent.com/zjECgGS9i3BYpU6l0tOUDhifEef-Jaa4-wM8C11hBxSuPJUOj3T9qYzX-UtDF3z38443Dtf32nvBhDdpts__3w"
     },
 	{
       "id":29,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/-_4P-04BlwhCQpCJ5b7nmAyz5gAgv8Ij9AqMKAjD_j5B44-k06dF3WLJVUEEr7KPXwQfIXAcAs1SckQlnzPlOEE",
       "view_skin":"https://lh3.googleusercontent.com/ZVRXgv83BxfbtjqVELopikdotdxYkYiFgeNVWvafkVHDIfz6TfedQAFpu1mNYWfp-82YtoK8hHCFgBKL6GKyGA"
     },
 	{
       "id":30,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/01YMsmzQ8bF1T1lqu7eQtXKr5-6DgQn9ZAkT5itW6s5b00Pb_unoGLNTeCIYouCHaH0O0ywekISA3FS6RVjkpw",
       "view_skin":"https://lh3.googleusercontent.com/c0tYQCFoanN12UdbTvL2xFqow8ohYKPQxD9YIdon60g6I8fUT_2CFgiVJaQ-lr4t7AjiZNPHGhtbjlLHYlTt3g"
     },
 	{
       "id":31,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/NW3Txve-OOuOfjc6diO8Vzd7kRYhS3-K7gceHAmjlhoxgkNQQtkNxFfVnnnhuHTH2cjjNd4RLD08cTp5av2Obg",
       "view_skin":"https://lh3.googleusercontent.com/DbQFyu4_QC8PGog-mQD5MktNog0Lu-sYJp2HBHLFrQ2qDm1_Wdg-L1A6AviHIM4e3V3SDYtYJTvZN_c7aVYEPg"
     },
 	{
       "id":32,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/NW3Txve-OOuOfjc6diO8Vzd7kRYhS3-K7gceHAmjlhoxgkNQQtkNxFfVnnnhuHTH2cjjNd4RLD08cTp5av2Obg",
       "view_skin":"https://lh3.googleusercontent.com/DbQFyu4_QC8PGog-mQD5MktNog0Lu-sYJp2HBHLFrQ2qDm1_Wdg-L1A6AviHIM4e3V3SDYtYJTvZN_c7aVYEPg"
     },
 	{
       "id":33,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/M-aVjxne-9AJzf3LURBnHjtDKPLaosf89h1kQHtQneR1M3fWeIGJIPaVNgU-M7asTEqqOSiZ7TzFphj66PBXEw",
       "view_skin":"https://lh3.googleusercontent.com/xg7YHA0lrKL0fTe2ZRcjpkd0eN3RGVh4e5UMlKsdIV5F9hnGbIo5Ljh4oZr0YbKg3fwzNtzx7CR6NkOt-5vl"
     },
 	{
       "id":34,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/i4AnIBIjB7_x8xFlh7CsNVbSSZEnepIbA1to9p8wgFLjl5ZqOr5HcbV4Zi-nCwACBXRQZKK9Sb_SAWY5rDZBfw",
       "view_skin":"https://lh3.googleusercontent.com/g1OM7QLAn5BLcUUzSeFwwCnpFcGDUKG0GdYFM3nXJDwb6ha0-fMrXYYSYB5iF3CZiwfXKAwBb82SywHyZuEWKA"
     },
 	{
       "id":35,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/iIltH-LUQ-N4r4Wk70n8TmMacz2P4mihhuxGmsN5vCMdMoYb6duVM_Vyx7xI_GK4ccbX4cH1pc5v91SOIb04vAc",
       "view_skin":"https://lh3.googleusercontent.com/DRb2HSdDAnB8w4_SeEHilknqY1DxRg1UVYWwhb8r-Q12oU2SrfbYPTT_oNl6x80R1mXoMR5TSYUFfQWatUha"
     },
 	{
       "id":36,
-      "nama_skin":"Bendy Skins MCPE",
+      "name_skin":"Bendy Skins MCPE",
       "skin_url":"https://lh3.googleusercontent.com/x3Tag-9egn87e9EgztLFeN0XXINeTvfFDpLusrGhpwHi8LhH8o4VCl3feVY1zSEEHxl_xj1sldfqCfAomp5AXbk",
       "view_skin":"https://lh3.googleusercontent.com/bj6h8IvDWRKIvBq3iUbmznKsajMv7TlrlIbIoKkVFhw_gGVSqJyEj5-HSYeZpwk2dLHRMhMLk9MwCje8kfqqbEo"
     }
-	
   ],
   "Addons":
   [
     {
       "id":1,
-      "nama_add":"Bendy Addon",
+      "name_add":"Addon Bendy MCPE",
       "add_url":"https://archive.org/download/bendy_202111/addonbendy.zip",
       "addB_url":"https://archive.org/download/bendy_202111/addon1%28B%29%20%281%29.mcpack",
       "addR_url":"https://archive.org/download/bendy_202111/addon1%28R%29%20%281%29.mcpack",
@@ -264,37 +264,37 @@
   ],
   "Maps":
   [
-    {
+	{
       "id":1,
-      "nama_map":"Bendy Map 01",
+      "name_map":"Maps Addon Bendy MCPE",
       "map_url":"https://archive.org/download/bendy_202111/map1.zip",
       "view_map":"https://wedosmp3.github.io/imagecreative/bendy/1.png",
       "des_map":"https://wedosmp3.github.io/imagecreative/bendy/mapdes.html"
     },
 	{
       "id":2,
-      "nama_map":"Bendy Map 02",
+      "name_map":"Maps Addon Bendy MCPE",
       "map_url":"https://archive.org/download/bendy_202111/map2.zip",
       "view_map":"https://wedosmp3.github.io/imagecreative/bendy/2.png",
       "des_map":"https://wedosmp3.github.io/imagecreative/bendy/mapdes.html"
     },
 	{
       "id":3,
-      "nama_map":"Bendy Map 03",
+      "name_map":"Maps Addon Bendy MCPE",
       "map_url":"https://archive.org/download/bendy_202111/map3.zip",
       "view_map":"https://wedosmp3.github.io/imagecreative/bendy/3.png",
       "des_map":"https://wedosmp3.github.io/imagecreative/bendy/mapdes.html"
     },
 	{
       "id":4,
-      "nama_map":"Bendy Map 04",
+      "name_map":"Maps Addon Bendy MCPE",
       "map_url":"https://archive.org/download/bendy_202111/map4.zip",
       "view_map":"https://wedosmp3.github.io/imagecreative/bendy/4.png",
       "des_map":"https://wedosmp3.github.io/imagecreative/bendy/mapdes.html"
     },
 	{
       "id":5,
-      "nama_map":"Bendy Map 05",
+      "name_map":"Maps Addon Bendy MCPE",
       "map_url":"https://archive.org/download/bendy_202111/map5.zip",
       "view_map":"https://wedosmp3.github.io/imagecreative/bendy/5.png",
       "des_map":"https://wedosmp3.github.io/imagecreative/bendy/mapdes.html"
