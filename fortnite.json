@@ -1,0 +1,428 @@
+{
+  "Ads":
+  [
+    {
+     "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  
+  "More":
+  [
+    {
+      "id":1,
+      "title":"More App",
+      "image":"https://wedosmp3.github.io/goldencreativeskin/playstore.png",
+      "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
+    }
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Midas Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/gbaAWs7ENKWpWbDeMj_DY6ixCk9i13001YwyDGy5K7UMZA13S581bD5lyKeEH-BBilPR4XfP8QvHRqm_LteK",
+      "view_skin":"https://lh3.googleusercontent.com/PNkDuxh9ij36hveHubX79N_5FjdaReTkQVPCLKB4KKAEfREf6lBQ-vxDDTlV6Xk_NjwmEwpgQV-c4z1V8p-2"
+    },
+	{
+      "id":2,
+      "name_skin":"Fortnite Drift",
+      "skin_url":"https://lh3.googleusercontent.com/oNfCOVyM1Ed52i9-kt1_h_sc4kYoAJ_Km0ordbIeEBgKnKnXRDOxrCILuAnbr4mu5SUqgZxlih0hW9CjxdESESQ",
+      "view_skin":"https://lh3.googleusercontent.com/MxZZ_VQyvbQaz9R7tyJ9UB-sr1-OMPAZPTc1lQvHLFH7sEvSfru_kcN8GXKZNdx6QLj0wriz4Ea7hkhu5SJB_nY"
+    },
+	{
+      "id":3,
+      "name_skin":"Marshmello Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/rkN-zEhgab46nkRGGpovXA2WtmvUXOh3kOPHKCuu7cljSnQmDBHiLHkNksGdLIN89GJx-eY9PmVrW5PbIikZJ_w",
+      "view_skin":"https://lh3.googleusercontent.com/uLhOPlQobZmdT33lBi0vUUXgXBSYLsqXuCkfmolaw1KdE3l3mTzn0_FIDO-14O_qAer2HQ5xpxek0V_xzufN"
+    },
+	{
+      "id":4,
+      "name_skin":"Fortnite Ninja",
+      "skin_url":"https://lh3.googleusercontent.com/KKm7-uO_oF6TZQNNGtHJt98s6LwjmfiyfPONLjYvTgDygYtp9abMhRNia9dMBc2-i99slUy6zQawV0U46zzu",
+      "view_skin":"https://lh3.googleusercontent.com/gAvhlxM3Z-0aso1XJYz7LQU82be6oaZQG9STXNzsFu2mZRHae9cN8tStC7xmqwZx0tlWshBCkHW3GCsol51Hew"
+    },
+	{
+      "id":5,
+      "name_skin":"Mecha Team Leader Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/KABYeDLGMZn9BqFBfjHDAXmoUIXaHLTAhAtMDb2-m9QmemRzIoryhnKPnw-QevOEgYGIQTa3Ide46waGx3SHUNY",
+      "view_skin":"https://lh3.googleusercontent.com/9bbnBuwoszIrp8T_bq6U3Jf-Ltnthx4i9v2ClHu-On7jkM07E4MOWdOII6imd3rS7oaPExnFIryCm3U20y3b"
+    },
+	{
+      "id":6,
+      "name_skin":"Meowsvles Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/Ic2UDaJ4viFkqM5sNA4gqO1PU7oH6TM-MMbQ1j_S3nlHTz3O2mAFloUNVSO7fUTyj7SY7AG0Dtx0NHU84tBJGcQ",
+      "view_skin":"https://lh3.googleusercontent.com/seKFS-E9dIt-VBuSKJ509ZGh68HPxBF0VsCv6pPUhMEhVfcRyZHTnAJHq6mkHz587xAk2Wov57halF_MQ8JvDAQ"
+    },
+	{
+      "id":7,
+      "name_skin":"Fortnite Loot Lama",
+      "skin_url":"https://lh3.googleusercontent.com/c-jxzr58bP109zudnvI7Kx8dG9kCw1sdqJKFjps5CExgiN9ipPupZwK3FlJ9glQcV7sX3VZZKaYC9T8La4Q0lg",
+      "view_skin":"https://lh3.googleusercontent.com/EZd1gh9u5nY5YT9iRIP2GNvnrawF0iePu5K-4AWSzHQ06IIptoGvvSthos-OberLZaaQSKID9SqT0xFIjebSLl0"
+    },
+	{
+      "id":8,
+      "name_skin":"Fortnite Season",
+      "skin_url":"https://lh3.googleusercontent.com/WU9uasMoSraR4qNTmfqUvDm_SqJs9SAXYzNmYd-ZJ4qv_wLAgvgStQauGM4Avg3kesq0SuWfJQZ1HYX7RRyNKPU",
+      "view_skin":"https://lh3.googleusercontent.com/5P8LPi7pPcBGyBYAU1egxZFCw5LuzPRQ-XPXrfkyi5NcA8aa_ZAr0seWiJ7FZXusctBzg0aHLMDcSwu3HISOv-s"
+    },
+	{
+      "id":9,
+      "name_skin":"Fortnite Ikonik",
+      "skin_url":"https://lh3.googleusercontent.com/uw4hHwgmCf7bALi5achld0gAepLT2pxzNUD6nlxJbN4iSDFlLsMOsnZMbGXpKipO0IYojbzoTVzZz2YVp4f2ig",
+      "view_skin":"https://lh3.googleusercontent.com/Jr5p8AiGhleB0fiS14nEFpSBKIDUiFiWG1WXZKZT75cHyn_F0FZM9nJbL7hFrgz9SfJCPsldxv4WkeoEbqxf"
+    },
+	{
+      "id":10,
+      "name_skin":"Deapool Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/pDZXarME4urOgsu1Da5enEzJTWl5gBvdvVIFU2wueq1w6g_-eGyHQq8q3ielP_IFngx5NvN_SK7528bRWEg4VXA",
+      "view_skin":"https://lh3.googleusercontent.com/W9XBiuizbsKRFHNzFGi8b4ZtFFxX1otWMCNRM04LuD-_2luGMzHezQHKTK2LM-PgTpcn7n-UCYHIcI_HIej-AA"
+    },
+	{
+      "id":11,
+      "name_skin":"Catalyst Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/3slKiRByPO180YQl0PhLuthMHwTdt5LotEgJOGuGh5OJlM8xW6ZN-SjTSzOKovLKjOWZRikEYI0g79cxPwls",
+      "view_skin":"https://lh3.googleusercontent.com/fyfYgkxsKbrM0jgVicmRVogRXXEmHkkrNjj2HXqBRPc1Vlg4MFnzPnByaup140HlRMj5RRGLnYGv3-VWv3wF8w"
+    },
+	{
+      "id":12,
+      "name_skin":"Raven Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/10ZON2h23arre0IPasAngisll_WVAFbTxfcjQzl4unoCnigokD9i0Hpd-1uCLk0TPk1MuzQ-0yKRU6vNIShPOOU",
+      "view_skin":"https://lh3.googleusercontent.com/8-_COqMzCxs1dy3xB5mCCAN5xzv6VXMc8pCuSKzWccmTiMYQz4Jg0Nmmeikh_Pe4Xyc3NiJW9z5aNXRL0Rhq"
+    },
+	{
+      "id":13,
+      "name_skin":"Fortnite Fishstick",
+      "skin_url":"https://lh3.googleusercontent.com/HaDSw27DS7nLQ5MwejsRuV1G63HP0bzjIYedJhNgrh-didWeYg42-PDF5oD-yoeUZTZUFUeWb5mDJ5Zouh0-ZzU",
+      "view_skin":"https://lh3.googleusercontent.com/V8sp2u0LR8dvpkzyUMU5QctHDKaUYtpx3-TyIZgDXBsXZcZzwiBlp3raHaCJR4OOZWaqxMIQuTVVZclfsGyGbQ"
+    },
+	{
+      "id":14,
+      "name_skin":"Drifts Hammer Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/n_WgT6TDwgyAzhuiG0vfk0NSSvvjUVOw9KVPUU5tlJTq7ON9xBvR8jNUixx_uJmYaGTlr0RnethiA40VzdDFcw",
+      "view_skin":"https://lh3.googleusercontent.com/s10mNGphVdZWm594phkYQ4BL2gyAvJEwsxyIOjJk_9y0NL3lXGCI80ZT7Kq44QHHfkDhSC5z8gRzgiiYq-ksLQ"
+    },
+	{
+      "id":15,
+      "name_skin":"Fortnite Teddy Bear",
+      "skin_url":"https://lh3.googleusercontent.com/fqmehx6oiKv84t-kRlI106sIo83UqICkjEm5wUOTK0di0L-fx-gvz3nG1tMONO8dfuiMPLi9Ojue8zFoTo2OY9U",
+      "view_skin":"https://lh3.googleusercontent.com/Ko6UvxowbdHe46YeM2cy_kB6nh775kdLU1EXEVmi9o5tJP9qLXYgDUFOlEvRTxqIbNCYTSqeWg6KsMxzRzcmSg"
+    },
+	{
+      "id":16,
+      "name_skin":"Fortnite Mandalorian",
+      "skin_url":"https://lh3.googleusercontent.com/eNaADY6-xoe7TmnkmveUoxtddqk213DmWYgNPZytBsqw99n8hqt-BUU3IPjb_oD1aC0w0BA1pQDNF3n4IRcBIg",
+      "view_skin":"https://lh3.googleusercontent.com/Uy4qcJUhcm9lnv-WaJnjiZriguWgpdZ54HMq8gZ-OT1JE02AJMVHS_eVMp93tqKHyhzHYTAov1CBAzILBsmHkuvMHRUp-kgBSzk5"
+    },
+	{
+      "id":17,
+      "name_skin":"Voyager Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/wBXCwYRoXZ6aMrjicpIfd94wnxc9mHOgZgraSnQ7CxTL67tyb39k8efpzBWPDEaYm-QXyuo_b32R_tM2Pa0w",
+      "view_skin":"https://lh3.googleusercontent.com/6t2LccGwAKNQiPwJGFr6qjL7KWNla0Hs2xCDj5-W4BRuqENgre96hlBlNkCSNch0mY9ESyjXkSVnT6cT9k-cLw"
+    },
+	{
+      "id":18,
+      "name_skin":"Fortnite A",
+      "skin_url":"https://lh3.googleusercontent.com/KAWOsbb7bxp0GP7sLsT86f4eMKxX1HBgJ3llM8PZh9AyuH1WFnX6e3gp7XxJb3DVc6vNJB28ocZ5zoVOxKZQrA",
+      "view_skin":"https://lh3.googleusercontent.com/oFp0NDYcq9_tvO18cxwzgf6scqH9g7QchGtO4BL7GPvxOqeuUQQwGZrDRWu8Rq4AWjAMfR8I8PW0WWcEgQxZuA"
+    },
+	{
+      "id":19,
+      "name_skin":"Fade Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/GYJWj9uWk6SGtB-R5taQzOyQ71OrCvYX1Ho6Z2Em0ws9fDWwUs1x7MurzISOiAI8NXbZVMPH1ski3FTBvQPodIU",
+      "view_skin":"https://lh3.googleusercontent.com/UK9X85m3EWDKj0sRPPCFfPZvTDxvtpe1nljmt9f-oOim-3zAy6R8q9ZCizZqacVN_Q4mmdMDUKnsWyU9sA-ORA"
+    },
+	{
+      "id":20,
+      "name_skin":"Deep Freeze Bundle Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/zvaJldQTaHgbNZSvjmBt6ezUMbKOPIiYbsUyddgtE-IvIvjAZkkwDwK5MtNvzkuSsTWu5VcZyCyRFj7fgByt",
+      "view_skin":"https://lh3.googleusercontent.com/Va04rmCWC1JyDqLlvCdAApWzBqNAbwaaraWal0Qz-jbholDlQSA6IByyUo7oli7GwKq91udCnKT9it12ssM3Kg"
+    },
+	{
+      "id":21,
+      "name_skin":"Fortnite A",
+      "skin_url":"https://lh3.googleusercontent.com/eWDog5fAbmN04u2WMTzGuCtDCJJbcDYaG7IP7uU8gxpntWQ6fyjr38YYfhfnRIAhbU72S4ZmKwxLGG_UcgjqiA",
+      "view_skin":"https://lh3.googleusercontent.com/JAnJjTXZ-i2_oHLE9vc8QjFsiEEbxhVeiw6at_D4YnTTPAlXf6LRnUwegxh9Pb_YseBc8Y-8KQnWyubzbExyFX0"
+    },
+	{
+      "id":22,
+      "name_skin":"Fortnite C",
+      "skin_url":"https://lh3.googleusercontent.com/v49_DU5lvNBbxA-Li4sQJBOaRj21Ux18i4RO5g-0-SEn_rvv1KIW2r8EpTk5fIYitUdpZylzRl58DRMksJTu",
+      "view_skin":"https://lh3.googleusercontent.com/ftlMKn9RvtlFioYEeejIO-A-InrAjrGFuESuM2FKj3qG8oHeP1pPD_gN6ilGa1S7EVoYGWhOHDVWsKmb6Aedvw"
+    },
+	{
+      "id":23,
+      "name_skin":"Thanos Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/M9-tScU6NC6HpvVYyBuY_1ixv8mRG2g-d2fGDCbql6PYaeL7hRz2qb8uIXHyu-yy_EWg43keIl4ZWJ0A_FFr",
+      "view_skin":"https://lh3.googleusercontent.com/Nnc2h8H-WH2-TjTtrMvftXpw0xKxrA_h00ossThu6PYfW4wbwM3mQSHpT1jG5XyAvIxWOf2dkAsXX6_wuwGJ1A"
+    },
+	{
+      "id":24,
+      "name_skin":"Fortnite Wild Card",
+      "skin_url":"https://lh3.googleusercontent.com/Pzl4MIg6aGlduqFBnDqY6oBfufwJC6mxOXsxInB7bUyF9IexI2ZyGCLguAHOaNwGqzQyjidNEjcBFA3Tde5dPQ",
+      "view_skin":"https://lh3.googleusercontent.com/FYpiRgpfOtY9wgcxclVFiuFRLccZ_QLxbhBbeCz0Q8muFY8tP1OZKvZhfWeB8zDKSYybqyQkp_m0Pi-GuHyZzA"
+    },
+	{
+      "id":25,
+      "name_skin":"Travis Scott Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/LvchgSNxqlpcmp6namIxwEl8F17F0cowqx-AFCxl1qX5vS-QrRdE9pWJ6RZMzVMvYyS9NwDs-ACkFSFzDL7gVw",
+      "view_skin":"https://lh3.googleusercontent.com/74-gDRR-BrYKmj0KBasfJeCYdsqaXGIuL0sMBegdtP0W3m0VSMA3DFvwZOpxVOSuNE3d1bChi2XW2crVRFheI1s"
+    },
+	{
+      "id":26,
+      "name_skin":"Lexa Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/ut1PkKfj_xjYUrewix7rNawEwSv76wCw3XkjbLQpOThz4pl994atrX5KOjsSbyAX_W0c-JzwMcHJxbj-vfsGgzyOi74n7nkKogs",
+      "view_skin":"https://lh3.googleusercontent.com/bVHAW3vOt-HAHt-KPZxbb9tOCxisfE9KwaFYuJjWJ8qsftE3wSB6P7EQMUPkTvhSc40zrZxhf-4jM7aZh3pcDA6B15Dt4i7Alt0"
+    },
+	{
+      "id":27,
+      "name_skin":"Fortnite Raptor",
+      "skin_url":"https://lh3.googleusercontent.com/c2-9YzNg2xKVsVfXt-cqdNpDU9Ko4wLYNVAMY5MEEF6nCb3BpANRiGp9j95QevhWOfMiwswc5MTp5qN_CNz_",
+      "view_skin":"https://lh3.googleusercontent.com/00ynPEqdPW9LFDdEL4l-Y4sXmN0XVNCNPmdEhn8D7o-tkOoS0z_K-c0FaPUAN2bd9rtc8GV0uvP3QRsMZLk9s8M"
+    },
+	{
+      "id":28,
+      "name_skin":"Fortnite Ragnarok",
+      "skin_url":"https://lh3.googleusercontent.com/goVDkq42is3ZGNqfGUahmuV0YpHO2T-oZnJLV44szwXmV-jJEf6KRt2DZRFilkrUrg8sFtifG5yWvqViChwt",
+      "view_skin":"https://lh3.googleusercontent.com/iCkNgmAnieAdXXdK2dUHDCgmA5VhbE2aQX7QOH-mV3u0Q69tct3eFF5yarBmCyiJSryU6LaO2ciiREBl2bAzppg"
+    },
+	{
+      "id":29,
+      "name_skin":"Raz Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/TRbofT6AUxRK0TZETldd1-Vc2eYbH0oth94-cRGf-o64IQKeUig0ofzTFa5eHOaMNBTzncCUQK2b1ymf24YkzwERBJ0TDk6k74I",
+      "view_skin":"https://lh3.googleusercontent.com/lqPXVOmQnhNhn1uRFchQW9kT_2U1lSaSyDa70auGEYdw8FYI2R18-BKOMzAmFop6PmxBTptG5Jvzr8HSCKt9ooKRZ9W57xZJltg"
+    },
+	{
+      "id":30,
+      "name_skin":"Deriva Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/AE0QGY4qXp_95RRuZBDIpGFlLeUduEe_Rk7yicdDovC0iK-H4W19-Utd5_Xc3D_-HM3rMan-g3kfQDZmcQt7Yw",
+      "view_skin":"https://lh3.googleusercontent.com/4wf8DFEp5pWvFgNmam1IM2LFna4EkruGdSjFbPGEcp-LuMPEsJDTgtWTT9E9AXJS4kIhgfMtv5TClG6K-g_pvtc"
+    },
+	{
+      "id":31,
+      "name_skin":"AquaDeriva Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/fbfDUYIbKXzEC6STFKLG491abSIemnsoH2k4uIqTGKaHGdleCTlkecNKe3zz_r_B7OP9t8jJVpydkG2dEcqnsfg",
+      "view_skin":"https://lh3.googleusercontent.com/3wWtFeKdE29Ob5E3Wo7NaPPCdBZmHSMjwcyMpFYiFXCc_mIhAexFyULdcEen90Sv_3HaULSk6LftwqQkbiHN"
+    },
+	{
+      "id":32,
+      "name_skin":"Kit Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/7BFxilhz_Kl36xaJ-59erDnbK3_0y9ob77xaqKPHRVSMDTm5ufrocSw5IMvXUfUQRX9vdTvJr9kNtqSO9Ly9Kw",
+      "view_skin":"https://lh3.googleusercontent.com/HyHIBAV_6NCu1mk-G42J7XoDeU4c_AVb0VkOj2DnDCoT4q5MC85XJ2Nl6gtt-ZJtQJ9ZtWxigalMLdhuVOjw"
+    },
+	{
+      "id":33,
+      "name_skin":"Lama Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/6Up_W8_L77Fj7MK66eFomiBxqrdz9MX-XhnYJRd-cASEeRE1l46K7ZAADZZkoa2uHazUKYUkeWzE3sndUb3C",
+      "view_skin":"https://lh3.googleusercontent.com/HhHpcDWT--3LBee3gGvM42_7NXABD-rb86Mg5ihomXgMsu86lBZtVcLiMuw4xEAgvm1hKz8Zfa_kYjN55Cd3"
+    },
+	{
+      "id":34,
+      "name_skin":"Fortnite Beef Boss",
+      "skin_url":"https://lh3.googleusercontent.com/q8QakKp-uqMxUN3hlgUZmlTxTu45yFlZCs3u9rBJVVOZLMI12MJYcmPLmN3VupAsfIbsg3SuSUmJGvLTrtCo",
+      "view_skin":"https://lh3.googleusercontent.com/Cv_JpatMAGQVyU27GBu_VYrboiuOleoF8aNQ6QNEC4Z-5pWFdKBvivnzqbuObHqF9wSc--PZa8jxw8bNvq6uKg"
+    },
+	{
+      "id":35,
+      "name_skin":"Banana Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/bZ8GxbRYpICUnt0k28Sg76N4V3Q1rqtg10H8q1uL0cChK403hNFHnGeeIfWSA1hu_WVfLhwfBmy451wN5O8VXA",
+      "view_skin":"https://lh3.googleusercontent.com/cyEQNWnjilMMDCY0Hk35YbMIQimm2MJFFct8SVKBRug7oaYWNE37984M2tUZlPuMDHW10CS8cQh9tf4uxy9e"
+    },
+	{
+      "id":36,
+      "name_skin":"Jelly Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/lxyXv1t4lrX1kkkC9tXUbUcA-aSpz98OCgatnqszWqXW7o0ExcyjjIn0tliTpJiDJpu0d_ledV6bg-3UZ5iCvF4a-e2dBxawUxg",
+      "view_skin":"https://lh3.googleusercontent.com/fTa3U41M25VtcHxMF7evpD916Xni8FAIw4hWLD1BVp-vWGXoDMpsfnPkJHJRXyGlFT8Alj34leifnlf8ALhgxP_RXeGgtNBqAM2D"
+    },
+	{
+      "id":37,
+      "name_skin":"Galaxy Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/q70y9BXiBw_lTE_w4SJKTifsk9TFA4pvc4OOMkJqc716Y-F5L9lLenfBVli1oFK82ce3e__-xNNKzYM1jerCdvk",
+      "view_skin":"https://lh3.googleusercontent.com/Eu2g22Y1rzroArgf5fZ9Bst-98zdKxDD6LxkGlAcoc6CWKqMDz8N61z8sqO6S2bwHyVp3rT1TF_FAvnRqKKB5g"
+    },
+	{
+      "id":38,
+      "name_skin":"Leviathan Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/Rq8HtHcMxbhCcH51A9YTdGMkI_bL8Ezy56VVodc1TMjLYno4_KgO-VZIGWWahgA1J_jrChLB2qWzB0t392Dv",
+      "view_skin":"https://lh3.googleusercontent.com/AiWp9wTh4wHo5TEiPywcJ87t-jlE1Ga1yGC0WpUspqA-Ig3eDacRBBEcavFxi0kTiYHDZRtVo51-vnoqQG3EYQ"
+    },
+	{
+      "id":39,
+      "name_skin":"Fortnite Miaouscle",
+      "skin_url":"https://lh3.googleusercontent.com/jzm-o0eTEJ7yYjkxNRLjffrn4VZPfiQMY-MFsLdE5Iino-o1ZVACGujN9qLDvh8JDY6mun-Vu4i6PGpc0f7Q",
+      "view_skin":"https://lh3.googleusercontent.com/gTM8aQs8RBo5kZt0KAUXKLj-Lthr4GOYSbf9Yp3xO4Dn73W4BAfMMKDyIh7C1B3eECHh_hhP7giSlyH_aeBToU4"
+    },
+	{
+      "id":40,
+      "name_skin":"Fortnite Lynx FRM",
+      "skin_url":"https://lh3.googleusercontent.com/3e7S2QyqJle-Xt47UQZzrLEYmobGLYmJsupKFATVg8c34t3kq1SRz9OxpdKKkyxeddmKok7oKHRAEqIcyCzJtQ",
+      "view_skin":"https://lh3.googleusercontent.com/xQhAqyUV60Tk67nFNPiyZi_-34AlWKEB3jt2sNE0YCV6bahJko6aI6-jyLZqHkcQ-inpo6COn7GFQmi81Yyr"
+    },
+	{
+      "id":41,
+      "name_skin":"Fortnite Eloine",
+      "skin_url":"https://lh3.googleusercontent.com/ccvLaaadj4R1LN8NEdKY8XLj-froILkRJ-U_qp-Et_Dkkj4Z3bLmuVw70e8MoL-v6ebgvb8zbFJTeLhz24tDaw",
+      "view_skin":"https://lh3.googleusercontent.com/NIX7RDNo9S_yJ2Wb-2nOwowYxzyr4gtYGWwQVyGdAeApwjkvQRM5Uoo4IqJe8NgTTSNZb19ZF790eNs6uMT_"
+    },
+	{
+      "id":42,
+      "name_skin":"Fortnite Masket",
+      "skin_url":"https://lh3.googleusercontent.com/9jTODSbTW9oQ3-S19KMv4O5wxB3CpX9tScUlFDIpOO4SEVJn1PQEamySv1eXcNa1ZkmtSXtkqLvyL17cztH4VA",
+      "view_skin":"https://lh3.googleusercontent.com/wvNc6eXo3VyLL3fLEQHhq7xX63oWiRYHSZn1lpFrdCGsoggKwGMUpskNARSYt-9IMq3lZeykj-6gslxQiAQJww"
+    },
+	{
+      "id":43,
+      "name_skin":"Cabeca Oca Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/qG5So26vTtYqWF05qhCWaM85i4LTFnLyDgMSU-06s29clupH4uor7VdaEAeJjt1wCKc6hOYlKNm0R6ss48Ij",
+      "view_skin":"https://lh3.googleusercontent.com/kr5FRONJdfL6ikFpjBGlBPa-FRG2SNAx0Y_q78lVNHk7Zjlhasdt5VbxDdrn0EoleRTA807HMwtoDW4j5-V40w"
+    },
+	{
+      "id":44,
+      "name_skin":"El Visitante Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/C7duHnhBz3T1hHo1zmYmVLbMC93p2p7COk2Mx-xp4bF50p-KNmixLVkdk3TolC5xOA-QLb1EHl0yBJE58JuMYA",
+      "view_skin":"https://lh3.googleusercontent.com/CmeHIGV5Buxqv7hW6cz-dUIUL7tZvNyLmoN70JpSafdjM2I4gHgZ5BHpE-SMirwpvW4NvVGFnTiZUKEyUZ7dRA"
+    },
+	{
+      "id":45,
+      "name_skin":"Fortnite Szlam",
+      "skin_url":"https://lh3.googleusercontent.com/eXR69jdQuBVzUjRp_K_I1qRBGuvibxm8gMzrt6BP8iQK9CV2EUYFrsg2a6ihcWOBUi9NX_xup2ljkekVBJB8jA",
+      "view_skin":"https://lh3.googleusercontent.com/kgmuIEfqemchcmW5ehjf6-HguqjMbr_PtcpLHWGzn1Z0KLU_NBE8XlW9vOg6q_6n1-LplGMKLy3dPP1Fe8-gHg"
+    },
+	{
+      "id":46,
+      "name_skin":"Pertuchen Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/Cz1i6rCmBznkEAMMLJ3XG5-GqaLakSBvK3OPHTRdJgXkkHO8ZF1Ss6ybCgeMUYzZVKZc321gXQmYar4emrAfTA",
+      "view_skin":"https://lh3.googleusercontent.com/7mzV-htMdmq1SAXAJNCh9TXLbhFBz8jRwwsLxD0nwqADnaRty-hlJLyYcWF2TcwntOM9zwF-kOyG-3TipqCVMA"
+    },
+	{
+      "id":47,
+      "name_skin":"DJ Lama fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/5QMJY20kkx7YjuccOCYiqIikxKOHKcC5rHFNWpMIlC6wKjT8-eJXlVlOSa1kM6TmkauJJkC6GMAVZspksMsDuls",
+      "view_skin":"https://lh3.googleusercontent.com/MAeK__Gww6FWYKbFvMGv5Ky9oGTiwdj8mnHqaYb8S0HdIY7qc6OXGRwC9Uk2HraLFOf3xx_oGUR38B2a42ro"
+    },
+	{
+      "id":48,
+      "name_skin":"Ghgimon Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/TASfUbuXVt3H9H0p5KdtRftvzx_dmH21TpLNdPEk8f5WOdA5zNv31boeTpM6iq5qMSKfvwtP7TuThBwy5mDyLywW1OQOJzfy1Q",
+      "view_skin":"https://lh3.googleusercontent.com/4nyPnbDtDvRj_Wyp08sKBeC9Vhz2M7ekyQ650AFxA122YSmXdX_PbqHjgaiZAEm8e4EHV3uDj7KtwgGM6cTqCT7qYWgHnSP2Lho"
+    },
+	{
+      "id":49,
+      "name_skin":"Fortnite Summer Jules",
+      "skin_url":"https://lh3.googleusercontent.com/ou-ibQYLb9md_6g6cuQDc9G1pdoG6F2pI1XGeTIAcAAJj-IvMOY1noFkzPZ1gVfvcE0UFDxqyjx3Ib3d0vTpBc-wwPXJtO4J7Q",
+      "view_skin":"https://lh3.googleusercontent.com/RZ8EF-IfCpUlGwPhId64lZ6mfkhG7g-xmYS2c-ZMYALwDKWaKOpP5m0tvKs9WeBuJAPLiv4TsK8GdGHUP4jB9fDXn5ieYf8SNw"
+    },
+	{
+      "id":50,
+      "name_skin":"Sluge Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/iGikTRSlET7AWuauK9eAd153huAOpLG_xWMwMRdAPK4XPwWAT52q22ieqCKXbsGCmMJDvN96x434k_-zBKEKFeW7kBOKiLOsFRI",
+      "view_skin":"https://lh3.googleusercontent.com/fg4XN1N-5BzmyFM7PvSoHQe0mx69qII-vdBkbMJGcGT05kAuiZH0KTb8bvBaSBljjXeZOwPYoDZVKDJ3WqAt6gW29ibq56xHAnI"
+    },
+	{
+      "id":51,
+      "name_skin":"Frostbite Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/piTMJzn6QekW7URKGgO6ckvztE4Q0fYDMkoGFliOXsgh1DiKtiVrCeWKsaYWe-sRLS1mY9lAwISLAyEyuS1rqYvaXejJq-mlXtgu",
+      "view_skin":"https://lh3.googleusercontent.com/Xzq5emaBzuq4M1WGnO5NOGP7l7p9bzum2DC_81eYoHdJl_Wq2Mk9m5kBaG5WQ8BlungmiRKpppwn9f7rn5OvSPuLLUyZ5JyIPYDk"
+    },
+	{
+      "id":52,
+      "name_skin":"XD Gogo Rock fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/ePYzJ4bH9RU_aMXjtpto0pB6U6LxjF_0JqW8iUJRbOjP93aWvpvDNP4efLC9W_V4lz2iOu4hFk8gSWvLkwAKDGfuK39wW3_pZxkz",
+      "view_skin":"https://lh3.googleusercontent.com/Nj1qnuFjqLQ_MdoV4yCBj0MKYgN4vT8y6K9X9WduIxXsTcCOJEQKnDIv8m55FwzCaPsAM9zbvw-4XBSCsXnmlYInj_VPFC9RVJtx"
+    },
+	{
+      "id":53,
+      "name_skin":"Fortnite E Melhor",
+      "skin_url":"https://lh3.googleusercontent.com/pXomdkWdgenObCKH13JCJz2ELcivuafnNqCXa3Vcvypy-GDR-ZBUhcSC-X8v-vMnzWG03R_AwrduxVFjk9awaLu5WAkIPossUFWl",
+      "view_skin":"https://lh3.googleusercontent.com/vOBGWmJsdYENokixM06Zv1e_fXGRHcETAZsHl-5lxq0-KLyI-Ig7S-YZRApH4CFnObCXyJS7yFcjoHfA0Q2u91xRPisHDeY_WA"
+    },
+	{
+      "id":54,
+      "name_skin":"Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/NvghWRqjrn0cf1hlZnp849wD8d6gsCAOj-IyRJOyW8gju60ICZoNwdzp0cGLOtYGVfH-wz0u4tnINY7vRHm8fahxt1nWNNVlwA",
+      "view_skin":"https://lh3.googleusercontent.com/6GPK7rx-nDRMPX33srFP-5dWYpeJdqKQNIR1Ui8eyrTfOjFjoPas7J9Dbeg3kSRW0cT1nad9qA67fb3BKCQvhd4fDadCmOxxQ9Q"
+    },
+	{
+      "id":55,
+      "name_skin":"Fortnite Ballz",
+      "skin_url":"https://lh3.googleusercontent.com/BE65j4PJBbX_Aw0Res5AVJtiBl-rpicsmhLN5N_U6Gndg9NKXWZ5nuKMaQPks8PLEqQ6Px8E5i_gIo6TkVYl9NpJ58H0woMGPS3y",
+      "view_skin":"https://lh3.googleusercontent.com/K7lNOOE4yiZFtUDXFwhNJiWBCDGBx6K0RSgb_1c6J3rVhFnoN6T-sqHX4FRcNJVN6dVRp3VQBW2RJyvlSKBTux8uJVwq_Y5s8NY"
+    },
+	{
+      "id":56,
+      "name_skin":"Platano Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/rLq36QkczEBGlXqajf5_4163NWq9pO9OlESpXNfkrhcVlBb8O8yS5nERJErmqhMSnfMdmltBwuSSyapLk5SeCrXSGxoUS2VHhw",
+      "view_skin":"https://lh3.googleusercontent.com/cNf33-k8C4ilibgKnr-vrF6ykkNNbCNGn6fKmy-ImCw-7tO2mznl2RYCBz36GwhmdYLXwMrO3DJN2cGqHvkFmyrezNsz_lDs0A"
+    },
+	{
+      "id":57,
+      "name_skin":"Platano F",
+      "skin_url":"https://lh3.googleusercontent.com/MVX-hGKFsiXWiYdQkdqUaxWe6Z0XGAF_whZGlN5eV6NWnG6v2tTznq2I7-1naPZfgwlgQJ_PybuxmawkjmQqFzhdmmkloibzi-mc",
+      "view_skin":"https://lh3.googleusercontent.com/6Lo2VEaGMXNJKYBpDERUc-NF0W9lcWBiAK6QyKqoUGnosMSwMKR32_R8oRpZz7hDWLjrK0unBwcdB3-wuGlgm5xSi6TxQA-ngw"
+    },
+	{
+      "id":58,
+      "name_skin":"Fortnite Burger Shulker",
+      "skin_url":"https://lh3.googleusercontent.com/MI9Dhhj1oXldcQPb35HwHrUc7tFqezXcVjjXqwPLteLCGmWLiIWOBRr1K-wLvaF6fxEHDJdm4novBbKilOQFnGUvfFHa8LEMPA",
+      "view_skin":"https://lh3.googleusercontent.com/QZmqihZ6YQieXbEM3VtdEPYq-QPlcFIPqRlQny6Yv9PFCms6pcM53bSVnp8RGkGtW33TM0pbRqGsm6rLWbTf-CGaeP-GTrmD7rA"
+    },
+	{
+      "id":59,
+      "name_skin":"Skye Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/26JNqcB-X9g7DJQ0-Wy5Zn-0p4V-xCv_dxhMnDXJ9A5yfUptYzyUtHdgpTIkgmTvMNx3J7Ji4FdBFVENBjuDX20MfQuYdO5FoA",
+      "view_skin":"https://lh3.googleusercontent.com/LdzyZXWPTxFbcvI1HQmuoDFM0k3_FikLVjAMM3RcXHLnDtSPSgwh9Tz96wvkdJkzTsS7uMhH-Sjm0WRFzkPK_0D3uRJBg5FX0Q"
+    },
+	{
+      "id":60,
+      "name_skin":"Bluevin Fortnite",
+      "skin_url":"https://lh3.googleusercontent.com/-YyyF1Ht2hMCaEUqBRxjWTxz86k2AL8vRoOos0jaUVMHQBJe3ikIDsK_rGYR7CK6qCyOhCIzKPW52TP1rcUu7jreyouZWUOMslQ",
+      "view_skin":"https://lh3.googleusercontent.com/IO9k080e7zV72k2tD4Nt4ih7E4S9ZFAHu-RsMBxsveOjIbNa7DfPt8UAhNPc3oKcmNA7DwBKPaxFBIxn_6tXtk8Re8hGZ-TNSw"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Addon Fortnite",
+      "add_url":"https://wedosmp3.github.io/imagecreative/fortnite/add1.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/fortnite/fortnite1(b).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/fortnite/fortnite1(r).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/fortnite/add1.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/fortnite/instruction.html"
+    },
+	{
+      "id":2,
+      "name_add":"Addon Fortnite",
+      "add_url":"https://wedosmp3.github.io/imagecreative/fortnite/add2.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/fortnite/fortnite2(b).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/fortnite/fortnite2(r).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/fortnite/add2.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/fortnite/instruction.html"
+    }
+  ],
+  "Maps":
+  [
+	{
+      "id":1,
+      "name_map":"Maps Fortnite",
+      "map_url":"https://wedosmp3.github.io/imagecreative/fortnite/map.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/fortnite/map.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/fortnite/instructionmaps.html"
+    }
+  ]
+}
