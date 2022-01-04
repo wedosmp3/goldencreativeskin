@@ -1,0 +1,206 @@
+{
+  "Ads":
+  [
+    {
+     "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  
+  "More":
+  [
+    {
+      "id":1,
+      "title":"More App",
+      "image":"https://wedosmp3.github.io/goldencreativeskin/playstore.png",
+      "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
+    }
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Skin Kissy Missy MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/zqAvbXxFi-kt4KNd3yjSNkpZuXwe7pJfcfczbLhbll8iC-f5SXA-GUxGJ_wW_aywObF5rDHIXFFsKTa_F3IZ-XL5aiWBSNDE-1s",
+      "view_skin":"https://lh3.googleusercontent.com/u1jSasXJ-T928_-vmA8rw3SfvjlDMj0qML11J_L2dUIC2CKW0jRhCwFVV3KgYVVgFGEnDk1I4DlxyUkZLoNXOmYL-HeKDZDfrg"
+    },
+	{
+      "id":2,
+      "name_skin":"Skin Kissy Missy MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/-gbVaMzpOhxG_7MoKeDaDkv2nTSc2mRxqHa_Efp3MhuSKiOhnWiMoO05SYw6f4xH1aFslcUaB8XB8Wu8gT0UTW0CjOtCZSZJIQja",
+      "view_skin":"https://lh3.googleusercontent.com/8wvlA5udxag5FHizBiCd_T02rYtNdqRRTKFZaXnraIJl9XlbaVYrITiFGPvvN6ayTOe0hxsdP3ogUQVVrSiAnifHKoX7aO3gPWc"
+    },
+	{
+      "id":3,
+      "name_skin":"Skin Kissy Missy MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/56DN5VWH4pexFY5NkwCsdelbfs3WKlHsp9rGcD4wP9htUgDbHhgjpg3gbUEmO5Z84TVfDcHf-xgFGbIWrGD9C7Jrnuk12jOCyQ",
+      "view_skin":"https://lh3.googleusercontent.com/atmg9noPfE9AW0MBZuXHRmXThwNkBfkOYg7Vux0aK3wXmKmzlBYrs41zSQxM7yw_O1w2lBgoJVpBy4isjs_K-aKse5APdhExDn8"
+    },
+	{
+      "id":4,
+      "name_skin":"Skin Kissy Missy MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/lmg_ZWtpmLxC-bJOhgIFgYORPeV1TRGdXWiFRw42j4XHEP2Iyd49KY8PeqsYlg4dsGDAQxkbXAS-IgodGNCxkCO1FnjNFmXzaqA",
+      "view_skin":"https://lh3.googleusercontent.com/KPt0SE4pQGT8pRv54C2I5eZ4Tcj1yZLU9MBrGT0_AeVgGIK5CwXMOYz6oEwiMmE5iF6e7x1pqQwO9bgCmQSVkvxzHZefZA0F"
+    },
+	{
+      "id":5,
+      "name_skin":"Skin Kissy Missy MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/93EuSusDC2UFciBhdTEj0jBnXZcw6Rw4E3OK3OoIKK9Zma4S-4wG4ql_9a5vJcF3al9WMJAxOsApMAvV1iGcvE8283zxIOpkojw",
+      "view_skin":"https://lh3.googleusercontent.com/RpqY67Nkf0FshbBYohxZTb9FEdgHCFXGpu0PDZu_i7YIE2wopiyGkr6i0ewRv83XUddyBs5Ct8oS9G7tO_oZjZ4wPs7kfqNLmq-6"
+    },
+	{
+      "id":6,
+      "name_skin":"Skin Kissy Missy MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/AvlXCLQmtpqcxMfL5P0dHrCUY2zMcaL_KO7AxBN5gdbo350Id57Hc8a4gSpONBvkUIdAf2rOf8MHeKncgghkvvnI227Q99aFTKVh",
+      "view_skin":"https://lh3.googleusercontent.com/HF_oYUgShkcazQ56MwQ4VydviFvZCXzqMULocRJUjoU0bFKCB5lY2wDC9p0B64Oinb-ilHVUnL08kNwCVkdugbBIHx2DPtv-SL0"
+    },
+	{
+      "id":7,
+      "name_skin":"Skin Kissy Missy MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/MSAypo9aBQ6a6J91VcNKWXctH8Tn0kipHmIc90AnjQLCQvnTAabv9IlXnZut6-rAsHBtRPNHRNAhArEGo5jj390rSBItgVCBz2s",
+      "view_skin":"https://lh3.googleusercontent.com/jIwZz2lqY_ro52akVaGpvijtiUPsniI2M3yS_QavJ9eLvDBipZRmu_bA8f-oG1xTNapDOQHA5mXWPaZ0O8f9Xql3mWt_bSk36j-H"
+    },
+	{
+      "id":8,
+      "name_skin":"Skin Kissy Missy MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/QjOcCK3NvGEwZSyZwqv2XpOaNCTRYBhPMMjdOj_hlR1GyVV0_AsxmfZ8vsBqeN5r6R9QHz8C2TgxtG1Rd9prfIjN_Dlcvs46qQ",
+      "view_skin":"https://lh3.googleusercontent.com/y_OJiAZhu--4WTJ-7Yhq960ygH2uR9xjpGlTSE3fFilktkEcovrmJYgYkR9B-tJY4QIY7HbLnesDgWHKPRaCAeyWX1XqJwxRwys"
+    },
+	{
+      "id":9,
+      "name_skin":"Skin Kissy Missy MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/2ze-T8qQT6SuZCAPwlU2g6SfzeH1635VjqVYJji2bsaMBD0JidnwSyiE9kUC7KhzRegndJTxIJLX5gWg4KHBl3dPIFk6knTSb34",
+      "view_skin":"https://lh3.googleusercontent.com/lenn3ZKCd85JnBymVACI4tXcykWHx3cdojBQfqpKqUnBcKJ1K1OYe3sBAiAWmDSlAK1_QaWmrcglizuldj5xtjsAVJnv1qp79Pfx"
+    },
+	{
+      "id":10,
+      "name_skin":"Skin Kissy Missy MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/3THE5IPPg0CyUPE1feEpTI0c9fHwFvxWXyfIRthD4VqzB0Gzt4WSX-Efqkah7g6vXCit58BDZbWsKL1tSHpDyYw-_e1i3-ClNGXR",
+      "view_skin":"https://lh3.googleusercontent.com/EOW-CCrUSzWYxhFAdpl77Zr1Ph-IjDiZ1u77aY9tjtZVweM4D2T1USfFHSww6DH7ASGcfAxRX-3aOg1JBxZn0E_hDrKHZu3RJa4"
+    },
+	{
+      "id":11,
+      "name_skin":"Skin Kissy Missy MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/xKBkvs3yCjBP9eL7rzPfb8Dhx2CpFgL41GJcdBAp1o2Q4xu57a3cXjQaHT0IdKvXnW9qxBYFOVsuwGhzynTVpT29ApIydOxrLgE",
+      "view_skin":"https://lh3.googleusercontent.com/lWVzymiaTMpKOVUv2LL9fltf2hBrO0h1Ctzf4CXqxhj3oyEDQZsEmH7yw21jsPMnbsFKDagGIHczyBVI6WsUKNM4986ZroTb-urd"
+    },
+	{
+      "id":12,
+      "name_skin":"Skin Kissy Missy MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/0AvEH8Kaus7y4q9crjpGidbf6G9X2dVlPpDnxzO57OEq6fK___EtGF44Psdz5Pe8QlJZF8FV17QKn-B_qj0a8cdN9rDbqKnXZGw",
+      "view_skin":"https://lh3.googleusercontent.com/wS6IJJFoeIb0YcOR53h5pZs0drsE61y3G3uZ11NdWtFEbN5aj6j-Ch4g589JO2gcFDrttUIqxw0JjO1fKvJtM09MaidWiiGbiA"
+    },
+	{
+      "id":13,
+      "name_skin":"Skin Kissy Missy MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/dADICVAiXmyISJcwRGJxG05mzZyT7QcO4fNa7f_omHvd_6KVtP6EEolPpWK7xjqAi317sPujb-1C73OUm2wx9a4p70gsYSspFOXQ",
+      "view_skin":"https://lh3.googleusercontent.com/6h0ETqhZcZcW3pwOd35aSl1SMQ9eiFBBMJM0ZutDB1K-iOYxkbiBVZdyUZ0VvzNxNZMfzooLEys_rOGxW4PfPZwQNlFN2fLGyw"
+    },
+	{
+      "id":14,
+      "name_skin":"Skin Kissy Missy MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/fa1KZOCIjgKOuFpqwGvfH5n_14b7PLEd_aVVJ0Kz1rRh1OCJqF2TplZ3MJiHOFR3W11ZN-CGxLSa_kkQVCsWI4Cq6niiREooGrq-",
+      "view_skin":"https://lh3.googleusercontent.com/dErX8N2B1JOIN9Hjmfzwvk5ftMGZOLlSjMn-Nr7W8CrwvisdZNM4WdgepJvDIUVUsLcxRGQRLxizPjJb8_LwNu6OsbJaDGkQFw"
+    },
+	{
+      "id":15,
+      "name_skin":"Skin Kissy Missy MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/VQF1G4PPgjPXT6l_31U7gf0Le6rM17Gi3aQxK6UMw24xQeowmUyUEzpP-4h0algYAvdcemSjOWDjcpgx6vrqGayyLvOXeVLAYw",
+      "view_skin":"https://lh3.googleusercontent.com/KjpyeP3xr58_XpMcFVHI8bqeBOJ0mtHksdLH5G7qT4DuaQpXTnuW1zqo6y4H74y3s9dHvGv3gJvDb7GhBZnk1wzcP2X7nRikgcw"
+    },
+	{
+      "id":16,
+      "name_skin":"Skin Kissy Missy MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/_ChYTQapSls0_6MkIUIj0d8KmZZgyJmlpgGEbjAki2U3ySY_1DL8IJGJvKVwZrfDTnqX3uhbbU-0c9f73anWWe7bTvfkJQax2hgT",
+      "view_skin":"https://lh3.googleusercontent.com/UzYCLIRP4xuXLNBE6eCbXlDb2GZVaK1v9rsj1LMlBOnsZkx_oE3TJNnWWl-xyb40xwOkCjqLxtejEqF-1bybnWfdyezCMIb-TQI"
+    },
+	{
+      "id":17,
+      "name_skin":"Skin Kissy Missy MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/-qhjgP7sp9Sc9lG4QRK2aIExNsZ9zRtsdQiwczDoTmVl1dqlI_ifrOW-7TZLkmysnpjn0klTrj4Dt78UjqqUlozm_LDd5uUZpA",
+      "view_skin":"https://lh3.googleusercontent.com/yYzKg-jroE0V9A4J_mYQAWSh4tXx2XAUvV0yA6CRZ5XwTPd3z8vziN4ecJcLx-05AzlhDFTsBZiZky6jXykqbVgJZXQChGdC9wQ"
+    },
+	{
+      "id":18,
+      "name_skin":"Skin Kissy Missy MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/EDZbGkCW6xroYCE9TQLR-UX9ufi0EMLqQ4pphepDrTBd13J-S7I2Z5oREbKk-eOChICot8LT6lGcgPaIEHLoHpE3KeiBgqAzfA",
+      "view_skin":"https://lh3.googleusercontent.com/pvEMHB18_U_tPwzf8yjOPQ6PsfqJpikwRxrofXXVMvfiHujKuVfGH98WPpKAxAOVqaQ3_EoiBnUZ1xl2Tes2LbMoq_-52xNiFg"
+    },
+	{
+      "id":19,
+      "name_skin":"Skin Kissy Missy MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/DomhceT1FHb8hH1XcBiKEPDJU957XlbcvqzlR3Vfd4ij3Qqpr2ejE3rYLq4Y9JSL8s46eF4208EdiYdN6pkLCIzwXUbTF8orlkmH",
+      "view_skin":"https://lh3.googleusercontent.com/QNW2yqKcazifWOd8gO71hGp3OJRNOPQIdIwpBFx9l6EfFzaQHK16W3cdGwhea5WxCmMdyrxuNhz2mM1GFIT8DTd7wyrhkQ_C4g"
+    },
+	{
+      "id":20,
+      "name_skin":"Skin Kissy Missy MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/pgvSDRK31-q8dsukLcfRMhJYO_ihJ8MRvVQMbBYRtlN-CdddDv1HmISvruRYosVc0a2GXtUFOSK2QGj_3oBClSdHDzQqoLCOq40",
+      "view_skin":"https://lh3.googleusercontent.com/XeKr6lyQZSOOQ_1SS0a4hIYyhykChkK1h7Rrdw8THptQFg4E6YnUHcen3xldcUfQbQo_9apfC6fepMUELuSyURuqP5dBMci1rh_X"
+    },
+	{
+      "id":21,
+      "name_skin":"Skin Kissy Missy MCPE",
+      "skin_url":"https://lh3.googleusercontent.com/ZhH9N8NlyY2CR4ykyM3_BJ8ExinFJgiNpjuSHEaBeb35dEsQ2-iMt8jhOc1jgpY0pBo1frHuWRGGMhS-u-P-",
+      "view_skin":"https://lh3.googleusercontent.com/UoJCp7YOJqcn6m1z5A0wDhFOcmla2hXP6JXUJYZEGjs3_JfnTYnI5pXhdvQ7vyph9G0zXsBVHUmeXb7nqe0h"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Addon Kissy Missy Craft",
+      "add_url":"https://archive.org/download/mapaddon/add.zip",
+      "addB_url":"https://archive.org/download/mapaddon/add%28b%29.mcpack",
+      "addR_url":"https://archive.org/download/mapaddon/add%28r%29.mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/kissy/add.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/kissy/instruction.html"
+    }
+  ],
+  "Maps":
+  [
+	{
+      "id":1,
+      "name_map":"Maps Kissy Missy Craft",
+      "map_url":"https://archive.org/download/mapaddon/map1.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/kissy/maps1.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/kissy/instructionmaps.html"
+    },
+	{
+      "id":2,
+      "name_map":"Maps Kissy Missy Craft",
+      "map_url":"https://archive.org/download/mapaddon/map2.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/kissy/maps2.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/kissy/instructionmaps.html"
+    },
+	{
+      "id":3,
+      "name_map":"Maps Kissy Missy Craft",
+      "map_url":"https://archive.org/download/mapaddon/map3.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/kissy/maps3.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/kissy/instructionmaps.html"
+    },
+	{
+      "id":4,
+      "name_map":"Maps Kissy Missy Craft",
+      "map_url":"https://archive.org/download/mapaddon/map4.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/kissy/maps4.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/kissy/instructionmaps.html"
+    }
+  ]
+}
