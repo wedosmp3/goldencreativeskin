@@ -1,0 +1,251 @@
+{
+  "Ads":
+  [
+    {
+     "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  
+  "More":
+  [
+    {
+      "id":1,
+      "title":"More App",
+      "image":"https://wedosmp3.github.io/goldencreativeskin/playstore.png",
+      "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
+    }
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Physics VRC",
+      "skin_url":"https://lh3.googleusercontent.com/NvslpkVuB29lxAlCA_wnhJGadI5iKwKG5FkkGyrtiYERe4dQPc4t6QvNLgHoophtvBlu0r6DHbspIT25yzjnRIkC0BnUk8zcoRE",
+      "view_skin":"https://lh3.googleusercontent.com/tHdCGjtNsYQDBDmoTva6JzXCIKOCFqS7dG2QFdLYCRZJ671bhup2-_AJw0Ht5N3JC_nPFucWEosiTeycdcrNxGbSXAgAdLMhN_w"
+    },
+	{
+      "id":2,
+      "name_skin":"GOC Physics",
+      "skin_url":"https://lh3.googleusercontent.com/TKYamINuVCoc1vQ_BKvelZFIq01Qq3tS07b1OhCeDw7mb1FQIV9HVMoto-gCKPQBKjAOVUiBe_8d9GyELpMtM2VLl_M6mxfp7A",
+      "view_skin":"https://lh3.googleusercontent.com/tabI-2RCbvOi2vtnCiHxCL8mxF0M4wfSrp8Jl2WQZ5K9V6hLhjKwU2pNqdIZ95IJVtqaQdgXePs_aq0pWwDnAo0gTbzXycCpGcc"
+    },
+	{
+      "id":3,
+      "name_skin":"Physics",
+      "skin_url":"https://lh3.googleusercontent.com/XsrCP4vG7-fui7fBsNiOzGlJU3Txa-s-Th1an-97OH0HMgxCh_NFgt83_sI7MXyWWP4cPwjf78QVwclia9LBcB8sr-OFNv5xAg8",
+      "view_skin":"https://lh3.googleusercontent.com/rxqWomwY1iH8iED6ycidEXDarDDGzYh7MrU_UeZIRr5zkRlAe6pr1QhvtYkcnuF6TxP16Hz7izC3WczN5jX1RQvMVoeRdBpI1UU"
+    },
+	{
+      "id":4,
+      "name_skin":"Squid Physics",
+      "skin_url":"https://lh3.googleusercontent.com/PSBCG5ZjskFWoZKJS6iohi9jp9P8TPpvsut1smvh8jN2OYWeBjRiWWgLUiJCZWvlkqysVhI8_D9-clTAsXx0RCmasrYwhsKdTIY",
+      "view_skin":"https://lh3.googleusercontent.com/bfiP9mNVmzH8-nI9B2eX6zpEsBGXphbxn2hu0cIPmycqWn_D50liZjz3Py19KnqWCdEggdlWFqfjAluQGiFGmrNr5-wqIwSLUrpQ"
+    },
+	{
+      "id":5,
+      "name_skin":"Physics A",
+      "skin_url":"https://lh3.googleusercontent.com/K_Y7UJMWs_732-cBFRNQ7l4QoBCo9LB615-xuZsML6O_sVNe157o4EQDtj0AZx6n9Y_7J9o57IHK7mkDoXaMKws",
+      "view_skin":"https://lh3.googleusercontent.com/cXmlrcIu5JY1HquC-sLugjK7gbbG_jOmzmi6i80T1Qvgjgg8y_axJvxJY9c3NL6Y9MF1pGMBupuAnxKq2luVhYw"
+    },
+	{
+      "id":6,
+      "name_skin":"Physics Bj",
+      "skin_url":"https://lh3.googleusercontent.com/IQEYAXZ5tXPrBJosiuoLhDCoppLUWbM7_cjxwWJJc8IlV4Jfg30XDBi0M9CM4d9Rl11FbSjhXhdWhezn8qoJcg",
+      "view_skin":"https://lh3.googleusercontent.com/wJkMX2Wxq-36TWrhiAWMf91ZUFGC2vC3oUSH7PCCR6eGtlHpn0VHpoLjRa_Kg06e_3WotZzJEiSdqNBQHCko"
+    },
+	{
+      "id":7,
+      "name_skin":"Physics B",
+      "skin_url":"https://lh3.googleusercontent.com/JVdttX6UVPVpgrufF1IT0RAwJ3dYTI49Y9FHIQvO5B2xMoJol0RMDBxoqdLToG_v6jwoFjJV_X7l1b8cRrzBtQ",
+      "view_skin":"https://lh3.googleusercontent.com/YAScndEOUvB2NR17HHOSYDDDc1_VH1XpJ62egQUSJBIZSPPHs-T15sy6YzJwgZ0vfx9tx5dwZnsQYbmZ2CP4NQ"
+    },
+	{
+      "id":8,
+      "name_skin":"Physics C",
+      "skin_url":"https://lh3.googleusercontent.com/xl3Bau_k-Q8u3Vgj8bwSAQJAVfCGF1PABzWrm8mFkKdsr9cMa7hzIQWnrIecxELsuqAt3bChp6U7VZueqw-F",
+      "view_skin":"https://lh3.googleusercontent.com/4ml55QoKv5HzC1sIT4ILq-BI8mupTeJAZLYyyQGE7t8asq0gD26z--0kA3G5iJhDhz9-ufEZgwI3ds7mmQfd"
+    },
+	{
+      "id":9,
+      "name_skin":"Doktor Beyond Physics",
+      "skin_url":"https://lh3.googleusercontent.com/aEDt1IoionXeX1HnWf-UyZ0VQc2sNtF-vg3o9moTeBd-16wejLGxiUZeemvuwOJOqrOHDuQ2g--NlIl2tMqq204",
+      "view_skin":"https://lh3.googleusercontent.com/MNv2YKCjqx_0bIDF9q4qaEKCsGsoajA7N1AMfLZV6L8KqwH74hhzbKwe-lIFOwKzg6beZsQ85mx9zwu-LDUkcUg"
+    },
+	{
+      "id":10,
+      "name_skin":"Ocean Physics",
+      "skin_url":"https://lh3.googleusercontent.com/6GKG1LHgCknAKUqMd38GgFNpMzExo8HqXAMQ_dvGGI6uK7b5OBoMc111AT6--a1-YLKbFQ_C7pyLN45xApFygw",
+      "view_skin":"https://lh3.googleusercontent.com/PIz4xYUGC9SoFxn_8BYyp8Gi8W6qjGKNnYm14GxddkYGYXermop6_rNyQl_QzTKqaR0wNKAushZz6UW50ZRw3w"
+    },
+	{
+      "id":11,
+      "name_skin":"Dr Physics",
+      "skin_url":"https://lh3.googleusercontent.com/mz2b8sd7_ea6CBBTP2Sz1lSOE6Fpx9nqHJfYKWxAvWDvPkpG3w_IBRLFfphUP8TP5pr13VWaxdpR_kRWLcms",
+      "view_skin":"https://lh3.googleusercontent.com/DvR3V4azG24XpFYGpD8EodzYoOBz6Zc0DcfZJxS5ly4EJMsXNxRBCHJuUAxx_iqxIGcwEzN64tE2-zKriGOl"
+    },
+	{
+      "id":12,
+      "name_skin":"Physics Breaker",
+      "skin_url":"https://lh3.googleusercontent.com/4xByLi55td1aMi0FhzCsXUvifJeEjV-xdaiWu_YgnfhX43klZEXRjC41zTdNEbOCWUxFgVYhLy8kRBvhb95F6w",
+      "view_skin":"https://lh3.googleusercontent.com/FnY-v7-qBNioSi7tqA96LkxmbO2aiPUz9775SoW5uDn2oaSoTNTw35PherHK_8px18cXsHSAqK6BImwOul3RQg"
+    },
+	{
+      "id":13,
+      "name_skin":"Physics Testing",
+      "skin_url":"https://lh3.googleusercontent.com/FalyOOaxza8C4UgrgXx6s69HD10RsrLfW1UH1xs0AJHDLmjixbjpMPrry4cb0I6efCSgm4ApvInoNo-31TAbPw",
+      "view_skin":"https://lh3.googleusercontent.com/z6nJPWkEmy1DM8mTVJBrHiKZ5SK22wdlEgc-nB99u2wfrr-11VXVXCniToRWadSYaRACnbaKGEqMqWgDZRFH"
+    },
+	{
+      "id":14,
+      "name_skin":"Physics Gun",
+      "skin_url":"https://lh3.googleusercontent.com/mY3nCYsVT692K2fysG_7cnf9dIaJoS3SmVGZ0chG2hBlVsiYj2A2GMjYf4mmpFnrS7y26AXDyo8_6psgcJet",
+      "view_skin":"https://lh3.googleusercontent.com/GUu_qgKfRLD9i7SCbIpQ_gUsrh1gOBLmBZV_m4n7gHTrVg4eLVSk0IjTLLF26A2lyp3r8uyaBMR8Y9KmY7S7E2g"
+    },
+	{
+      "id":15,
+      "name_skin":"Gaming Physics",
+      "skin_url":"https://lh5.ggpht.com/cLD-zvb4BDT4MM69oY7FRLFjyu-4xeWRa52DN13o8G-ZXl1Iu6e8M3v9O2njf1YZiZqsza5N-md6qGR-hJWRGYY",
+      "view_skin":"https://lh3.googleusercontent.com/w3KeCJwe_7pi1KEXXqcdJ8jJldSbksso6wtqtnJuMOMTvH9JNkeDYEVrxqw7O9w4grAIQ_TzX-cj6A-24k1v_1U"
+    },
+	{
+      "id":16,
+      "name_skin":"Physics Teacher",
+      "skin_url":"https://lh3.googleusercontent.com/o7U3c_QEs7aMUSGALsa8NckJe_QGkPdHj1hrYyDmaJPZ5hNizOp5cgc0Ye79WSEc2kQs-K7LWQl4zzIVnsv2NQ",
+      "view_skin":"https://lh3.googleusercontent.com/LWi1GFwtZwCditDEhXfQgCdnCJbB0FkvHdQiuI6p97palPryw-C5qkCUlfQ6UuFBUSwOTvgOVv_2bQA04SBDlg"
+    },
+	{
+      "id":17,
+      "name_skin":"Physics D",
+      "skin_url":"https://lh3.googleusercontent.com/EDMKZvEtMgHM_b5U7GOV39QLydO7rMYiqs_CkUi4d8lsMagAFn3OLoL-2w8MbMInrKPLLyGKhcaNaMDNng6v",
+      "view_skin":"https://lh3.googleusercontent.com/c6ccUZTyPWph3xoUV6PtgMhe4Lay2WWyzoiRyAuVefm_Dy-QFdyh9NZL5-x3Y6p6D2DBNf1Mv90kKAVPcjfsPm0"
+    },
+	{
+      "id":18,
+      "name_skin":"Physic Steve",
+      "skin_url":"https://lh3.googleusercontent.com/5YMJKNOhwtwh13vCd_GhcJ5ZxIgWZ_lxBvRan_4qobqQOnZ6veO_gJeLHfqBrixJTmnZehgcrUCeWayAyYMR4ykPXJohE31m4aY",
+      "view_skin":"https://lh3.googleusercontent.com/H86ZJy1bCKjtPD65MuLsEF8Pw5LWc5oTxqNjPZZrdSvvt-FtqlBjQwi0gK-VYiNN3CDULn_Zg_9t5WpwUQbBuRiqNhJBTHs03LI"
+    },
+	{
+      "id":19,
+      "name_skin":"Physic Espeon",
+      "skin_url":"https://lh3.googleusercontent.com/1KS6JiBnYHRrSE3mwbUpUXVffFqy16EFjKXzQKMXly6cGrtixrsScieEZ3CNFBeLU3oH18PFJMYVxL8PBUPS",
+      "view_skin":"https://lh3.googleusercontent.com/x2d4YjHw3eR_armX-Us5j94FkQelP51OwosRe-ClrpnEMztFm-_y4tnu_yD62fRJKuMLvoli_lC_dlmwhHi4"
+    },
+	{
+      "id":20,
+      "name_skin":"Physic Powers",
+      "skin_url":"https://lh3.googleusercontent.com/n_iWZDzc9zkQEibpO7VyXhPMDV9ssOYN3vxXY0NUi3GV0-89RxYPoMy1XNqUwj6s5ydEWNw1EFQKWBrTHnf0",
+      "view_skin":"https://lh3.googleusercontent.com/S1qIzy8a73OyiUy1CWYf8FqOtjKaPnYGlhRWFvtICdrJ9pr1FFmqDa4JBpr8L7IzyU1KejTYjh53Qc-AcHjN"
+    },
+	{
+      "id":21,
+      "name_skin":"Physic Katana",
+      "skin_url":"https://lh4.ggpht.com/4X9VUk2bdeTxQ188UhHlRSq946XnwhrW4OzSU7gC4K6aWgHAKeIyUPv-xDOeT6XZbFKqxhGdEMYqjTqsvixcqQ",
+      "view_skin":"https://lh3.googleusercontent.com/pjzensmy2I0QHiYCmbem8-MeiNzQVsmtcXSE4JxW2UrHmJVnC2f4PqaMnLFzqSOZDl1ePQlxZPbgAIUtLzjtHVM"
+    },
+	{
+      "id":22,
+      "name_skin":"Owl Physic",
+      "skin_url":"https://lh3.googleusercontent.com/nIcBiBAnLjvRsKn_2dgOd4Z9UTlJ40pDZfY-ZpjLs1ryWfT0ZOuEaKaY5gwtHTHuzfDX7AzfV3BFyL3XDgqq3kU",
+      "view_skin":"https://lh3.googleusercontent.com/Tv7VL5m1Dpj7f-yK9KMEz8I9gfMazTGorWuxixDu_oq22vSLNTpd8JG96dh5d7J_Se3hfgNpt8-8aaKF1W6TXw"
+    },
+	{
+      "id":23,
+      "name_skin":"Physic Duck",
+      "skin_url":"https://lh3.googleusercontent.com/JK7VmPzphabZDRJCkS4QJToqLcBLqoDKnnCr2xc9chqEeWk8-Cfud2wbYpnB9Jd3Ec8_jLTLTicnM-tiJb54gA",
+      "view_skin":"https://lh3.googleusercontent.com/Dbmmf4cX7uazT3Gc_12BSADIs203YbeXyWsntmlTMDZG09AGAjI2BRNwerBCAR1g44rO3zLtoX_nzA-ljj9M"
+    },
+	{
+      "id":24,
+      "name_skin":"Physic E",
+      "skin_url":"https://lh3.googleusercontent.com/BOWKf5-p7K9mFw78lMKUiS0jEigg7eP0eofrz0CsVmeifX_jkhXCLn549EOzRhiqYOMGKaqYem3Om21waXKX",
+      "view_skin":"https://lh3.googleusercontent.com/RvNd1OUVbkS6RjYht81yKzFAdxhfqyPaCumI9uZ2jAENKz9VdN17kiqCWwsE-yjBs6xXpVCYlPKas_tgWqabGA"
+    },
+	{
+      "id":25,
+      "name_skin":"Physic Arick",
+      "skin_url":"https://lh6.ggpht.com/jsADG39rM4gXavCODn7ci6HnSLtWTbpeKMnoz5B4h-51vvm8A4EdCHkboeN9-RE13WMcmjriF0R3FNWCVkhX1zI",
+      "view_skin":"https://lh3.googleusercontent.com/ANgixPFdooAiRiVC7szXNSHElfRguQ2opFMVo3GkKIYObiq8ghM1S_lkOzqD8H_tDsL63IKOnebaPeMI6RL7"
+    },
+	{
+      "id":26,
+      "name_skin":"Physic Gamer",
+      "skin_url":"https://lh6.ggpht.com/EYlsHMpe02kJXDLEnh14PQvLZ28RmaUFmZEaTBdx84PR5LkEz6-L28r8FTR9FLhZi8c_RNdzx_KvZLRLWWgcyQ",
+      "view_skin":"https://lh3.googleusercontent.com/H6ZXBsPb-BJ0dayMD1dawdAqtSMwpWlBBU2RfzikL2R_PEDA5XFRAtoCRxyopUX12nLZQY1wesZ71vV7AOq84ic"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Addon Realistic Physics",
+      "add_url":"https://wedosmp3.github.io/imagecreative/physics/ad1.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/physics/addon1(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/physics/addon1(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/physics/ad1.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/physics/instruction.html"
+    },
+	{
+      "id":2,
+      "name_add":"Addon Realistic Physics",
+      "add_url":"https://wedosmp3.github.io/imagecreative/physics/ad2.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/physics/addon2(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/physics/addon2(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/physics/ad2.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/physics/instruction.html"
+    },
+	{
+      "id":3,
+      "name_add":"Addon Realistic Physics",
+      "add_url":"https://wedosmp3.github.io/imagecreative/physics/ad3.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/physics/addon3(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/physics/addon3(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/physics/ad3.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/physics/instruction.html"
+    },
+	{
+      "id":4,
+      "name_add":"Addon Realistic Physics",
+      "add_url":"https://wedosmp3.github.io/imagecreative/physics/ad4.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/physics/addon4(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/physics/addon4(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/physics/ad4.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/physics/instruction.html"
+    },
+	{
+      "id":5,
+      "name_add":"Addon Realistic Physics",
+      "add_url":"https://wedosmp3.github.io/imagecreative/physics/ad5.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/physics/addon5(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/physics/addon5(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/physics/ad5.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/physics/instruction.html"
+    }
+  ],
+  "Maps":
+  [
+	{
+      "id":1,
+      "name_map":"Maps Realistic Physics",
+      "map_url":"https://wedosmp3.github.io/imagecreative/physics/map.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/physics/map.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/physics/instructionmaps.html"
+    }
+  ]
+}
