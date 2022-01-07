@@ -1,0 +1,343 @@
+{
+  "Ads":
+  [
+    {
+     "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  
+  "More":
+  [
+    {
+      "id":1,
+      "title":"More App",
+      "image":"https://wedosmp3.github.io/goldencreativeskin/playstore.png",
+      "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
+    }
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "name_skin":"Dimension The Horror",
+      "skin_url":"https://lh3.googleusercontent.com/N0eH666wFMahJv2THkQBsOakeSEbBqRlvhVeQYpjnHWaHJ8SKcHMZ2-0YFcN6nHveqzvw_sh46Zat_poLK5u",
+      "view_skin":"https://lh3.googleusercontent.com/zggqGAps1Krtf5layhYsO7ncnHDik8-_EHBuT7PMv4PTXbYtczlAhYHq1-t7soLhDL48e51JgBQ9Z7O7iYIMWQ"
+    },
+	{
+      "id":2,
+      "name_skin":"Dimension Wade",
+      "skin_url":"https://lh3.googleusercontent.com/NJxnIwMX9aXQ4Z_cphz2PLCZHBLeAhJvuQEdDJKWKQrf0fd82eITH7Vl4ZI5CagGcVLd6uL74Fgo8GIsqyJv966oWTnt_Uoa_L8",
+      "view_skin":"https://lh3.googleusercontent.com/OXT-13pLhymk3z6sCZ4KX8TeKRfk32493A27S3bCvBUxGiLQB_9gKLkWh4Jk_QBg-jLpacl1uzX4tFrnPVlNUujJJBXiIqn41Prj"
+    },
+	{
+      "id":3,
+      "name_skin":"Dimension Traveller",
+      "skin_url":"https://lh3.googleusercontent.com/LDpoe98bxphPw2sk2tysS3_IqteK8nQRqp3B_aUdTlvrlMTrEew4T27gIC4PCx8GkxmipNgMDrFd47pGxQdCM6NPKpweenXehz4",
+      "view_skin":"https://lh3.googleusercontent.com/xQupTwshN469tRRelVBWiwo4GVInCXTQiOzZ1fvENwm4DFTokfzwqCN3gveNTpkcytHWV3UyocQwVyNe84jhUt4KI_376DNINg"
+    },
+	{
+      "id":4,
+      "name_skin":"Dimension Warper",
+      "skin_url":"https://lh3.googleusercontent.com/nQcsAm50FNiHlToDmwq3qAvTA1IVzH0KYxM1TCTg514wGg9-KO-owDXh65COUFNDhGtMzDv0cOZ60hEqwI-AGvySh3ATAqBEc9k",
+      "view_skin":"https://lh3.googleusercontent.com/xyuvFLrdhB3gkGjXDEe_rTRWXSV9M96-Fgsz8eFTFkwESu1m0STuhuJKglRqzqDWc7cWDK7wP6L7nuSmL2cqq210Em7t9v2g4lI"
+    },
+	{
+      "id":5,
+      "name_skin":"Dimension Otra",
+      "skin_url":"https://lh3.googleusercontent.com/PuQRukaWmY72M1tGttjvxhcPrWPI5TLfTouKyxNVygekdwmUUoPxst3myQcHanYNLtM8dLCST1cWHxZIKzgfTC5U9QDiBurqALM",
+      "view_skin":"https://lh3.googleusercontent.com/gc8i0WnsLWLPeY2rVN52I4gxiUSehOsRQIWEVxiniuCbZMon-3L4EgeJjZ7V6cwm-33lGSaCS0kSkskJ5UmCa1HDlxYgETSeuLM"
+    },
+	{
+      "id":6,
+      "name_skin":"Dimension Mejora",
+      "skin_url":"https://lh3.googleusercontent.com/DaX0MgduDdJ52n5WrUf8Eecqqu2Q_8HvbHdaRYZNyz7K-buT1Y83Re4dSOyVg805Sk2u3xFdEI7eqGEnv-lg4d5z8535zVsnzpw",
+      "view_skin":"https://lh3.googleusercontent.com/7Wuor7O7zJwOQIiY7GSEMJs3oPrvIzmQC5Rbo6cBNrxMLr8l1F7ZYMjoAZftRT7E6RDjMMPZMN8ROiVgeVOtgsrhO3-QlWyQrqY"
+    },
+	{
+      "id":7,
+      "name_skin":"Dimension A",
+      "skin_url":"https://lh3.googleusercontent.com/v0OA_vo1ih76MHfCRp-cDO0dWLSw65oGjNzGkXJiAKCcOLdKxTz_urgJSYIZXEXNS6zWigf-imTt_H40QLiDCZSfqItQ95uP6mk",
+      "view_skin":"https://lh3.googleusercontent.com/Yq3Drrxf3yNM4AMj3FTaqg7BttRiQXapXaKm8dLtf6lhZrb5ZCUoYD3LICHjrACpoiz6AyGBeUXD_BTWgpO9UNJ8r1-xo19GwB0"
+    },
+	{
+      "id":8,
+      "name_skin":"Dimension Celestial Power",
+      "skin_url":"https://lh3.googleusercontent.com/u1ej5gNlphgK17PXLQD7CeG3hsMcWMZsEHRgoAYObf2OjXdGmN7rs8GIpAH5qt3R4CJMCKiBPKmqPgNiiko0X-qmlHfy7xraDw",
+      "view_skin":"https://lh3.googleusercontent.com/eOFlvSGPrRAg1yPtJoy6BK0zmkQFahVg1WlAQfdOr-yRtg5R7-a89aHlnnSdkxuyRmNpViFeukAtDGpcMrYetw5ZeswLlmhtqtQ9"
+    },
+	{
+      "id":9,
+      "name_skin":"Dimension Steve Rainbow",
+      "skin_url":"https://lh3.googleusercontent.com/PU9V24VzWPwk9PMj1oFpDsYLYEkmAzRezk0ygrMUKWFIK9-qP08frU1Svyy9onIqM2qp57dtDUhcIMzXIEENhPDzBLFJCIvfsQ",
+      "view_skin":"https://lh3.googleusercontent.com/MEDwAY8bjK5QoWayQ6T47Ji3p3ZuhkjkaVoM7nX0RgDGlxFME16Mh1Z-tIMq-lTKkSHQG1qxjWkzIooYurWgxPlb6aocw8ERjlbK"
+    },
+	{
+      "id":10,
+      "name_skin":"Dimension Time",
+      "skin_url":"https://lh3.googleusercontent.com/SvmVOk1kLLvBVQznXxyaj6kSOoF0UeqcsGir8IxBHYBQ4FRDUVWfw66CWOjCfCFxt053GSoTa4y8gg5_5B_Ohh-K7ZUe3LHNm54D",
+      "view_skin":"https://lh3.googleusercontent.com/20tpC1XXxB4PKHbKlvdntt60hV4IyE04HaQNskX7oiS5ucetvqGQOsCu2h05ZtuPQYvih1XQPWRUqdPvVRQwh8GpuY5jVTW00Q"
+    },
+	{
+      "id":11,
+      "name_skin":"Dimension Evil Copo",
+      "skin_url":"https://lh3.googleusercontent.com/4ZhtpjHR0YRbeaY_QdSHSEvnWbB5Sd5FMNxRMwFrXI3RU1SS5icYJhqeNy9kqKg_Xgiqk0nHEGPSuqy2DwinMJvhOjAAK2FaAA",
+      "view_skin":"https://lh3.googleusercontent.com/2J9qk35qGGZ9pirFmQpO3hvlQv-5Kaqhya7a-wNAZUUSFxYuFvopcBD3m7RnCqRssBjTAvo58aY2b9hWoBqZ0S50RMIYIqXlsBE"
+    },
+	{
+      "id":12,
+      "name_skin":"Dimension Nakroth",
+      "skin_url":"https://lh3.googleusercontent.com/Y5o0FTK9Mik0c9_ipi__MAcfscDGIEPzcLh6S7Ep954d6FspT8r7YsAqud-WqgxOLGD45jxms-5LmfZE6wmQbriWzubikpXYig",
+      "view_skin":"https://lh3.googleusercontent.com/S89vCiLygTZ7VlA32ts0l_DYf5cGeLbLQc69eTvVViZaGTslBc5KhIqQwsOV1yI9JDTPH4r_oDNUDk1keyU4kDjm-TVZKNBflQ"
+    },
+	{
+      "id":13,
+      "name_skin":"Dimension Neptune",
+      "skin_url":"https://lh3.googleusercontent.com/w-Bnei5u3EX_9BdDh-1wHcUNcu3hQ2EsjK1VYPkSzDJydLhZ7u9xSHigfS5mzn_2ZNuku-lk0RTHk7Zh8HjoHlPDWqhTd_C7oDo",
+      "view_skin":"https://lh3.googleusercontent.com/tBWjymZwD1w7ZEeD8Bi_VtRf-vOsLC06gHGYawYuxDyMxkpbq1_bjAU8KDJZHSpvq-4W6EhXoMFi86yoTG1co9uDqWyLeXVo6Q"
+    },
+	{
+      "id":14,
+      "name_skin":"Dimension",
+      "skin_url":"https://lh3.googleusercontent.com/IWsVazPIktXrufBLmROWQFH61HzmZEE5QF0yyYuhOPEImAjJizTLSCIcirAdnK_tr3-dyv0xt4dhEBhLQLqLHSGPV9JOYk3aCto",
+      "view_skin":"https://lh3.googleusercontent.com/VKaBqQ7lhk9O18A2EIVzFo9SCnFinXFrKH8NCyMzo7zbHQIAfJ_G4fotVnFzxj2UeqrAodNPXeXJd47iWrj3eYX-5kdmwuH4Ww"
+    },
+	{
+      "id":15,
+      "name_skin":"Dimension Danvid",
+      "skin_url":"https://lh3.googleusercontent.com/dexkUCqHM12CQflOyl6QatSYBbzhmDPvjQQRZ1SQ6aYR7gnFFA3gMnP5usrdwTVXPXcMklqyxnMLT_Fr_5K4ZhcjDnpWMVshPRE",
+      "view_skin":"https://lh3.googleusercontent.com/tDLwSBSCc1ZrWkqBXj5KRyKwUY0gUkQciuOwpogsP5vQC_Un1E5lXb6UeUY5emd0K4zcvEWrRMY4yFoR6QmcC4bgHicdqcYrjMEl"
+    },
+	{
+      "id":16,
+      "name_skin":"Dimension",
+      "skin_url":"https://lh3.googleusercontent.com/XcE9HqmucHTZx8VUzhxeHMBVgQwJ3WL-IyWZo5Vp6GmVYX7UxtavH-97VbYP_SZ0xpXkSCeoKIjgpEeZ1cYDLPAvyMAYcHAtj_c",
+      "view_skin":"https://lh3.googleusercontent.com/SWLdPiKnBs1hf71W6ccWLT1cPJtRRHs3BekpFMgH_uvVzalI9hnP3vht8B9GTKNaGsdvMSwum9lwj4ePuUmv7BFth3LmJuB-8lGN"
+    },
+	{
+      "id":17,
+      "name_skin":"Dimension Breaker Cyclops",
+      "skin_url":"https://lh3.googleusercontent.com/tk27qH7esWF33fbcUaIAocFaU2m-HDaEuvIKFKWfMa4Rhv4_8ExxreZJ84ClK7Tv9AZrDCKtMsuAe3G2DhA6y2yFJULaB1NCh0Y",
+      "view_skin":"https://lh3.googleusercontent.com/nnDqEhmBnA-jWx8miXclM-XfYAdhecygR3zjMS3j0r58cpNDuSGRaFLgsrnfYZ9kC1xboOkx3NjDXIyVye33uNjqaCRruhZ5w78"
+    },
+	{
+      "id":18,
+      "name_skin":"Dimension Other",
+      "skin_url":"https://lh3.googleusercontent.com/XaNwL5McYwDxklQnNx5KsAIwawOTLDbGu0tYHqzUmcqkMooRGqKsJdmcUDXiOnDl28boE-nRDwdaZugP_MDrRY0e3-hT087qops",
+      "view_skin":"https://lh3.googleusercontent.com/2EB4MsveHR6yvOUu2_NCeMI8T7TLSG72_DJKlp-89PR6wCH2shIp8df2eek2aVw7l8hwLZH_qmj_5FXBVOV2dz2TlZ92DyXrylk"
+    },
+	{
+      "id":19,
+      "name_skin":"Dimension Champi",
+      "skin_url":"https://lh3.googleusercontent.com/9upsbtr264FjBe7biCJpoGE4IIRUYZvgzZUUsJiRZ00b6MkjRQ8vBcvJfRwdNqnSR_VuzW-opHLAhpFqhXpXw23lfQ2-_DkMaiQ",
+      "view_skin":"https://lh3.googleusercontent.com/rAQXH3t_n5pAUK-3gQii7OWU19tpuOLrj9gglKFrsTgW3p_boDedndpa1fpLeG15bYNVgjqZkm8UbTEMIYjHvI-8nlgaEDNqnAc"
+    },
+	{
+      "id":20,
+      "name_skin":"Dimension Traveler",
+      "skin_url":"https://lh3.googleusercontent.com/yH5y0C9s0ELry0jp-KQt8MA91N0VNq5kJvsPWlUz0EP5oGCDCyyiafk3_DVU5_mdGevmwUvJH7lqcRQj6i1tc0usnsu9tC5EbOEq",
+      "view_skin":"https://lh3.googleusercontent.com/seMeD87G6yUIjYzYK4HzQaCzlSL0dqxkoBSlgLuvXLh8LqiWdc0Fxln_CBl3EA16BDZDXzNbB5bB1nWLszUQAcjmAFSdpq7e2igo"
+    },
+	{
+      "id":21,
+      "name_skin":"Dimension Coco",
+      "skin_url":"https://lh3.googleusercontent.com/Y8o5gYFJ8Fb9A7e_8_QWDBdCSR2oCdI-PvjZNrowTRjVq3Gov6PDiqjvQoTfYzeCWQyUlKDtgLO_dZChvl8Xhq1U3fi1zoZOEA",
+      "view_skin":"https://lh3.googleusercontent.com/CMFVUyqkUBxRoeW074Qy0uFswmxGhK3j3Riy4PVsij9EHtSqmPDfeXwraj6o0U3KIM8rVLsVx6cQy4bTkBDY_QYkYe3MtcjQ_pCW"
+    },
+	{
+      "id":22,
+      "name_skin":"Dimension Luigi",
+      "skin_url":"https://lh3.googleusercontent.com/vgMZxX9AWpYejud0hUdJRJhoqSO1lAua-0Lh1RFH2e_Ia68GAN4ULbz63VnzXaHMpVrNbJFh_h29jOAYKhL93vLJ9HRz9m8ZGcsa",
+      "view_skin":"https://lh3.googleusercontent.com/7ncbMnPO05slwfc4I_rZlw7Z4nUKm1RPyLdszzZK0Z-UbdQmNcI71jW8B2Nr54QZ6vdq2ELEPGUKhEJKM3sZ-uRJaWR4MMfu95O-"
+    },
+	{
+      "id":23,
+      "name_skin":"Dimension Brujita Bolo",
+      "skin_url":"https://lh3.googleusercontent.com/-VPzhuNWxajJsuuJZlYDAX3AInEn_zT7IgcuHqhEz3sLChVZvuvJglXWwfJKFTboUu1nfamc0Ofx0JoG2c-pi1TcaoUA9agcz5M",
+      "view_skin":"https://lh3.googleusercontent.com/3NK4dmV3BpHZ8IBiBJoYSwDEWf6W4Qb6FawJ1HH7gNB8UfXhOHGL9MHVxK_A32HsYIOXZGL_UkRWIJooj5YDgNA1YepFcCilbM0"
+    },
+	{
+      "id":24,
+      "name_skin":"Dimension Phase",
+      "skin_url":"https://lh3.googleusercontent.com/QZuhMhmZXAfTS5rYh7L66MgGv9UAYF691PN-EjJg4W7A96FIWLoPjh9q0eyyOFJMMBZYZmoAUnuEEjvxX1cCYypp5GNCfJlM-YM",
+      "view_skin":"https://lh3.googleusercontent.com/CEbl9t8ckwD35Hk_w-oGU--mZ7CQqPSihpweiDYEzpFm1tMkwgDEnTrLDa7NGo3bLTJUM87L5YD8_rikDXO5fhZJ4eSGw3Ujp0A"
+    },
+	{
+      "id":25,
+      "name_skin":"Dimension",
+      "skin_url":"https://lh3.googleusercontent.com/KJpu--urHTCl9cX6D1lywCxkRWG2BiTXxZ96Gv78_m4sYDH-H8UntAvc4ToK9sbXhjhqv7DzMDska2dI_XI84v0jqWSAZjq8kw",
+      "view_skin":"https://lh3.googleusercontent.com/cyrYSbC_EDDsc6Fd3PZ_wNvIFa5sqjj9Xm415RLNTjsguQ7GWQTwsPPmkGRbkJXnMwRQhupy_T75XZ_7ibOZjZFc3Y6LyEQgSg"
+    },
+	{
+      "id":26,
+      "name_skin":"Dimension SpideyBro",
+      "skin_url":"https://lh3.googleusercontent.com/R4EmoGEMw4ZPZD314U2_5X9ie1sLL-_qEl507nLbfrMql_hWwpybp9xeVXf1rCYoC-AVdb2DkGZOj2lxhamiCIJs7PmmSBs896M",
+      "view_skin":"https://lh3.googleusercontent.com/0Qvt-J5Q8zkWxi-JF8QrNaoHQVThp0x_51i9Cp8UQm4kDRhcXyU-qtKt_3GotNu9q7mina9VyRBiOUNH6_H_9uJSiavQbuZx1lk"
+    },
+	{
+      "id":27,
+      "name_skin":"Dimension Todor",
+      "skin_url":"https://lh3.googleusercontent.com/4z7kEi_16JJ0LJPILgFVrruc8r8uGbbyrU87VJtwypk8mjMrSeTY3BDGCyvxDcrc807l_dbu2zmRy9QyPlmTyP73_NcpnBv2MPw",
+      "view_skin":"https://lh3.googleusercontent.com/GEQ3h4FARlufoN1yBAiQtN8hqgoKPw6r5IWsc02aLuWToNm7OQym5JqmryaX0FpmoSWAQjNiAOCB8U9ypJ4KoP1kff_JwP0Rfn0"
+    },
+	{
+      "id":28,
+      "name_skin":"Dimension King Angel",
+      "skin_url":"https://lh3.googleusercontent.com/xk1QSNivt40P-KY8tL_nBvDPGv8gJUJVBCo2vKVPmFWODkPZIwUM0MGmhbs0oh8skAfzsXFYJQZEgozgUG6pSk_a_ypT8CJB1Bs",
+      "view_skin":"https://lh3.googleusercontent.com/P5-ASSBjtnfU_PTx2uUkSOzOsPngIEPaKts2FkY_58VvJIwBRFyhL-6rqq463UbZOn4PbBuIPrAwIPTlDT37Efc5m2gV-yHgscQ"
+    },
+	{
+      "id":29,
+      "name_skin":"Dimension Alternate",
+      "skin_url":"https://lh3.googleusercontent.com/yjJfet4XdlBCxDNr_SqHIwc3817Iq2cCDnCWDLZRoPI94iURiUTabAMGCo27-Uf4DJbsr1lLQoGlJZrSwzbyG3LjJLkQP0wRvdg",
+      "view_skin":"https://lh3.googleusercontent.com/WtFYKg5lHr4GvEtOyedWNQ4iKV-mBW3mbjCmGk7lpAxyF3c16b1wZ80zHw5-24y9TIdxZeNkCu-Pn497sKTevkUyKkF-x0xT7g"
+    },
+	{
+      "id":30,
+      "name_skin":"Dimension Saurus",
+      "skin_url":"https://lh3.googleusercontent.com/wgv1Z3hTkRvM-_3TJNhgkDXO5r4cmhigY-i3QCGuh8xWQfgTFmUu_yLqCYNnid7LnI5iJ-ex7DUYcptAqJltmk8NNf-KTGbNdZUy",
+      "view_skin":"https://lh3.googleusercontent.com/GMxjgkzwr5MX1HzWwkBzrWNY71Jmu_j9OmXR8n6pTEH7QXBArsxNbkrcYd3jUDBpe-qcNQYZbmM0ioMuJn9llfFmMyRgOCCZZsw"
+    },
+	{
+      "id":31,
+      "name_skin":"Dimension",
+      "skin_url":"https://lh3.googleusercontent.com/kN7poV0kGMW_QPJBPtP85g2O2tKAqExG_fQsLEujz2eEuDMBFl7M5rUqV818pRtE6bOgohWCZIEOoPaX5D2mfw",
+      "view_skin":"https://lh3.googleusercontent.com/jtSjBkmj5PDLjQAC_daXjivYb9r3A1fRGHoN7Eprm9pwRCD0ZXBO3Db9t-36a2RYOiA1cdcNWKwSvx6k6N8x4pJncMhwIAXA3bU"
+    },
+	{
+      "id":32,
+      "name_skin":"Dimension",
+      "skin_url":"https://lh3.googleusercontent.com/bnTWl_mD_FT6XIINFL29WL2dB2b91bxNEYLT63l_6yhpMSnUb5F-ECbaoyNJS3JXRnPqVgRhlgCJcOAFP2HZm6UD-Wz4Vv7MJbI",
+      "view_skin":"https://lh3.googleusercontent.com/tFkEvMBGn4m3zc69n8nBwuJmZU0hfBBT5mm-Vq9Q7DeiX3jst30Nd7Pp-w1yosbwxn1ny9qd95hPS43FK-vPpIqM0PJGRPFzLw"
+    },
+	{
+      "id":33,
+      "name_skin":"Dimension Sherif Other",
+      "skin_url":"https://lh3.googleusercontent.com/OnTObJ39tKxMFyrTFIKPf0Y8NoCyTbPeX5L4iYEiNc10zOkKh-3xV_fFf2zJxJEXV_wL9QEale6rXVCa1Bg-sT3b3D1Xryqy2NE",
+      "view_skin":"https://lh3.googleusercontent.com/03BFJVHF_FPTKoGSQ1DrQqz2YCFPDjXml2k1xq8LQPybAjz_skSelPF3WFt0xJo9jqLZbRzOnAjzO60AI3rTJvajLZ5F3jDNvw"
+    },
+	{
+      "id":34,
+      "name_skin":"Dimension Steve Twin Quest",
+      "skin_url":"https://lh3.googleusercontent.com/0tMDXrTq7hOcvhF3yQVUjgSChIO41Y5Ix2EANA52VEwSqy8mGew0AXnrQoEvm7ajUHtYgizeIDf2ncccgtdKEmXvfbGxQsGn0wZq",
+      "view_skin":"https://lh3.googleusercontent.com/iMy2dKvegP_B07s13iurqsX9Z9X7FqPmldhHWfjML7--Olxeuf8psb3UjGVdGbN3bKizC2gNcHkDclr1T-yfHxL1NHzbe7P49moV"
+    },
+	{
+      "id":35,
+      "name_skin":"Dimension Steve Twin",
+      "skin_url":"https://lh3.googleusercontent.com/9kgObn2Vg6wC-r_vJj-KYEgb6vb6-s0eaam8zm0VV3WSb4fWr5g-y3pC6UkNXC4DwO-DAne9XG7kriIj7pqwU7952bqoj2imwao",
+      "view_skin":"https://lh3.googleusercontent.com/10i9kfJtflPzzIqFfwT_hcVDaqCEfh68C1wgAbxIVIrCg-24mKtX81_bQKYHei1J_YFwugvl4KuH1Y2ndWuNqvFEiv6vQ7qw5A"
+    },
+	{
+      "id":36,
+      "name_skin":"Dimension Mad",
+      "skin_url":"https://lh3.googleusercontent.com/510g0qa5JJ5a3PWJouU2hx41Q9ucY_H0njUt5ZlePgNhiSNgLWZqtYrhioL6XbgW4eAGAB9pTHPepcgK10jRurxyJBgBbEtKqmA6",
+      "view_skin":"https://lh3.googleusercontent.com/oJTe7fZvw-I10n12NDE0iAj1rAToyJpF5z6OokJ281lMu-gx0MrrGCXNriphePc-twSDqzJrAwNOMoR191Hpi5clq3bYoEp2kqg"
+    },
+	{
+      "id":37,
+      "name_skin":"Dimension Boy God",
+      "skin_url":"https://lh3.googleusercontent.com/ZdhmAuoDV3t8vw1RTy3T0xGGkXA8-SwvUgCWBYY37l3lRi4tctVIxtbnODT9c_ZWuqAB5AmeexJ-0RR1SEo34JcInL_lzvUuWxiv",
+      "view_skin":"https://lh3.googleusercontent.com/dJP4_clg3RBXsdm-2QU0DkQi5lVphO-3UXglqEStrrP6efar3wT4AiBI_SMUN3d3mNdCTNmx4wsnH-AA6ZIMNelGLGDP1EPBaX6G"
+    },
+	{
+      "id":38,
+      "name_skin":"Dimension After Life",
+      "skin_url":"https://lh3.googleusercontent.com/mkUwb-RL2vUIfxo2lcm2YeIfY6mcTaqe2XChv-IHbFXFvOE37atDhLz83KKRSmrUBNQxLcyaGTabzRGIzSoirxPMMuQ4yGn-iyo",
+      "view_skin":"https://lh3.googleusercontent.com/RaPLdOOKlm5iuUdQuwMBQi_FRj4BSmC7JTrYGMytIQdFLQ7DqZ9-EuJxbEZqK2d73sLlzMChuTD1eWFDHOeyXiflbNl2xlMGwns"
+    },
+	{
+      "id":39,
+      "name_skin":"Dimension Investigation",
+      "skin_url":"https://lh3.googleusercontent.com/kOVzt1Bng1nV3Y-iLUXiXrtSnLGcIOKN7Rkg0TFcmIljxGaeIczwL8i9c4h87GAE4PemVwFQ4KcunJRvIM8tqYSt42tl8p4Tsw",
+      "view_skin":"https://lh3.googleusercontent.com/ttcmFc9ugpbP9B_Ptw2jDGC6ZVYRaZnwAkGpl89AmZhxyOa06fivkmGCQnlnYiR6SGkoKxpkRqgT1C4v9pdRI9cyeBbf52jNcmY"
+    },
+	{
+      "id":40,
+      "name_skin":"Dimension",
+      "skin_url":"https://lh3.googleusercontent.com/m3zxDOjIntytHMJi5jBDb1BeU78O-K8bOlKlCJCcq9NnXPjJc7KyT-tDePP4RDrgsIrnTmlO5ETniONAX_oPO9kDPzd9MmfiJg",
+      "view_skin":"https://lh3.googleusercontent.com/g54CU8938h8cy9FIJrUcx-v1NxZKy0FGB408l6-ibSDapxXNg7pR3Gh_LmjVX-r6RSvUC2f33vh-MsIodiGVH0pARx8sL5BjR88"
+    },
+	{
+      "id":41,
+      "name_skin":"Dimension Obsidienne",
+      "skin_url":"https://lh3.googleusercontent.com/cgiDEip9x3ZVO7KZTZAXEkq3m6zwqsKkwsyihfyreqrUB5Xl1Fib-tcqJO05_VxpVOosGyRdB68QOZDAD2TfngDz8PJSSkxwpw",
+      "view_skin":"https://lh3.googleusercontent.com/tATA-p3d7v3kTuiJ_DsxOIawgOo9Ym4nzMdR4wIwsY6rNSsZY6CqORucioVXmjtk6z8Wg1VK0h6kmb-0ah4n8DPfvHKWiuSi8pxG"
+    },
+	{
+      "id":42,
+      "name_skin":"Dimension Chrono",
+      "skin_url":"https://lh3.googleusercontent.com/ZOWjSoqZC2TomvqmnsdJZrwilkkLyPyxcyZO-K9o17-m2h4ZM2hNKO0tSKRSWX5y55eiKMRUUobkMsdmeutBzniVyLcZgiaYwPeI",
+      "view_skin":"https://lh3.googleusercontent.com/_jH6oDXa1XT5NR-lNyohtE33MvgAxTd06v2792ze0Z6E1OUrKcawmKfGl2GqtSf9SUoFcQA7CwvPQREyNJIj8nFMoCJMrjBoxA"
+    }
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Addon Dimension World",
+      "add_url":"https://wedosmp3.github.io/imagecreative/dimensionsworld/ad1.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/dimensionsworld/addon1(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/dimensionsworld/addon1(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/dimensionsworld/ad1.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/dimensionsworld/instruction.html"
+    },
+	{
+      "id":2,
+      "name_add":"Addon Dimension World",
+      "add_url":"https://wedosmp3.github.io/imagecreative/dimensionsworld/ad2.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/dimensionsworld/addon2(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/dimensionsworld/addon2(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/dimensionsworld/ad2.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/dimensionsworld/instruction.html"
+    },
+	{
+      "id":3,
+      "name_add":"Addon Dimension World",
+      "add_url":"https://wedosmp3.github.io/imagecreative/dimensionsworld/ad3.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/dimensionsworld/addon3(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/dimensionsworld/addon3(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/dimensionsworld/ad3.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/dimensionsworld/instruction.html"
+    }
+  ],
+  "Maps":
+  [
+	{
+      "id":1,
+      "name_map":"Maps Dimension World",
+      "map_url":"https://wedosmp3.github.io/imagecreative/dimensionsworld/map1.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/dimensionsworld/m.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/dimensionsworld/instructionmaps.html"
+    },
+	{
+      "id":2,
+      "name_map":"Maps Dimension World",
+      "map_url":"https://wedosmp3.github.io/imagecreative/dimensionsworld/map2.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/dimensionsworld/m2.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/dimensionsworld/instructionmaps.html"
+    },
+	{
+      "id":3,
+      "name_map":"Maps Dimension World",
+      "map_url":"https://wedosmp3.github.io/imagecreative/dimensionsworld/map3.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/dimensionsworld/m3.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/dimensionsworld/instructionmaps.html"
+    }
+  ]
+}
