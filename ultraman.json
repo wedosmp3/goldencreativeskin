@@ -1,0 +1,309 @@
+{
+  "Ads":
+  [
+    {
+     "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  
+  "More":
+  [
+    {
+      "id":1,
+      "title":"More App",
+      "image":"https://wedosmp3.github.io/goldencreativeskin/playstore.png",
+      "link":"https://play.google.com/store/apps/developer?id=Golden+Creative"
+    }
+  ],
+  "Skin":
+  [
+   {
+      "id":1,
+      "name_skin":"Ultraman Ginga",
+      "skin_url":"https://lh3.googleusercontent.com/nLsFlSy2mDnTBXBTdNpJl-qpUDRPMEzDY4CoZShnf68APy7PDpboT4_G4ZL_Gq8K2nviD15BOFzSbT-WMmA4",
+      "view_skin":"https://lh3.googleusercontent.com/-VIQ6CMjOh7dUcIHCqooHSM7C_-rJkQ5XLGa2e3z9BZS2S9c78WtAm8MKSn7lROvA5hCQ0qlSCd4qChoy4W7"
+    },
+	{
+      "id":2,
+      "name_skin":"Ultraman Zero 2",
+      "skin_url":"https://lh3.googleusercontent.com/rkA6XqOdMbnbb6coBBQ2Zfw780n_iX4WUrBF9Tg-VKhwjkB8wF-MuC8VSNwO6aeQY_wMtUyIbK7s12zlskfUPA",
+      "view_skin":"https://lh3.googleusercontent.com/MoAFRGZnZ4x4aclxih8AG3cKi8oRBIgNuIPG1vHLTy0AKUog4UrCH0_rU1wzTRxzYkuquM7ucIKDKGRWn4nu"
+    },
+	{
+      "id":3,
+      "name_skin":"Ultraman Geed",
+      "skin_url":"https://lh3.googleusercontent.com/CEh3U_73OS6-EGLEzhyRmC6tcHGppYwCjLcIU7VBNL4Rcv-Gf0qiBByQb3m1KPp897pxFdVyhf-FkGGy7vUd_0w",
+      "view_skin":"https://lh3.googleusercontent.com/bFimT2yYETIDecNAvovlqRQIWydMGfOYF2MaiewIkqr3dfuEWmWtbQGrHOD7X4yrieazOqI9omg0hqRkyqohxQ"
+    },
+	{
+      "id":4,
+      "name_skin":"Ultraman ORB",
+      "skin_url":"https://lh3.googleusercontent.com/pShYcQGt60KS3rppN18TkjhnPTS60h1_LinzR1ESytN8Ij9YTlGvEZIr2obhyrht0PsjfMqNvXuWq2Ids1IG",
+      "view_skin":"https://lh3.googleusercontent.com/l8Jc6ODiY3JKByEib4T-CLtWEfdmST__7SlqpJNiaIugli5rULOE7Tt4BJ8tBjKu-uQAP4xPE33OPi-nOcktAQ"
+    },
+	{
+      "id":5,
+      "name_skin":"Ultraman X",
+      "skin_url":"https://lh3.googleusercontent.com/bcClCl0A3poFzS2SFMJV9UGUZB3wrIncznmo3BjDrJi2IasycRmqy5bTpdjH2smm2DPRPHTneoPq3pz3EAlNHA",
+      "view_skin":"https://lh3.googleusercontent.com/Y6I30wVUmR1QeRfFXlJTmnzF1jfhBW5FJ88j6bcKiJbZmCl4SefYGw5x3vKTHU1Y4IXvjvsFBxbwXhJnPDJFS00"
+    },
+	{
+      "id":6,
+      "name_skin":"Ultraman Z",
+      "skin_url":"https://lh3.googleusercontent.com/mr1drVo3YQjmIsJ-It9XuktGHWGrD1AAepMb_mZL8MiCdQC7MdziGPFrJKua8TFFvefuKRbS5ckNoNZLLLOx9Bo",
+      "view_skin":"https://lh3.googleusercontent.com/4L7KlEpMFZAvFA2DlQ5BiBdfPCo28RoF7Zek8q4ZPuJqFhyc7pxTEC5xVRFXWpZ10tw1kTf9Zt33tWvc9YlJww"
+    },
+	{
+      "id":7,
+      "name_skin":"Ultraman Zero Beyond",
+      "skin_url":"https://lh3.googleusercontent.com/0EXPARTIRGjvaKi9vfi2VESmJ-r9CkNTPYcikClDC0sdxmAhE38RKqogcIwgUjskb1VTRCNnfrrAAfWCai3S",
+      "view_skin":"https://lh3.googleusercontent.com/lL9Pe7Pl00ah4k7ERm2lWNUw4gPS2RPqXJUfPHAKvtWNvwTz3EB4yY8XlmSwlqr1poa5IX1SrHDruLA0kRLoQg"
+    },
+	{
+      "id":8,
+      "name_skin":"Ultraman Ginga V2",
+      "skin_url":"https://lh3.googleusercontent.com/aXtXTdr3q8NtsCaAvOEKzqOImBrSZhE8OKEu-RpE4QN_CneltDeu0BEs5jSyPzIrzqUk51hrqdbvL08qei0uZg",
+      "view_skin":"https://lh3.googleusercontent.com/32Ds3cv8TeB6kvp-WUkeI_qTXe6bCtOA3CHeCnH-t_wF1NrXdvSPmfYHcRHvtff1TpsvKxL8cxHPWeg68K-8hg"
+    },
+	{
+      "id":9,
+      "name_skin":"Ultraman Geed Royal",
+      "skin_url":"https://lh3.googleusercontent.com/dHMyVmRSP06KYb6Ck3fAvWOf0sNzz_v3iPGqKIzjZpx22C8zOQ3MPm6HIs6a53VGmSgXyWnQ5gKU6fdtCzOBeFs",
+      "view_skin":"https://lh3.googleusercontent.com/pQD2cI5f_z-Y5wOBzJr8XnRHxkP7fUmhVIoVDxbunX1IPTNTz53DKabeum3BsaF5EBrwgOa7QejnL-cC_KEfkFI"
+    },
+	{
+      "id":10,
+      "name_skin":"Ultraman Victory",
+      "skin_url":"https://lh3.googleusercontent.com/ApHChxt9Mnl0MubrVRR28xRGdqhx7U2ppYRCFEVI6uqQJKwSh5hX8o_QkUDeNcQx3mCysjPwK7fIfTEV7wSmgA",
+      "view_skin":"https://lh3.googleusercontent.com/5_U9NB-JEdjTCPoHnE5airQoAz5izlNL4cIEIEBJ0_3tJ_B9foH8UAJUE2nJRJkZP2kmZB6myLRAiBjUOmgagw"
+    },
+	{
+      "id":11,
+      "name_skin":"Ultraman Mebius infinity",
+      "skin_url":"https://lh3.googleusercontent.com/Hy8h82bZJ_eOXv6TjzS5pxWxfvhK98jktSC1hoLPFo7c0JMz211ed6vfvosaquNNdXd2pQTAMuLZjrAJBM0vvg",
+      "view_skin":"https://lh3.googleusercontent.com/2XYJND_DhQqmrwMVBA_SJ4jvLMLypWqYNkSYr4-jwWD3o-_F0p34qwi9O4H9QQFFhrTRo_yrucT4rIF2Q2RtMg"
+    },
+	{
+      "id":12,
+      "name_skin":"Ultraman Belial",
+      "skin_url":"https://lh3.googleusercontent.com/tviFHjDoGPieR_KWIm8aM2Y82iIxIzSQ8399CF6nj51BFH348kIUDYb0N57q7m01oLXXPvQD-fS-qaOV9iK4Q_1u6r8A3IgIeYA",
+      "view_skin":"https://lh3.googleusercontent.com/vLDH4jJLkzjadda77haiUjHqp9fEd9nnSVE1kk_-nW_K4SBEGGP2gQz7Oo8dJHhsI6Zmj-Wad9e2FJVl5RzU-akTIOOhnxJrAnY"
+    },
+	{
+      "id":13,
+      "name_skin":"Ultraman ORB 2",
+      "skin_url":"https://lh3.googleusercontent.com/FlE2oDR0MOTLyklZUh7gOIihklrCEpveP-Bp9UPVQ6ffaz_gS8wiUKV66SBlzsOBcY6ywRkh4I282G8qEd5StII",
+      "view_skin":"https://lh3.googleusercontent.com/eoHduss57bNL1M_zFyHaqgoMpZq3irq7z0SvT1fURUqRMh5bq2s_ICCkJ5Znk_QZcPLxSpC8c5bv2Tw8ZnYo"
+    },
+	{
+      "id":14,
+      "name_skin":"Ultraman Rainbow Darknest",
+      "skin_url":"https://lh3.googleusercontent.com/fpq2zEynYjwOuA0T1fEIoBBLxYdtcfZzmxYA57dKdQ9nHCvPG1PVPGSoRxFup_6YD2csxqf8q0PpoZ76odh6JxmkCB-sVr4atg",
+      "view_skin":"https://lh3.googleusercontent.com/_2yyddKU-7ZYlz7SICRME1JEADUvu71z_Ygdfb-Tb5-_DxIgRqw7gGNiFWorF1U6qVt7IPqyOon8IAheIQKT3sU9jqr1gjtLFvqI"
+    },
+	{
+      "id":15,
+      "name_skin":"Ultraman Hurricane Slash",
+      "skin_url":"https://lh3.googleusercontent.com/LcNaoi5YAZf6NXbrNHSKPhIvmBD6StkTV485EVIW9gCEmb3W1pbCQVlscKG_Mi_lf1fHkpIKKlKttUWMfa8MLQ",
+      "view_skin":"https://lh3.googleusercontent.com/T-OO6-sfLeNShNLqFGEXv-zOor1Ek_HvYLfJyECHs7clvSWX-ydkzfR4VenAah2j3hbuTcJF368e4j1hErI1wA"
+    },
+	{
+      "id":16,
+      "name_skin":"Ultraman Victory Knight",
+      "skin_url":"https://lh3.googleusercontent.com/tDlMCVhljUTKCZRaxgAzXI8_mQL0auTWs9v-HVZwBgpVVdcqI6sh79T4_WfPYUMz4CK7edSggryOD1VsKT_2vA",
+      "view_skin":"https://lh3.googleusercontent.com/N9IvyhykODmbsXeLlyk2f7YXt3mtE7J4kHUp75kdS8FXj2pW1AjE6a3_kJuyC3-LI3d0Y46A2kZrkjMMwW4bww"
+    },
+	{
+      "id":17,
+      "name_skin":"Ultraman Trigger Multi",
+      "skin_url":"https://lh3.googleusercontent.com/fRJJ6ZNH9e8B_YF68txMkUgiQpZaSSsWhF-h8-IqcHzy15ChRGtisSyIa1AQufZtyFgAFoNmIyCC_uTVb0t2AEJuHGpUB5gk7JFV",
+      "view_skin":"https://lh3.googleusercontent.com/UVBFnJ1JrrNIh8TOeVwCptiamaJYXSTujof04nNjlFtHcBNhC9bOAvUJU1rulqZvb3eXMDOirJsmjnUZ6PMfMvkdHTE5TFzzBt6e"
+    },
+	{
+      "id":18,
+      "name_skin":"Ultraman Origin",
+      "skin_url":"https://lh3.googleusercontent.com/pXmmwG6PIgiWME8oQeJGAftqzNsijelrv0QJNcXCc4od_kI7xIaJ6wumF0UD8y1twe2N0l0On_d-cFZ_LT2eQfGARQ20ZToxiQ",
+      "view_skin":"https://lh3.googleusercontent.com/gMe2hA8s73QPomh0ir9rq7bjG76ZG10aPM0qmLLz1takm_hE_vpRFJmuz0fmhFBUoLUPe8_qLLp2QJY41HuMd7X2dGF9Yw1lz7M"
+    },
+	{
+      "id":19,
+      "name_skin":"Ultraman Geed 3",
+      "skin_url":"https://lh3.googleusercontent.com/Ww1VFCHx2xLIsnU4_FTnpVA99JtbAX_BPDaoHpMs5pL3GXzkXL4gNk3vKS_1v7drNfdcXXQPpr0bqhBXaWQ8",
+      "view_skin":"https://lh3.googleusercontent.com/6XyZiN1RTvy-uqaSD8waCsz7DhyiqaYeYw6CqkbkuRmqCXKqohKQ_SQ9WosfQgZNcFVf9G60aNDCzfPQ5W9Csw"
+    },
+	{
+      "id":20,
+      "name_skin":"Ultraman Tiga Negro",
+      "skin_url":"https://lh3.googleusercontent.com/Tk5yKWdBmMd06E4JIJKyebssWgr8mq737E-Imo5kKr0-EGMrBiOv8OsSIrKsVvYmUBqeoUcyJzY3KqCcyL6XQ7c41ZlHrDLLAw",
+      "view_skin":"https://lh3.googleusercontent.com/J0XUPp0de5nXLYkGVuBRSllkYCrZD1kIZRNWbVCfAVYYqhMX54i2ywj7kMkog7kCKDyLA5r-iTmCnRFrV92LM773bTh8AwKKOg"
+    },
+	{
+      "id":21,
+      "name_skin":"Ultraman Geed Blue",
+      "skin_url":"https://lh3.googleusercontent.com/LsFNt3iYFggGyVFC0MRyE0I8f3UlmOY9HCOXe1bCz5a7COzMMxGrfNoZJiu1mOYWrzlf5mhtXWJ8_LFK1ms4Isw",
+      "view_skin":"https://lh3.googleusercontent.com/8PVugtrhvfuYEbuX-O0xGGEQHR1KpWCpr7QT-ehAGhLCh5VBBFgbFXPFHRsnZ8oPSxyGyidVKbdh1hslOVYm"
+    },
+	{
+      "id":22,
+      "name_skin":"Ultraman 3",
+      "skin_url":"https://lh3.googleusercontent.com/nr9phWVaRO8pghBr7gO8I3fukS5MNCPAjKir9BA5Q3LJtyjFnKgmKHenZJUB8Vg8HWrdkDDsKQqK9PKb5HahICPWdOKPGaeADw",
+      "view_skin":"https://lh3.googleusercontent.com/x2-zx9C8SQ_o4snrkL-VOBUyCLIHefj96TdolLanMiInVAxsYzr4-hrllhV-bFwI3712aZo3bLMjnmIX_T_5a6gz6Wdx9XqhNSo"
+    },
+	{
+      "id":23,
+      "name_skin":"Ultraman Agul",
+      "skin_url":"https://lh3.googleusercontent.com/9bMO74azfK8w8A4hx_diHWoNHymVFLIXy8631NqzTVe5aFl_RdG46DauvP4VIc_A_1k5izIapgT-zfTf9lDy24k",
+      "view_skin":"https://lh3.googleusercontent.com/SfyydcZ7FAhoWk0fpZbg4gEe9o7k1hp-PM5loTOB1UT8AEDnZWHf_7Tb2cFf6pkwd1WXgn0klxRQrn5y03AAlQ"
+    },
+	{
+      "id":24,
+      "name_skin":"Ultraman X1",
+      "skin_url":"https://lh3.googleusercontent.com/lCrHgYyEMVB1R5Gsx4tr94fD-jwc9Kg_Yi12h-5JUMELJlrt0HlPQPadz0gtc1ZOpaBZ81unPKxDfFZNJ_pBNEg",
+      "view_skin":"https://lh3.googleusercontent.com/viNeM2bS39r1CH2hNkVoalcU8E-TXPpjtMgypI2taf8mqknciF8qWNoXNB5vWfRtAm8EG5XcXFVLEOTqn7u9Hw"
+    },
+	{
+      "id":25,
+      "name_skin":"Ultraman Zero 4",
+      "skin_url":"https://lh3.googleusercontent.com/jLEDEaYre9q0-vZfdsUi53ZKXGr0geeg_7g7I4wL-bltz1ik8qYGIr-mHyuF8KapNfyEOyCW97duI3V4FTSy7w",
+      "view_skin":"https://lh3.googleusercontent.com/E2hq0DrdUk0xK61WTuE3HBbnO1WLfBsINUxbsxPo3VabGzsPXXsy1tIbxLEDn0vBcn8luLyWv2xJwRoOUG8"
+    },
+	{
+      "id":26,
+      "name_skin":"Ultraman Atrocious",
+      "skin_url":"https://lh3.googleusercontent.com/Jz46JjbZqWGm8gXgUjb1Mkh6T4G_2xwMOOXPyDd3yP5n6PD8i5joPdc21mBdTz7eRz-mERWD0OLRgaMKLfjwJ4Z9eFkGsxGyLQ",
+      "view_skin":"https://lh3.googleusercontent.com/2Euhrp1v7RBlwRGJsNgWBmu4ShCFmTE0jXI93WZRubC6gY1Kult7tHtSPmFp4FiNQF6wDYggaBkoSmuukXNDAIuWOUFrz2O023Wu"
+    },
+	{
+      "id":27,
+      "name_skin":"Ultraman Rainbow",
+      "skin_url":"https://lh3.googleusercontent.com/6HULLYno_85pwIe_QxRmmUHLyrNOJ6VKa5kElen8e0gIc2HoihtQvAjLLtHxhFYhJl5AsPCIJ_isG_bRlGjECb9auhQxkO8Bznm2",
+      "view_skin":"https://lh3.googleusercontent.com/Px6xi1hrBoRfsUTstcXXVHGhroLQVGWUn308M6Rm0yLtiwyVIfb4S6bMwsoDxt2QFaFI-fCiECBp4CIsJi52g7f5utpW1FN6-A"
+    },
+	{
+      "id":28,
+      "name_skin":"Ultraman Agul 2",
+      "skin_url":"https://lh3.googleusercontent.com/q44X4oT1NLCrWgMoIl7_U5S1oCGTC5whl-k5ZxfvyztomhAitEznObsMeIbgM-pDlRjTnYFioBD6CzWyHy32kheYhyGgyVGU4Q",
+      "view_skin":"https://lh3.googleusercontent.com/-nJKo2RXeEEceD1O7Sa_nCCQHHKc0PTby_cSX3mDhkqHwypD1thggRjf0NCtd_za6PXT8hJP4lxEBN3mNGq_hqS5oxJ5Vg5YITg"
+    },
+	{
+      "id":29,
+      "name_skin":"Ultraman Seven",
+      "skin_url":"https://lh3.googleusercontent.com/-soe1FbpdVt4M367DRg3vSijCWf2a0Wr2qRbAycp8GXFMZxc0VagsAwlRhYsmjsAioFw77aa5vx4h-YnyKwSTF-_nsAEG8XU6iA",
+      "view_skin":"https://lh3.googleusercontent.com/ZjvEOzDDP9xmp3giWkeqZbrsIyWWZIg1WL7TkXqf91X8P64Ekv-ZgPApMeSa_-buNHcNfyTCNvCTvbWBwZ_hYOsFpZyqdNCq2bo"
+    },
+	{
+      "id":30,
+      "name_skin":"Ultraman Leo",
+      "skin_url":"https://lh3.googleusercontent.com/vuQ8jeBOSJTj3XhKgpgWBCJ9pPHCr6qB-RECsAHyUbtZJt86nKB4vqQNX4Glhb-qm5Dw4BEiVX3q4ANpnGXLbnwiJkmgp7CfJps",
+      "view_skin":"https://lh3.googleusercontent.com/fTHKaJdf3sY_-3Ha9PZ3tHGxHmbqvm2y2RkgCf2MsQEYW9xtACEDDk5k6OdcUW-m-B1fa422uNMEmv1h8vLsOTRyuot2q566EvZ-"
+    },
+	{
+      "id":31,
+      "name_skin":"Ultraman Taro",
+      "skin_url":"https://lh3.googleusercontent.com/hFBqPoatv41__faWcnQXYlzUYrbSI0-99CcNhPBTwBGEMSv2WDDAu3F7IZkU2AUCpoX_no4Ix_SQ2rzGgTiZr2sX9bXN52wA1Np9",
+      "view_skin":"https://lh3.googleusercontent.com/ue2KvvlqlTl4sexIBleop2MCeTbI_uVMYseLNpzX606FHSwqXWTPv-Ieu7yPW4tqonjTT48gsZgQBSjASzPIjRhmGag4pHE3qbA_"
+    },
+	{
+      "id":32,
+      "name_skin":"Ultraman Ace",
+      "skin_url":"https://lh3.googleusercontent.com/X4mucuSNfxgbtQM0M8kUqgB0fi-hLobEhIgaUhTsyA_aCFvMCC3VuLfFooaXgmiXg40G9xrgV8xL4M0g3gdLrzDLjyOmmPy06A",
+      "view_skin":"https://lh3.googleusercontent.com/jNRe1rNk45_xnHQfechQwNv0_5oTc0fNR8i3tUwscakKAjy_YjHP-nC0MPrGgvcV3iyFZU_VGpnOYkxO3-E4YdJ4touMx2BVrtlX"
+    },
+	{
+      "id":33,
+      "name_skin":"Ultraman Verde",
+      "skin_url":"https://lh3.googleusercontent.com/u7s_T72KUH61EHmWbo7_W8Bf1ikLJ-xxhIY9SkIK_-E3wwaRfOpKjERarvPz4RQAtkuKLdDxoAZSyy_V1JdtDA",
+      "view_skin":"https://lh3.googleusercontent.com/iVC6FyhXJzDjRsKSGKBR6GpjPdaMlQ7CD7XHL8pQ-0YAYNguL6m0xYFBFsPUWMm5U1DWrEynnujRzC22jhCOJA"
+    } 
+  ],
+  "Addons":
+  [
+    {
+      "id":1,
+      "name_add":"Addon Ultraman MCPE",
+      "add_url":"https://wedosmp3.github.io/imagecreative/ultraman/add1.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/ultraman/add1(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/ultraman/add1(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/ultraman/ad1.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/ultraman/instruction.html"
+    },
+	{
+      "id":2,
+      "name_add":"Addon Ultraman MCPE",
+      "add_url":"https://wedosmp3.github.io/imagecreative/ultraman/add2.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/ultraman/add2(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/ultraman/add2(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/ultraman/ad2.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/ultraman/instruction.html"
+    },
+	{
+      "id":3,
+      "name_add":"Addon Ultraman MCPE",
+      "add_url":"https://wedosmp3.github.io/imagecreative/ultraman/add3.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/ultraman/add3(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/ultraman/add3(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/ultraman/ad3.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/ultraman/instruction.html"
+    },
+	{
+      "id":4,
+      "name_add":"Addon Ultraman MCPE",
+      "add_url":"https://wedosmp3.github.io/imagecreative/ultraman/add4.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/ultraman/add4(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/ultraman/add4(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/ultraman/ad4.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/ultraman/instruction.html"
+    },
+	{
+      "id":5,
+      "name_add":"Addon Ultraman MCPE",
+      "add_url":"https://wedosmp3.github.io/imagecreative/ultraman/add5.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/ultraman/add5(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/ultraman/add5(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/ultraman/ad5.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/ultraman/instruction.html"
+    },
+	{
+      "id":6,
+      "name_add":"Addon Ultraman MCPE",
+      "add_url":"https://wedosmp3.github.io/imagecreative/ultraman/add6.zip",
+      "addB_url":"https://wedosmp3.github.io/imagecreative/ultraman/add6(B).mcpack",
+      "addR_url":"https://wedosmp3.github.io/imagecreative/ultraman/add6(R).mcpack",
+      "view_add":"https://wedosmp3.github.io/imagecreative/ultraman/ad6.png",
+      "des_add":"https://wedosmp3.github.io/imagecreative/ultraman/instruction.html"
+    }
+  ],
+  "Maps":
+  [
+	{
+      "id":1,
+      "name_map":"Maps Ultraman MCPE",
+      "map_url":"https://wedosmp3.github.io/imagecreative/ultraman/map1.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/ultraman/m1.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/ultraman/instructionmaps.html"
+    },
+	{
+      "id":2,
+      "name_map":"Maps Ultraman MCPE",
+      "map_url":"https://wedosmp3.github.io/imagecreative/ultraman/map2.zip",
+      "view_map":"https://wedosmp3.github.io/imagecreative/ultraman/m2.png",
+      "des_map":"https://wedosmp3.github.io/imagecreative/ultraman/instructionmaps.html"
+    }
+  ]
+}
